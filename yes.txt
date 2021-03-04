@@ -1,0 +1,10 @@
+coloration
+color
+colouration
+colour
+luminance
+pigment
+brightness
+reflectance
+iridescent
+iridescence
