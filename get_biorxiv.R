@@ -23,9 +23,13 @@ if (total_nb > 100) {
 preprints <- do.call(rbind.data.frame, today_preprints)
 
 yes_words <- readLines("yes.txt")
-no_words  <- readLines("yes.txt")
+no_words  <- readLines("no.txt")
 
 library(dplyr)
 relevant_preprints <- preprints %>%
-  filter(grepl(paste0("\\b", yes_words, "\\b", collapse = "|"), title, ignore.case = TRUE)) %>%
-  filter(!grepl(paste0("\\b", no_words, "\\b", collapse = "|"), title, ignore.case = TRUE))
+  filter(grepl(paste0("\\b", yes_words, "\\b", collapse = "|"), title, ignore.case = TRUE))
+
+if (length(no_words) > 0) {
+  relevant_preprints <- relevant_preprints %>%
+    filter(!grepl(paste0("\\b", no_words, "\\b", collapse = "|"), title, ignore.case = TRUE))
+}
