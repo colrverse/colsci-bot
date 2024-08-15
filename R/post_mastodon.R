@@ -1,7 +1,7 @@
 #' @export
 post_mastodon <- function(papers_df) {
 
-  for (i in 1:nrow(papers_df)) {
+  for (i in seq_len(nrow(papers_df))) {
     article_metadata <- papers_df[i, ]
     rtoot::post_toot(
       glue::glue(
