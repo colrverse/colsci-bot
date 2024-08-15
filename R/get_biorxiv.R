@@ -1,3 +1,4 @@
+#' @export
 get_biorxiv <- function() {
 
   today <- Sys.Date()

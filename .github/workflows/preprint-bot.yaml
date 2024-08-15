@@ -30,8 +30,8 @@ jobs:
         env:
           RTOOT_DEFAULT_TOKEN: ${{ secrets.COLSCI_PREPRINT_BOTSINSPACE }}
         run: |
-          df <- get_biorxiv()
-          post_mastodon(df)
+          df <- colscibot::get_biorxiv()
+          colscibot::post_mastodon(df)
           df$posted <- Sys.Date()
           log <- read.csv("log.csv")
           rbind(log, df) |> 

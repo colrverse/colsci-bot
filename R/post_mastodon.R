@@ -1,3 +1,4 @@
+#' @export
 post_mastodon <- function(papers_df) {
 
   for (i in 1:nrow(papers_df)) {
