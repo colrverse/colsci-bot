@@ -31,11 +31,13 @@ jobs:
           RTOOT_DEFAULT_TOKEN: ${{ secrets.COLSCI_PREPRINT_BOTSINSPACE }}
         run: |
           df <- colscibot::get_biorxiv()
-          colscibot::post_mastodon(df)
-          df$posted <- Sys.Date()
-          log <- read.csv("log.csv")
-          rbind(log, df) |> 
-            write.csv("log.csv", row.names = FALSE)
+          if (nrow(df) > 0) {
+            colscibot::post_mastodon(df)
+            df$posted <- Sys.Date()
+            log <- read.csv("log.csv")
+            rbind(log, df) |> 
+              write.csv("log.csv", row.names = FALSE)
+          }
         shell: Rscript {0}
     
       - name: Commit log
