@@ -21,12 +21,13 @@ if (total_nb > 100) {
 }
 
 preprints <- do.call(rbind.data.frame, today_preprints)
+preprints_v1 <- preprints[preprints$version == 1, ]
 
 yes_words <- readLines("yes.txt")
 no_words  <- readLines("no.txt")
 
 library(dplyr)
-relevant_preprints <- preprints %>%
+relevant_preprints <- preprints_v1 %>%
   filter(grepl(paste0("\\b", yes_words, "\\b", collapse = "|"), title, ignore.case = TRUE))
 
 if (length(no_words) > 0) {
