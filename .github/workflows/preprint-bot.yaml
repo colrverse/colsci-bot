@@ -28,7 +28,7 @@ jobs:
 
       - name: Get preprints, post on mastodon, and write in log
         env:
-          RTOOT_DEFAULT_TOKEN: ${{ secrets.RTOOT_DEFAULT_TOKEN }}
+          RTOOT_DEFAULT_TOKEN: ${{ secrets.COLSCI_PREPRINT_BOTSINSPACE }}
         run: |
           df <- get_biorxiv()
           post_mastodon(df)
