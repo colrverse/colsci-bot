@@ -17,5 +17,5 @@ Imports:
     dplyr,
     glue,
     here,
-    httr,
+    httr2,
     rtoot
