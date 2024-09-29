@@ -1,1 +1,3 @@
 palette
+dual-color
+three-color
