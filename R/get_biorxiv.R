@@ -40,7 +40,7 @@ get_biorxiv <- function() {
 
   if (length(no_words) > 0) {
     relevant_preprints <- relevant_preprints |> 
-      dplyr::filter(!grepl(paste0("\\b", no_words, "\\b", collapse = "|"), title, ignore.case = TRUE))
+      dplyr::mutate(rejected = grepl(paste0("\\b", no_words, "\\b", collapse = "|"), title, ignore.case = TRUE))
   }
 
   return(relevant_preprints)
