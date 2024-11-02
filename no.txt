@@ -1,4 +1,5 @@
 palette
 dual-color
 three-color
+3-color
 live-cell
