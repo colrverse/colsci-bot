@@ -1,0 +1,1 @@
+Sitemap: https://colrverse.github.io/colsci_bot/sitemap.xml
