@@ -5,7 +5,7 @@
 This repository contains the source code, and the orchestration behind the 
 follow Mastodon bot:
 
-- https://mastodon.social/@colscipreprints@feedsin.space (replaces the retired @colscipreprints twitter bot)
+- https://feedsin.space/feed/colscipreprints (replaces the retired @colscipreprints twitter bot)
 
 ## How it works
 
