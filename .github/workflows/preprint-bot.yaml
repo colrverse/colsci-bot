@@ -22,28 +22,31 @@ jobs:
         with:
           use-public-rspm: true
 
-      - uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          extra-packages: local::.
+      - uses: r-lib/actions/setup-renv@v2
 
-      - name: Get preprints, post on mastodon, and write in log
-        env:
-          RTOOT_DEFAULT_TOKEN: ${{ secrets.COLSCI_PREPRINT_BOTSINSPACE }}
+      - name: Get preprints & add to quarto listing
         run: |
-          df <- colscibot::get_biorxiv()
-          if (nrow(df) > 0) {
-            colscibot::post_mastodon(df[!df$rejected, ])
-            df$posted <- Sys.Date()
-            log <- read.csv("log.csv")
-            rbind(log, df) |> 
-              write.csv("log.csv", row.names = FALSE)
-          }
+          source("scripts/get_biorxiv.R")
+          source("scripts/to_quarto_listing.R")
+          get_biorxiv() |>
+            to_quarto_listing()
         shell: Rscript {0}
-    
-      - name: Commit log
+
+      - name: Commit new preprintd
         run: |
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
-          git add log.csv || echo ""
+          git add preprints.yaml || echo ""
           git commit -m 'Post new preprint' || echo "No changes to commit"
           git push origin main || echo "No changes to commit"
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: pre-release
+
+      - name: Render & Publish to GitHub Pages
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
