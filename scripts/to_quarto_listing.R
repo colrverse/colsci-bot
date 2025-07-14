@@ -14,7 +14,8 @@ to_quarto_listing <- function(papers_df) {
       path = glue::glue("https://doi.org/{doi}"),
       description = abstract,
       license = sub("_", " ", license),
-      license = toupper(gsub("_", "-", license))
+      license = toupper(gsub("_", "-", license)),
+      date = format(as.Date(date, origin = "1970-01-01"))
     ) |>
     dplyr::bind_rows(old_papers_df) |>
     as.list() |>
