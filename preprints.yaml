@@ -1,8 +1,8 @@
-- categories:
+- title: Dialogues in colour and behaviour - Integration of complex signalling traits
+    and physiology
+  categories:
   - animal behavior and cognition
   - new results
-  title: Dialogues in colour and behaviour - Integration of complex signalling traits
-    and physiology
   license: CC BY-NC-ND
   author:
   - Patro, S.
@@ -34,11 +34,11 @@
     well as provide multiple messages to receivers, thus improving the robustness
     of information transfer, particularly during competitions which have high fitness
     consequences.
-- categories:
+- title: Facial and body colouration are linked to social rank in the African cichlid,
+    Astatotilapia burtoni
+  categories:
   - animal behavior and cognition
   - new results
-  title: Facial and body colouration are linked to social rank in the African cichlid,
-    Astatotilapia burtoni
   license: CC BY-NC-ND
   author:
   - Peros, M.
@@ -63,11 +63,11 @@
     Rift Lakes, we surmise our data may be translatable to other cichlid lineages
     and underline the importance of trait covariance in sexual selection and male
     competition.
-- categories:
+- title: 'Damsels in a hidden colour: development of ultraviolet sensitivity and colour
+    patterns in damselfishes (Pomacentridae)'
+  categories:
   - ecology
   - new results
-  title: 'Damsels in a hidden colour: development of ultraviolet sensitivity and colour
-    patterns in damselfishes (Pomacentridae)'
   license: CC NO
   author:
   - Tettamanti, V.
@@ -96,11 +96,11 @@
     dramatic shifts in both UV sensitivity and UV colouration across the development
     stages of damselfish, while highlighting the importance of considering ontogeny
     when studying the coevolution of visual systems and colour signals.
-- categories:
+- title: Functional characterisation of neuropeptides that act as ligands for both
+    calcitonin-type and pigment-dispersing factor-type receptors in a deuterostome
+  categories:
   - neuroscience
   - new results
-  title: Functional characterisation of neuropeptides that act as ligands for both
-    calcitonin-type and pigment-dispersing factor-type receptors in a deuterostome
   license: CC NO
   author:
   - Cong, X.
@@ -133,10 +133,10 @@
     as a foodstuff, discovery of the potential role for CT-type peptides as regulators
     of feeding and growth in this species may provide a basis for practical applications
     in aquaculture.
-- categories:
+- title: Interaction between facial expression and color in modulating EPR P3
+  categories:
   - neuroscience
   - new results
-  title: Interaction between facial expression and color in modulating EPR P3
   license: CC BY-NC-ND
   author:
   - Hasegawa, Y.
@@ -166,11 +166,11 @@
     emotion and color rather than simple facial expression or facial color effects
     individually. Our results support the idea that red color increases the human
     response to anger from an EEG perspective.
-- categories:
+- title: Circadian modulation of mosquito host-seeking persistence by Pigment-Dispersing
+    Factor impacts daily biting patterns
+  categories:
   - neuroscience
   - new results
-  title: Circadian modulation of mosquito host-seeking persistence by Pigment-Dispersing
-    Factor impacts daily biting patterns
   license: CC BY-NC
   author:
   - Dong, L.
@@ -190,11 +190,11 @@
     and loss of PDF alters this pattern. These findings indicate that PDF regulates
     temporal features of host-seeking behavior that promote biting success at specific
     times of day and may underlie blood feeding patterns observed in the field.
-- categories:
+- title: Density-Dependent Colour Scanning Electron Microscopy (DDC-SEM). Applications
+    in the study of calcified tissues and visual impact.
+  categories:
   - scientific communication and education
   - confirmatory results
-  title: Density-Dependent Colour Scanning Electron Microscopy (DDC-SEM). Applications
-    in the study of calcified tissues and visual impact.
   license: CC NO
   author:
   - Tsolaki, E.
@@ -214,11 +214,11 @@
     use DDC-SEM to aid the visualization and intuitive understanding of pathological
     calcification. This method has become popular not only for its scientific improvement
     of conventional SEM greyscale images, but also for its aesthetical merits.
-- categories:
+- title: 'More than fruity scents: floral biology, scent and spectral reflectance
+    of twelve Annonaceae species'
+  categories:
   - ecology
   - new results
-  title: 'More than fruity scents: floral biology, scent and spectral reflectance
-    of twelve Annonaceae species'
   license: CC NO
   author:
   - Liu, M.-F.
@@ -253,11 +253,11 @@
     petal outgrowth was observed in Meiogyne and Pseuduvaria; this functions as a
     food body reward in Meiogyne, but as a nectary gland for Pseuduvaria. This study
     provides insights into how Annonaceae flowers attract different guilds of pollinators.
-- categories:
+- title: Pollinator visitation pattern and differential reproductive compatibilities
+    maintain bract colour polymorphism in a nocturnal ginger from Western Ghats, India
+  categories:
   - ecology
   - new results
-  title: Pollinator visitation pattern and differential reproductive compatibilities
-    maintain bract colour polymorphism in a nocturnal ginger from Western Ghats, India
   license: CC BY-NC-ND
   author:
   - Shrotri, S.
@@ -282,11 +282,11 @@
     to the common morphs despite lower pollinator visits. Thus, colour polymorphism
     in nocturnal C. caulina is explained by floral traits associated with bract colour,
     which are under pollinator-mediated selection.
-- categories:
+- title: Ocean carbon export can be predicted from ocean color-based phytoplankton
+    communities
+  categories:
   - ecology
   - new results
-  title: Ocean carbon export can be predicted from ocean color-based phytoplankton
-    communities
   license: CC BY-NC-ND
   author:
   - Kramer, S. J.
@@ -320,10 +320,10 @@
     to quantify these taxonomic groups in the surface ocean, the relationship of these
     taxa to carbon fluxes demonstrated here may help generate more accurate global
     estimates of export.'
-- categories:
+- title: The role of pigments in light color variation of the firefly Photinus pyralis
+  categories:
   - evolutionary biology
   - new results
-  title: The role of pigments in light color variation of the firefly Photinus pyralis
   license: CC NO
   author:
   - Popecki, M. S.
@@ -344,11 +344,11 @@
     of P. pyralis individuals with yellower and greener signals. Our study provides
     alternative mechanisms that could influence pigments in P. pyralis light organs
     that could also play a role in modifying signal color.
-- categories:
+- title: A massive community-science flower color dataset reveals convergent evolution
+    of delayed flowering phenology in North American red-flowering plants
+  categories:
   - evolutionary biology
   - new results
-  title: A massive community-science flower color dataset reveals convergent evolution
-    of delayed flowering phenology in North American red-flowering plants
   license: CC BY-NC
   author:
   - McKenzie, P. F.
@@ -380,10 +380,10 @@
     syndrome can include flowering phenology. Our methods demonstrate an effective
     pipeline for leveraging the enormous amount of community science data by extracting
     valuable information about patterns of trait variation.
-- categories:
+- title: 'Novel color vision assessment tool: AIM Color Detection and Discrimination'
+  categories:
   - neuroscience
   - new results
-  title: 'Novel color vision assessment tool: AIM Color Detection and Discrimination'
   license: CC BY-NC-ND
   author:
   - He, J.
@@ -409,10 +409,10 @@
     very rapid. We conclude that AIM is a computer-based, self-administered, response-adaptive
     and rapid tool with high test-retest repeatability that has the potential to be
     suitable for both clinical and research applications.
-- categories:
+- title: Growth-coupled microbial biosynthesis of the animal pigment xanthommatin
+  categories:
   - synthetic biology
   - new results
-  title: Growth-coupled microbial biosynthesis of the animal pigment xanthommatin
   license: CC NO
   author:
   - Bushin, L. B.
@@ -445,11 +445,11 @@
     via growth rate selection, establishing GrowBio as a promising biotechnological
     approach for establishing and optimizing the microbial production of value-added
     molecules.
-- categories:
+- title: Manipulation of the brown glume and internode 1 gene leads to alterations
+    in lignified tissue coloration, lignification, and pathogen resistance in wheat
+  categories:
   - plant biology
   - new results
-  title: Manipulation of the brown glume and internode 1 gene leads to alterations
-    in lignified tissue coloration, lignification, and pathogen resistance in wheat
   license: CC BY-NC-ND
   author:
   - Hua, L.
@@ -491,11 +491,11 @@
     pathway. The identification and functional characterization of BGI1 significantly
     advance our understanding of CAD proteins in lignin biosynthesis and plant defense
     against pathogen infection in wheat.
-- categories:
+- title: 'Enhancing pigment production by a chromogenic bacterium (Exiguobacterium
+    aurantiacum) using tomato waste extract: A Statistical approach'
+  categories:
   - microbiology
   - confirmatory results
-  title: 'Enhancing pigment production by a chromogenic bacterium (Exiguobacterium
-    aurantiacum) using tomato waste extract: A Statistical approach'
   license: CC BY
   author:
   - Zeleke, B.
@@ -528,11 +528,11 @@
     the potential for optimization of pigment production by bacteria using agro-waste
     extract as substrate. Hence, the current findings strongly encourage for further
     study at a large-scale level for industrial production.
-- categories:
+- title: 'Facial Coloration as a Social Signal in a Neotropical Cichlid: Testing the
+    Facial Expression Hypothesis'
+  categories:
   - animal behavior and cognition
   - new results
-  title: 'Facial Coloration as a Social Signal in a Neotropical Cichlid: Testing the
-    Facial Expression Hypothesis'
   license: CC BY-NC-ND
   author:
   - Satoh, S.
@@ -564,11 +564,11 @@
     independently of mammalian facial expressions. Our study highlights teleost fishes
     as valuable animal models for exploring the universality of facial expressions
     and their underlying cognitive mechanisms in vertebrates.
-- categories:
+- title: Morph-specific selection pressures drive phenotypic divergence in a color
+    polymorphic bird
+  categories:
   - evolutionary biology
   - new results
-  title: Morph-specific selection pressures drive phenotypic divergence in a color
-    polymorphic bird
   license: CC BY-NC-ND
   author:
   - Passarotto, A.
@@ -594,11 +594,11 @@
     of substantial and dynamic phenotypic variation within genetically discrete color
     morphs, and demonstrates its relevance for the evolutionary potential of populations
     to respond to environmental change.'
-- categories:
+- title: Disentangling the effect of heritability and plasticity on Populus fremontii
+    leaf reflectance across a temperature gradient
+  categories:
   - ecology
   - new results
-  title: Disentangling the effect of heritability and plasticity on Populus fremontii
-    leaf reflectance across a temperature gradient
   license: CC BY-NC-ND
   author:
   - Seeley, M. M.
@@ -631,11 +631,11 @@
     plasticity linked to heat stress can decrease spectral heritability but may offer
     opportunities to understand phenological responses to extreme temperatures at
     large scales.
-- categories:
+- title: Iridescent structural coloration in a crested Cretaceous enantiornithine
+    bird from Jehol Biota
+  categories:
   - evolutionary biology
   - new results
-  title: Iridescent structural coloration in a crested Cretaceous enantiornithine
-    bird from Jehol Biota
   license: CC BY
   author:
   - LI, Z.
@@ -660,11 +660,11 @@
     both a signaling function of the iridescent crest, and a potential behavioral
     role in adjusting the angle of light incidence to control the display of this
     iridescent structural coloration.
-- categories:
+- title: Development of glowing plastic bricks from waste plastic and florescent pyoverdine
+    pigment of Pseudomonas aeruginosa
+  categories:
   - microbiology
   - new results
-  title: Development of glowing plastic bricks from waste plastic and florescent pyoverdine
-    pigment of Pseudomonas aeruginosa
   license: CC NO
   author:
   - Pandey, K.
@@ -684,11 +684,11 @@
     fluorescent property of the pyoverdine pigment produced by Pseudomonas aeruginosa.
     This luminescence aims to mitigate nocturnal visibility issues, which contribute
     to accidents involving both human and speechless fauna.
-- categories:
+- title: 'From aerial drone to QTL: Leveraging next-generation phenotyping to reveal
+    the genetics of color and height in field-grown Lactuca sativa'
+  categories:
   - plant biology
   - new results
-  title: 'From aerial drone to QTL: Leveraging next-generation phenotyping to reveal
-    the genetics of color and height in field-grown Lactuca sativa'
   license: CC BY-NC
   author:
   - Dijkhuizen, R. F.
@@ -717,10 +717,10 @@
     Using this approach, we confirm several previously described QTLs, now in populations
     grown under field conditions and identify several new QTLs for plant-height and
     color.
-- categories:
+- title: Long-term balancing selection maintains cryptic color polymorphism in frogs
+  categories:
   - evolutionary biology
   - new results
-  title: Long-term balancing selection maintains cryptic color polymorphism in frogs
   license: CC NO
   author:
   - Goutte, S.
@@ -743,11 +743,11 @@
     scale. This study highlights the importance of cryptic color polymorphism in the
     ecology and evolution of anurans, and provides a framework for future research
     on the genetic architecture and selective forces underlying cryptic traits.
-- categories:
+- title: A deletion at the X-linked ARHGAP36 gene locus is associated with the orange
+    coloration of tortoiseshell and calico cats
+  categories:
   - genetics
   - new results
-  title: A deletion at the X-linked ARHGAP36 gene locus is associated with the orange
-    coloration of tortoiseshell and calico cats
   license: CC BY-NC-ND
   author:
   - Toh, H.
@@ -780,11 +780,11 @@
     random XCI in female domestic cats. The 5.1-kb deletion seems widespread in domestic
     cats with orange coat coloration, suggesting a single origin of this coat color
     phenotype.
-- categories:
+- title: Molecular and genetic characterization of sex-linked orange coat color in
+    the domestic cat
+  categories:
   - genetics
   - new results
-  title: Molecular and genetic characterization of sex-linked orange coat color in
-    the domestic cat
   license: CC NO
   author:
   - Kaelin, C. B.
@@ -814,11 +814,11 @@
     a comparative genomic conundrum, provide in vivo evidence for the ability of Arhgap36
     to inhibit PKA, and reveal a molecular explanation for a charismatic color pattern
     with a rich genetic history.
-- categories:
+- title: Characterization of widely conserved novel pigment production in Bacillus
+    subtilis species
+  categories:
   - microbiology
   - new results
-  title: Characterization of widely conserved novel pigment production in Bacillus
-    subtilis species
   license: CC BY-NC-ND
   author:
   - Stannius, R. O.
@@ -854,11 +854,11 @@
     This study describes the chemical and biological features of a new class of SM
     BGC, which we hope will serve to improve the current BGC discovery pipelines in
     Bacilli.
-- categories:
+- title: 'Multiple pathways to red carotenoid coloration: House finches(Haemorhous
+    mexicanus) do not use CYP2J19 to produce red plumage'
+  categories:
   - evolutionary biology
   - new results
-  title: 'Multiple pathways to red carotenoid coloration: House finches(Haemorhous
-    mexicanus) do not use CYP2J19 to produce red plumage'
   license: CC NO
   author:
   - Koch, R. E.
@@ -889,11 +889,11 @@
     propose that house finches and other birds that deposit 3-OH-echinenone as their
     primary red plumage pigment use an alternative enzymatic pathway to produce their
     characteristic red ketocarotenoid-based coloration.
-- categories:
+- title: 'Pigmentation and retinal pigment epithelium thickness: a study of the phenotypic
+    and genotypic relationships between ocular and extraocular pigmented tissues.'
+  categories:
   - genetics
   - new results
-  title: 'Pigmentation and retinal pigment epithelium thickness: a study of the phenotypic
-    and genotypic relationships between ocular and extraocular pigmented tissues.'
   license: CC BY
   author:
   - Julian, T. H.
@@ -925,11 +925,11 @@
     and melanosome transport. In conclusion, our study supports our assertion that
     pigmentation plays a role in RPE thickness, and highlights both shared and divergent
     features of RPE and other pigmentation-related traits.
-- categories:
+- title: The effect of illumination cues on color constancy in simultaneous identification
+    of illumination and reflectance changes
+  categories:
   - neuroscience
   - new results
-  title: The effect of illumination cues on color constancy in simultaneous identification
-    of illumination and reflectance changes
   license: CC BY
   author:
   - Virtanen, L. S.
@@ -961,12 +961,12 @@
     not depend on a failure to identify illumination changes, but additional visual
     cues still improve color constancy through better disambiguation of illumination
     and reflectance changes.'
-- categories:
-  - plant biology
-  - new results
-  title: 'Two-fold Red Excess (TREx): A simple and novel digital color index that
+- title: 'Two-fold Red Excess (TREx): A simple and novel digital color index that
     enables non-invasive real-time health assessment of green-leaved as well as anthocyanin-rich
     crops'
+  categories:
+  - plant biology
+  - new results
   license: CC BY-NC-ND
   author:
   - Agarwal, A.
@@ -1002,11 +1002,11 @@
     crops belonging to different species to develop a universal digital color index
     TREx that can be used as a reliable alternative to handheld Chl meters for rapid
     high-throughput monitoring of green-leaved as well as red-leaved crop varieties.'
-- categories:
+- title: Relationship between concentration of cytokinin for efficient shoot regeneration
+    and seed coat color in leaf lettuce
+  categories:
   - plant biology
   - new results
-  title: Relationship between concentration of cytokinin for efficient shoot regeneration
-    and seed coat color in leaf lettuce
   license: CC NO
   author:
   - Kimura, M.
@@ -1028,11 +1028,11 @@
     cultivars, 2 white seed cultivars and 2 brown seed cultivars, we demonstrated
     a strong correlation between the BAP concentration for efficient shoot regeneration
     and the seed coat color in leaf lettuce.
-- categories:
+- title: Cryo-EM of PMEL Amyloids Reveals Pathogenic Mechanism of Pigment Dispersion
+    Syndrome
+  categories:
   - cell biology
   - new results
-  title: Cryo-EM of PMEL Amyloids Reveals Pathogenic Mechanism of Pigment Dispersion
-    Syndrome
   license: CC BY
   author:
   - Yanagisawa, H.
@@ -1058,11 +1058,11 @@
     PMEL amyloid formation in both physiological and pathological contexts, offering
     new perspectives on their structural diversity and dysregulation in pigmentation
     disorders.
-- categories:
+- title: Truncated and "double-headed" derivatives of TO1-B dye for Mango-based imaging
+    systems with increased brightness and selectivity and large Stocks shift
+  categories:
   - biophysics
   - new results
-  title: Truncated and "double-headed" derivatives of TO1-B dye for Mango-based imaging
-    systems with increased brightness and selectivity and large Stocks shift
   license: CC BY-NC
   author:
   - Svetlova, J. I.
@@ -1097,10 +1097,10 @@
     Importantly, the methoxy-MQ derivative also showed increased selectivity for Mango
     over other noncanonical nucleic acids structures, making it a promising alternative
     to known TO-based dyes for high-contrast RNA imaging.
-- categories:
+- title: Genetic basis of an adaptive polymorphism controlling butterfly silver iridescence
+  categories:
   - evolutionary biology
   - new results
-  title: Genetic basis of an adaptive polymorphism controlling butterfly silver iridescence
   license: CC BY-NC
   author:
   - Livraghi, L.
@@ -1135,11 +1135,11 @@
     45 million years ago. The genetic basis of adaptive variation can thus be more
     predictable than often presumed, even for traits that appear divergent across
     large evolutionary distances.'
-- categories:
+- title: Temporal evolution of color representations measured with MEG reveals a 'coarse
+    to fine' dynamic
+  categories:
   - neuroscience
   - new results
-  title: Temporal evolution of color representations measured with MEG reveals a 'coarse
-    to fine' dynamic
   license: CC NO
   author:
   - Goddard, E.
@@ -1166,11 +1166,11 @@
     into categorical groups to a finer within category representation. Notably, these
     dynamics were replicated across datasets from both tasks, suggesting they reflect
     a robust reorganization of cortical hue responses over time.
-- categories:
+- title: RGB color indices as proxy for symbiont cell density and chlorophyll content
+    during coral bleaching
+  categories:
   - ecology
   - new results
-  title: RGB color indices as proxy for symbiont cell density and chlorophyll content
-    during coral bleaching
   license: CC BY-NC
   author:
   - Ferrara, E. F.
@@ -1213,11 +1213,11 @@
     contributes to improved image analysis as a reliable and non-invasive tool for
     monitoring, by providing guidelines for a systematic use of RGB data to interpret
     coral health.
-- categories:
+- title: Genomics of experimental adaptive radiation in the cryptic coloration of
+    feather lice
+  categories:
   - evolutionary biology
   - new results
-  title: Genomics of experimental adaptive radiation in the cryptic coloration of
-    feather lice
   license: CC BY
   author:
   - Baldwin-Brown, J. G.
@@ -1247,11 +1247,11 @@
     populations of lice, indicating that independent adaptation of distinct lineages
     to the same novel environment resulted in similar phenotypes driven by different
     genotypes.
-- categories:
+- title: Chicken shank color determined by Inhibition of dermal melanin (ID) is mediated
+    by a structural variation regulating CDKN2A expression
+  categories:
   - genetics
   - new results
-  title: Chicken shank color determined by Inhibition of dermal melanin (ID) is mediated
-    by a structural variation regulating CDKN2A expression
   license: CC NO
   author:
   - Li, J.
@@ -1281,11 +1281,11 @@
     the puzzle of chicken shank color genetics and paves the way for the application
     of the ID mutation in the auto-sexing of chicks which is intensively needed in
     layer and broiler industries.
-- categories:
+- title: Transcontinental patterns in floral pigment frequencies among animal-pollinated
+    species
+  categories:
   - plant biology
   - new results
-  title: Transcontinental patterns in floral pigment frequencies among animal-pollinated
-    species
   license: CC BY-NC-ND
   author:
   - Narbona, E.
@@ -1317,11 +1317,11 @@
     abiotic and biotic factors, such as light environment in Spain, and pollinator
     type, such as insect versus hummingbird, in California. Despite these local differences,
     our findings reveal a consistent regional distribution of floral pigments.'
-- categories:
+- title: Ether Rhodamines with Enhanced Hydrophilicity, Fluorogenicity, and Brightness
+    for Super-Resolution Imaging
+  categories:
   - biochemistry
   - new results
-  title: Ether Rhodamines with Enhanced Hydrophilicity, Fluorogenicity, and Brightness
-    for Super-Resolution Imaging
   license: CC NO
   author:
   - Fang, X.
@@ -1360,11 +1360,11 @@
     (SIM), stimulated emission depletion (STED) microscopy, and single-molecule localization
     microscopy (SMLM). This work introduces an innovative strategy for fluorophore
     design, offering significant advancements for super-resolution imaging applications.
-- categories:
+- title: Identification of ER:melanosome membrane contact sites in the retinal pigment
+    epithelium.
+  categories:
   - cell biology
   - new results
-  title: Identification of ER:melanosome membrane contact sites in the retinal pigment
-    epithelium.
   license: CC BY-NC-ND
   author:
   - Eden, E. R.
@@ -1388,11 +1388,11 @@
     sites between the ER, melanosomes and mitochondria in both RPE tissue and cellular
     models, suggesting that the ER may influence melanosome biogenesis, maturation
     and interaction with mitochondria.
-- categories:
+- title: Biomimetic hydrogel platform reveals active force transduction from retinal
+    pigment epithelium to photoreceptors
+  categories:
   - biophysics
   - new results
-  title: Biomimetic hydrogel platform reveals active force transduction from retinal
-    pigment epithelium to photoreceptors
   license: CC BY-NC
   author:
   - Korpela, S.
@@ -1422,11 +1422,11 @@
     These results support the view of RPE as a mechanically active partner for retina.
     In addition, our retina-mimicking structure offers a tool for further biophysical
     modeling of the RPE-retina interface.
-- categories:
+- title: 30-Color Longitudinal Full-Spectrum Immunophenotyping and Sorting of Human
+    Circulating Immune Cell Subsets Implicated in Systemic Autoimmune Rheumatic Diseases
+  categories:
   - immunology
   - new results
-  title: 30-Color Longitudinal Full-Spectrum Immunophenotyping and Sorting of Human
-    Circulating Immune Cell Subsets Implicated in Systemic Autoimmune Rheumatic Diseases
   license: CC NO
   author:
   - Jiwrajka, N.
@@ -1453,11 +1453,11 @@
     approach to sort immune cell subsets of interest for downstream applications while
     simultaneously collecting high parameter immunophenotypic information using a
     limited sample quantity.
-- categories:
+- title: Interleukin-34 and debris clearance by mononuclear phagocytes drive retinal
+    pigment epithelium regeneration in zebrafish
+  categories:
   - immunology
   - new results
-  title: Interleukin-34 and debris clearance by mononuclear phagocytes drive retinal
-    pigment epithelium regeneration in zebrafish
   license: CC BY-NC-ND
   author:
   - Leach, L. L.
@@ -1478,10 +1478,10 @@
     by MNPs is indispensable for regeneration, as microglia-deficient zebrafish fail
     to regenerate RPE and photoreceptor tissues. Together, our results establish specific
     pro-regenerative functions of MNPs after RPE damage.
-- categories:
+- title: Real-time Color Flow Mapping of Ultrasound Microrobots
+  categories:
   - bioengineering
   - new results
-  title: Real-time Color Flow Mapping of Ultrasound Microrobots
   license: CC BY-NC-ND
   author:
   - Dillinger, C.
@@ -1503,11 +1503,11 @@
     using two ultrasound sources operating at distinct frequency bandwidths. Our successful
     capture of microrobots measuring 60-80 micrometers in diameter reveals the potential
     of real-time ultrasonic imaging at the microscale.
-- categories:
+- title: Deletion of the moe A gene in Flavobacterium IR1 drives structural color
+    shift from green to blue and alters polysaccharide metabolism
+  categories:
   - microbiology
   - new results
-  title: Deletion of the moe A gene in Flavobacterium IR1 drives structural color
-    shift from green to blue and alters polysaccharide metabolism
   license: CC BY
   author:
   - Escobar Doncel, A.
@@ -1539,11 +1539,11 @@
     that single-gene mutations could change the optical properties of bacterial SC,
     which is unprecedented when compared to multicellular organisms where structural
     color is the result of several genes and can not yet be addressed genetically.
-- categories:
+- title: Predator-Induced Tail Coloration Toward Diverse Dragonfly Nymphs in Tadpoles
+    of the Japanese Tree Frog (Dryophytes japonicus)
+  categories:
   - ecology
   - new results
-  title: Predator-Induced Tail Coloration Toward Diverse Dragonfly Nymphs in Tadpoles
-    of the Japanese Tree Frog (Dryophytes japonicus)
   license: CC BY-NC-ND
   author:
   - Noda, A.
@@ -1571,11 +1571,11 @@
     phenotypes are modulated based on relative predation risks, considering the predators'
     foraging patterns and visual capabilities, thereby allowing tadpoles to minimize
     physiological costs and unintended risks associated with the induced traits.
-- categories:
+- title: Competition for light color between marine Synechococcus strains with fixed
+    and variable pigmentation
+  categories:
   - microbiology
   - new results
-  title: Competition for light color between marine Synechococcus strains with fixed
-    and variable pigmentation
   license: CC BY-NC-ND
   author:
   - Dufour, L.
@@ -1606,11 +1606,11 @@
     GL specialist won in low and high green light. Interestingly, we found that while
     the CA4-capable strain was at a disadvantage at low light, it was able to outcompete
     specialists in high blue light.'
-- categories:
+- title: 'Decoding ladybird''s colours: structural mechanisms of colour production
+    and pigment modulation.'
+  categories:
   - evolutionary biology
   - new results
-  title: 'Decoding ladybird''s colours: structural mechanisms of colour production
-    and pigment modulation.'
   license: CC BY
   author:
   - CARRADA, M.
@@ -1635,11 +1635,11 @@
     In the light of these results, we assume that the complex and diverse colouration
     in the Coccinellidae can only be elucidated by considering the interplay of pigments
     and the optical properties of the elytron cuticle.'
-- categories:
+- title: Cis-regulatory Mutations Drive Tissue-specific Subfunctionalization of sRNA
+    loci Regulating Soybean Seed Color During Domestication
+  categories:
   - plant biology
   - new results
-  title: Cis-regulatory Mutations Drive Tissue-specific Subfunctionalization of sRNA
-    loci Regulating Soybean Seed Color During Domestication
   license: CC NO
   author:
   - Vodkin, L.
@@ -1664,10 +1664,10 @@
     Our findings underscore the importance of structural rearrangements in domestication
     traits and demonstrate the power of long-read sequencing for resolving complex
     genomic regions, advancing both evolutionary biology and crop improvement.
-- categories:
+- title: Crossmodal pitch-luminance association in tortoises
+  categories:
   - animal behavior and cognition
   - new results
-  title: Crossmodal pitch-luminance association in tortoises
   license: CC BY-NC-ND
   author:
   - Loconsole, M.
@@ -1698,11 +1698,11 @@
     associations in tortoises. While showing this commonality in the perceptual organization
     of phylogenetically distant species, we shift the question on whether pitch-luminance
     associations reflect homology or convergent evolution.
-- categories:
+- title: Maturation-dependent complement production and C3 processing in human retinal
+    pigment epithelium cells
+  categories:
   - cell biology
   - new results
-  title: Maturation-dependent complement production and C3 processing in human retinal
-    pigment epithelium cells
   license: CC BY-NC-ND
   author:
   - Schikora, J.
@@ -1735,11 +1735,11 @@
     highlight the impact of RPE maturation on local C3 activation, providing a basis
     for future studies on C3 functionality in the RPE and its potential pathological
     effects.
-- categories:
+- title: Internet images reveal bumblebee-mimicking hoverflies have evolved to follow
+    flower colour preferences of their models
+  categories:
   - ecology
   - new results
-  title: Internet images reveal bumblebee-mimicking hoverflies have evolved to follow
-    flower colour preferences of their models
   license: CC BY-NC
   author:
   - Gilbert, J. D.
@@ -1766,11 +1766,11 @@
     Mildly noxious models such as bumblebees are thought to exert particularly strong
     selection for mimetic accuracy, suggesting that habitat-choice mimicry may be
     selected as a way of enhancing morphological mimicry.
-- categories:
+- title: Is blue the most attractive color for bees? Exploring the attractiveness
+    of colors in vane traps
+  categories:
   - zoology
   - new results
-  title: Is blue the most attractive color for bees? Exploring the attractiveness
-    of colors in vane traps
   license: CC BY-NC-ND
   author:
   - Renteria, E.
@@ -1796,12 +1796,12 @@
     strategies and understanding bee foraging behavior. This study contributes valuable
     insights to improve trap designs and enhance our understanding of the interactions
     between bees and their environments.
-- categories:
-  - immunology
-  - new results
-  title: Single-Cell RNA Sequencing Reveals Hemocyte Heterogeneity, Differentiation
+- title: Single-Cell RNA Sequencing Reveals Hemocyte Heterogeneity, Differentiation
     Trajectories, and Viral Tropism in Shrimp (Macrobrachium rosenbergii) Infected
     with Decapod Iridescent Virus 1
+  categories:
+  - immunology
+  - new results
   license: CC BY-NC-ND
   author:
   - Xiao, B.
@@ -1834,11 +1834,11 @@
     trajectories, and immune responses. These findings offer novel insights into shrimp
     antiviral immunity and lay the foundation for disease-resistant breeding and immunostimulatory
     strategies in aquaculture.
-- categories:
+- title: Ecology and sexual conflict drive the macroevolutionary dynamics of female-limited
+    colour polymorphisms
+  categories:
   - evolutionary biology
   - new results
-  title: Ecology and sexual conflict drive the macroevolutionary dynamics of female-limited
-    colour polymorphisms
   license: CC BY
   author:
   - Willink, B.
@@ -1867,11 +1867,11 @@
     conflict. The effects of female colour polymorphisms on extinction differ from
     previous intraspecific studies and indicate contrasting long-term effects of sexual
     conflict at micro- and macroevolutionary scales.
-- categories:
+- title: Local variations in L/M ratio influence the detection and color naming of
+    small spots
+  categories:
   - neuroscience
   - new results
-  title: Local variations in L/M ratio influence the detection and color naming of
-    small spots
   license: CC BY
   author:
   - Greene, M. J.
@@ -1896,10 +1896,10 @@
     detection data confirm earlier reports that small spot psychophysics can reveal
     information about local cone topography, and our color naming findings suggest
     that chromatic sensitivity may improve when the L/M ratio approaches unity.
-- categories:
+- title: Open-source Photobleacher for Fluorescent Imaging of Large Pigment-Rich Tissues
+  categories:
   - neuroscience
   - new results
-  title: Open-source Photobleacher for Fluorescent Imaging of Large Pigment-Rich Tissues
   license: CC BY
   author:
   - Murakami, T. C.
@@ -1926,11 +1926,11 @@
     research goals. The photobleacher is applicable to both thin tissue slices and
     large-volume cleared tissue samples to enable serial three-dimensional imaging
     of postmortem human brain using multiplexed antibody or oligonucleotide probes.
-- categories:
+- title: Color-neutral and reversible tissue transparency enables longitudinal deep-tissue
+    imaging in live mice
+  categories:
   - bioengineering
   - new results
-  title: Color-neutral and reversible tissue transparency enables longitudinal deep-tissue
-    imaging in live mice
   license: CC BY-NC-ND
   author:
   - Keck, C. H. C.
@@ -1985,11 +1985,11 @@
     new opportunities for noninvasive deep-tissue optical imaging, enabling long term
     visualization of cellular structures and dynamic activity with high spatiotemporal
     resolution and chronic tracking capabilities.
-- categories:
+- title: Brightness demixing for simultaneous multi-target imaging in 3D single-molecule
+    localization microscopy
+  categories:
   - biophysics
   - new results
-  title: Brightness demixing for simultaneous multi-target imaging in 3D single-molecule
-    localization microscopy
   license: CC BY-ND
   author:
   - Le, L.
@@ -2013,11 +2013,11 @@
     fully compatible with existing setups. Brightness Demixing thus offers a simple
     yet powerful approach for expanding multi-target imaging capabilities in super-resolution
     microscopy
-- categories:
+- title: Light color and nutrients interact to determine freshwater algal community
+    diversity and composition
+  categories:
   - ecology
   - new results
-  title: Light color and nutrients interact to determine freshwater algal community
-    diversity and composition
   license: CC BY-NC
   author:
   - Swanson, J. A.
@@ -2049,11 +2049,11 @@
     our results suggest that concurrent eutrophication and brownification may yield
     environmental conditions favorable to cyanobacteria, including taxa that can form
     harmful algal blooms.
-- categories:
+- title: Accurate spatiotemporal retinal responses require a color intensity balance
+    fine-tuned to natural conditions
+  categories:
   - neuroscience
   - new results
-  title: Accurate spatiotemporal retinal responses require a color intensity balance
-    fine-tuned to natural conditions
   license: CC BY-NC-ND
   author:
   - Castellani, F.
@@ -2084,11 +2084,11 @@
     lying far from a simple equalization of M- and S-opsin isomerisation rates. In
     conclusion, a finely tuned color intensity balance is essential for accurately
     measuring both fast temporal responses and detailed spatial receptive fields.
-- categories:
+- title: High-Density Multi-Distance fNIRS Enhances Detection of Brain Activity during
+    a Word-Color Stroop Task
+  categories:
   - bioengineering
   - new results
-  title: High-Density Multi-Distance fNIRS Enhances Detection of Brain Activity during
-    a Word-Color Stroop Task
   license: CC BY
   author:
   - Anderson, J. E.
@@ -2121,10 +2121,10 @@
     HD array outperformed Sparse in detecting and localizing brain activity in image
     space, particularly during lower cognitive load tasks, making them more suitable
     for neuroimaging applications.'
-- categories:
+- title: Genetic analysis of pigment production in the fungus Exophiala dermatitidis
+  categories:
   - genetics
   - new results
-  title: Genetic analysis of pigment production in the fungus Exophiala dermatitidis
   license: CC BY-NC-ND
   author:
   - Harris, S. D.
@@ -2149,10 +2149,10 @@
     had a greater number of SNVs compared to albino strains. To date this is the first
     study to generate and characterize conditional albino mutants in E. dermatitidis
     with the ability to recover melanin production.
-- categories:
+- title: Revisiting Color Efficient Coding through Material Perception
+  categories:
   - neuroscience
   - new results
-  title: Revisiting Color Efficient Coding through Material Perception
   license: CC BY
   author: Sawayama, M.
   path: https://doi.org/10.1101/2025.03.22.644715
@@ -2176,11 +2176,11 @@
     are available only from low-bit information. Finally, considering material information
     can be estimated from summary statistics of image sub-spaces, this study suggests
     an efficient decomposition of input color images.
-- categories:
+- title: Single-cell multiome and enhancer connectome of human retinal pigment epithelium
+    and choroid nominate pathogenic variants in age-related macular degeneration
+  categories:
   - genomics
   - new results
-  title: Single-cell multiome and enhancer connectome of human retinal pigment epithelium
-    and choroid nominate pathogenic variants in age-related macular degeneration
   license: CC BY
   author:
   - Wang, S. K.
@@ -2207,11 +2207,11 @@
     in RPE cells, including in the context of complement activation. Our work nominates
     new pathogenic variants and mechanisms in AMD and offers a rich and accessible
     resource for studying diseases of the RPE and choroid.
-- categories:
+- title: A modular multi-color fluorescence microscope for simultaneous tracking of
+    cellular activity and behavior
+  categories:
   - animal behavior and cognition
   - new results
-  title: A modular multi-color fluorescence microscope for simultaneous tracking of
-    cellular activity and behavior
   license: CC BY
   author:
   - Ramahefarivo, E.
@@ -2233,11 +2233,11 @@
     by tracking tardigrade gait as an example of utility for non-model species. The
     affordability of the hardware and ease of use of the accompanying software make
     this a suitable tool for education in addition to its use in research.
-- categories:
+- title: Theoretical physical color gamuts define luminosity and naturalness perceptual
+    limits in natural scenes
+  categories:
   - neuroscience
   - new results
-  title: Theoretical physical color gamuts define luminosity and naturalness perceptual
-    limits in natural scenes
   license: CC BY-NC-ND
   author:
   - Duay, K.
@@ -2256,11 +2256,11 @@
     observers'' judgments of luminosity thresholds appear guided not only by a criterion
     of self-luminosity, but also by an implicit sense of naturalness. These insights
     pave the way for exploring AR realism through the lens of physical gamut theory.'
-- categories:
+- title: Plant silicon defence disrupts cryptic colouration in an insect herbivore
+    by restricting carotenoid sequestration into the haemolymph
+  categories:
   - ecology
   - new results
-  title: Plant silicon defence disrupts cryptic colouration in an insect herbivore
-    by restricting carotenoid sequestration into the haemolymph
   license: CC NO
   author:
   - Islam, T.
@@ -2292,11 +2292,11 @@
     Si defences can disrupt cryptic colouration in insect herbivores by restricting
     carotenoid sequestration from host plant tissues. This disruption could increase
     insect visibility to predators, potentially elevating their risk of predation.'
-- categories:
+- title: 'Sexual signal reliability in male zebra finches: Food intake explains the
+    impact of immune activation on carotenoid-based coloration'
+  categories:
   - evolutionary biology
   - new results
-  title: 'Sexual signal reliability in male zebra finches: Food intake explains the
-    impact of immune activation on carotenoid-based coloration'
   license: CC BY-NC-ND
   author:
   - Cantarero, A.
@@ -2325,10 +2325,10 @@
     fat carotenoid levels. Overall, our findings suggest that carotenoid-based bill
     coloration predominantly reflects the recent physiological condition of individuals
     and resource allocation trade-offs rather than directly signaling individual quality.
-- categories:
+- title: Face-, color-, and word-specific patches in the human orbitofrontal cortex
+  categories:
   - neuroscience
   - new results
-  title: Face-, color-, and word-specific patches in the human orbitofrontal cortex
   license: CC BY-NC
   author:
   - Liu, J.
@@ -2348,11 +2348,11 @@
     VOTC and form continuous functional gradients with VOTC patches. These results
     suggest that the OFC contains a topographic organization similar to, but at a
     higher hierarchical level than, the VOTC object categorization system.
-- categories:
+- title: 'Illuminating the Unconscious: Physical and Perceived Brightness in Cognitive
+    Processing'
+  categories:
   - biochemistry
   - new results
-  title: 'Illuminating the Unconscious: Physical and Perceived Brightness in Cognitive
-    Processing'
   license: CC BY-NC-ND
   author:
   - Martinsen, M. M.
@@ -2374,11 +2374,11 @@
     indicated that physical and perceived brightness cues were processed unconsciously.
     Together, these findings suggest that contextual brightness illusions are not
     simply lost below awareness, they can be discriminated in unconscious vision.
-- categories:
+- title: Random and non-random variation in flower color along an urban-rural gradient
+    in the introduced mustard Hesperis matronalis
+  categories:
   - evolutionary biology
   - new results
-  title: Random and non-random variation in flower color along an urban-rural gradient
-    in the introduced mustard Hesperis matronalis
   license: CC BY
   author:
   - Maunder, K. G.
@@ -2397,10 +2397,10 @@
     Key ResultsFlower color morph diversity increased with both stand size and urbanization which is consistent with effects of genetic drift during colonization combined with multiple introductions of this horticultural plant in urban areas. However, the frequency and fixation of the purple morph systematically increased towards the rural end of the gradient. Although lifetime seed production did not vary among morphs, pre-dispersal seed predation by a recently adventive weevil was higher in the purple morph, particularly in rural areas. Estimated seed production in the absence of predation suggests a previous fitness advantage for the purple and pink morphs in rural areas and for the white morph in urban areas.
 
     ConclusionsRandom variation in flower color diversity may be influenced by stochastic processes and colonization history, while systematic variation in color morph frequencies may reflect past fitness differences among morphs that have been recently erased by seed predation.
-- categories:
+- title: Microneedle delivery of stem cell derived retinal pigment epithelial cells
+  categories:
   - cell biology
   - new results
-  title: Microneedle delivery of stem cell derived retinal pigment epithelial cells
   license: CC BY-NC
   author:
   - Ching, J.
@@ -2428,10 +2428,10 @@
     the first evidence of surgical microneedle cell delivery, which may have future
     applications more broadly within ophthalmic microsurgery and minimally invasive
     delivery strategies.
-- categories:
+- title: Lrrns define a visual circuit underlying brightness and contrast perception
+  categories:
   - neuroscience
   - new results
-  title: Lrrns define a visual circuit underlying brightness and contrast perception
   license: CC NO
   author:
   - Putti, E.
@@ -2460,10 +2460,10 @@
     circuit reconstruction and functional imaging analysis revealed their critical
     role in luminance processing. These studies define a fundamental visual processing
     pathway and establish Lrrn CAMs as essential molecular drivers of its assembly.
-- categories:
+- title: A Spectral Image Scanning Microscope for Multi-Color High-Resolution Imaging
+  categories:
   - biophysics
   - new results
-  title: A Spectral Image Scanning Microscope for Multi-Color High-Resolution Imaging
   license: CC BY-NC-ND
   author:
   - Bram, L.
@@ -2499,11 +2499,11 @@
     of four distinctly labeled cellular components. This spectral CSD-ISM system provides
     a valuable tool for biological imaging, enabling the simultaneous acquisition
     of high-resolution spatial information and multi-color spectral data.
-- categories:
+- title: High-throughput iNaturalist image analysis reveals flower color divergence
+    in Monarda fistulosa
+  categories:
   - evolutionary biology
   - new results
-  title: High-throughput iNaturalist image analysis reveals flower color divergence
-    in Monarda fistulosa
   license: CC BY
   author:
   - McKenzie, P. F.
@@ -2523,10 +2523,10 @@
     color, than those of eastern M. fistulosa. Our approach and validation provides
     a scalable framework for phenotyping community science images and enables analysis
     of geographic color variation in other widespread species.
-- categories:
+- title: 'Movi Color: fast and accurate long-read classification with the move structure'
+  categories:
   - bioinformatics
   - new results
-  title: 'Movi Color: fast and accurate long-read classification with the move structure'
   license: CC BY
   author:
   - Tan, S.
@@ -2558,11 +2558,11 @@
     Metabuli and is comparable to Kraken 2. Although Movi Color uses more memory than
     both Kraken 2 and Metabuli,its speed-accuracy trade-off makes it well-suited for
     real-time or high-throughput scenarios.
-- categories:
+- title: 'A Standardized Method for Insect Color Analyses using Open Source Software:
+    AInsectID Version 1.1 Color Merge'
+  categories:
   - zoology
   - new results
-  title: 'A Standardized Method for Insect Color Analyses using Open Source Software:
-    AInsectID Version 1.1 Color Merge'
   license: CC BY
   author:
   - Sadia, H.
@@ -2591,11 +2591,11 @@
     range, while improving the reliability of color analyses of insect wings in diverse
     environments. Finally, to validate the robustness of our standardization method,
     we evaluated the certainty of our results at different levels of confidence.
-- categories:
+- title: The role of secondary pollinators in the evolution of complex colour signals
+    in a bimodal pollination system
+  categories:
   - evolutionary biology
   - new results
-  title: The role of secondary pollinators in the evolution of complex colour signals
-    in a bimodal pollination system
   license: CC NO
   author:
   - Khoury, K. L.
@@ -2621,11 +2621,11 @@
     and are consistent with bimodal adaptation. This study fills an important gap
     by showing that secondary pollinators can contribute to selection on complex colour
     signals in angiosperm flowers.
-- categories:
+- title: Pupil size correlates with near-threshold detection performance irrespective
+    of stimulus colour, eccentricity, or retinal adaptation-state
+  categories:
   - neuroscience
   - new results
-  title: Pupil size correlates with near-threshold detection performance irrespective
-    of stimulus colour, eccentricity, or retinal adaptation-state
   license: CC BY-NC
   author:
   - Ruuskanen, V.
@@ -2649,11 +2649,11 @@
     testing room, or retinal adaptation-state. We conclude that the phenomenon is
     robust, indicating that pupil size affects vision in a behaviourally relevant
     manner, regardless of the exact conditions.
-- categories:
+- title: Redesigning petal shape, size, and color in soybean reveals unexpected phenotypes
+    for floral organ development
+  categories:
   - plant biology
   - new results
-  title: Redesigning petal shape, size, and color in soybean reveals unexpected phenotypes
-    for floral organ development
   license: CC BY-NC-ND
   author:
   - Szeluga, N.
@@ -2687,10 +2687,10 @@
     increase pollinator visitation. These results underscore the complexity of floral
     development in soybean and provide foundational tools and resources for future
     efforts to engineer reproductive traits for hybrid seed production.
-- categories:
+- title: Quantifying Misuse of Color in Biological Research
+  categories:
   - scientific communication and education
   - new results
-  title: Quantifying Misuse of Color in Biological Research
   license: CC NO
   author:
   - Lin, T.-J.
@@ -2714,11 +2714,11 @@
     colormaps. These statistics vary by journal but remain constant over time, demonstrating
     the urgent need to increase awareness and education about color-based data reporting
     guidelines.
-- categories:
+- title: 'Take it or leaf it: bees learn leaf shape as a cue when flower color is
+    easily learned'
+  categories:
   - animal behavior and cognition
   - new results
-  title: 'Take it or leaf it: bees learn leaf shape as a cue when flower color is
-    easily learned'
   license: CC BY-NC-ND
   author:
   - Castagna, A. M. T.
@@ -2750,11 +2750,11 @@
     floral cues (such as petal color). We discuss evidence of compound learning and
     overshadowing and implications of our results for pollinator-mediated selection
     on non-floral plant traits.'
-- categories:
+- title: Sustained Lysosomal Delivery of Enhanced Cy3-Labeled Acid Nanoparticles Restores
+    Lysosomal pH in Retinal Pigment Epithelial Cells and Astrocytes
+  categories:
   - cell biology
   - new results
-  title: Sustained Lysosomal Delivery of Enhanced Cy3-Labeled Acid Nanoparticles Restores
-    Lysosomal pH in Retinal Pigment Epithelial Cells and Astrocytes
   license: CC BY-NC-ND
   author:
   - Li, J.
@@ -2786,12 +2786,12 @@
     Cy3-PLGA nanoparticles enabled improved tracking and long-term delivery to lysosomes,
     supporting future in vivo applications to restore lysosomal pH in aging and degenerating
     tissues.
-- categories:
-  - zoology
-  - new results
-  title: ttc39bl, one of the two duplicated paralogs of the tetratricopeptide repeat
+- title: ttc39bl, one of the two duplicated paralogs of the tetratricopeptide repeat
     domain 39B gene, is essential for carotenoid coloration in medaka (Oryzias latipes)
     and is the gene responsible for the r locus.
+  categories:
+  - zoology
+  - new results
   license: CC BY-NC-ND
   author:
   - Kimura, T.
@@ -2812,12 +2812,12 @@
     the ttc39bl on the Y chromosome is normal, but the ttc39bl on the X chromosome
     has an 821 bases insertion in exon 3 and is broken. This insertion is also present
     on both the X and Y chromosomes of commercially available white medaka.
-- categories:
-  - molecular biology
-  - confirmatory results
-  title: Mechanism of PMC (2,2,5,7,8-pentamethyl-6-chromanol), a sterically hindered
+- title: Mechanism of PMC (2,2,5,7,8-pentamethyl-6-chromanol), a sterically hindered
     phenol antioxidant, in rescuing oxidized low-density lipoprotein-induced cytotoxicity
     in human retinal pigment epithelial cells
+  categories:
+  - molecular biology
+  - confirmatory results
   license: CC NO
   author:
   - Chaudhary, S.
@@ -2850,11 +2850,11 @@
     Our data demonstrate the involvement of a key antioxidant pathway through which
     PMC mitigates oxidative stress induced by ox-LDL and provides a potential therapeutic
     strategy to suppress RPE degeneration/damage during AMD progression.
-- categories:
+- title: Hawkmoths learn best without negative reinforcement in a differential colour
+    association task
+  categories:
   - animal behavior and cognition
   - new results
-  title: Hawkmoths learn best without negative reinforcement in a differential colour
-    association task
   license: CC BY-NC
   author:
   - Manel, A. N.
@@ -2884,10 +2884,10 @@
     during foraging. Our results highlight the role of experience in modulating behaviour
     and discuss the importance of interpreting learning outcomes based on an animal's
     sensory ecology and foraging dynamics.
-- categories:
+- title: Bird species with color polymorphism have greater ecological success
+  categories:
   - ecology
   - new results
-  title: Bird species with color polymorphism have greater ecological success
   license: CC BY
   author:
   - Kazuya, H.
@@ -2909,11 +2909,11 @@
     and more stable population trends. Our analyses suggest that the presence of color
     polymorphism contributes to avian species success at the global scale, especially
     reflected in lower extinction likelihood and better population trends.
-- categories:
+- title: Association of iridescence and tails with flight proxies suggests that predation
+    drives convergence in skipper butterflies
+  categories:
   - evolutionary biology
   - new results
-  title: Association of iridescence and tails with flight proxies suggests that predation
-    drives convergence in skipper butterflies
   license: CC BY-NC
   author:
   - Linke, D.
@@ -2942,11 +2942,11 @@
     between flight performance and antipredator defences. Our study shows that the
     convergent morphologies across Eudamina have likely arisen not by neutral evolution
     but by ecological selection influenced by biomechanical constraints.
-- categories:
+- title: Monitoring Forest Foliar Moisture Using Sentinel-2 Reflectance and Radiative
+    Transfer Model Inversion
+  categories:
   - ecology
   - new results
-  title: Monitoring Forest Foliar Moisture Using Sentinel-2 Reflectance and Radiative
-    Transfer Model Inversion
   license: CC NO
   author:
   - Kotzur, I.
@@ -2975,11 +2975,11 @@
     and woodlands of moderate to high canopy density (> ~0.75 LAI). This study demonstrates
     that FMC can be monitored at spatial resolutions that allow intra- or inter-landscape
     patterns to be resolved surpassing previous capabilities.
-- categories:
+- title: Purification and pigment analysis of diadinoxanthin-binding PSI-LHCI supercomplexes
+    from Euglena gracilis strain Z
+  categories:
   - plant biology
   - new results
-  title: Purification and pigment analysis of diadinoxanthin-binding PSI-LHCI supercomplexes
-    from Euglena gracilis strain Z
   license: CC BY
   author:
   - Sakamoto, R.
@@ -3003,11 +3003,11 @@
     the Euglena LHCIs from other oxyphototrophs. Together, these results illuminate
     the evolutionary diversification of PSI-LHCI supercomplexes and offer insights
     into the unique pigment-binding features of the Euglena light-harvesting system.
-- categories:
+- title: 'Generalizability of machine learning models for plant traits using hyperspectral
+    reflectance data: The case of maize'
+  categories:
   - plant biology
   - new results
-  title: 'Generalizability of machine learning models for plant traits using hyperspectral
-    reflectance data: The case of maize'
   license: CC BY-NC
   author:
   - Xu, R.
