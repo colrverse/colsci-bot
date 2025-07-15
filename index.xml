@@ -10,308 +10,294 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.16</generator>
-<lastBuildDate>Mon, 14 Jul 2025 07:41:47 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Jul 2025 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Dialogues in colour and behaviour - Integration of complex signalling traits and physiology</title>
-  <dc:creator>Patro, S.</dc:creator>
-  <dc:creator>Saravanan, T.</dc:creator>
-  <dc:creator>Parag, A.</dc:creator>
-  <dc:creator>Thaker, M.</dc:creator>
+  <title>A common mechanism and multiple advantages of pigment loss underlie the convergent evolution of albinism in cave animals</title>
+  <dc:creator>Bilandzija, H.</dc:creator>
+  <dc:creator>Renner, K. J.</dc:creator>
+  <dc:creator>Cetkovic, H.</dc:creator>
+  <dc:creator>Jeffery, W. R.</dc:creator>
   <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Animal communication can be complex, often involving multiple static and dynamic traits. The extent to which these traits are correlated can elucidate their function as either redundant or multiple messages. Using the agamid lizard, Psammophilus dorsalis, as a model system we examined patterns of trait expression and the role of steroid hormones in mediating these traits during social interactions. We staged male-male interactions in the lab and measured the repertoire of display behaviour and colours, which change dynamically in the visible and ultraviolet ranges in different body regions. Additionally, we measured testosterone and corticosterone levels before and after the social trials. Our results show that within behaviour and colour trait categories, components were strongly correlated within individuals, suggesting either a shared physiological pathway or redundant information content. However, across trait categories, correlation patterns varied. The chromatic contrast of the (yellow) dorsal region of lizards was correlated with both body size and level of aggression, whereas the size of UV patches was correlated with body size only. We also found a negative association between baseline corticosterone levels, body size and dorsal yellow chromatic contrast, suggesting a mechanistic link between these traits. However, social interaction induced testosterone and corticosterone levels were uncorrelated with the expression of the dynamic behavioural and colour displays during the social interactions itself. Notably, the intensity of colour and behavioural displays of males were matched by their opponents. Overall, our results suggest that multiple signalling traits can ensure both redundancy as well as provide multiple messages to receivers, thus improving the robustness of information transfer, particularly during competitions which have high fitness consequences.</description>
-  <category>animal behavior and cognition</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Facial and body colouration are linked to social rank in the African cichlid, Astatotilapia burtoni</title>
-  <dc:creator>Peros, M.</dc:creator>
-  <dc:creator>Chang, A.</dc:creator>
-  <dc:creator>Martashvili, A.</dc:creator>
-  <dc:creator>Alvarado, S. G.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Animal colouration is fundamentally important for social communication within conspecifics to advertising threat to competitors or fitness to possible mates. Social status and animal colouration are covarying traits that are plastic in response to dynamic environments. In the African cichlid, Astatotilapia burtoni, body colouration and behaviour have been extensively reported to vary with social rank. However, the nature of the interaction between these two traits is poorly understood. We hypothesise that pigmentation patterns could be linked to the behavioural repertoires underlying social status and can be resolved to regions on the cichlid body plan. To test this hypothesis, we generated Territorial (T) and Non-territorial (NT) males and employed computer vision tools to quantify and visualise patterns/colour enrichment associated with stereotyped T/NT male behaviour. We report colour-behaviour interactions localised in specific areas of the body and face for two colour morphs, illustrating a more nuanced view of social behaviour and pigmentation. Since behavioural and morphological variation are key drivers of selection in the East African Great Rift Lakes, we surmise our data may be translatable to other cichlid lineages and underline the importance of trait covariance in sexual selection and male competition.</description>
-  <category>animal behavior and cognition</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Damsels in a hidden colour: development of ultraviolet sensitivity and colour patterns in damselfishes (Pomacentridae)</title>
-  <dc:creator>Tettamanti, V.</dc:creator>
-  <dc:creator>Marshall, J.</dc:creator>
-  <dc:creator>Cheney, K.</dc:creator>
-  <dc:creator>Cortesi, F.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Damselfishes (Pomacentridae) are widespread and highly abundant on tropical coral reefs. They exhibit diverse body colouration within and between the ~250 species and across ontogenetic stages. In addition to human visible colours (i.e., 400-700 nm), most adult damselfishes reflect ultraviolet (UV, 300-400 nm) colour patches. UV sensitivity and UV colour signals are essential for feeding and form the basis for a secret communication channel invisible to the many UV-blind predatory fish on the reef; however, how these traits develop across ontogenetic stages, and their distribution across the damselfish family is poorly characterised. Here, we used UV photography, phylogenetic reconstructions of opsin genes, differential gene expression analysis (DGE) of retinal samples, to investigate the development of UV vision and colour patterns in three ontogenetic stages (pre-settlement larval, juvenile, and adult) of eleven damselfish species. Using DGE, we found similar gene expression between juveniles and adults, which strongly differed from larvae. All species and all stages expressed at least one UV-sensitive sws1 opsin gene. However, UV body colour patterns only started to appear at the juvenile stage. Moreover, Pomacentrus species displayed highly complex UV body patterns that were correlated with the expression of two sws1 copies. This could mean that some damselfishes can discriminate colours that change only in their UV component. We demonstrate dramatic shifts in both UV sensitivity and UV colouration across the development stages of damselfish, while highlighting the importance of considering ontogeny when studying the coevolution of visual systems and colour signals.</description>
-  <category>ecology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Functional characterisation of neuropeptides that act as ligands for both calcitonin-type and pigment-dispersing factor-type receptors in a deuterostome</title>
-  <dc:creator>Cong, X.</dc:creator>
-  <dc:creator>Liu, H.</dc:creator>
-  <dc:creator>Elphick, M. R.</dc:creator>
-  <dc:creator>Chen, M.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The calcitonin (CT) family of related peptides exert their diverse physiological effects in mammals via two G-protein coupled receptors, CTR and the CTR-like receptor CLR. Analysis of the phylogenetic distribution of CT-type signaling has revealed the occurrence of CT-type peptides and CTR/CLR-type proteins in deuterostome and protostome invertebrates. Furthermore, experimental studies have revealed that in the protostome Drosophila melanogaster the CT-like peptide DH31 can act as a ligand for a CTR/CLR-type receptor and a pigment-dispersing factor (PDF) receptor. Here we investigated the signaling mechanisms and functions of CT-type neuropeptides in a deuterostome invertebrate, the sea cucumber Apostichopus japonicus (phylum Echinodermata). In A. japonicus, a single gene encodes two CT-type peptides (AjCT1 and AjCT2), both of which act as ligands for a CTR/CLR-type receptor (AjCTR) and two PDF-type receptors (AjPDFR1, AjPDFR2), but with differential activation of downstream cAMP/PKA, Gq/Ca2+/PKC and ERK1/2 signaling pathways. Analysis of the expression of the gene encoding AjCT1 and AjCT2 revealed transcripts in a variety of organ systems, but with highest expression in the circumoral nervous system. In vitro pharmacological experiments revealed that AjCT1 and/or AjCT2 cause dose-dependent relaxation of longitudinal body wall muscle and intestine preparations. Furthermore, in vivo pharmacological experiments and loss-of-function tests revealed a potential physiological role for AjCT2 signaling in promoting feeding and growth in A. japonicus. This is the first study to obtain evidence that CT-type peptides can act as ligands for both CTR/CLR-type and PDF-type receptors in a deuterostome. Furthermore, because of the economic importance of A. japonicus as a foodstuff, discovery of the potential role for CT-type peptides as regulators of feeding and growth in this species may provide a basis for practical applications in aquaculture.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Interaction between facial expression and color in modulating EPR P3</title>
-  <dc:creator>Hasegawa, Y.</dc:creator>
-  <dc:creator>Tamura, H.</dc:creator>
-  <dc:creator>Nakauchi, S.</dc:creator>
-  <dc:creator>Minami, T.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The relationships between facial expression and color affect human cognition functions such as perception and memory. However, whether these relationships influence attention remains unclear. Additionally, whether facial expressions affect selective attention is unknown; for example, reddish angry faces increase negative social evaluation or emotion intensity, but it is unclear whether selective attention is similarly enhanced. To investigate these questions, we examined whether event-related potentials for faces vary depending on facial expression and color by recording electroencephalography (EEG) data. We conducted an oddball task using stimuli that combined facial expressions (angry, neutral) and facial colors (original, red, green). The participants counted the number of times a rarely appearing target face stimulus appeared among the standard face stimuli. The results indicated that the difference in P3 amplitudes for the target and standard faces depended on the combinations of facial expressions and facial colors; the P3 amplitudes for red angry faces were greater than those for red neutral faces. Additionally, there was no significant main effect or interaction effect of facial expression or facial color on P1 amplitudes for the target, and there were significant main effects of facial expression only on the N170 amplitude. These findings suggest that the intensity of a human&#39;s selective attention to facial expressions varies according to the higher-order semantic processing of the relationship between emotion and color rather than simple facial expression or facial color effects individually. Our results support the idea that red color increases the human response to anger from an EEG perspective.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Circadian modulation of mosquito host-seeking persistence by Pigment-Dispersing Factor impacts daily biting patterns</title>
-  <dc:creator>Dong, L.</dc:creator>
-  <dc:creator>Hormigo, R.</dc:creator>
-  <dc:creator>Barnett, J. M.</dc:creator>
-  <dc:creator>Greppi, C.</dc:creator>
-  <dc:creator>Duvall, L. B.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Daily rhythms in mosquito attraction to humans are thought to drive biting patterns and contribute to disease transmission dynamics. Behavioral rhythms in many insects are controlled by specialized clock cells in the brain that are coordinated by the neuropeptide Pigment-Dispersing Factor (PDF). We show that female Aedes aegypti mosquitoes with genetically disrupted PDF display altered daily behavioral timing with reduced locomotor activity and biting in the morning. Using an automated behavioral tracking system, we also report that mosquitoes exhibit daily modulation of response persistence to the host cue carbon dioxide and loss of PDF alters this pattern. These findings indicate that PDF regulates temporal features of host-seeking behavior that promote biting success at specific times of day and may underlie blood feeding patterns observed in the field.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Density-Dependent Colour Scanning Electron Microscopy (DDC-SEM). Applications in the study of calcified tissues and visual impact.</title>
-  <dc:creator>Tsolaki, E.</dc:creator>
-  <dc:creator>Hunter, L.</dc:creator>
-  <dc:creator>Chester, A. H.</dc:creator>
-  <dc:creator>Bertazzo, S.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Scanning Electron Microscopy (SEM) is widely used as a technique for materials characterization. It has also been successfully applied to the imaging of biological samples, providing invaluable insights into the topography, morphology and composition of biological structures. A particular method combining different SEM detectors, named Density-Dependent Coloured SEM (DDC-SEM), has proven to be most useful for the identification and visualization of minerals in soft tissues. The method consists of a manipulation of original greyscale SEM images to produce coloured images that provide both topography and density information for samples with components of different densities. Here we provide a discussion on how to use DDC-SEM to aid the visualization and intuitive understanding of pathological calcification. This method has become popular not only for its scientific improvement of conventional SEM greyscale images, but also for its aesthetical merits.</description>
-  <category>scientific communication and education</category>
-  <category>confirmatory results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>More than fruity scents: floral biology, scent and spectral reflectance of twelve Annonaceae species</title>
-  <dc:creator>Liu, M.-F.</dc:creator>
-  <dc:creator>Chen, J.</dc:creator>
-  <dc:creator>Pang, C.-C.</dc:creator>
-  <dc:creator>Scharaschkin, T.</dc:creator>
-  <dc:creator>Saunders, R. M. K.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The pantropical family Annonaceae possesses a broad array of floral phenotypes and pollination specialisations. Being the most species-rich lineage in the magnoliids, Annonaceae are a major flowering plant component of tropical rainforests, and are important in the plant-pollinator network of this biome. Insects such as beetles, flies, bees, cockroaches and thrips have been reported as their pollinators. Although there has been considerable effort to assess their interactions with pollinators, attempts to characterise the visual and olfactory communication channels between them are scarce. Here, we report the floral phenology and characterise the spectral reflectance and odour of 12 Annonaceae species from five genera, viz. Meiogyne, Monoon, Polyalthia, Pseuduvaria, and Uvaria. Pseuduvaria species are either monoecious or dioecious while the four genera produce hermaphroditic flowers. The Meiogyne species are likely pollinated by small beetles; the Polyalthia and Pseuduvaria species are likely pollinated by both beetles and flies; and the Uvaria species is likely pollinated by both beetles and bees. All species produce flowers that are not reflective in the 300-350 nm UV spectrum, and have various spectral reflectance profile across the remaining UV and visible spectra. We detected diverse floral volatiles across all the species assessed. The flowers of the small beetle-pollinated species, including Meiogyne species and Polyalthia xanthocarpa, emitted mostly branched-chain esters, including isobutyl acetate and isoamyl acetate. The Pseuduvaria species emitted scent reminiscent of rotten fruit, largely consisting of 2,3-butanediol, a common by-product in yeast fermentation. The flowers of Uvaria concava, which were visited by both bees and beetles, released mainly straight-chain esters, including methyl hexanoate and methyl (Z)-4-octenoate. A corrugated inner petal outgrowth was observed in Meiogyne and Pseuduvaria; this functions as a food body reward in Meiogyne, but as a nectary gland for Pseuduvaria. This study provides insights into how Annonaceae flowers attract different guilds of pollinators.</description>
-  <category>ecology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Pollinator visitation pattern and differential reproductive compatibilities maintain bract colour polymorphism in a nocturnal ginger from Western Ghats, India</title>
-  <dc:creator>Shrotri, S.</dc:creator>
-  <dc:creator>Gowda, V.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Polymorphism, the presence of discrete floral morphs within a population, can be maintained by positive or negative frequency selection. Pollinators often show a positive frequency-dependent foraging which confers reproductive advantage to common morphs over rare morphs. However, pollinator-mediated selections often act on visual floral displays. Here, we investigate hawkmoth-mediated selection in a nocturnal Curcuma caulina (Zingiberaceae) with bract colour polymorphism, where the role of visual display is minimal. We used path analyses to explain maintenance of differential morph abundances in C. caulina. For this, we quantified inter-morph trait variations in floral structures, nectar traits, pollinator visitations, physiological compatibilities and reproductive fitness. We noted that the rarest morph was self-compatible, exhibited higher nectar reward and pollinator visits, and low reproductive fitness, whereas the two common morphs were complete to partially self-incompatible, with lower nectar rewards and pollinator visits, but higher reproductive fitness. We conclude that while hawkmoths show a positive response to floral rewards, self-compatibility confers lower reproductive fitness to the nectar-rich rare morphs. In contrast, self-incompatibility confers higher fitness to the common morphs despite lower pollinator visits. Thus, colour polymorphism in nocturnal C. caulina is explained by floral traits associated with bract colour, which are under pollinator-mediated selection.</description>
-  <category>ecology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Ocean carbon export can be predicted from ocean color-based phytoplankton communities</title>
-  <dc:creator>Kramer, S. J.</dc:creator>
-  <dc:creator>Jones, E. L.</dc:creator>
-  <dc:creator>Estapa, M. L.</dc:creator>
-  <dc:creator>Paul, N. L.</dc:creator>
-  <dc:creator>Rynearson, T. A.</dc:creator>
-  <dc:creator>Santoro, A. E.</dc:creator>
-  <dc:creator>Sudek, S.</dc:creator>
-  <dc:creator>Durkin, C. A.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Carbon flux to the deep sea can be dictated by surface ocean phytoplankton community composition, but translating surface ocean observations into quantitative predictions of carbon export requires additional consideration of the underlying ecosystem drivers. Here, we used genetic tracers of phytoplankton detected in surface seawater and within sinking particles collected in the mesopelagic ocean to identify mechanistic links between surface communities and carbon export in the North Pacific and North Atlantic Oceans. Phytoplankton 18S rRNA sequences were sampled over a one-month period in surface seawater and within bulk-collected and individually-isolated sinking particles using mesopelagic sediment traps (100-500m). Nearly all phytoplankton amplicon sequence variants (ASVs) exported from the surface were packaged in large (&gt;300 m) particles. Individually, these particles contained only a few distinct phytoplankton ASVs, but collectively, large particles transported about half of the surface taxonomic diversity into the mesopelagic. The relative sequence abundances of the surface community detected within particles were quantitatively related to measured POC fluxes: a linear model based on the relative sequence abundance of just two pigment-based phytoplankton taxa, diatoms and photosynthetic Hacrobia, was predictive of POC flux magnitude. These two taxa were also enriched within the ecologically-distinct particle classes that had the greatest influence on carbon export magnitude. As global, hyperspectral ocean color satellites begin to quantify these taxonomic groups in the surface ocean, the relationship of these taxa to carbon fluxes demonstrated here may help generate more accurate global estimates of export.</description>
-  <category>ecology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>The role of pigments in light color variation of the firefly Photinus pyralis</title>
-  <dc:creator>Popecki, M. S.</dc:creator>
-  <dc:creator>Rogers, R. L.</dc:creator>
-  <dc:creator>Archer-Hartmann, S. A.</dc:creator>
-  <dc:creator>Wares, J. P.</dc:creator>
-  <dc:creator>Stanger-Hall, K. F.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Fireflies use bioluminescent signals to communicate with their mates. Luciferase has been thought to be the sole contributor to light color; however, populations of the Photinus pyralis firefly display variation in the color of their emitted signals yet have identical luciferase sequences. Here, we examined whether pigments could be present in the light organs of the twilight-active species P. pyralis and contribute to this variation. We detected patterns of expression that suggest ommochrome and pterin screening pigments are expressed in P. pyralis light organs and could filter light emitted by luciferase and play a role in signal tuning. There were no significant differences between the pigment gene expression of P. pyralis individuals with yellower and greener signals. Our study provides alternative mechanisms that could influence pigments in P. pyralis light organs that could also play a role in modifying signal color.</description>
+  <description>The loss of pigmentation is a hallmark adaptation of cave-dwelling animals but the underlying mechanisms are poorly understood. This study investigates the cellular and biochemical basis of albinism, the loss of melanin pigment, which convergently evolved across a wide range of cave animals. Is albinism caused by the interruption of pigment synthesis or elimination of the pigment cell lineage? The results suggest that albinism evolved by a common mechanism, a block in the first step of the melanin biosynthesis pathway, the conversion of L-tyrosine to L-DOPA, in diverse albino cave animals ranging from annelids and mollusks to vertebrates. Pigment cells are conserved in all tested albino cave species and distributed in patterns resembling pigmentation in their close surface relatives. The cells capable of melanin synthesis when provided with L-DOPA substrate were detected at the sites of injuries in a cave annelid, cave mollusk, and cave teleost, suggesting roles in innate immunity during tissue repair, which may explain why pigment cells are conserved despite the loss of pigment production. Next, we focused on the longstanding issue of the evolutionary forces involved in the regression of pigmentation in cave animals and explored hypotheses of why losing pigmentation might be adaptive in cave environments. First, we tested the hypothesis that pigment regression may conserve energy, which is important for survival in the food-limited cave environment. Our results indicate that melanin synthesis has a marked energetic cost in the cavefish, Astyanax mexicanus. Lastly, we show that the disruption of melanin synthesis at its first biosynthetic step is correlated with increased dopamine levels in multiple depigmented cavefish populations, including populations that evolved albinism independently. This result supports a widespread tradeoff between the melanin and catecholamine synthesis pathways in A. mexicanus. We conclude that the interruption of the conversion of L-tyrosine to L-DOPA in the synthesis of melanin confers multiple advantages that could serve as targets of natural selection, supporting an adaptive hypothesis for the evolution of albinism in cave animals.</description>
   <category>evolutionary biology</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
+  <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>A massive community-science flower color dataset reveals convergent evolution of delayed flowering phenology in North American red-flowering plants</title>
-  <dc:creator>McKenzie, P. F.</dc:creator>
-  <dc:creator>Berardi, A. E.</dc:creator>
-  <dc:creator>Hopkins, R.</dc:creator>
+  <title>Generalizability of machine learning models for plant traits using hyperspectral reflectance data: The case of maize</title>
+  <dc:creator>Xu, R.</dc:creator>
+  <dc:creator>Ferguson, J. N.</dc:creator>
+  <dc:creator>Kromdijk, J.</dc:creator>
+  <dc:creator>Nikoloski, Z.</dc:creator>
   <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The radiation of angiosperms is marked by a phenomenal diversity of floral size, shape, color, scent, and reward. Through hundreds of years of documentation and quantification scientists have sought to make sense of this variation by defining pollination syndromes as the convergent evolution of common suits of floral traits across distantly related species that have evolved by selection to optimize pollination strategies. Now, with the rise in popularity of community science platforms like iNaturalist, anyone - not just scientists - can collect data. Thanks to the availability of high-quality community-science datasets, we have an unprecedented number of observations of natural flowering plant diversity. These datasets provide an opportunity to develop new tools and to examine new traits, such as flowering time, that may help further characterize pollination syndromes. Here we test the hypothesis that flowering phenology can also be an important trait of a pollination syndrome; particularly of the &quot;hummingbird flower&quot; syndrome, which is usually characterized by red color, long corolla tubes, and exserted stamens. We produced a novel flower color dataset by using GPT-4 with Vision (GPT-4V) to assign flower color to 11,729 North American flowering plant species from community science photographs. We then mapped those species-specific colors to 1,674,908 citizen scientist observations of flowering plants. We demonstrate constrained flowering time in the eastern U.S. for species with red or orange flowers relative to species with flowers of other colors. Importantly, the onset of flowering corresponds closely to the arrival of hummingbirds. Our findings reveal an opportunity to expand the suite of traits included in pollination syndrome and suggest that the hummingbird pollination syndrome can include flowering phenology. Our methods demonstrate an effective pipeline for leveraging the enormous amount of community science data by extracting valuable information about patterns of trait variation.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Novel color vision assessment tool: AIM Color Detection and Discrimination</title>
-  <dc:creator>He, J.</dc:creator>
-  <dc:creator>Skerswetat, J.</dc:creator>
-  <dc:creator>Bex, P. J.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Color vision assessment is essential in clinical practice, yet different tests exhibit distinct strengths and limitations. Here we apply a psychophysical paradigm, Angular Indication Measurement (AIM) for color detection and discrimination. AIM is designed to address some of the shortcomings of existing tests, such as prolonged testing time, limited accuracy and sensitivity, and the necessity for clinician oversight. AIM presents adaptively generated charts, each a N*M (here 4*4) grid of stimuli, and participants are instructed to indicate either the orientation of the gap in a cone-isolating Landolt C optotype or the orientation of the edge between two colors in an equiluminant color space. The contrasts or color differences of the stimuli are adaptively selected for each chart based on performance of prior AIM charts. In a group of 23 color-normal and 15 people with color vision deficiency (CVD), we validate AIM color against Hardy-Rand-Rittler (HRR), Farnsworth-Munsell 100 hue test (FM100), and anomaloscope color matching diagnosis and use machine learning techniques to classify the type and severity of CVD. The results show that AIM has classification accuracies comparable to that of the anomaloscope, and while HRR and FM100 are less accurate than AIM and an anomaloscope, HRR is very rapid. We conclude that AIM is a computer-based, self-administered, response-adaptive and rapid tool with high test-retest repeatability that has the potential to be suitable for both clinical and research applications.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Growth-coupled microbial biosynthesis of the animal pigment xanthommatin</title>
-  <dc:creator>Bushin, L. B.</dc:creator>
-  <dc:creator>Alter, T. B.</dc:creator>
-  <dc:creator>Alvan-Vargas, M. V. G.</dc:creator>
-  <dc:creator>Dürr, L.</dc:creator>
-  <dc:creator>Olson, E. C.</dc:creator>
-  <dc:creator>Avila, M. J.</dc:creator>
-  <dc:creator>Puiggene, O.</dc:creator>
-  <dc:creator>Kim, T.</dc:creator>
-  <dc:creator>Deravi, L. F.</dc:creator>
-  <dc:creator>Feist, A. M.</dc:creator>
-  <dc:creator>Nikel, P. I.</dc:creator>
-  <dc:creator>Moore, B. S.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The mining of genomes across life has unearthed a bounty of biosynthetic potential to diverse molecules key to a biobased future. While the heterologous expression of metabolic pathways has achieved broad success, most approaches suffer a similar fate in low initial production levels that require extensive, resource-heavy iterative strain engineering refinement. Herein we introduce a growth-coupled biosynthetic (GrowBio) strategy that irrevocably connects microbial growth with specialized compound production. We demonstrate the plug-and-play versatility of GrowBio in the production of the structurally complex animal biopigment xanthommatin, a color-changing ommochrome with material and cosmetic potential. Xanthommatin biosynthesis directly fuels growth of a newly designed Pseudomonas putida 5,10-methylenetetrahydrofolate auxotroph (PUMA). Aided by genome-scale metabolic modeling, PUMA was designed and built to be controlled by endogenous formate co-produced as a coupled biosynthetic byproduct in the multistep conversion of tryptophan to xanthommatin. Adaptive laboratory evolution was utilized to streamline xanthommatin&#39;s gram-scale bioproduction via growth rate selection, establishing GrowBio as a promising biotechnological approach for establishing and optimizing the microbial production of value-added molecules.</description>
-  <category>synthetic biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Manipulation of the brown glume and internode 1 gene leads to alterations in lignified tissue coloration, lignification, and pathogen resistance in wheat</title>
-  <dc:creator>Hua, L.</dc:creator>
-  <dc:creator>Song, R.</dc:creator>
-  <dc:creator>Hao, X.</dc:creator>
-  <dc:creator>Zhang, J.</dc:creator>
-  <dc:creator>Liu, Y.</dc:creator>
-  <dc:creator>Luo, J.</dc:creator>
-  <dc:creator>Ren, X.</dc:creator>
-  <dc:creator>Li, H.</dc:creator>
-  <dc:creator>Wang, G.</dc:creator>
-  <dc:creator>Rehman, S. u.</dc:creator>
-  <dc:creator>Wu, J.</dc:creator>
-  <dc:creator>Fu, D.</dc:creator>
-  <dc:creator>Dong, Y.</dc:creator>
-  <dc:creator>Wang, X.</dc:creator>
-  <dc:creator>Zhang, C.</dc:creator>
-  <dc:creator>Chen, S.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Lignin is a crucial component of the cell wall, providing mechanical support and protection against biotic and abiotic stresses. However, little is known about wheat lignin-related mutants and their roles in pathogen defense. In this study, we identified an ethyl methanesulfonate (EMS)-derived Aegilops tauschii mutant named brown glume and internode 1 (bgi1), which exhibits reddish-brown pigmentation in various tissues, including internodes, spikes, and glumes. Using map-based cloning and single nucleotide polymorphism (SNP) analysis, we identified AET6Gv20438400 (BGI1) as the leading candidate gene, encoding the TaCAD1 protein. The mutation occurred in the splice acceptor site of the first intron, resulting in a premature stop codon in BGI1. We validated the function of BGI1 using loss-of-function EMS and gene editing knockout mutants, both of which displayed reddish-brown pigmentation in lignified tissues. BGI1 knockout mutants exhibited reduced lignin content and shearing force relative to wild type, while BGI1 overexpression transgenic plants showed increased lignin content and enhanced disease resistance against common root rot and Fusarium crown rot. We confirmed that BGI1 exhibits CAD activity both in vitro and in vivo, playing an important role in lignin biosynthesis. BGI1 was highly expressed in the stem and spike and localized in the cytoplasm. Transcriptome analysis revealed the regulatory networks associated with BGI1. Finally, we demonstrated that BGI1 interacts with TaPYL-1D, potentially involved in the abscisic acid signaling pathway. The identification and functional characterization of BGI1 significantly advance our understanding of CAD proteins in lignin biosynthesis and plant defense against pathogen infection in wheat.</description>
+  <description>Hyperspectral reflectance provides rapid and precise phenotyping of plants in a non-destructive manner both in field and well-controlled settings. The resulting data have been used to devise machine learning (ML) models for paired measurements of different traits in diverse plants and crops. Yet, despite advances in using of hyperspectral data to reliably predict crop traits of interest, there are pressing issues concerning the training of ML models, the aggregation of data from crop field trials, and the generalizability of the models in different prediction settings. We collected hyperspectral reflectance data along with 25 anatomical, gas exchange, and chlorophyll fluorescence traits from 320 recombinant inbred lines of a maize Multi-Parent Advanced Generation Inter-Cross population grown across three consecutive seasons. We use these data to systematically: (1) compare the performance of representative ML models for different traits, including slow fluorescence kinetics whose predictability by hyperspectral data has not yet been investigated, (2) evaluate the ML model performance in prediction scenarios concerning unseen genotypes, unseen seasons, and the combination thereof, (3) investigate the effects of data aggregation of ML model performance. These problems are addressed in a rigorous nested cross-validation setting that provides a template for adequate assessment of performance of ML models for diverse crop traits considering the particularities of the experimental design.</description>
   <category>plant biology</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
+  <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Enhancing pigment production by a chromogenic bacterium (Exiguobacterium aurantiacum) using tomato waste extract: A Statistical approach</title>
-  <dc:creator>Zeleke, B.</dc:creator>
-  <dc:creator>Muleta, D.</dc:creator>
-  <dc:creator>Dinka, H. A.</dc:creator>
-  <dc:creator>Tsegaye, D. A.</dc:creator>
-  <dc:creator>Hassen, J.</dc:creator>
+  <title>Purification and pigment analysis of diadinoxanthin-binding PSI-LHCI supercomplexes from Euglena gracilis strain Z</title>
+  <dc:creator>Sakamoto, R.</dc:creator>
+  <dc:creator>Kato, K.</dc:creator>
+  <dc:creator>Nakajima, Y.</dc:creator>
+  <dc:creator>Shen, J.-R.</dc:creator>
+  <dc:creator>Nagao, R.</dc:creator>
   <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>There is high demand for microbial pigments as promising alternative for synthetic pigments basically for safety and economic reasons. This study aimed at the optimization of yellowish-orange pigment production by Exiguobacterium aurantiacum using agro-waste extract as growth substrate. Air samples were collected using depositional method. Pure cultures of pigment producing bacteria were isolated by subsequent culturing on fresh nutrient agar medium and the potent isolate was identified using MALDI-TOF technique. Culture conditions were screened using Plackett-Burman design and the most three significant variables were optimized by response surface methodology. Fermentation was conducted in 150 mL agro-waste decoctions from which tomato waste extract was selected because of higher optical density of the culture compared to other agro-waste extracts. Pigment was extracted by solvent extraction method and the best solvent was selected based on its ability to dissolve the culture suspension. The pigment was characterized using spectroscopic and chromatographic techniques. Culture agitation rate, initial medium pH and concentration of yeast extract were identified as the most significant (p&lt; 0.0001) variables affecting pigment production. At optimized conditions, 0.96 g/L of pigment was extracted from 4.73 g/L of culture biomass and the extracted pigment under optimized conditions was 1.6 times higher than the pigment extracted under un-optimized conditions. The spectroscopic and chromatographic analyses demonstrated the presence of different functional groups and carotenoids were identified as parts of the molecule responsible for the yellowish-orange pigmentation of the extract. This study demonstrated the potential for optimization of pigment production by bacteria using agro-waste extract as substrate. Hence, the current findings strongly encourage for further study at a large-scale level for industrial production.</description>
-  <category>microbiology</category>
-  <category>confirmatory results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
-</item>
-<item>
-  <title>Facial Coloration as a Social Signal in a Neotropical Cichlid: Testing the Facial Expression Hypothesis</title>
-  <dc:creator>Satoh, S.</dc:creator>
-  <dc:creator>Fukuda, K.</dc:creator>
-  <dc:creator>Matsuo, S.</dc:creator>
-  <dc:creator>Banda, T.</dc:creator>
-  <dc:creator>Banda, T.</dc:creator>
-  <dc:creator>Kanbe, K.</dc:creator>
-  <dc:creator>Konno, A.</dc:creator>
-  <dc:creator>Takei, S.</dc:creator>
-  <dc:creator>Kohda, M.</dc:creator>
-  <dc:creator>Kutsukake, N.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The face is a uniquely distinctive stimulus for humans, encapsulating a wealth of information. Among the myriad of social cues conveyed by the face, emotional signals, known as facial expressions, are paramount not only for humans but also for numerous social animals. The evolution of facial expressions in these animals can also manifest in taxa other than mammals, as suggested by various studies highlighting the socio-ecological benefits of facial expressions. In this study, we elucidated the social function of facial coloration, determined by melanophores, in the neotropical social cichlid Symphysodon aequifasciatus. In this species, facial coloration exhibits flexibility and instantaneous changes in response to varying social contexts. Through behavioral observations and experimental manipulation, we confirmed that facial coloration in S. aequifasciatus serves to attenuate unnecessary aggressive competition among conspecifics. Furthermore, we observed that the facial area subjected to coloration in this species is innervated by the adenosine triphosphate- and noradrenaline-ergic nervous system. These findings indicated that facial expression in S. aequifasciatus depends on the sympathetic nervous system and has evolved independently of mammalian facial expressions. Our study highlights teleost fishes as valuable animal models for exploring the universality of facial expressions and their underlying cognitive mechanisms in vertebrates.</description>
-  <category>animal behavior and cognition</category>
+  <description>Euglena gracilis, a phototrophic flagellate, possesses light-harvesting complexes (LHCs) with a pigment composition distinct from that of land plants and green algae, despite notable similarities in LHC polypeptide sequences to green algae. Here, we purified photosystem I-LHCI (PSI-LHCI) supercomplexes from E. gracilis strain Z and characterized their biochemical and spectroscopic properties. The purified complex exhibited a unique pigment profile, notably including diadinoxanthin that is typically found in red-lineage organisms, setting E. gracilis apart from green-lineage organisms. The absorption spectrum displayed the Qy band of chlorophyll a at 675nm, while the 77-K fluorescence-emission spectrum revealed a prominent peak at 732nm, closely resembling those in land plants. These features suggest that long-wavelength chlorophylls bound to LHCI may be evolutionarily conserved. Nevertheless, the absence of neoxanthin, lutein, and violaxanthin further differentiates the Euglena LHCIs from other oxyphototrophs. Together, these results illuminate the evolutionary diversification of PSI-LHCI supercomplexes and offer insights into the unique pigment-binding features of the Euglena light-harvesting system.</description>
+  <category>plant biology</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
+  <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Morph-specific selection pressures drive phenotypic divergence in a color polymorphic bird</title>
-  <dc:creator>Passarotto, A.</dc:creator>
-  <dc:creator>Lurig, M. D.</dc:creator>
-  <dc:creator>Aaltonen, E.</dc:creator>
-  <dc:creator>Karell, P.</dc:creator>
+  <title>Association of iridescence and tails with flight proxies suggests that predation drives convergence in skipper butterflies</title>
+  <dc:creator>Linke, D.</dc:creator>
+  <dc:creator>Debat, V.</dc:creator>
+  <dc:creator>Matos-Maravi, P.</dc:creator>
   <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>There is a long tradition of using heritable color polymorphisms in natural populations to study selection, gene flow, and other evolutionary processes. However, we still have only limited knowledge on how continuous color variation within genetically discrete morphs affects selective dynamics, which narrows our understanding of how color polymorphisms persist. Our comprehensive analysis of 43 years of plumage color scores from a bi-morphic Finnish population of tawny owls (Strix aluco) reveals that intra-morph variation is substantial, but also unexpectedly dynamic. We show that both morphs recently diverged in their plumage coloration: while the brown morph is on a steady trajectory toward more intense plumage pigmentation, the gray morph has recently shifted toward lighter plumage, following a series of extreme winters. Evidence suggests that this divergence is driven by the brown morph&#39;s higher reproductive success and greater plasticity in response to seasonality, while the gray morph, with its more genetically determined plumage color and limited standing variation, has a reduced capacity to respond to selection and track new phenotypic optima. Our study confirms the presence of substantial and dynamic phenotypic variation within genetically discrete color morphs, and demonstrates its relevance for the evolutionary potential of populations to respond to environmental change.</description>
+  <description>Phenotypic evolution is shaped by phylogenetic, ecological and biomechanical constraints. Butterfly wings offer an ideal system to explore these constraints as their evolution is strongly influenced by natural and sexual selection affecting colour patterns and wing shape in relation to visual signalling and flight performance. We focus on Eudamina skippers, butterflies with large-scale phenotypic convergences involving wing shape and colour pattern. Using a comprehensive morphometric dataset encompassing 176 species, we assess their morphological evolution in a phylogenetic framework. We show that hindwing tails and dorsal iridescence, proposed to signal high escape ability, have repeatedly evolved in tropical species. Hindwing tails are associated with intermediate body size, low wing loading and a forewing shape that facilitates manoeuvrability; iridescence is more common in large species with significantly high wing loading and aspect ratio, indicating high flight speed and manoeuvrability. The evolution of all tested morphometric traits is best described by Ornstein-Uhlenbeck models, indicating stabilising selection around fitness optima in Eudamina. Models testing for random drift or early burst dynamics were rejected in all cases. We reveal a clear co-evolution between the fore- and hindwing shapes, despite both wings having different functional constraints. Hindwing tails have a significant recurrent effect on forewing shape in lineages evolving them independently, suggesting the existence of evolutionary trade-offs between flight performance and antipredator defences. Our study shows that the convergent morphologies across Eudamina have likely arisen not by neutral evolution but by ecological selection influenced by biomechanical constraints.</description>
   <category>evolutionary biology</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
+  <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Disentangling the effect of heritability and plasticity on Populus fremontii leaf reflectance across a temperature gradient</title>
-  <dc:creator>Seeley, M. M.</dc:creator>
-  <dc:creator>Thomson, E.</dc:creator>
-  <dc:creator>Allan, G. J.</dc:creator>
-  <dc:creator>Whitham, T. G.</dc:creator>
-  <dc:creator>Hultine, K.</dc:creator>
-  <dc:creator>Cooper, H. F.</dc:creator>
-  <dc:creator>Wiebe, B. C.</dc:creator>
-  <dc:creator>Asner, G. P.</dc:creator>
-  <dc:creator>Corbin, J. P.</dc:creator>
-  <dc:creator>Doughty, C. E.</dc:creator>
+  <title>Monitoring Forest Foliar Moisture Using Sentinel-2 Reflectance and Radiative Transfer Model Inversion</title>
+  <dc:creator>Kotzur, I.</dc:creator>
+  <dc:creator>Boer, M.</dc:creator>
+  <dc:creator>Yebra, M.</dc:creator>
+  <dc:creator>Moore, B. D.</dc:creator>
   <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>We quantified the relative effect of plasticity and heritability on Populus fremontii (Fremont cottonwood) leaf reflectance using clonal replicates propagated from 16 populations and grown across three common gardens spanning a mean annual temperature gradient of 10.7-22.3{degrees}C. We used variance partitioning to decompose phenotypic variation expressed in the leaf spectra into genotypic versus environmental components and estimate broad-sense heritability and found that heritability was most strongly expressed in the red-edge (~680-750nm) and SWIR (~1400-3000nm). Support vector machine models predicted P. fremontii source population and garden location at 78% and 93% accuracy, respectively, demonstrating that genotypic and environmental variation can be differentiated from the same leaf spectra. However, model accuracy declined by ~49% when using leaf reflectance from any two common gardens to predict the source population at the third site. Prediction accuracies were lowest for the hottest site, which was linked to leaf stress responses in the visible and red-edge wavelengths (400-750nm). We conclude that leaf spectra display heritability and plasticity across different parts of the spectrum. When mapping in regions/seasons with extreme climates, spectral plasticity linked to heat stress can decrease spectral heritability but may offer opportunities to understand phenological responses to extreme temperatures at large scales.</description>
+  <description>Foliar moisture content (FMC) of forests canopies is important for understanding biodiversity, including animal habitat quality for forest-dependent fauna and forest fire risk. In this study, we modelled spatiotemporal variation in FMC using optical remote sensing. We inverted the PROSPECT and GEOSAIL Radiative Transfer Models (RTM) on Sentinel-2 satellite reflectance data of 20 m ground resolution to retrieve FMC, and then predicted FMC at sub-continental scales using a random forest (RF) regression emulation of the RTM model. An RTM look-up-table, from earlier work, was filtered by ecological criteria from 24 sites sampled along precipitation and canopy cover gradients and was inverted by using the spectral angle, as a merit function. The RF emulator allowed efficient computation and presentation of an extensive and fine-scale forest FMC data cube of interest in animal, fire and plant ecology. Our RTM-based, predictions of forest and woodland FMC had a root mean square error (RMSE) of 19.9% of dry matter content and explained more than 60% of variance (r2 = 0.62). This represents an improvement over previous models using reflectance data of coarser spatial resolution, particularly in terms of explained variance (r2=0.17 and RMSE=32%). The emulator model achieved similar performance to the RTM with slightly larger error (RMSE = 21.77%) and smaller explained variance (r2 = 0.54). Overall, both models performed best in forests, and woodlands of moderate to high canopy density (&gt; ~0.75 LAI). This study demonstrates that FMC can be monitored at spatial resolutions that allow intra- or inter-landscape patterns to be resolved surpassing previous capabilities.</description>
   <category>ecology</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
+  <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Iridescent structural coloration in a crested Cretaceous enantiornithine bird from Jehol Biota</title>
-  <dc:creator>LI, Z.</dc:creator>
-  <dc:creator>Hu, J.</dc:creator>
-  <dc:creator>Stidham, T.</dc:creator>
-  <dc:creator>Ye, M.</dc:creator>
-  <dc:creator>Wang, M.</dc:creator>
-  <dc:creator>Pan, Y.</dc:creator>
-  <dc:creator>Zhao, T.</dc:creator>
-  <dc:creator>Li, J.</dc:creator>
-  <dc:creator>Zhou, Z.</dc:creator>
-  <dc:creator>Clarke, J.</dc:creator>
+  <title>Bird species with color polymorphism have greater ecological success</title>
+  <dc:creator>Kazuya, H.</dc:creator>
+  <dc:creator>Sato, E.</dc:creator>
+  <dc:creator>Sekercioglu, C. H.</dc:creator>
+  <dc:creator>Noriyuki, S.</dc:creator>
+  <dc:creator>Takahashi, Y.</dc:creator>
   <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>A combination of sectioning and microscopy techniques, along with the application of finite-difference-time-domain modeling on a fossil feather, novelly results in the estimation of the range of iridescent colors from fossilized melanosomes preserved in the elongate head crest feathers of a new Cretaceous enantiornithine bird. The densely packed rod-like melanosomes yield are estimated to have yielded from red to deep blue iridescent coloration of the head feathers. The shape and density of these melanosome may have also further increased the feathers structural strength. This occurrence on a likely male individual is highly suggestive of both a signaling function of the iridescent crest, and a potential behavioral role in adjusting the angle of light incidence to control the display of this iridescent structural coloration.</description>
+  <description>The explanation of the variation in ecological success of species is one of the key challenges in ecology, evolutionary biology and conservation biology. Here, we discuss the function of polymorphism in body color which is one of the most conspicuous features of organisms strongly affecting the performance of species. We applied a phylogenetic comparative approach to assess whether body color polymorphisms contribute to species success in birds, reflected in distributional ranges, extinction risk, and current population trends. We compiled and analyzed a comprehensive global dataset that included the distribution, phylogeny, ecology and morphological traits of all extant bird species. Species with body color polymorphism showed larger distributional ranges, larger environmental ranges, lower risk of extinction, and more stable population trends. Our analyses suggest that the presence of color polymorphism contributes to avian species success at the global scale, especially reflected in lower extinction likelihood and better population trends.</description>
+  <category>ecology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Hawkmoths learn best without negative reinforcement in a differential colour association task</title>
+  <dc:creator>Manel, A. N.</dc:creator>
+  <dc:creator>Foster, J. J.</dc:creator>
+  <dc:creator>Stöckl, A.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Visual learning in insects can be strongly influenced by the underlying context and conditions. Improved colour learning has been demonstrated using differential conditioning with reward-aversion paradigms in insects like wasps, bumblebees, and honeybees, where substances that induce strong aversion, such as quinine, enable more accurate discrimination. Although learning outcomes of differential conditioning are closely tied to the perceived reward and aversion, few studies have compared the role of negative reinforcements in shaping associations, and their relevance across insect groups. In our study, we compare the role of aversive substances for differential in the hummingbird hawkmoth, Macroglossum stellatarum, a diurnal moth that relies on vision for foraging. Tying to previous learning studies in insects, we paired a sugar-rewarded target with a distractor that was paired with either quinine, salt, citric acid, water, or was presented with no aversive substance. Learning outcomes were compared by inverting a strong colour preference between perceptually close or distant colour pairs, to provide tasks with disparate challenges. Contrary to results from other insect species, we found that moths trained with quinine were worse at switching preferences between similar colours compared to training with citric acid and appetitive-only differential conditioning. We also show that quinine interferes with sucrose perception, potentially impairing target acquisition during training. Additionally, we link differences in learning arising from the negative reinforcements to their impact on exploration during foraging. Our results highlight the role of experience in modulating behaviour and discuss the importance of interpreting learning outcomes based on an animal&#39;s sensory ecology and foraging dynamics.</description>
+  <category>animal behavior and cognition</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Mechanism of PMC (2,2,5,7,8-pentamethyl-6-chromanol), a sterically hindered phenol antioxidant, in rescuing oxidized low-density lipoprotein-induced cytotoxicity in human retinal pigment epithelial cells</title>
+  <dc:creator>Chaudhary, S.</dc:creator>
+  <dc:creator>Moon, J.</dc:creator>
+  <dc:creator>Hu, Z.</dc:creator>
+  <dc:creator>Kriukov, E.</dc:creator>
+  <dc:creator>Pestun, S.</dc:creator>
+  <dc:creator>Baranov, P. Y.</dc:creator>
+  <dc:creator>Ng, Y.-S. E.</dc:creator>
+  <dc:creator>Damore, P. A.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Geographic atrophy or late stage dry age-related macular degeneration (AMD) is characterized by drusen deposition and progressive retinal pigment epithelium (RPE) degeneration, leading to irreversible vision loss. The formation of drusen leads to dyshomeostasis, oxidative stress and irreversible damage to RPE. In this study, we used an in vitro model of oxidized-low density lipoproteins (ox-LDL) induced human RPE damage/death model to investigate the mechanism whereby a sterically hindered phenol antioxidant compound, PMC (2,2,5,7,8-pentamethyl-6-chromanol) protects RPE against ox-LDL-induced damage. We show that PMC exerts its protective effect by preventing the upregulation of stress-responsive heme oxygenase-1 (HMOX1/HO-1) and NAD(P)H:quinone oxidoreductase (NQO1) at mRNA and protein levels. This effect was due to PMC mediated blockade of ROS generation, which in turn blocked nuclear translocation of the Nuclear factor erythroid 2-related factor 2 (Nrf2) transcription factor, ultimately preventing the upregulation of antioxidant response elements (ARE), including HMOX1 and NQO1. A key role for HO-1 was demonstrated when the protective effect of PMC was inhibited by the knockdown of HMOX1. Additionally, treatment of PMC under different experimental conditions and time points revealed that the continuous presence of PMC is required for optimal protection against ox-LDL-induced cytotoxicity, defining the cellular pharmacokinetics of the molecule. Our data demonstrate the involvement of a key antioxidant pathway through which PMC mitigates oxidative stress induced by ox-LDL and provides a potential therapeutic strategy to suppress RPE degeneration/damage during AMD progression.</description>
+  <category>molecular biology</category>
+  <category>confirmatory results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Sustained Lysosomal Delivery of Enhanced Cy3-Labeled Acid Nanoparticles Restores Lysosomal pH in Retinal Pigment Epithelial Cells and Astrocytes</title>
+  <dc:creator>Li, J.</dc:creator>
+  <dc:creator>Wang, T.</dc:creator>
+  <dc:creator>Lu, W.</dc:creator>
+  <dc:creator>Jishkariani, D.</dc:creator>
+  <dc:creator>Tsourkas, A.</dc:creator>
+  <dc:creator>Kaja, S.</dc:creator>
+  <dc:creator>Nair, R.</dc:creator>
+  <dc:creator>Dunaief, J.</dc:creator>
+  <dc:creator>Mitchell, C. H.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Lysosomal pH is frequently elevated in age-dependent neurodegenerations like Age-related Macular Degeneration (AMD), Alzheimer&#39;s Disease (AD), and Parkinson&#39;s Disease (PD). Tools that restore lysosomal pH to an optimal acidic range could enhance enzymatic degradation and reduce waste accumulation. Acidic nanoparticles offer a promising strategy for restoring lysosomal function, but accurate tracking of organelle delivery and long-term retention is needed to optimize dosage. To improve detection and enhance delivery, nanoparticles were synthesized from Poly(D,L-lactide-co-glycolide) (PLGA) polymers covalently linked to the fluorescent Cyanine3 amine (Cy3) probe. Nanoparticle concentration and loading times were optimized to achieve &gt;90% delivery to lysosomes in cultured induced pluripotent stem cell-derived retinal pigment epithelial (iPS-RPE) cells. Uptake was heterogeneous, varying between adjacent cells. Once loaded into lysosomes, the nanoparticles were stably retained, with no detectable changes in concentration, distribution, or size for at least 28 days. iPS-RPE cells internalized more nanoparticles than the ARPE-19 cell line or mouse optic nerve head astrocyte cultures. Functionally, PLGA nanoparticles restored an acidic pH and cathepsin D levels in compromised lysosomes. In summary, Cy3-PLGA nanoparticles enabled improved tracking and long-term delivery to lysosomes, supporting future in vivo applications to restore lysosomal pH in aging and degenerating tissues.</description>
+  <category>cell biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>ttc39bl, one of the two duplicated paralogs of the tetratricopeptide repeat domain 39B gene, is essential for carotenoid coloration in medaka (Oryzias latipes) and is the gene responsible for the r locus.</title>
+  <dc:creator>Kimura, T.</dc:creator>
+  <dc:creator>Inoue, I.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Body color plays key roles in fitness, communication with others, and hiding. In poikilothermal vertebrates, the body color is mainly determined by types and distributions of chromatophores. Among them, carotenoid color of xanthophores/erythrophores is important for interspecific diversity and colorful males as sexual dimorphism. Most vertebrates cannot synthesize carotenoids in their bodies and must ingest them from food. However, the genes involved in the uptake process are not fully understood. Therefore, we tried to identify the causal gene of the carotenoid color mutant of medaka. The HdrR-II1 strain used in the genome project has orange body color in males and white body color in females. The orange and white body color was known to be controlled by the sex-linked R locus, but the causal gene of this was unknown. In this study, we identified that the causal gene of the R locus is tetratricopeptide repeat domain 39b like (ttc39bl). In the HdrR-II1, the ttc39bl on the Y chromosome is normal, but the ttc39bl on the X chromosome has an 821 bases insertion in exon 3 and is broken. This insertion is also present on both the X and Y chromosomes of commercially available white medaka.</description>
+  <category>zoology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Quantifying Misuse of Color in Biological Research</title>
+  <dc:creator>Lin, T.-J.</dc:creator>
+  <dc:creator>Hillman, K.</dc:creator>
+  <dc:creator>Kim, L.</dc:creator>
+  <dc:creator>Garg, M.</dc:creator>
+  <dc:creator>Duong, M.</dc:creator>
+  <dc:creator>Landry, M. P.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Colors are widely used to report biological research data. Effective interpretation of colors relies on accurate, intuitive, and accessible colormaps that are properly labeled. Misuse of colormaps, such as using rainbow, mismatched, and other inaccessible colormaps, hinders reader interpretation. Despite their ubiquitous use to represent biological data, the prevalence of colormap misuse has not been quantified. Using established guidelines, we analyzed over 6,000 articles in 10 high-impact biological journals spanning 2020-2024 to quantify the prevalence of colormap use and misuse. Over 67% of articles contain at least one colormap, of which 81% contain some form of misuse. Among the over 11,000 acquired colormap-associated figures, 60% contain some form of misuse. Heatmaps, scatter plots, images, and image overlays are the most commonly used figures with colormaps. These statistics vary by journal but remain constant over time, demonstrating the urgent need to increase awareness and education about color-based data reporting guidelines.</description>
+  <category>scientific communication and education</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Take it or leaf it: bees learn leaf shape as a cue when flower color is easily learned</title>
+  <dc:creator>Castagna, A. M. T.</dc:creator>
+  <dc:creator>Burrow, J. K.</dc:creator>
+  <dc:creator>Stewart, C. G.</dc:creator>
+  <dc:creator>Russell, A. L.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Over a century of research has demonstrated that pollinators, such as bees, associatively learn diverse flower cues, including tactile, visual, and olfactory cues, to find food rewards. However, floral cues are not always reliable, as flowers of different plant species often differ in terms of the qualities of their food rewards, even when flower types resemble each other. At the same time, some non-floral traits, such as leaf shape, differ reliably among plant species and might be associatively learned by bees to improve foraging success. In this laboratory study, we tested whether generalist bees (Bombus impatiens) can (1) associatively learn differences in leaf shape to discriminate rewarding from unrewarding flowers and (2) rely more on differences in leaf shape when a flower color cue is harder to discriminate. We therefore assigned bees to either of two treatments: in one treatment, rewarding and unrewarding artificial targets (&quot;flowers&quot;) differed greatly in petal color, and in the other treatment, they differed little; each treatment&#39;s targets differed in leaf shape in the same way. As expected, bees learned significantly faster when flower petal colors were more dissimilar and thus relatively easier to discriminate. These bees also learned and recalled the correct combination of petal color and leaf shape. Yet when petal colors differed relatively little, bees had a much harder time learning petal color and did not show evidence of having remembered leaf shape. Our results demonstrate that leaf shape is a cue that foraging bees can learn to associate with a pollen food reward. However, leaf shape may be learned secondarily to, or only in combination with floral cues (such as petal color). We discuss evidence of compound learning and overshadowing and implications of our results for pollinator-mediated selection on non-floral plant traits.</description>
+  <category>animal behavior and cognition</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Pupil size correlates with near-threshold detection performance irrespective of stimulus colour, eccentricity, or retinal adaptation-state</title>
+  <dc:creator>Ruuskanen, V.</dc:creator>
+  <dc:creator>Mathot, S.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>In near-threshold detection tasks, larger pre-stimulus pupil size is associated with improved accuracy. However, previous studies have used black and white peripherally presented stimuli, leaving open the question of whether the relationship persists when targets differ in their colour or eccentricity. Across three experiments (in years 2022-2024), we tested a total of 124 participants while systematically varying the lighting conditions and target properties in a near-threshold detection task. Light conditions ranged from dark to dim to bright, with the dark condition including a period of dark-adaptation. Possible target colours were blue and red on a black background (dark condition), blue and red on a grey background (dim condition), or yellow and cyan on a white background (bright condition). Possible target eccentricities ranged from parafoveal to peripheral, in a continuous manner (experiment 3) or as two predefined near and far eccentricities (experiments 1 &amp; 2). Across all experiments we show that larger pre-stimulus pupil size is associated with improved performance. This large-pupil advantage is not modulated by the colour or eccentricity of the targets, the illumination of the testing room, or retinal adaptation-state. We conclude that the phenomenon is robust, indicating that pupil size affects vision in a behaviourally relevant manner, regardless of the exact conditions.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Redesigning petal shape, size, and color in soybean reveals unexpected phenotypes for floral organ development</title>
+  <dc:creator>Szeluga, N.</dc:creator>
+  <dc:creator>AlBader, N.</dc:creator>
+  <dc:creator>Pelletier, S.</dc:creator>
+  <dc:creator>Weis, K.</dc:creator>
+  <dc:creator>Johnson, A.</dc:creator>
+  <dc:creator>Fahlgren, N.</dc:creator>
+  <dc:creator>Neequaye, M.</dc:creator>
+  <dc:creator>Vogt, G.</dc:creator>
+  <dc:creator>DelPercio, R.</dc:creator>
+  <dc:creator>Baldrich, P.</dc:creator>
+  <dc:creator>Byers, K. J. R. P.</dc:creator>
+  <dc:creator>Meyers, B. C.</dc:creator>
+  <dc:creator>Frank, M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Soybean (Glycine max) has not yet benefited from large-scale hybrid breeding efforts due to its small, self-fertilizing flowers that are difficult to emasculate and limited attractiveness to pollinators. This study explores targeted floral trait engineering to enhance pollinator attraction, aiming to overcome barriers to soybean hybridization. We generated a high-resolution floral organ expression atlas and H3K4 trimethylation ChIP-Seq dataset to identify candidate genes involved in petal development, nectar sugar content, and petal pigmentation. Using CRISPR-based activation and repression systems, we modified the expression of AINTEGUMENTA (GmANT), BIGPETAL (GmBPE), and SUCROSE TRANSPORTER2 (GmSUC2). Contrary to expectations based on Arabidopsis homologs, transcriptional activation of GmANT_B and repression of GmBPE led to reduced, rather than increased, petal size, highlighting divergent regulatory mechanisms in soybean. Complementation of the W1 gene that controls petal pigmentation successfully converted white petals to purple, with preliminary evidence indicating that this color conversion may increase pollinator visitation. These results underscore the complexity of floral development in soybean and provide foundational tools and resources for future efforts to engineer reproductive traits for hybrid seed production.</description>
+  <category>plant biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The role of secondary pollinators in the evolution of complex colour signals in a bimodal pollination system</title>
+  <dc:creator>Khoury, K. L.</dc:creator>
+  <dc:creator>Agren, J.</dc:creator>
+  <dc:creator>Peter, C.</dc:creator>
+  <dc:creator>Sletvold, N.</dc:creator>
+  <dc:creator>Newman, E. L.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Flower colour is recognized as a key trait influencing pollinator visitation and behaviour, evolved to match the sensory system of a particular pollinator group. However, some flowers combine colours associated with different pollinators, suggesting bimodal adaptation. The perennial herb Cyrtanthus obliquus produces red corollas with yellow tips and is pollinated by birds, but also by bees. To assess the role of the two pollinator categories in shaping selection on the bi-coloured corollas, we examined bee choices in arrays in which the colour signals of plants had been manipulated, and we quantified total as well as bird-mediated phenotypic selection on flower colour using both bird and bee visual models. Bees preferred flowers with a yellow signal over all-red flowers. The analysis of phenotypic selection indicated that both birds and bees influence net selection on flower colour, resulting in conflicting selection on the colour contrast between corolla and corolla tip. Our findings show that the optimal phenotype should depend on the relative importance of the two categories of pollinators in a given population, and are consistent with bimodal adaptation. This study fills an important gap by showing that secondary pollinators can contribute to selection on complex colour signals in angiosperm flowers.</description>
   <category>evolutionary biology</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 07:41:47 GMT</pubDate>
+  <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A Standardized Method for Insect Color Analyses using Open Source Software: AInsectID Version 1.1 Color Merge</title>
+  <dc:creator>Sadia, H.</dc:creator>
+  <dc:creator>Muttaqin, S. S.</dc:creator>
+  <dc:creator>Alam, P.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The accurate representation of color is important in applications involving species identification. Environmental variations introduce inconsistencies in color perception, affecting the reliability of automated image processing algorithms. In previous work, we developed a hybrid algorithm, AInsectID Version 1.1 Color Merge, to overcome challenges posed by over-segmentation and under-segmentation in insect wing color clustering. We achieved this by using color differences between superpixels to measure homogeneity during the superpixels segmentation process. Nevertheless, our algorithm remains sensitive to environmental effects, affecting its performance and accuracy in color analyses. Here, we introduce a standard imaging method for insect species, as a pre-requisite to analysis in AInsectID Version 1.1 Color Merge. We systematically examine the effects of varying lighting conditions, angle of observation, and working distance in a controlled environment to assess their impact on the performance of the algorithm. We find that by meticulously controlling lighting, working distance, and lighting angle, we develop an evidence-based standard approach to imaging colors that is robust and repeatable. By following our standardized procedure, consistent color analyses are possible under varying environmental conditions. The method was tested using the Delta E2000 ({Delta}E) color difference metric with a threshold of 1, demonstrating that our standard approach maintains perceptual accuracy within the Just Noticeable Difference (JND) range, while improving the reliability of color analyses of insect wings in diverse environments. Finally, to validate the robustness of our standardization method, we evaluated the certainty of our results at different levels of confidence.</description>
+  <category>zoology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Movi Color: fast and accurate long-read classification with the move structure</title>
+  <dc:creator>Tan, S.</dc:creator>
+  <dc:creator>Majidian, S.</dc:creator>
+  <dc:creator>Langmead, B.</dc:creator>
+  <dc:creator>Zakeri, M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The number of reference genomes is rapidly increasing, thanks to advances in long-read sequencing and assembly. While these collections can improve the sensitivity and specificity of classification methods, this requires highly efficient compressed indexes. K-mer-based approaches like Kraken 2 are efficient but limit the analysis to a fixed k-mer length. This is hard for the user to set ahead of time, and suboptimal settings can harm sensitivity and specificity. Methods that use compressed full-text indexes like SPUMONI2 and Cliffy lift this constraint, but are less efficient than k-mer-based tools. Further, these methods either cannot report a full listing of genomes where a match occurs, or cannot scale to large reference databases. We propose new methods and algorithms that use compressed full-text indexes to enable multi class and taxonomic classification. Unlike past compressed-indexing methods for classification, ours uses the move structure, which is extremely fast thanks to its locality of reference. Our method, called Movi Color, augments the main table of the Movi index. Specifically, Movi Color assigns a &quot;color&quot; to each run of the Burrows-Wheeler Transform according to the subset of genomes from which the run suffixes originated. When the reference is highly repetitive, as is typical when indexing pangenomes or reference databases, only certain colors occur, creating opportunities to compress the index. For species-level classification, Movi Color achieves over 1.6x higher precision and 2x higher recall than Kraken 2 and Metabuli. At the genus level, it achieves 70% higher precision and 80% higher recall. Movi Color&#39;s read processing time is 7-20x faster than Metabuli and is comparable to Kraken 2. Although Movi Color uses more memory than both Kraken 2 and Metabuli,its speed-accuracy trade-off makes it well-suited for real-time or high-throughput scenarios.</description>
+  <category>bioinformatics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>High-throughput iNaturalist image analysis reveals flower color divergence in Monarda fistulosa</title>
+  <dc:creator>McKenzie, P. F.</dc:creator>
+  <dc:creator>Church, S. H.</dc:creator>
+  <dc:creator>Hopkins, R.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Characterizing patterns of trait variation across widespread species is a fundamental goal of natural history. Here we create a pipeline to analyze a large community science dataset and test hypothesized flower color divergence across the range of a widespread wildflower. Monarda fistulosa is a North American perennial that produces showy lavender inflorescences. Although previous literature suggests that the flowers of western M. fistulosa might display a deeper purple color than the eastern varieties, this divergence has not been assessed at scale. We process over 40,000 community science photographs of M. fistulosa to identify flowers and extract color. We demonstrate that the flowers of the montane western variety have lower lightness and higher chroma, corresponding to a deeper violet color, than those of eastern M. fistulosa. Our approach and validation provides a scalable framework for phenotyping community science images and enables analysis of geographic color variation in other widespread species.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A Spectral Image Scanning Microscope for Multi-Color High-Resolution Imaging</title>
+  <dc:creator>Bram, L.</dc:creator>
+  <dc:creator>Tal-Friedman, O.</dc:creator>
+  <dc:creator>Fibeesh, N.</dc:creator>
+  <dc:creator>Bar-Sinai, Y.</dc:creator>
+  <dc:creator>Flaxer, E.</dc:creator>
+  <dc:creator>Roichman, Y.</dc:creator>
+  <dc:creator>Ebenstein, Y.</dc:creator>
+  <dc:creator>Jeffet, J.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Fluorescence confocal microscopy is a fundamental and widely used tool for biological, medical, and chemical research. It enables color-coded visualization of sample components, enhancing our understanding of life&#39;s building blocks and their interactions. The recent realization of image scanning microscopy (ISM) using confocal spinning disks (CSD) enhanced the spatial resolution of fluorescence microscopy to twice the diffraction limit with minimal sample perturbation and fast acquisition rates. However, capturing multi-color images using ISM is still time-consuming and introduces temporal artifacts as different colors are not acquired simultaneously. Here, we present a spectral CSD-ISM system designed for concurrent high-resolution and simultaneous multi-color acquisition. By integrating a custom linear Amici prism into the CSD-ISM optical detection path, we achieve multi-color, super-resolution images at a fraction of the acquisition time and with a flexible color palette selection. A digital signal processor (DSP) is employed together with accompanying software as a cost-effective alternative to Field-Programmable Gate Arrays (FPGAs) used in previous studies. We provide an accompanying GPU-compatible, python-based image processing pipeline to decompose spectral signatures into multi-color channel-based images, preserving the optical resolution. System characterization using three color fluorescent beads demonstrated 1.74-fold resolution improvement over the diffraction limit and accurate color classification with three times faster acquisition compared to standard CSD-ISM. Application to neuron cells expressing a Parkinson&#39;s disease-associated mutation, showcased improved resolution and contrast of four distinctly labeled cellular components. This spectral CSD-ISM system provides a valuable tool for biological imaging, enabling the simultaneous acquisition of high-resolution spatial information and multi-color spectral data.</description>
+  <category>biophysics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sun, 18 May 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Lrrns define a visual circuit underlying brightness and contrast perception</title>
+  <dc:creator>Putti, E.</dc:creator>
+  <dc:creator>Faini, G.</dc:creator>
+  <dc:creator>Dang, J. T.-M.</dc:creator>
+  <dc:creator>Eggeler, F.</dc:creator>
+  <dc:creator>Savaliya, J. H.</dc:creator>
+  <dc:creator>Duroure, K.</dc:creator>
+  <dc:creator>Vougny, J.</dc:creator>
+  <dc:creator>Bahl, A.</dc:creator>
+  <dc:creator>Lichtman, J. W.</dc:creator>
+  <dc:creator>Engert, F.</dc:creator>
+  <dc:creator>Boulanger-Weill, J.</dc:creator>
+  <dc:creator>Del Bene, F.</dc:creator>
+  <dc:creator>Albadri, S.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Brightness and contrast are fundamental features of vision, crucial for object detection, environmental navigation, and feeding. Here, we identify a brightness- and contrast-processing circuit in the zebrafish visual system and uncover the role of Leucine-rich repeat neuronal (Lrrn) cell adhesion molecules (CAMs) in regulating its assembly. Deep-projecting retinal ganglion cells (RGCs) serve as the first synaptic relay to the brain requiring Lrrn2 and Lrrn3a for precise axonal targeting and connectivity within the optic tectum. Genetic targeting of these CAMs leads to circuit disorganization and impairments in contrast sensitivity, leading to deficits in visually guided behaviors. Additionally, ultrastructural circuit reconstruction and functional imaging analysis revealed their critical role in luminance processing. These studies define a fundamental visual processing pathway and establish Lrrn CAMs as essential molecular drivers of its assembly.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
