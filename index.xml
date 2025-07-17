@@ -10,7 +10,30 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.17</generator>
-<lastBuildDate>Mon, 14 Jul 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 16 Jul 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>mScarlet3-H with low brightness and fluorescence lifetime has potential for cellular lifetime-unmixing and lifetime-based pH-sensing applications</title>
+  <dc:creator>Gadella, T. W. J.</dc:creator>
+  <dc:creator>van Weeren, L.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>An independent evaluation of the spectroscopic properties, cellular performance, merits and pitfalls of the red fluorescent protein mScarlet3-H as compared to mScarlet3 is reported. mScarlet3-H was generated from mScarlet3 by a single M163H mutation. Purified mScarlet3-H is characterized by a molar coefficient of 79,040 M-1cm-1, a fluorescence quantum yield of 17.8%, molecular brightness of 14.1 and a heterogeneous multiexponential decay with an average fluorescence lifetime of 1 ns. Evaluation in living mammalian cells revealed a comparable maturation speed and efficiency of mScarlet3 and mScarlet3-H, but the overall cellular brightness of mScarlet3-H was 5-fold lower than that of mScarlet3. Photobleaching analysis in live cells revealed identical photobleaching kinetics of mScarlet3-H and mScarlet-H. The fluorescence intensity, fluorescence spectra and fluorescence lifetime of mScarlet3-H were found to be strongly pH-dependent between pH 4-8. The fluorescence lifetime increased from 1 ns to 3 ns in lowering the pH from 8 to 4 with a pK of ~6. The much lower lifetime of mScarlet3-H (~1 ns) as compared to mScarlet3 (~4 ns) allows dual fluorescence lifetime unmixing applications in single channel FLIM recordings in compartments with neutral to slightly alkaline pH. Furthermore, the strongly pH-dependent fluorescence lifetime of mScarlet3-H enables fluorescence lifetime-based pH sensing in a pH region between pH 5 to 7. Using this property, a pH of 6.5 was measured in the lumen of the Golgi system in living cells and motile endomembrane vesicles revealed pH values between 5.5 and 6. Also autophagy of the cytoplasm can be visualized by the pH-dependent fluorescence lifetime with mScarlet3-H accumulation in lysosomes. Potential useful applications and pitfalls regarding the special properties of mScarlet3-H are discussed.</description>
+  <category>cell biology</category>
+  <category>contradictory results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Volitional Attention to Color: Breaking Willed Attention out of the Spatial Domain</title>
+  <dc:creator>Nadra, J. G.</dc:creator>
+  <dc:creator>Sullivan, G.</dc:creator>
+  <dc:creator>Mangun, G. R.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Attention can be guided by either voluntary (top-down) or involuntary (bottom-up) influences. In real-world vision, voluntary attention can be directed by a wide range of influences such as reward, priming, meaning, experience, selection history, and volition. Laboratory studies of voluntary attention have commonly used attention-directing cues to induce or instruct human subjects to attend one class of stimuli while ignoring others. In recent years, free choice conditions of attention have been introduced, where self-generated volitional shifts of attention (willed attention) are possible (for a review, see Nadra &amp; Mangun, 2023). Prior willed attention studies have focused on mechanisms of covert spatial attention, investigating the neurophysiological correlates of willed attention related to both post-decision processing, and the pre-decision brain activity patterns that predict participants&#39; free choices about where to attend. Much less work, however, has been done on willed non-spatial attention. In this study, in a fashion similar to prior willed spatial attention studies, we investigated willed attention to stimulus color. In a trial-by-trial cueing design, subjects were either cued what color to attend or were allowed to freely choose what color to attend, in order to subsequently discriminate visual features of the cued or willfully chosen target. Behavioral measures showed that the subjects were selectively attending the cued or willed color. Using support vector machine decoding on EEG alpha (8-12 Hz) signals, we found significant post-decision differences in alpha-band power and broadband EEG voltage when participants chose to attend to orange versus purple. However, in contrast to the findings in prior work on willed spatial attention, no pre-decision EEG signals could be identified that predicted which color participants would choose to attend to.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>A common mechanism and multiple advantages of pigment loss underlie the convergent evolution of albinism in cave animals</title>
   <dc:creator>Bilandzija, H.</dc:creator>
@@ -259,45 +282,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A Spectral Image Scanning Microscope for Multi-Color High-Resolution Imaging</title>
-  <dc:creator>Bram, L.</dc:creator>
-  <dc:creator>Tal-Friedman, O.</dc:creator>
-  <dc:creator>Fibeesh, N.</dc:creator>
-  <dc:creator>Bar-Sinai, Y.</dc:creator>
-  <dc:creator>Flaxer, E.</dc:creator>
-  <dc:creator>Roichman, Y.</dc:creator>
-  <dc:creator>Ebenstein, Y.</dc:creator>
-  <dc:creator>Jeffet, J.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Fluorescence confocal microscopy is a fundamental and widely used tool for biological, medical, and chemical research. It enables color-coded visualization of sample components, enhancing our understanding of life&#39;s building blocks and their interactions. The recent realization of image scanning microscopy (ISM) using confocal spinning disks (CSD) enhanced the spatial resolution of fluorescence microscopy to twice the diffraction limit with minimal sample perturbation and fast acquisition rates. However, capturing multi-color images using ISM is still time-consuming and introduces temporal artifacts as different colors are not acquired simultaneously. Here, we present a spectral CSD-ISM system designed for concurrent high-resolution and simultaneous multi-color acquisition. By integrating a custom linear Amici prism into the CSD-ISM optical detection path, we achieve multi-color, super-resolution images at a fraction of the acquisition time and with a flexible color palette selection. A digital signal processor (DSP) is employed together with accompanying software as a cost-effective alternative to Field-Programmable Gate Arrays (FPGAs) used in previous studies. We provide an accompanying GPU-compatible, python-based image processing pipeline to decompose spectral signatures into multi-color channel-based images, preserving the optical resolution. System characterization using three color fluorescent beads demonstrated 1.74-fold resolution improvement over the diffraction limit and accurate color classification with three times faster acquisition compared to standard CSD-ISM. Application to neuron cells expressing a Parkinson&#39;s disease-associated mutation, showcased improved resolution and contrast of four distinctly labeled cellular components. This spectral CSD-ISM system provides a valuable tool for biological imaging, enabling the simultaneous acquisition of high-resolution spatial information and multi-color spectral data.</description>
-  <category>biophysics</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sun, 18 May 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Lrrns define a visual circuit underlying brightness and contrast perception</title>
-  <dc:creator>Putti, E.</dc:creator>
-  <dc:creator>Faini, G.</dc:creator>
-  <dc:creator>Dang, J. T.-M.</dc:creator>
-  <dc:creator>Eggeler, F.</dc:creator>
-  <dc:creator>Savaliya, J. H.</dc:creator>
-  <dc:creator>Duroure, K.</dc:creator>
-  <dc:creator>Vougny, J.</dc:creator>
-  <dc:creator>Bahl, A.</dc:creator>
-  <dc:creator>Lichtman, J. W.</dc:creator>
-  <dc:creator>Engert, F.</dc:creator>
-  <dc:creator>Boulanger-Weill, J.</dc:creator>
-  <dc:creator>Del Bene, F.</dc:creator>
-  <dc:creator>Albadri, S.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Brightness and contrast are fundamental features of vision, crucial for object detection, environmental navigation, and feeding. Here, we identify a brightness- and contrast-processing circuit in the zebrafish visual system and uncover the role of Leucine-rich repeat neuronal (Lrrn) cell adhesion molecules (CAMs) in regulating its assembly. Deep-projecting retinal ganglion cells (RGCs) serve as the first synaptic relay to the brain requiring Lrrn2 and Lrrn3a for precise axonal targeting and connectivity within the optic tectum. Genetic targeting of these CAMs leads to circuit disorganization and impairments in contrast sensitivity, leading to deficits in visually guided behaviors. Additionally, ultrastructural circuit reconstruction and functional imaging analysis revealed their critical role in luminance processing. These studies define a fundamental visual processing pathway and establish Lrrn CAMs as essential molecular drivers of its assembly.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
