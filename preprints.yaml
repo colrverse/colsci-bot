@@ -1,3 +1,73 @@
+- title: mScarlet3-H with low brightness and fluorescence lifetime has potential for
+    cellular lifetime-unmixing and lifetime-based pH-sensing applications
+  categories:
+  - cell biology
+  - contradictory results
+  license: CC NO
+  author:
+  - Gadella, T. W. J.
+  - van Weeren, L.
+  path: https://doi.org/10.1101/2025.07.15.664898
+  description: An independent evaluation of the spectroscopic properties, cellular
+    performance, merits and pitfalls of the red fluorescent protein mScarlet3-H as
+    compared to mScarlet3 is reported. mScarlet3-H was generated from mScarlet3 by
+    a single M163H mutation. Purified mScarlet3-H is characterized by a molar coefficient
+    of 79,040 M-1cm-1, a fluorescence quantum yield of 17.8%, molecular brightness
+    of 14.1 and a heterogeneous multiexponential decay with an average fluorescence
+    lifetime of 1 ns. Evaluation in living mammalian cells revealed a comparable maturation
+    speed and efficiency of mScarlet3 and mScarlet3-H, but the overall cellular brightness
+    of mScarlet3-H was 5-fold lower than that of mScarlet3. Photobleaching analysis
+    in live cells revealed identical photobleaching kinetics of mScarlet3-H and mScarlet-H.
+    The fluorescence intensity, fluorescence spectra and fluorescence lifetime of
+    mScarlet3-H were found to be strongly pH-dependent between pH 4-8. The fluorescence
+    lifetime increased from 1 ns to 3 ns in lowering the pH from 8 to 4 with a pK
+    of ~6. The much lower lifetime of mScarlet3-H (~1 ns) as compared to mScarlet3
+    (~4 ns) allows dual fluorescence lifetime unmixing applications in single channel
+    FLIM recordings in compartments with neutral to slightly alkaline pH. Furthermore,
+    the strongly pH-dependent fluorescence lifetime of mScarlet3-H enables fluorescence
+    lifetime-based pH sensing in a pH region between pH 5 to 7. Using this property,
+    a pH of 6.5 was measured in the lumen of the Golgi system in living cells and
+    motile endomembrane vesicles revealed pH values between 5.5 and 6. Also autophagy
+    of the cytoplasm can be visualized by the pH-dependent fluorescence lifetime with
+    mScarlet3-H accumulation in lysosomes. Potential useful applications and pitfalls
+    regarding the special properties of mScarlet3-H are discussed.
+  date: '2025-07-16'
+- title: 'Volitional Attention to Color: Breaking Willed Attention out of the Spatial
+    Domain'
+  categories:
+  - neuroscience
+  - new results
+  license: CC NO
+  author:
+  - Nadra, J. G.
+  - Sullivan, G.
+  - Mangun, G. R.
+  path: https://doi.org/10.1101/2025.07.10.664245
+  description: Attention can be guided by either voluntary (top-down) or involuntary
+    (bottom-up) influences. In real-world vision, voluntary attention can be directed
+    by a wide range of influences such as reward, priming, meaning, experience, selection
+    history, and volition. Laboratory studies of voluntary attention have commonly
+    used attention-directing cues to induce or instruct human subjects to attend one
+    class of stimuli while ignoring others. In recent years, free choice conditions
+    of attention have been introduced, where self-generated volitional shifts of attention
+    (willed attention) are possible (for a review, see Nadra & Mangun, 2023). Prior
+    willed attention studies have focused on mechanisms of covert spatial attention,
+    investigating the neurophysiological correlates of willed attention related to
+    both post-decision processing, and the pre-decision brain activity patterns that
+    predict participants' free choices about where to attend. Much less work, however,
+    has been done on willed non-spatial attention. In this study, in a fashion similar
+    to prior willed spatial attention studies, we investigated willed attention to
+    stimulus color. In a trial-by-trial cueing design, subjects were either cued what
+    color to attend or were allowed to freely choose what color to attend, in order
+    to subsequently discriminate visual features of the cued or willfully chosen target.
+    Behavioral measures showed that the subjects were selectively attending the cued
+    or willed color. Using support vector machine decoding on EEG alpha (8-12 Hz)
+    signals, we found significant post-decision differences in alpha-band power and
+    broadband EEG voltage when participants chose to attend to orange versus purple.
+    However, in contrast to the findings in prior work on willed spatial attention,
+    no pre-decision EEG signals could be identified that predicted which color participants
+    would choose to attend to.
+  date: '2025-07-16'
 - title: A common mechanism and multiple advantages of pigment loss underlie the convergent
     evolution of albinism in cave animals
   categories:
