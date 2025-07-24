@@ -10,7 +10,25 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.17</generator>
-<lastBuildDate>Mon, 21 Jul 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Jul 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>FLEXTAG: A Small and Self-renewable Protein Labeling System for Anti-fading Multi-color Super-resolution Imaging</title>
+  <dc:creator>Zhang, H.</dc:creator>
+  <dc:creator>Yao, Y.</dc:creator>
+  <dc:creator>Wang, X.</dc:creator>
+  <dc:creator>Tao, Y.</dc:creator>
+  <dc:creator>Yang, H.</dc:creator>
+  <dc:creator>Wang, Y.</dc:creator>
+  <dc:creator>Liu, M.</dc:creator>
+  <dc:creator>Feric, M.</dc:creator>
+  <dc:creator>Zhou, R.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Super-resolution fluorescence imaging enables visualization of subcellular structures and molecular interactions at the nanoscale, but its broader application has been hindered by long-standing limitations in current protein tagging systems, including rapid photobleaching, tag-induced artifacts, poor post-fixation labeling efficiency, and restricted multiplexing capability. Here, we present FLEXTAG (Fluorescent Labeling for Exchangeable, X-resilient Tagging in Advanced Generic Nanoscopy), a comprehensive protein labeling system comprising three orthogonal, ultrasmall (12-18 kDa), and self-renewable protein tags that collectively overcome these major limitations of existing tagging systems, enabling optimized multi-color super-resolution imaging. Through continuous exchange of organic fluorophores, FLEXTAG supports unprecedented durations of high-resolution imaging in both live and fixed cells with minimal photobleaching. It is compatible with major super-resolution modalities, such as SIM, STED, STORM, and PAINT, and is applicable to a wide range of subcellar targets. To further address fixation-induced labeling inefficiency and background fluorescence, we developed a novel protection-based fixation method and chemical blocking strategies that significantly preserve tag accessibility and enhance signal-to-noise ratio, improvements that are broadly applicable to other protein tagging systems. Altogether, FLEXTAG enables long-term tracking of dynamic behaviors and interactions of subcellular targets, as well as mapping of nanoscale protein organizations and cellular architecture, advancing both basic research and translational applications in cell biology.</description>
+  <category>bioengineering</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The Zika Virus Persistently Infects Retinal Pigment Epithelial Cells, Eliciting Limited Cytopathic Effects and Loss of Epithelial Characteristics Consistent with Epithelial-Mesenchymal Transition.</title>
   <dc:creator>EL SAFADI, D.</dc:creator>
@@ -276,18 +294,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A Standardized Method for Insect Color Analyses using Open Source Software: AInsectID Version 1.1 Color Merge</title>
-  <dc:creator>Sadia, H.</dc:creator>
-  <dc:creator>Muttaqin, S. S.</dc:creator>
-  <dc:creator>Alam, P.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The accurate representation of color is important in applications involving species identification. Environmental variations introduce inconsistencies in color perception, affecting the reliability of automated image processing algorithms. In previous work, we developed a hybrid algorithm, AInsectID Version 1.1 Color Merge, to overcome challenges posed by over-segmentation and under-segmentation in insect wing color clustering. We achieved this by using color differences between superpixels to measure homogeneity during the superpixels segmentation process. Nevertheless, our algorithm remains sensitive to environmental effects, affecting its performance and accuracy in color analyses. Here, we introduce a standard imaging method for insect species, as a pre-requisite to analysis in AInsectID Version 1.1 Color Merge. We systematically examine the effects of varying lighting conditions, angle of observation, and working distance in a controlled environment to assess their impact on the performance of the algorithm. We find that by meticulously controlling lighting, working distance, and lighting angle, we develop an evidence-based standard approach to imaging colors that is robust and repeatable. By following our standardized procedure, consistent color analyses are possible under varying environmental conditions. The method was tested using the Delta E2000 ({Delta}E) color difference metric with a threshold of 1, demonstrating that our standard approach maintains perceptual accuracy within the Just Noticeable Difference (JND) range, while improving the reliability of color analyses of insect wings in diverse environments. Finally, to validate the robustness of our standardization method, we evaluated the certainty of our results at different levels of confidence.</description>
-  <category>zoology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
