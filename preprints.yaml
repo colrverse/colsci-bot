@@ -1,3 +1,42 @@
+- title: 'FLEXTAG: A Small and Self-renewable Protein Labeling System for Anti-fading
+    Multi-color Super-resolution Imaging'
+  categories:
+  - bioengineering
+  - new results
+  license: CC BY-NC-ND
+  author:
+  - Zhang, H.
+  - Yao, Y.
+  - Wang, X.
+  - Tao, Y.
+  - Yang, H.
+  - Wang, Y.
+  - Liu, M.
+  - Feric, M.
+  - Zhou, R.
+  path: https://doi.org/10.1101/2025.07.19.665678
+  description: Super-resolution fluorescence imaging enables visualization of subcellular
+    structures and molecular interactions at the nanoscale, but its broader application
+    has been hindered by long-standing limitations in current protein tagging systems,
+    including rapid photobleaching, tag-induced artifacts, poor post-fixation labeling
+    efficiency, and restricted multiplexing capability. Here, we present FLEXTAG (Fluorescent
+    Labeling for Exchangeable, X-resilient Tagging in Advanced Generic Nanoscopy),
+    a comprehensive protein labeling system comprising three orthogonal, ultrasmall
+    (12-18 kDa), and self-renewable protein tags that collectively overcome these
+    major limitations of existing tagging systems, enabling optimized multi-color
+    super-resolution imaging. Through continuous exchange of organic fluorophores,
+    FLEXTAG supports unprecedented durations of high-resolution imaging in both live
+    and fixed cells with minimal photobleaching. It is compatible with major super-resolution
+    modalities, such as SIM, STED, STORM, and PAINT, and is applicable to a wide range
+    of subcellar targets. To further address fixation-induced labeling inefficiency
+    and background fluorescence, we developed a novel protection-based fixation method
+    and chemical blocking strategies that significantly preserve tag accessibility
+    and enhance signal-to-noise ratio, improvements that are broadly applicable to
+    other protein tagging systems. Altogether, FLEXTAG enables long-term tracking
+    of dynamic behaviors and interactions of subcellular targets, as well as mapping
+    of nanoscale protein organizations and cellular architecture, advancing both basic
+    research and translational applications in cell biology.
+  date: '2025-07-23'
 - title: The Zika Virus Persistently Infects Retinal Pigment Epithelial Cells, Eliciting
     Limited Cytopathic Effects and Loss of Epithelial Characteristics Consistent with
     Epithelial-Mesenchymal Transition.
