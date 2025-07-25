@@ -10,7 +10,20 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.17</generator>
-<lastBuildDate>Wed, 23 Jul 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Jul 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>A comparative GWAS of eye colour in light and dark eye genetic backgrounds defined by HERC2 rs12913832 polymorphism</title>
+  <dc:creator>Abbatangelo, C.</dc:creator>
+  <dc:creator>Lona Durazo, F.</dc:creator>
+  <dc:creator>Edwards, M.</dc:creator>
+  <dc:creator>Parra, E. J.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>rs12913832, a polymorphism located in an enhancer within the HERC2 gene, which is known to regulate OCA2 transcription, is heavily relied upon as a predictor of light versus dark eyes. Individuals with the GG genotype are projected to have blue eyes, while individuals with the AA or AG genotypes are projected to have darker eye colours (primarily brown). However, eye colour is a polygenic trait, and previous studies have revealed that a significant proportion of individuals self-report an eye colour that is not concordant with their genotype at rs12913832. Herein, we address the question: What common markers are influencing eye colour in individuals whose self-reported phenotype does not correspond to the expected phenotype based on their rs12913832 genotype. Building upon our prior investigation of iris pigmentation genetics in individuals with an expected &quot;blue eye&quot; background (rs12913832:GG genotype) in a sample of the Canadian Partnership for Tomorrows Health (CanPath) cohort, this study extends the analysis to include individuals with an expected &quot;brown eye&quot; background (rs12913832:AA+AG). We identified variants in SLC45A2, TYRP1, TYR, SLC24A4 and TSPAN10, which may influence eye colour presentation in individuals with the rs12913832:GG genotype and variants in IRF4, TYRP1 and OCA2, which may influence eye colour presentation in individuals with the rs12913832:AA+AG genotype. These markers include well-known pigmentation-associated single nucleotide polymorphisms, such as rs16891982 (SLC45A2), rs1126809 (TYR), rs12203592 (IRF4), rs1800407 (OCA2) and rs6420484 (TSPAN10). Several of these loci were replicated using independent quantitative eye colour measures, including heterochromia and CIELAB colour dimensions. This research highlights the importance of gene-gene interactions and the polygenic nature of pigmentation traits, emphasizing modifying effects that can sometimes counteract the dominant influence of rs12913832, contributing to advancements in pigmentation genetics and forensic applications.</description>
+  <category>genetics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>FLEXTAG: A Small and Self-renewable Protein Labeling System for Anti-fading Multi-color Super-resolution Imaging</title>
   <dc:creator>Zhang, H.</dc:creator>
@@ -280,20 +293,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The role of secondary pollinators in the evolution of complex colour signals in a bimodal pollination system</title>
-  <dc:creator>Khoury, K. L.</dc:creator>
-  <dc:creator>Agren, J.</dc:creator>
-  <dc:creator>Peter, C.</dc:creator>
-  <dc:creator>Sletvold, N.</dc:creator>
-  <dc:creator>Newman, E. L.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Flower colour is recognized as a key trait influencing pollinator visitation and behaviour, evolved to match the sensory system of a particular pollinator group. However, some flowers combine colours associated with different pollinators, suggesting bimodal adaptation. The perennial herb Cyrtanthus obliquus produces red corollas with yellow tips and is pollinated by birds, but also by bees. To assess the role of the two pollinator categories in shaping selection on the bi-coloured corollas, we examined bee choices in arrays in which the colour signals of plants had been manipulated, and we quantified total as well as bird-mediated phenotypic selection on flower colour using both bird and bee visual models. Bees preferred flowers with a yellow signal over all-red flowers. The analysis of phenotypic selection indicated that both birds and bees influence net selection on flower colour, resulting in conflicting selection on the colour contrast between corolla and corolla tip. Our findings show that the optimal phenotype should depend on the relative importance of the two categories of pollinators in a given population, and are consistent with bimodal adaptation. This study fills an important gap by showing that secondary pollinators can contribute to selection on complex colour signals in angiosperm flowers.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
