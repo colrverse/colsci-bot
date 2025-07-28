@@ -27,9 +27,12 @@ get_biorxiv <- function() {
     httr2::resps_data(function(resp) {
       httr2::resp_body_json(resp)$collection
     }) |>
-    # We have to convert NA otherwise we're trying to put a list() and
-    # NA_character_ in the same column, which bind_rows() refuses to do.
-    purrr::map(\(el) el$funding[is.na(el$funding)] <- NULL) |>
+    # NA are encoded as char "NA", which cause issues in the next step when
+    # trying to concatenate whatever with character ("NA").
+    purrr::map(\(el) {
+      el[el == "NA"] <- NA
+      return(el)
+    }) |>
     dplyr::bind_rows()
 
   preprints_v1 <- preprints[preprints$version == 1, ]
@@ -46,4 +49,4 @@ get_biorxiv <- function() {
   }
 
   return(relevant_preprints)
-}
+    }
