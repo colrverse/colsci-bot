@@ -1,3 +1,47 @@
+- title: Retinal pigment epithelium-derived PD-L1 reprograms microglial cells and
+    protects against retinal degeneration in mouse models of experimental AMD and
+    genetic retinitis pigmentosa
+  categories:
+  - genetics
+  - new results
+  license: CC NO
+  author:
+  - Su, Z.
+  - Wang, J.
+  - Lai, Q.
+  - Wang, Z.
+  - Liu, P.
+  - Tang, Z.
+  - Yu, H.
+  - Chen, Y.
+  - Ma, X.
+  - HOU, L.
+  path: https://doi.org/10.1101/2025.07.26.666839
+  description: Retinal degeneration is a leading cause of blindness and a significant
+    health burden during aging worldwide. Because of its complex pathogenic mechanisms,
+    however, effective interventions applicable to multiple retinal degenerations
+    remain limited. Excessive microglia-mediated inflammation is a common pathological
+    feature of different retinal degenerative diseases, and inhibiting these overactive
+    inflammatory responses by reprogramming microglia may provide a therapeutic strategy
+    with broad-spectrum potential. Here, we uncover a novel retinal pigment epithelium
+    (RPE) homeostatic signal, PD-L1, that drives the reprogramming of activated microglial
+    toward a retinal-protective phenotype. Using multiple analyses, including gene
+    expression profiling bioinformatics, adeno-associated virus-mediated RPE-specific
+    gene overexpression, pharmacological, and genetic manipulations, we show that
+    RPE cells upregulate the expression of PD-L1 to modulate microglia for protection
+    against retinal degeneration in an experimental dry AMD mouse model. Bioinformatics
+    enrichment analysis of the high-expression gene signatures of subretinal microglia
+    in AMD patients, combined with pharmacological blocking of NF-{kappa}B activity
+    or using Nlrp3 knockout mice, show that PD-L1/PD-1 signaling suppresses NF-{kappa}B
+    activation in microglia, thereby inhibiting NLRP3 inflammasome priming and attenuating
+    microglia-mediated excessive inflammation. Furthermore, the overexpression of
+    PD-L1 by the AAV8 virus exerts similar microglial reprogramming and retinal protective
+    effects to alleviate retinal degeneration in a preclinical model of retinitis
+    pigmentosa. These findings reveal that RPE-derived PD-L1 suppresses inflammatory
+    reprogramming of subretinal microglia and mitigates retinal degeneration, highlighting
+    a promising proof of concept for PD-L1 as a potential therapeutic target for the
+    broad treatment of retinal degenerative diseases.
+  date: '2025-07-31'
 - title: A comparative GWAS of eye colour in light and dark eye genetic backgrounds
     defined by HERC2 rs12913832 polymorphism
   categories:
