@@ -9,8 +9,39 @@
 <link>https://colrverse.github.io/colsci-bot/</link>
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.8.18</generator>
-<lastBuildDate>Thu, 31 Jul 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.19</generator>
+<lastBuildDate>Tue, 05 Aug 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Two mutations in the same MYC-bHLH transcription factor cause segregation of purple coloration of stolons and seed heads in Zoysia japonica x Zoysia matrella F2 and F1 populations</title>
+  <dc:creator>Pradhan, S.</dc:creator>
+  <dc:creator>Zhao, J.</dc:creator>
+  <dc:creator>Spiekerman, J. J.</dc:creator>
+  <dc:creator>Bennetzen, E.</dc:creator>
+  <dc:creator>Khanal, S.</dc:creator>
+  <dc:creator>Yu, X.</dc:creator>
+  <dc:creator>Milla-Lewis, S.</dc:creator>
+  <dc:creator>Conner, J.</dc:creator>
+  <dc:creator>Schwartz, B.</dc:creator>
+  <dc:creator>Devos, K. M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Anthocyanins play diverse roles in plants, including attracting pollinators and protecting cells from oxidative damage. In zoysiagrass, a warm season turfgrass, their accumulation in seed heads and stolons can decrease the aesthetic appeal. In this study, a high-density genetic map with ~8000 single nucleotide polymorphism (SNP) markers organized into 20 linkage groups was generated in a Zoysia japonica acc. Meyer x Zoysia matrella acc. PI 231146 F2 population. Using this genetic map, a large-effect quantitative trait locus (QTL) for anthocyanin variation in stolons and seed heads was mapped to chromosome 12 (PP locus). Variant analysis of a candidate gene for PP, Zjn_sc00004.1.g07010.1.sm.mk, which encodes a MYC-bHLH transcription factor that regulates anthocyanin biosynthesis, revealed a SNP at an exon-intron boundary in Meyer that led to intron retention. Interestingly, an F1 population derived from the same parents segregated for seed head color but uniformly displayed purple stolons. Seed head color in the F1 population co-mapped with the PP locus which, combined with genotypic and yeast two-hybrid analyses, revealed that a SNP in PI 231146 leading to an Ala163Ser substitution in the MYB-interacting N-terminal domain of the same MYC-bHLH transcription factor was likely causal. The Ala163Ser substitution affected interaction of MYC-bHLH with MYB in a MYB-dependent manner. The identified mutations can be exploited to develop cultivars with green seed heads and stolons. The high-marker-density interspecific Z. japonica x Z. matrella F2 genetic map also provides a robust tool for identifying genomic regions and genes of agronomic interest that differentiate the two species.</description>
+  <category>genetics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Colour and shape evolution reflect ecological specialisation in Pomacentridae</title>
+  <dc:creator>Jimenez, A. G.</dc:creator>
+  <dc:creator>Salamin, N.</dc:creator>
+  <dc:creator>Gaboriau, T.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>How ecological pressures shape phenotypic traits such as colouration and morphology is a fundamental question in evolutionary biology. Colouration often mediates functions such as communication, camouflage, and species recognition, while morphological traits influence locomotion, feeding, and habitat use. In reef fishes, both traits exhibit striking diversity, frequently shaped by ecological interactions. The damselfish family (Pomacentridae) exemplifies this variation, displaying a wide range of colouration, morphology, and ecological strategies, including dietary specialisation, mutualistic behaviours, and freshwater tolerance. In this study, we examined 342 Pomacentridae species using an integrative framework that combined colouration and morphometric analyses, ancestral state reconstructions of habitat, diet, and symbiosis, and Phylogenetic Comparative Methods (PCMs). Our goal was to assess how ecological factors have influenced the evolution of phenotypic traits and to identify patterns of convergence linked to ecological specialisation. We found repeated convergent evolution in both colouration and body shape, often associated with similar ecological pressures. Species with specialised diets exhibited consistent morphological adaptations, underscoring the role of trophic ecology in shaping body form. Additionally, we observed a strong association between habitat type and dominant colouration patterns, consistent with a camouflage function. These findings clarify the evolutionary processes driving phenotypic diversity in damselfishes and highlight the importance of ecological adaptation in shaping both morphology and colouration. Our work contributes to a broader understanding of how form and function evolve in response to ecological pressures in coral reef ecosystems.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Retinal pigment epithelium-derived PD-L1 reprograms microglial cells and protects against retinal degeneration in mouse models of experimental AMD and genetic retinitis pigmentosa</title>
   <dc:creator>Su, Z.</dc:creator>
@@ -266,30 +297,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Take it or leaf it: bees learn leaf shape as a cue when flower color is easily learned</title>
-  <dc:creator>Castagna, A. M. T.</dc:creator>
-  <dc:creator>Burrow, J. K.</dc:creator>
-  <dc:creator>Stewart, C. G.</dc:creator>
-  <dc:creator>Russell, A. L.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Over a century of research has demonstrated that pollinators, such as bees, associatively learn diverse flower cues, including tactile, visual, and olfactory cues, to find food rewards. However, floral cues are not always reliable, as flowers of different plant species often differ in terms of the qualities of their food rewards, even when flower types resemble each other. At the same time, some non-floral traits, such as leaf shape, differ reliably among plant species and might be associatively learned by bees to improve foraging success. In this laboratory study, we tested whether generalist bees (Bombus impatiens) can (1) associatively learn differences in leaf shape to discriminate rewarding from unrewarding flowers and (2) rely more on differences in leaf shape when a flower color cue is harder to discriminate. We therefore assigned bees to either of two treatments: in one treatment, rewarding and unrewarding artificial targets (&quot;flowers&quot;) differed greatly in petal color, and in the other treatment, they differed little; each treatment&#39;s targets differed in leaf shape in the same way. As expected, bees learned significantly faster when flower petal colors were more dissimilar and thus relatively easier to discriminate. These bees also learned and recalled the correct combination of petal color and leaf shape. Yet when petal colors differed relatively little, bees had a much harder time learning petal color and did not show evidence of having remembered leaf shape. Our results demonstrate that leaf shape is a cue that foraging bees can learn to associate with a pollen food reward. However, leaf shape may be learned secondarily to, or only in combination with floral cues (such as petal color). We discuss evidence of compound learning and overshadowing and implications of our results for pollinator-mediated selection on non-floral plant traits.</description>
-  <category>animal behavior and cognition</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Pupil size correlates with near-threshold detection performance irrespective of stimulus colour, eccentricity, or retinal adaptation-state</title>
-  <dc:creator>Ruuskanen, V.</dc:creator>
-  <dc:creator>Mathot, S.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>In near-threshold detection tasks, larger pre-stimulus pupil size is associated with improved accuracy. However, previous studies have used black and white peripherally presented stimuli, leaving open the question of whether the relationship persists when targets differ in their colour or eccentricity. Across three experiments (in years 2022-2024), we tested a total of 124 participants while systematically varying the lighting conditions and target properties in a near-threshold detection task. Light conditions ranged from dark to dim to bright, with the dark condition including a period of dark-adaptation. Possible target colours were blue and red on a black background (dark condition), blue and red on a grey background (dim condition), or yellow and cyan on a white background (bright condition). Possible target eccentricities ranged from parafoveal to peripheral, in a continuous manner (experiment 3) or as two predefined near and far eccentricities (experiments 1 &amp; 2). Across all experiments we show that larger pre-stimulus pupil size is associated with improved performance. This large-pupil advantage is not modulated by the colour or eccentricity of the targets, the illumination of the testing room, or retinal adaptation-state. We conclude that the phenomenon is robust, indicating that pupil size affects vision in a behaviourally relevant manner, regardless of the exact conditions.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
