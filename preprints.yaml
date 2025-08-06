@@ -1,3 +1,78 @@
+- title: Two mutations in the same MYC-bHLH transcription factor cause segregation
+    of purple coloration of stolons and seed heads in Zoysia japonica x Zoysia matrella
+    F2 and F1 populations
+  categories:
+  - genetics
+  - new results
+  license: CC BY-NC
+  author:
+  - Pradhan, S.
+  - Zhao, J.
+  - Spiekerman, J. J.
+  - Bennetzen, E.
+  - Khanal, S.
+  - Yu, X.
+  - Milla-Lewis, S.
+  - Conner, J.
+  - Schwartz, B.
+  - Devos, K. M.
+  path: https://doi.org/10.1101/2025.08.04.668483
+  description: Anthocyanins play diverse roles in plants, including attracting pollinators
+    and protecting cells from oxidative damage. In zoysiagrass, a warm season turfgrass,
+    their accumulation in seed heads and stolons can decrease the aesthetic appeal.
+    In this study, a high-density genetic map with ~8000 single nucleotide polymorphism
+    (SNP) markers organized into 20 linkage groups was generated in a Zoysia japonica
+    acc. Meyer x Zoysia matrella acc. PI 231146 F2 population. Using this genetic
+    map, a large-effect quantitative trait locus (QTL) for anthocyanin variation in
+    stolons and seed heads was mapped to chromosome 12 (PP locus). Variant analysis
+    of a candidate gene for PP, Zjn_sc00004.1.g07010.1.sm.mk, which encodes a MYC-bHLH
+    transcription factor that regulates anthocyanin biosynthesis, revealed a SNP at
+    an exon-intron boundary in Meyer that led to intron retention. Interestingly,
+    an F1 population derived from the same parents segregated for seed head color
+    but uniformly displayed purple stolons. Seed head color in the F1 population co-mapped
+    with the PP locus which, combined with genotypic and yeast two-hybrid analyses,
+    revealed that a SNP in PI 231146 leading to an Ala163Ser substitution in the MYB-interacting
+    N-terminal domain of the same MYC-bHLH transcription factor was likely causal.
+    The Ala163Ser substitution affected interaction of MYC-bHLH with MYB in a MYB-dependent
+    manner. The identified mutations can be exploited to develop cultivars with green
+    seed heads and stolons. The high-marker-density interspecific Z. japonica x Z.
+    matrella F2 genetic map also provides a robust tool for identifying genomic regions
+    and genes of agronomic interest that differentiate the two species.
+  date: '2025-08-05'
+- title: Colour and shape evolution reflect ecological specialisation in Pomacentridae
+  categories:
+  - evolutionary biology
+  - new results
+  license: CC BY
+  author:
+  - Jimenez, A. G.
+  - Salamin, N.
+  - Gaboriau, T.
+  path: https://doi.org/10.1101/2025.08.05.668455
+  description: How ecological pressures shape phenotypic traits such as colouration
+    and morphology is a fundamental question in evolutionary biology. Colouration
+    often mediates functions such as communication, camouflage, and species recognition,
+    while morphological traits influence locomotion, feeding, and habitat use. In
+    reef fishes, both traits exhibit striking diversity, frequently shaped by ecological
+    interactions. The damselfish family (Pomacentridae) exemplifies this variation,
+    displaying a wide range of colouration, morphology, and ecological strategies,
+    including dietary specialisation, mutualistic behaviours, and freshwater tolerance.
+    In this study, we examined 342 Pomacentridae species using an integrative framework
+    that combined colouration and morphometric analyses, ancestral state reconstructions
+    of habitat, diet, and symbiosis, and Phylogenetic Comparative Methods (PCMs).
+    Our goal was to assess how ecological factors have influenced the evolution of
+    phenotypic traits and to identify patterns of convergence linked to ecological
+    specialisation. We found repeated convergent evolution in both colouration and
+    body shape, often associated with similar ecological pressures. Species with specialised
+    diets exhibited consistent morphological adaptations, underscoring the role of
+    trophic ecology in shaping body form. Additionally, we observed a strong association
+    between habitat type and dominant colouration patterns, consistent with a camouflage
+    function. These findings clarify the evolutionary processes driving phenotypic
+    diversity in damselfishes and highlight the importance of ecological adaptation
+    in shaping both morphology and colouration. Our work contributes to a broader
+    understanding of how form and function evolve in response to ecological pressures
+    in coral reef ecosystems.
+  date: '2025-08-05'
 - title: Retinal pigment epithelium-derived PD-L1 reprograms microglial cells and
     protects against retinal degeneration in mouse models of experimental AMD and
     genetic retinitis pigmentosa
