@@ -10,7 +10,24 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.19</generator>
-<lastBuildDate>Tue, 05 Aug 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 07 Aug 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Sex-specific doublesex regulation targeting the color-patterning gene h underlies the evolution of wing sexual dimorphism in the harlequin ladybug Harmonia axyridis</title>
+  <dc:creator>Yeki, S.</dc:creator>
+  <dc:creator>Kato, K.</dc:creator>
+  <dc:creator>Morita, S.</dc:creator>
+  <dc:creator>Shimomura, K.</dc:creator>
+  <dc:creator>Niimi, T.</dc:creator>
+  <dc:creator>Hinomoto, N.</dc:creator>
+  <dc:creator>Daimon, T.</dc:creator>
+  <dc:creator>ANDO, T.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Organisms on Earth show various forms of sexual dimorphism, including ornaments, weapon traits, and pheromone glands, which has been acquired through sexual selection during evolution. Although the genetic basis of sexual trait has been investigated in diverse species, its evolutionary origin, evolutionary mode, and evolvability remain poorly understood. To address these issues, we investigated the strain-specific sexual dimorphism in elytral color patterns of the harlequin ladybug, Harmonia axyridis, a species with over 200 color morphs. The most basal Red-nSpots type color morph exhibits sexual dimorphism, whereas other derived color morphs have lost it. To investigate how this loss of sexual dimorphism is associated with the emergence of novel color morphs, we investigated the genetic basis of sexual dimorphism by focusing on the master sex differentiation gene, doublesex (dsx). We show that dsx regulates color pattern dimorphism by negatively modulating black spot size in males. This modulation is primarily mediated by the transcriptional regulation of the color patterning gene, h (Drosophila pannier ortholog). Intraspecific comparative ATAC-seq analysis of the pupal wings revealed that, at the h locus, not the absolute number of Dsx-binding motifs but the proportion of open chromatin regions containing Dsx-binding motifs relative to those lacking such motifs was reduced in strains that had lost sexual dimorphism and acquired novel color patterns, implying that sexual dimorphism evolves based on the balance between novel CREs and Dsx-binding motif density. The present study provides a fundamental molecular framework for understanding how a secondary sexual trait evolves within H. axyridis.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Two mutations in the same MYC-bHLH transcription factor cause segregation of purple coloration of stolons and seed heads in Zoysia japonica x Zoysia matrella F2 and F1 populations</title>
   <dc:creator>Pradhan, S.</dc:creator>
@@ -282,21 +299,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Quantifying Misuse of Color in Biological Research</title>
-  <dc:creator>Lin, T.-J.</dc:creator>
-  <dc:creator>Hillman, K.</dc:creator>
-  <dc:creator>Kim, L.</dc:creator>
-  <dc:creator>Garg, M.</dc:creator>
-  <dc:creator>Duong, M.</dc:creator>
-  <dc:creator>Landry, M. P.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Colors are widely used to report biological research data. Effective interpretation of colors relies on accurate, intuitive, and accessible colormaps that are properly labeled. Misuse of colormaps, such as using rainbow, mismatched, and other inaccessible colormaps, hinders reader interpretation. Despite their ubiquitous use to represent biological data, the prevalence of colormap misuse has not been quantified. Using established guidelines, we analyzed over 6,000 articles in 10 high-impact biological journals spanning 2020-2024 to quantify the prevalence of colormap use and misuse. Over 67% of articles contain at least one colormap, of which 81% contain some form of misuse. Among the over 11,000 acquired colormap-associated figures, 60% contain some form of misuse. Heatmaps, scatter plots, images, and image overlays are the most commonly used figures with colormaps. These statistics vary by journal but remain constant over time, demonstrating the urgent need to increase awareness and education about color-based data reporting guidelines.</description>
-  <category>scientific communication and education</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
