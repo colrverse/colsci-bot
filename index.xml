@@ -10,7 +10,24 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.21</generator>
-<lastBuildDate>Thu, 07 Aug 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 22 Aug 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Anti-vitronectin single-chain variable fragment targeting the hemopexin-like domain decreases age-related macular degeneration indicators in ex vivo models of the retinal pigment epithelium</title>
+  <dc:creator>Kim, J. W.</dc:creator>
+  <dc:creator>Meyer, S.</dc:creator>
+  <dc:creator>Lopez, B.</dc:creator>
+  <dc:creator>Faynus, M.</dc:creator>
+  <dc:creator>Johnson, L. V.</dc:creator>
+  <dc:creator>Hemmati, H.</dc:creator>
+  <dc:creator>Clegg, D. O.</dc:creator>
+  <dc:creator>Min, H.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Vitronectin is a prominent constituent of the extracelluar matrix (ECM) that plays a key role in inflammation by regulating cell adhesion, migration, and complement activation. Together with other inflammatory biomarkers, lipids, and hydroxyapatite, an ECM component, vitronectin, accumulates in abnormal deposits and drusen associated with age-related macular degeneration (AMD). Using an engineered polypeptide (VnHX) containing the hexmopexin-like domain (HX) of vitronectin, we found that the HX domain directly promotes hydroxyapatite (HAP) accumulation. Next, we screened humanized single-chain variable fragments (scFvs) against vitronectin that inhibit the interaction between VnHX and HAP, leveraging the binding of VnHX to HAP. We then tested these scFvs for their ability to block Vn-containg deposits secreted by stem cell-derived retinal pigment epithelium (RPE). In this in vitro drusen model, treatment with the anti-vitronectin antibodies decreased vitronectin accumulation. Furthermore, the antibody treatment led to decreased accumulation of C5b-9 and clusterin, indicating alterations in the complement pathway and cellular stress. These results support that vitronectin has a functional role drusen accumulation and possibly in AMD progression. Vitronectin would be a novel, promising therapeutic target for AMD.</description>
+  <category>cell biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Sex-specific doublesex regulation targeting the color-patterning gene h underlies the evolution of wing sexual dimorphism in the harlequin ladybug Harmonia axyridis</title>
   <dc:creator>Yeki, S.</dc:creator>
@@ -285,17 +302,6 @@
   <link>https://colrverse.github.io/colsci-bot/</link>
   <description>Lysosomal pH is frequently elevated in age-dependent neurodegenerations like Age-related Macular Degeneration (AMD), Alzheimer&#39;s Disease (AD), and Parkinson&#39;s Disease (PD). Tools that restore lysosomal pH to an optimal acidic range could enhance enzymatic degradation and reduce waste accumulation. Acidic nanoparticles offer a promising strategy for restoring lysosomal function, but accurate tracking of organelle delivery and long-term retention is needed to optimize dosage. To improve detection and enhance delivery, nanoparticles were synthesized from Poly(D,L-lactide-co-glycolide) (PLGA) polymers covalently linked to the fluorescent Cyanine3 amine (Cy3) probe. Nanoparticle concentration and loading times were optimized to achieve &gt;90% delivery to lysosomes in cultured induced pluripotent stem cell-derived retinal pigment epithelial (iPS-RPE) cells. Uptake was heterogeneous, varying between adjacent cells. Once loaded into lysosomes, the nanoparticles were stably retained, with no detectable changes in concentration, distribution, or size for at least 28 days. iPS-RPE cells internalized more nanoparticles than the ARPE-19 cell line or mouse optic nerve head astrocyte cultures. Functionally, PLGA nanoparticles restored an acidic pH and cathepsin D levels in compromised lysosomes. In summary, Cy3-PLGA nanoparticles enabled improved tracking and long-term delivery to lysosomes, supporting future in vivo applications to restore lysosomal pH in aging and degenerating tissues.</description>
   <category>cell biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>ttc39bl, one of the two duplicated paralogs of the tetratricopeptide repeat domain 39B gene, is essential for carotenoid coloration in medaka (Oryzias latipes) and is the gene responsible for the r locus.</title>
-  <dc:creator>Kimura, T.</dc:creator>
-  <dc:creator>Inoue, I.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Body color plays key roles in fitness, communication with others, and hiding. In poikilothermal vertebrates, the body color is mainly determined by types and distributions of chromatophores. Among them, carotenoid color of xanthophores/erythrophores is important for interspecific diversity and colorful males as sexual dimorphism. Most vertebrates cannot synthesize carotenoids in their bodies and must ingest them from food. However, the genes involved in the uptake process are not fully understood. Therefore, we tried to identify the causal gene of the carotenoid color mutant of medaka. The HdrR-II1 strain used in the genome project has orange body color in males and white body color in females. The orange and white body color was known to be controlled by the sex-linked R locus, but the causal gene of this was unknown. In this study, we identified that the causal gene of the R locus is tetratricopeptide repeat domain 39b like (ttc39bl). In the HdrR-II1, the ttc39bl on the Y chromosome is normal, but the ttc39bl on the X chromosome has an 821 bases insertion in exon 3 and is broken. This insertion is also present on both the X and Y chromosomes of commercially available white medaka.</description>
-  <category>zoology</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
