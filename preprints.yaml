@@ -1,3 +1,38 @@
+- title: Anti-vitronectin single-chain variable fragment targeting the hemopexin-like
+    domain decreases age-related macular degeneration indicators in ex vivo models
+    of the retinal pigment epithelium
+  categories:
+  - cell biology
+  - new results
+  license: CC NO
+  author:
+  - Kim, J. W.
+  - Meyer, S.
+  - Lopez, B.
+  - Faynus, M.
+  - Johnson, L. V.
+  - Hemmati, H.
+  - Clegg, D. O.
+  - Min, H.
+  path: https://doi.org/10.1101/2025.08.18.670968
+  description: Vitronectin is a prominent constituent of the extracelluar matrix (ECM)
+    that plays a key role in inflammation by regulating cell adhesion, migration,
+    and complement activation. Together with other inflammatory biomarkers, lipids,
+    and hydroxyapatite, an ECM component, vitronectin, accumulates in abnormal deposits
+    and drusen associated with age-related macular degeneration (AMD). Using an engineered
+    polypeptide (VnHX) containing the hexmopexin-like domain (HX) of vitronectin,
+    we found that the HX domain directly promotes hydroxyapatite (HAP) accumulation.
+    Next, we screened humanized single-chain variable fragments (scFvs) against vitronectin
+    that inhibit the interaction between VnHX and HAP, leveraging the binding of VnHX
+    to HAP. We then tested these scFvs for their ability to block Vn-containg deposits
+    secreted by stem cell-derived retinal pigment epithelium (RPE). In this in vitro
+    drusen model, treatment with the anti-vitronectin antibodies decreased vitronectin
+    accumulation. Furthermore, the antibody treatment led to decreased accumulation
+    of C5b-9 and clusterin, indicating alterations in the complement pathway and cellular
+    stress. These results support that vitronectin has a functional role drusen accumulation
+    and possibly in AMD progression. Vitronectin would be a novel, promising therapeutic
+    target for AMD.
+  date: '2025-08-22'
 - title: Sex-specific doublesex regulation targeting the color-patterning gene h underlies
     the evolution of wing sexual dimorphism in the harlequin ladybug Harmonia axyridis
   categories:
