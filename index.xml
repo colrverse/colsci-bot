@@ -10,7 +10,33 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.21</generator>
-<lastBuildDate>Fri, 22 Aug 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 25 Aug 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Cell-cell communication as underlying principle governing color pattern formation in fishes</title>
+  <dc:creator>Klann, M.</dc:creator>
+  <dc:creator>Miura, S.</dc:creator>
+  <dc:creator>Lee, S.-H.</dc:creator>
+  <dc:creator>Vianello, S. D.</dc:creator>
+  <dc:creator>Ross, R.</dc:creator>
+  <dc:creator>Watanabe, M.</dc:creator>
+  <dc:creator>Gairin, E.</dc:creator>
+  <dc:creator>Liang, Y.</dc:creator>
+  <dc:creator>Hutto, H. W.</dc:creator>
+  <dc:creator>McCluskey, B. M.</dc:creator>
+  <dc:creator>Herrera, M.</dc:creator>
+  <dc:creator>Solnica-Krezel, L.</dc:creator>
+  <dc:creator>Besseau, L.</dc:creator>
+  <dc:creator>Pigolotti, S.</dc:creator>
+  <dc:creator>Parichy, D. M.</dc:creator>
+  <dc:creator>Kinoshita, M.</dc:creator>
+  <dc:creator>Laudet, V.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The diverse pigmentation patterns of animals are crucial for predation avoidance and behavioral display, yet mechanisms underlying this diversity remain poorly understood. In zebrafish, Turing models have been proposed to explain stripe patterns, but it is unclear if they apply to other fishes. In anemonefish (Amphiprion ocellaris), we identified gja5b, a gene orthologous to zebrafish leopard and encoding a connexin involved in pigment cell communication, as responsible for the Snowflake phenotype. Using CRISPR/Cas9 and transgenesis, we recapitulate the Snowflake phenotype and show expression of gja5b in iridophores. A matching allele was recovered in zebrafish, revealing complementary requirements in both species. Our findings highlight conserved roles of gap junction mediated communication in pigment patterning across divergent teleosts.</description>
+  <category>developmental biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Anti-vitronectin single-chain variable fragment targeting the hemopexin-like domain decreases age-related macular degeneration indicators in ex vivo models of the retinal pigment epithelium</title>
   <dc:creator>Kim, J. W.</dc:creator>
@@ -287,24 +313,6 @@
   <category>confirmatory results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Sustained Lysosomal Delivery of Enhanced Cy3-Labeled Acid Nanoparticles Restores Lysosomal pH in Retinal Pigment Epithelial Cells and Astrocytes</title>
-  <dc:creator>Li, J.</dc:creator>
-  <dc:creator>Wang, T.</dc:creator>
-  <dc:creator>Lu, W.</dc:creator>
-  <dc:creator>Jishkariani, D.</dc:creator>
-  <dc:creator>Tsourkas, A.</dc:creator>
-  <dc:creator>Kaja, S.</dc:creator>
-  <dc:creator>Nair, R.</dc:creator>
-  <dc:creator>Dunaief, J.</dc:creator>
-  <dc:creator>Mitchell, C. H.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Lysosomal pH is frequently elevated in age-dependent neurodegenerations like Age-related Macular Degeneration (AMD), Alzheimer&#39;s Disease (AD), and Parkinson&#39;s Disease (PD). Tools that restore lysosomal pH to an optimal acidic range could enhance enzymatic degradation and reduce waste accumulation. Acidic nanoparticles offer a promising strategy for restoring lysosomal function, but accurate tracking of organelle delivery and long-term retention is needed to optimize dosage. To improve detection and enhance delivery, nanoparticles were synthesized from Poly(D,L-lactide-co-glycolide) (PLGA) polymers covalently linked to the fluorescent Cyanine3 amine (Cy3) probe. Nanoparticle concentration and loading times were optimized to achieve &gt;90% delivery to lysosomes in cultured induced pluripotent stem cell-derived retinal pigment epithelial (iPS-RPE) cells. Uptake was heterogeneous, varying between adjacent cells. Once loaded into lysosomes, the nanoparticles were stably retained, with no detectable changes in concentration, distribution, or size for at least 28 days. iPS-RPE cells internalized more nanoparticles than the ARPE-19 cell line or mouse optic nerve head astrocyte cultures. Functionally, PLGA nanoparticles restored an acidic pH and cathepsin D levels in compromised lysosomes. In summary, Cy3-PLGA nanoparticles enabled improved tracking and long-term delivery to lysosomes, supporting future in vivo applications to restore lysosomal pH in aging and degenerating tissues.</description>
-  <category>cell biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
