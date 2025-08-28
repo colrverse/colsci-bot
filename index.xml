@@ -10,7 +10,21 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.21</generator>
-<lastBuildDate>Mon, 25 Aug 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 Aug 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Sigma-2 Receptor Modulators Alter Low-density Lipoprotein Receptor-mediated Lipid Uptake in Retinal Pigment Epithelial Cells</title>
+  <dc:creator>Lizama, B. N.</dc:creator>
+  <dc:creator>Reaver, A.</dc:creator>
+  <dc:creator>Look, G.</dc:creator>
+  <dc:creator>Caggiano, A. O.</dc:creator>
+  <dc:creator>Hamby, M. E.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Lipid and photoreceptor outer segment (POS) trafficking and digestion are important homeostatic functions of retinal pigment epithelial (RPE) cells, the primary cell type that degenerates in late-stage dry AMD preceded by extracellular drusen deposits of lipids and proteins. The sigma-2 receptor (S2R, TMEM97) interacts with proteins involved in lipid trafficking, such as low-density lipoprotein receptor (LDLR), which is the primary receptor for LDL-cholesterol uptake in the retina. Preclinical studies demonstrate the necessity of S2R in protecting the retina and other nervous system tissues, and loss of either S2R or LDLR has been shown to exacerbate RPE cell death and visual dysfunction. Targeting the regulatory receptors of lipid and protein trafficking functions in RPE cells represents a tractable therapeutic strategy for dry AMD. We previously demonstrated that small molecule modulators of S2R can rescue RPE POS trafficking deficits induced by exogenous stressors. Given that disruption in lipid homeostasis is a key factor in dry AMD pathogenesis and S2R interacts with LDLR, we hypothesized that LDLR-mediated lipid trafficking in RPE could be altered using S2R-targeting small molecules. In this study, RPE cells treated with S2R modulators increased LDL uptake, assessed using fluorescently-labeled LDL, compared to vehicle-treatment. Lentiviral shRNAs to reduce TMEM97 or LDLR expression, or a neutralizing blocking antibody against LDLR, reduced S2R modulator-mediated LDL uptake, confirming the requirement of TMEM97 and LDLR for S2R modulator effects. Together, these data elaborate on a potential mechanism that may underlie the favorable reduction in geographic atrophy lesion size found in participants treated with the S2R modulator zervimensine in the Ph2 clinical trial MAGNIFY in patients with geographic atrophy (COG2201, NCT05893537).</description>
+  <category>cell biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Cell-cell communication as underlying principle governing color pattern formation in fishes</title>
   <dc:creator>Klann, M.</dc:creator>
@@ -296,23 +310,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Mechanism of PMC (2,2,5,7,8-pentamethyl-6-chromanol), a sterically hindered phenol antioxidant, in rescuing oxidized low-density lipoprotein-induced cytotoxicity in human retinal pigment epithelial cells</title>
-  <dc:creator>Chaudhary, S.</dc:creator>
-  <dc:creator>Moon, J.</dc:creator>
-  <dc:creator>Hu, Z.</dc:creator>
-  <dc:creator>Kriukov, E.</dc:creator>
-  <dc:creator>Pestun, S.</dc:creator>
-  <dc:creator>Baranov, P. Y.</dc:creator>
-  <dc:creator>Ng, Y.-S. E.</dc:creator>
-  <dc:creator>Damore, P. A.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Geographic atrophy or late stage dry age-related macular degeneration (AMD) is characterized by drusen deposition and progressive retinal pigment epithelium (RPE) degeneration, leading to irreversible vision loss. The formation of drusen leads to dyshomeostasis, oxidative stress and irreversible damage to RPE. In this study, we used an in vitro model of oxidized-low density lipoproteins (ox-LDL) induced human RPE damage/death model to investigate the mechanism whereby a sterically hindered phenol antioxidant compound, PMC (2,2,5,7,8-pentamethyl-6-chromanol) protects RPE against ox-LDL-induced damage. We show that PMC exerts its protective effect by preventing the upregulation of stress-responsive heme oxygenase-1 (HMOX1/HO-1) and NAD(P)H:quinone oxidoreductase (NQO1) at mRNA and protein levels. This effect was due to PMC mediated blockade of ROS generation, which in turn blocked nuclear translocation of the Nuclear factor erythroid 2-related factor 2 (Nrf2) transcription factor, ultimately preventing the upregulation of antioxidant response elements (ARE), including HMOX1 and NQO1. A key role for HO-1 was demonstrated when the protective effect of PMC was inhibited by the knockdown of HMOX1. Additionally, treatment of PMC under different experimental conditions and time points revealed that the continuous presence of PMC is required for optimal protection against ox-LDL-induced cytotoxicity, defining the cellular pharmacokinetics of the molecule. Our data demonstrate the involvement of a key antioxidant pathway through which PMC mitigates oxidative stress induced by ox-LDL and provides a potential therapeutic strategy to suppress RPE degeneration/damage during AMD progression.</description>
-  <category>molecular biology</category>
-  <category>confirmatory results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
