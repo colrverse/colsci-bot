@@ -10,7 +10,38 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.21</generator>
-<lastBuildDate>Wed, 27 Aug 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 Aug 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Combined multi-color immunofluorescence staining and spatial in situ mRNA expression analysis identifies potential fibrosis drivers in acute lymphoblastic leukemia</title>
+  <dc:creator>Braunig, S.</dc:creator>
+  <dc:creator>Dencker, C.</dc:creator>
+  <dc:creator>Vo, D. N.</dc:creator>
+  <dc:creator>Fan, R.</dc:creator>
+  <dc:creator>Sierras, A. L.</dc:creator>
+  <dc:creator>Enoksson, J.</dc:creator>
+  <dc:creator>Hultquist, A.</dc:creator>
+  <dc:creator>Li, H.</dc:creator>
+  <dc:creator>Scheding, S.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Acute lymphoblastic leukemia (ALL) is the most prevalent childhood cancer. Bone marrow (BM) fibrosis in ALL has been associated with adverse outcomes, however, little is known about the mechanisms that cause fibrosis in ALL. Therefore, we established a novel and advanced analysis method by combining multi-color immunofluorescence staining with in-situ RNA expression analysis (RNAscope) investigate the spatial expression of putative fibrotic drivers in ALL bone marrows. We analyzed standard BM biopsies from pediatric ALL patients. Sequential 5-color immunofluorescence (IF) staining with CD45, CD271, CD31, CD34 and DAPI was used to identify different BM cell types. Combined RNAscope and IF staining was established for spatial mRNA expression analysis of transforming growth factor beta 1 (TGFB1) and platelet-derived growth factor alpha 1 (PDGFA1), which are known to play major roles in primary myelofibrosis (PMF). PMF and normal BM samples served as controls. As expected, ALL bone marrows showed high cellularities and prominent populations of blast cells. CD271+ MSC density was increased in ALL and was associated with fibrosis in a similar manner as observed for PMF. TGFB1 and PDGFA1 expression was considerably increased in ALL megakaryocytes (MKs) compared to PMF patients and normal controls. Furthermore, MK TGFB1 and PDGFA1 expression intensities in fibrotic ALL correlated with fibrosis grade. TGFB1 and PDGFA1 were also expressed in leukemic blasts, however at lower intensities compared to ALL MKs. Taken together, advanced in-situ RNA and IF staining not only revealed increased expression of TGFB1 and PDGFA1 in fibrotic pediatric ALL, but also identified ALL blasts and MKs as their cellular origin at the single cell level. These novel data strongly suggest a role of these cytokines as potential fibrosis drivers in ALL. More broadly, our findings demonstrate that combined RNA and surface marker analysis is a powerful tool to provide new and valuable insights into bone marrow pathophysiology.</description>
+  <category>cell biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>RPEGENE-Net: A Multi-Resolution Deep Learning Framework for Predicting Gene Expression from Microscopy Images of Retinal Pigment Epithelium (RPE) Cells</title>
+  <dc:creator>Nowroozzadeh, M. H.</dc:creator>
+  <dc:creator>Taghinezhad, N.</dc:creator>
+  <dc:creator>Mahmoudi, T.</dc:creator>
+  <dc:creator>Sanie-Jahromi, F.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Abstract Purpose: To develop a deep learning framework, RPEGENE-Net, capable of predicting gene expression profiles of retinal pigment epithelium (RPE) cells using live-cell microscopy images. Methods: A dataset of live-cell images of RPE cells, treated with various drug regimens and captured at magnifications of 40x, 100x, 200x, and 400x, was used. Gene expression of six key genes involved in epithelial-mesenchymal transition or EMT (including -SMA, ZEB1, TGF-{beta}, CD90, {beta}-catenin, Snail) and treatment classes (Aflibercept, Bevacizumab, Dexamethasone, Aflibercept + Dexamethasone, and untreated control) were analyzed. After preprocessing the image data and gene expression values, we trained and evaluated twelve state-of-the-art deep learning architectures, including three variants of DenseNet, five variants of ResNet, EfficientNet_b5, Inception_v3, RegNet_y_400mf, and a vision transformer model (Swin_b). A two-stage pipeline was implemented, combining autoencoder-based pretraining to extract meaningful features with fine-tuning specifically optimized for gene expression regression and treatment type classification tasks. Features extracted from the second stage across four magnifications were concatenated to generate the final prediction, leveraging multi-scale morphological information for improved accuracy.</description>
+  <category>bioengineering</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Sigma-2 Receptor Modulators Alter Low-density Lipoprotein Receptor-mediated Lipid Uptake in Retinal Pigment Epithelial Cells</title>
   <dc:creator>Lizama, B. N.</dc:creator>
@@ -284,32 +315,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Bird species with color polymorphism have greater ecological success</title>
-  <dc:creator>Kazuya, H.</dc:creator>
-  <dc:creator>Sato, E.</dc:creator>
-  <dc:creator>Sekercioglu, C. H.</dc:creator>
-  <dc:creator>Noriyuki, S.</dc:creator>
-  <dc:creator>Takahashi, Y.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The explanation of the variation in ecological success of species is one of the key challenges in ecology, evolutionary biology and conservation biology. Here, we discuss the function of polymorphism in body color which is one of the most conspicuous features of organisms strongly affecting the performance of species. We applied a phylogenetic comparative approach to assess whether body color polymorphisms contribute to species success in birds, reflected in distributional ranges, extinction risk, and current population trends. We compiled and analyzed a comprehensive global dataset that included the distribution, phylogeny, ecology and morphological traits of all extant bird species. Species with body color polymorphism showed larger distributional ranges, larger environmental ranges, lower risk of extinction, and more stable population trends. Our analyses suggest that the presence of color polymorphism contributes to avian species success at the global scale, especially reflected in lower extinction likelihood and better population trends.</description>
-  <category>ecology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Hawkmoths learn best without negative reinforcement in a differential colour association task</title>
-  <dc:creator>Manel, A. N.</dc:creator>
-  <dc:creator>Foster, J. J.</dc:creator>
-  <dc:creator>Stöckl, A.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Visual learning in insects can be strongly influenced by the underlying context and conditions. Improved colour learning has been demonstrated using differential conditioning with reward-aversion paradigms in insects like wasps, bumblebees, and honeybees, where substances that induce strong aversion, such as quinine, enable more accurate discrimination. Although learning outcomes of differential conditioning are closely tied to the perceived reward and aversion, few studies have compared the role of negative reinforcements in shaping associations, and their relevance across insect groups. In our study, we compare the role of aversive substances for differential in the hummingbird hawkmoth, Macroglossum stellatarum, a diurnal moth that relies on vision for foraging. Tying to previous learning studies in insects, we paired a sugar-rewarded target with a distractor that was paired with either quinine, salt, citric acid, water, or was presented with no aversive substance. Learning outcomes were compared by inverting a strong colour preference between perceptually close or distant colour pairs, to provide tasks with disparate challenges. Contrary to results from other insect species, we found that moths trained with quinine were worse at switching preferences between similar colours compared to training with citric acid and appetitive-only differential conditioning. We also show that quinine interferes with sucrose perception, potentially impairing target acquisition during training. Additionally, we link differences in learning arising from the negative reinforcements to their impact on exploration during foraging. Our results highlight the role of experience in modulating behaviour and discuss the importance of interpreting learning outcomes based on an animal&#39;s sensory ecology and foraging dynamics.</description>
-  <category>animal behavior and cognition</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
