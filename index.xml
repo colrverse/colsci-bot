@@ -10,7 +10,25 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.21</generator>
-<lastBuildDate>Sun, 31 Aug 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>The ecology and adaptive function of clownfish color patterns</title>
+  <dc:creator>Froehlich, C. Y. M.</dc:creator>
+  <dc:creator>Caves, E.</dc:creator>
+  <dc:creator>Troscianko, J.</dc:creator>
+  <dc:creator>Gibson, M.</dc:creator>
+  <dc:creator>Chiodo, T.</dc:creator>
+  <dc:creator>De Jode, A.</dc:creator>
+  <dc:creator>Brown, K.</dc:creator>
+  <dc:creator>Luckas, N.</dc:creator>
+  <dc:creator>Titus, B. M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Anti-predator coloration strategies vary widely from conspicuous to cryptic, and everything between. Coloration serves multiple functions, and determining the selective pressures that drive this diversity is a long-standing mystery. Clownfishes display enormous inter- and intra-specific variation in coloration without the influence of sexual selection, providing an excellent system in which to explore these drivers in closely related and sympatric species. Across clownfishes, three color-pattern phenotypes have evolved convergently with host anemone use, implying adaptive functions linked to the host&#39;s physical and chemical properties. Here we conducted a comprehensive study to infer the ultimate functions of clownfish color patterns. By integrating multiple levels of biological organization, including behavior, visual ecology, dietary niche, and microbiome, our data overwhelmingly indicate that specialist and generalist clownfish color patterns have different underlying ecologies and adaptive functions. Specialist clownfishes background match their anemones, remain near hosts, and have specialized diets and microbiomes. Generalists are highly contrasting with their anemones, remain far from hosts, and have variable diets and microbiomes. Taken together, specialist color patterns align with functional expectations of camouflage while generalists align with aposematic or disruptive coloration. Our study provides novel insights into how ecological conditions shape the evolution of multiple anti-predator coloration strategies.</description>
+  <category>ecology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Combined multi-color immunofluorescence staining and spatial in situ mRNA expression analysis identifies potential fibrosis drivers in acute lymphoblastic leukemia</title>
   <dc:creator>Braunig, S.</dc:creator>
@@ -299,19 +317,6 @@
   <link>https://colrverse.github.io/colsci-bot/</link>
   <description>Phenotypic evolution is shaped by phylogenetic, ecological and biomechanical constraints. Butterfly wings offer an ideal system to explore these constraints as their evolution is strongly influenced by natural and sexual selection affecting colour patterns and wing shape in relation to visual signalling and flight performance. We focus on Eudamina skippers, butterflies with large-scale phenotypic convergences involving wing shape and colour pattern. Using a comprehensive morphometric dataset encompassing 176 species, we assess their morphological evolution in a phylogenetic framework. We show that hindwing tails and dorsal iridescence, proposed to signal high escape ability, have repeatedly evolved in tropical species. Hindwing tails are associated with intermediate body size, low wing loading and a forewing shape that facilitates manoeuvrability; iridescence is more common in large species with significantly high wing loading and aspect ratio, indicating high flight speed and manoeuvrability. The evolution of all tested morphometric traits is best described by Ornstein-Uhlenbeck models, indicating stabilising selection around fitness optima in Eudamina. Models testing for random drift or early burst dynamics were rejected in all cases. We reveal a clear co-evolution between the fore- and hindwing shapes, despite both wings having different functional constraints. Hindwing tails have a significant recurrent effect on forewing shape in lineages evolving them independently, suggesting the existence of evolutionary trade-offs between flight performance and antipredator defences. Our study shows that the convergent morphologies across Eudamina have likely arisen not by neutral evolution but by ecological selection influenced by biomechanical constraints.</description>
   <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Monitoring Forest Foliar Moisture Using Sentinel-2 Reflectance and Radiative Transfer Model Inversion</title>
-  <dc:creator>Kotzur, I.</dc:creator>
-  <dc:creator>Boer, M.</dc:creator>
-  <dc:creator>Yebra, M.</dc:creator>
-  <dc:creator>Moore, B. D.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Foliar moisture content (FMC) of forests canopies is important for understanding biodiversity, including animal habitat quality for forest-dependent fauna and forest fire risk. In this study, we modelled spatiotemporal variation in FMC using optical remote sensing. We inverted the PROSPECT and GEOSAIL Radiative Transfer Models (RTM) on Sentinel-2 satellite reflectance data of 20 m ground resolution to retrieve FMC, and then predicted FMC at sub-continental scales using a random forest (RF) regression emulation of the RTM model. An RTM look-up-table, from earlier work, was filtered by ecological criteria from 24 sites sampled along precipitation and canopy cover gradients and was inverted by using the spectral angle, as a merit function. The RF emulator allowed efficient computation and presentation of an extensive and fine-scale forest FMC data cube of interest in animal, fire and plant ecology. Our RTM-based, predictions of forest and woodland FMC had a root mean square error (RMSE) of 19.9% of dry matter content and explained more than 60% of variance (r2 = 0.62). This represents an improvement over previous models using reflectance data of coarser spatial resolution, particularly in terms of explained variance (r2=0.17 and RMSE=32%). The emulator model achieved similar performance to the RTM with slightly larger error (RMSE = 21.77%) and smaller explained variance (r2 = 0.54). Overall, both models performed best in forests, and woodlands of moderate to high canopy density (&gt; ~0.75 LAI). This study demonstrates that FMC can be monitored at spatial resolutions that allow intra- or inter-landscape patterns to be resolved surpassing previous capabilities.</description>
-  <category>ecology</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
