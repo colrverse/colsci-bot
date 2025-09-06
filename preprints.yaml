@@ -1,3 +1,38 @@
+- title: Discrimination of Annonaceae using herbarium leaf reflectance spectra under
+    limited sample size conditions
+  categories:
+  - plant biology
+  - new results
+  license: CC BY-NC-ND
+  author:
+  - Boughalmi, K.
+  - Santacruz Endara, P. G.
+  - Bennett, L. A.
+  - Ecarnot, M.
+  - Bazan, S.
+  - Bastianelli, D.
+  - Bonnal, L.
+  - Couvreur, T. L. P.
+  path: https://doi.org/10.1101/2025.09.02.673631
+  description: Herbarium collections offer an unparalleled archive of plant biodiversity,
+    but their use for species identification through spectral data remains constrained
+    by uncertain effects of preservation histories. This study assesses whether a
+    single herbarium specimen can reliably represent its species based on its leaf
+    reflectance spectrum, despite variations in age, geographic origin, or conservation
+    method. We scanned herbarium specimens of different ages and geographic distribution
+    of 14 species of the pantropical Annonaceae. In addition, we used a second dataset
+    of 9 species where some specimens were conserved in alcohol prior to drying and
+    some not. We used five supervised classification models frequently used for high-dimensional
+    data such as spectroscopy. All models achieved high accuracy (>80%) when trained
+    on multiple specimens per species. However, when using only one specimen per species,
+    accuracy varied substantially depending on the taxon. Alcohol preservation prior
+    to drying had little impact on classification success. Our findings demonstrate
+    that herbarium specimens often retain a strong taxonomic signal in their spectra,
+    however, inter-individual variability affects accuracy in some taxa. These findings
+    confirm the usefulness of herbarium spectroscopy as a non-destructive tool for
+    species identification and offer a promising avenue for digitizing historical
+    biodiversity data into high-dimensional trait space.
+  date: '2025-09-05'
 - title: The ecology and adaptive function of clownfish color patterns
   categories:
   - ecology
