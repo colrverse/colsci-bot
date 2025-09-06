@@ -9,8 +9,25 @@
 <link>https://colrverse.github.io/colsci-bot/</link>
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.8.23</generator>
-<lastBuildDate>Mon, 01 Sep 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Fri, 05 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Discrimination of Annonaceae using herbarium leaf reflectance spectra under limited sample size conditions</title>
+  <dc:creator>Boughalmi, K.</dc:creator>
+  <dc:creator>Santacruz Endara, P. G.</dc:creator>
+  <dc:creator>Bennett, L. A.</dc:creator>
+  <dc:creator>Ecarnot, M.</dc:creator>
+  <dc:creator>Bazan, S.</dc:creator>
+  <dc:creator>Bastianelli, D.</dc:creator>
+  <dc:creator>Bonnal, L.</dc:creator>
+  <dc:creator>Couvreur, T. L. P.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Herbarium collections offer an unparalleled archive of plant biodiversity, but their use for species identification through spectral data remains constrained by uncertain effects of preservation histories. This study assesses whether a single herbarium specimen can reliably represent its species based on its leaf reflectance spectrum, despite variations in age, geographic origin, or conservation method. We scanned herbarium specimens of different ages and geographic distribution of 14 species of the pantropical Annonaceae. In addition, we used a second dataset of 9 species where some specimens were conserved in alcohol prior to drying and some not. We used five supervised classification models frequently used for high-dimensional data such as spectroscopy. All models achieved high accuracy (&gt;80%) when trained on multiple specimens per species. However, when using only one specimen per species, accuracy varied substantially depending on the taxon. Alcohol preservation prior to drying had little impact on classification success. Our findings demonstrate that herbarium specimens often retain a strong taxonomic signal in their spectra, however, inter-individual variability affects accuracy in some taxa. These findings confirm the usefulness of herbarium spectroscopy as a non-destructive tool for species identification and offer a promising avenue for digitizing historical biodiversity data into high-dimensional trait space.</description>
+  <category>plant biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The ecology and adaptive function of clownfish color patterns</title>
   <dc:creator>Froehlich, C. Y. M.</dc:creator>
@@ -308,18 +325,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Association of iridescence and tails with flight proxies suggests that predation drives convergence in skipper butterflies</title>
-  <dc:creator>Linke, D.</dc:creator>
-  <dc:creator>Debat, V.</dc:creator>
-  <dc:creator>Matos-Maravi, P.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Phenotypic evolution is shaped by phylogenetic, ecological and biomechanical constraints. Butterfly wings offer an ideal system to explore these constraints as their evolution is strongly influenced by natural and sexual selection affecting colour patterns and wing shape in relation to visual signalling and flight performance. We focus on Eudamina skippers, butterflies with large-scale phenotypic convergences involving wing shape and colour pattern. Using a comprehensive morphometric dataset encompassing 176 species, we assess their morphological evolution in a phylogenetic framework. We show that hindwing tails and dorsal iridescence, proposed to signal high escape ability, have repeatedly evolved in tropical species. Hindwing tails are associated with intermediate body size, low wing loading and a forewing shape that facilitates manoeuvrability; iridescence is more common in large species with significantly high wing loading and aspect ratio, indicating high flight speed and manoeuvrability. The evolution of all tested morphometric traits is best described by Ornstein-Uhlenbeck models, indicating stabilising selection around fitness optima in Eudamina. Models testing for random drift or early burst dynamics were rejected in all cases. We reveal a clear co-evolution between the fore- and hindwing shapes, despite both wings having different functional constraints. Hindwing tails have a significant recurrent effect on forewing shape in lineages evolving them independently, suggesting the existence of evolutionary trade-offs between flight performance and antipredator defences. Our study shows that the convergent morphologies across Eudamina have likely arisen not by neutral evolution but by ecological selection influenced by biomechanical constraints.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
