@@ -10,7 +10,34 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.0</generator>
-<lastBuildDate>Fri, 05 Sep 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Structural basis for color tuning and passive ion conductance in red-shifted pump-fold channelrhodopsin ChR024</title>
+  <dc:creator>Takeno, Y.</dc:creator>
+  <dc:creator>Tajima, S.</dc:creator>
+  <dc:creator>Kim, S.</dc:creator>
+  <dc:creator>Tsujimura, M.</dc:creator>
+  <dc:creator>Ito, Y.</dc:creator>
+  <dc:creator>Sugiura, M.</dc:creator>
+  <dc:creator>Yamashita, Y.</dc:creator>
+  <dc:creator>Kishi, K. E.</dc:creator>
+  <dc:creator>Fukuda, M.</dc:creator>
+  <dc:creator>Nakamura, S.</dc:creator>
+  <dc:creator>Watanabe, M.</dc:creator>
+  <dc:creator>Ikeda, H.</dc:creator>
+  <dc:creator>Katayama, K.</dc:creator>
+  <dc:creator>Furutani, Y.</dc:creator>
+  <dc:creator>Kandori, H.</dc:creator>
+  <dc:creator>Ishikita, H.</dc:creator>
+  <dc:creator>Inoue, K.</dc:creator>
+  <dc:creator>Kato, H. E.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>ChR024 is a cation-conducting channelrhodopsin with a red-shifted absorption spectrum, recently discovered from a previously unidentified clade through machine-learning-guided gene mining. Due to its unique position in the phylogenetic tree and distinctive spectral properties, it serves as an important model for elucidating rhodopsin evolution and for engineering optogenetic tools with enhanced performance, but its structure and function remain poorly understood. Here, we present cryo-electron microscopy structures of ChR024 in detergent micelles and lipid nanodiscs at resolutions of 3.2 and 2.5 [A], respectively. The structures reveal an architecture strikingly similar to that of ion-pumping rhodopsins, even more so than other pump-like channelrhodopsins such as ChRmine. Structural, theoretical, and spectroscopic analyses uncover a unique color-tuning mechanism, in which charged residues close and distant from the retinal chromophore cooperatively modulate the pKa of the Schiff base counterion and thereby determine the absorption maximum wavelength. Finally, comparative structural analysis of channel- and pump-type rhodopsins, combined with electrophysiology, provides insights into the molecular boundary between these two functional classes and demonstrates the conversion of an outward proton pump into a light-gated channel. Together, these findings illuminate diverse mechanisms of color tuning and functional specification within the rhodopsin family, paving the way for the rational engineering of next-generation optogenetic tools.</description>
+  <category>biophysics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Discrimination of Annonaceae using herbarium leaf reflectance spectra under limited sample size conditions</title>
   <dc:creator>Boughalmi, K.</dc:creator>
@@ -311,20 +338,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Purification and pigment analysis of diadinoxanthin-binding PSI-LHCI supercomplexes from Euglena gracilis strain Z</title>
-  <dc:creator>Sakamoto, R.</dc:creator>
-  <dc:creator>Kato, K.</dc:creator>
-  <dc:creator>Nakajima, Y.</dc:creator>
-  <dc:creator>Shen, J.-R.</dc:creator>
-  <dc:creator>Nagao, R.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Euglena gracilis, a phototrophic flagellate, possesses light-harvesting complexes (LHCs) with a pigment composition distinct from that of land plants and green algae, despite notable similarities in LHC polypeptide sequences to green algae. Here, we purified photosystem I-LHCI (PSI-LHCI) supercomplexes from E. gracilis strain Z and characterized their biochemical and spectroscopic properties. The purified complex exhibited a unique pigment profile, notably including diadinoxanthin that is typically found in red-lineage organisms, setting E. gracilis apart from green-lineage organisms. The absorption spectrum displayed the Qy band of chlorophyll a at 675nm, while the 77-K fluorescence-emission spectrum revealed a prominent peak at 732nm, closely resembling those in land plants. These features suggest that long-wavelength chlorophylls bound to LHCI may be evolutionarily conserved. Nevertheless, the absence of neoxanthin, lutein, and violaxanthin further differentiates the Euglena LHCIs from other oxyphototrophs. Together, these results illuminate the evolutionary diversification of PSI-LHCI supercomplexes and offer insights into the unique pigment-binding features of the Euglena light-harvesting system.</description>
-  <category>plant biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
