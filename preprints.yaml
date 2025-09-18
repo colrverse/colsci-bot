@@ -1,3 +1,49 @@
+- title: Structural basis for color tuning and passive ion conductance in red-shifted
+    pump-fold channelrhodopsin ChR024
+  categories:
+  - biophysics
+  - new results
+  license: CC BY-NC-ND
+  author:
+  - Takeno, Y.
+  - Tajima, S.
+  - Kim, S.
+  - Tsujimura, M.
+  - Ito, Y.
+  - Sugiura, M.
+  - Yamashita, Y.
+  - Kishi, K. E.
+  - Fukuda, M.
+  - Nakamura, S.
+  - Watanabe, M.
+  - Ikeda, H.
+  - Katayama, K.
+  - Furutani, Y.
+  - Kandori, H.
+  - Ishikita, H.
+  - Inoue, K.
+  - Kato, H. E.
+  path: https://doi.org/10.1101/2025.09.16.675330
+  description: ChR024 is a cation-conducting channelrhodopsin with a red-shifted absorption
+    spectrum, recently discovered from a previously unidentified clade through machine-learning-guided
+    gene mining. Due to its unique position in the phylogenetic tree and distinctive
+    spectral properties, it serves as an important model for elucidating rhodopsin
+    evolution and for engineering optogenetic tools with enhanced performance, but
+    its structure and function remain poorly understood. Here, we present cryo-electron
+    microscopy structures of ChR024 in detergent micelles and lipid nanodiscs at resolutions
+    of 3.2 and 2.5 [A], respectively. The structures reveal an architecture strikingly
+    similar to that of ion-pumping rhodopsins, even more so than other pump-like channelrhodopsins
+    such as ChRmine. Structural, theoretical, and spectroscopic analyses uncover a
+    unique color-tuning mechanism, in which charged residues close and distant from
+    the retinal chromophore cooperatively modulate the pKa of the Schiff base counterion
+    and thereby determine the absorption maximum wavelength. Finally, comparative
+    structural analysis of channel- and pump-type rhodopsins, combined with electrophysiology,
+    provides insights into the molecular boundary between these two functional classes
+    and demonstrates the conversion of an outward proton pump into a light-gated channel.
+    Together, these findings illuminate diverse mechanisms of color tuning and functional
+    specification within the rhodopsin family, paving the way for the rational engineering
+    of next-generation optogenetic tools.
+  date: '2025-09-17'
 - title: Discrimination of Annonaceae using herbarium leaf reflectance spectra under
     limited sample size conditions
   categories:
