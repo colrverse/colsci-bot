@@ -10,7 +10,21 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.2</generator>
-<lastBuildDate>Wed, 17 Sep 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>A recurrent sequencing artifact on Illumina sequencers with two-color fluorescent dye chemistry and its impact on somatic variant detection</title>
+  <dc:creator>Fu, B. J.</dc:creator>
+  <dc:creator>Viswanadham, V. V.</dc:creator>
+  <dc:creator>Maziec, D.</dc:creator>
+  <dc:creator>Jin, H.</dc:creator>
+  <dc:creator>Park, P. J.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The sequencing-by-synthesis technology by Illumina, Inc. enables efficient and scalable readouts of mutations from genomic data. To enhance sequencing speed and efficiency, Illumina has shifted from the four-color base calling chemistry of the HiSeq series to a two-color fluorescent dye chemistry in the NovaSeq series. Benchmarking sequencing artifacts due to biases in the newer chemistry is important to evaluate the quality of identified mutations. We re-analyzed a series of whole-genome sequencing experiments in which the same samples were sequenced on the NovaSeq 6000 (two-color) and HiSeq X10 (four-color) platforms by independent groups. In several samples, we observed a higher frequency of T-to-G and A-to-C substitutions (&quot;T&gt;G&quot;) at the read level for NovaSeq 6000 versus HiSeq X10. As the per-base error rate is still low, the artifactual substitutions have a negligible effect in identifying germline or high variant allele frequency (VAF) somatic mutations. However, such errors can confound the detection of low-VAF somatic variants in high-depth sequencing samples, particularly in studies of mosaic mutations in normal tissues, where variants have low read support and are called without a matched normal. The artifactual T&gt;G variant calls disproportionately occur at NT[TG] trinucleotides, and we leveraged this observation to bioinformatically reduce the T&gt;G excess in somatic mutation callsets. We identified a recurrent artifact specific to the Illumina two-color chemistry platform on the NovaSeq 6000 with the potential to contaminate low-VAF somatic mutation calls. Thus, an unexpected enrichment of T&gt;G mutations in mosaicism studies warrants caution.</description>
+  <category>genomics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Structural basis for color tuning and passive ion conductance in red-shifted pump-fold channelrhodopsin ChR024</title>
   <dc:creator>Takeno, Y.</dc:creator>
@@ -325,19 +339,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Generalizability of machine learning models for plant traits using hyperspectral reflectance data: The case of maize</title>
-  <dc:creator>Xu, R.</dc:creator>
-  <dc:creator>Ferguson, J. N.</dc:creator>
-  <dc:creator>Kromdijk, J.</dc:creator>
-  <dc:creator>Nikoloski, Z.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Hyperspectral reflectance provides rapid and precise phenotyping of plants in a non-destructive manner both in field and well-controlled settings. The resulting data have been used to devise machine learning (ML) models for paired measurements of different traits in diverse plants and crops. Yet, despite advances in using of hyperspectral data to reliably predict crop traits of interest, there are pressing issues concerning the training of ML models, the aggregation of data from crop field trials, and the generalizability of the models in different prediction settings. We collected hyperspectral reflectance data along with 25 anatomical, gas exchange, and chlorophyll fluorescence traits from 320 recombinant inbred lines of a maize Multi-Parent Advanced Generation Inter-Cross population grown across three consecutive seasons. We use these data to systematically: (1) compare the performance of representative ML models for different traits, including slow fluorescence kinetics whose predictability by hyperspectral data has not yet been investigated, (2) evaluate the ML model performance in prediction scenarios concerning unseen genotypes, unseen seasons, and the combination thereof, (3) investigate the effects of data aggregation of ML model performance. These problems are addressed in a rigorous nested cross-validation setting that provides a template for adequate assessment of performance of ML models for diverse crop traits considering the particularities of the experimental design.</description>
-  <category>plant biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
