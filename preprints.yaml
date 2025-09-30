@@ -1,3 +1,108 @@
+- title: A recurrent sequencing artifact on Illumina sequencers with two-color fluorescent
+    dye chemistry and its impact on somatic variant detection
+  categories:
+  - genomics
+  - new results
+  license: CC BY-NC
+  author:
+  - Fu, B. J.
+  - Viswanadham, V. V.
+  - Maziec, D.
+  - Jin, H.
+  - Park, P. J.
+  path: https://doi.org/10.1101/2025.09.27.678978
+  description: The sequencing-by-synthesis technology by Illumina, Inc. enables efficient
+    and scalable readouts of mutations from genomic data. To enhance sequencing speed
+    and efficiency, Illumina has shifted from the four-color base calling chemistry
+    of the HiSeq series to a two-color fluorescent dye chemistry in the NovaSeq series.
+    Benchmarking sequencing artifacts due to biases in the newer chemistry is important
+    to evaluate the quality of identified mutations. We re-analyzed a series of whole-genome
+    sequencing experiments in which the same samples were sequenced on the NovaSeq
+    6000 (two-color) and HiSeq X10 (four-color) platforms by independent groups. In
+    several samples, we observed a higher frequency of T-to-G and A-to-C substitutions
+    ("T>G") at the read level for NovaSeq 6000 versus HiSeq X10. As the per-base error
+    rate is still low, the artifactual substitutions have a negligible effect in identifying
+    germline or high variant allele frequency (VAF) somatic mutations. However, such
+    errors can confound the detection of low-VAF somatic variants in high-depth sequencing
+    samples, particularly in studies of mosaic mutations in normal tissues, where
+    variants have low read support and are called without a matched normal. The artifactual
+    T>G variant calls disproportionately occur at NT[TG] trinucleotides, and we leveraged
+    this observation to bioinformatically reduce the T>G excess in somatic mutation
+    callsets. We identified a recurrent artifact specific to the Illumina two-color
+    chemistry platform on the NovaSeq 6000 with the potential to contaminate low-VAF
+    somatic mutation calls. Thus, an unexpected enrichment of T>G mutations in mosaicism
+    studies warrants caution.
+  date: '2025-09-29'
+- title: A recurrent sequencing artifact on Illumina sequencers with two-color fluorescent
+    dye chemistry and its impact on somatic variant detection
+  categories:
+  - genomics
+  - new results
+  license: CC BY-NC
+  author:
+  - Fu, B. J.
+  - Viswanadham, V. V.
+  - Maziec, D.
+  - Jin, H.
+  - Park, P. J.
+  path: https://doi.org/10.1101/2025.09.27.678978
+  description: The sequencing-by-synthesis technology by Illumina, Inc. enables efficient
+    and scalable readouts of mutations from genomic data. To enhance sequencing speed
+    and efficiency, Illumina has shifted from the four-color base calling chemistry
+    of the HiSeq series to a two-color fluorescent dye chemistry in the NovaSeq series.
+    Benchmarking sequencing artifacts due to biases in the newer chemistry is important
+    to evaluate the quality of identified mutations. We re-analyzed a series of whole-genome
+    sequencing experiments in which the same samples were sequenced on the NovaSeq
+    6000 (two-color) and HiSeq X10 (four-color) platforms by independent groups. In
+    several samples, we observed a higher frequency of T-to-G and A-to-C substitutions
+    ("T>G") at the read level for NovaSeq 6000 versus HiSeq X10. As the per-base error
+    rate is still low, the artifactual substitutions have a negligible effect in identifying
+    germline or high variant allele frequency (VAF) somatic mutations. However, such
+    errors can confound the detection of low-VAF somatic variants in high-depth sequencing
+    samples, particularly in studies of mosaic mutations in normal tissues, where
+    variants have low read support and are called without a matched normal. The artifactual
+    T>G variant calls disproportionately occur at NT[TG] trinucleotides, and we leveraged
+    this observation to bioinformatically reduce the T>G excess in somatic mutation
+    callsets. We identified a recurrent artifact specific to the Illumina two-color
+    chemistry platform on the NovaSeq 6000 with the potential to contaminate low-VAF
+    somatic mutation calls. Thus, an unexpected enrichment of T>G mutations in mosaicism
+    studies warrants caution.
+  date: '2025-09-29'
+- title: A recurrent sequencing artifact on Illumina sequencers with two-color fluorescent
+    dye chemistry and its impact on somatic variant detection
+  categories:
+  - genomics
+  - new results
+  license: CC BY-NC
+  author:
+  - Fu, B. J.
+  - Viswanadham, V. V.
+  - Maziec, D.
+  - Jin, H.
+  - Park, P. J.
+  path: https://doi.org/10.1101/2025.09.27.678978
+  description: The sequencing-by-synthesis technology by Illumina, Inc. enables efficient
+    and scalable readouts of mutations from genomic data. To enhance sequencing speed
+    and efficiency, Illumina has shifted from the four-color base calling chemistry
+    of the HiSeq series to a two-color fluorescent dye chemistry in the NovaSeq series.
+    Benchmarking sequencing artifacts due to biases in the newer chemistry is important
+    to evaluate the quality of identified mutations. We re-analyzed a series of whole-genome
+    sequencing experiments in which the same samples were sequenced on the NovaSeq
+    6000 (two-color) and HiSeq X10 (four-color) platforms by independent groups. In
+    several samples, we observed a higher frequency of T-to-G and A-to-C substitutions
+    ("T>G") at the read level for NovaSeq 6000 versus HiSeq X10. As the per-base error
+    rate is still low, the artifactual substitutions have a negligible effect in identifying
+    germline or high variant allele frequency (VAF) somatic mutations. However, such
+    errors can confound the detection of low-VAF somatic variants in high-depth sequencing
+    samples, particularly in studies of mosaic mutations in normal tissues, where
+    variants have low read support and are called without a matched normal. The artifactual
+    T>G variant calls disproportionately occur at NT[TG] trinucleotides, and we leveraged
+    this observation to bioinformatically reduce the T>G excess in somatic mutation
+    callsets. We identified a recurrent artifact specific to the Illumina two-color
+    chemistry platform on the NovaSeq 6000 with the potential to contaminate low-VAF
+    somatic mutation calls. Thus, an unexpected enrichment of T>G mutations in mosaicism
+    studies warrants caution.
+  date: '2025-09-29'
 - title: Structural basis for color tuning and passive ion conductance in red-shifted
     pump-fold channelrhodopsin ChR024
   categories:
