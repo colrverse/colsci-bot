@@ -10,7 +10,22 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.2</generator>
-<lastBuildDate>Mon, 29 Sep 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Aposematic color patterns are the dominant axis of phenotypic diversification in Nymphalid butterflies</title>
+  <dc:creator>Luerig, M. D.</dc:creator>
+  <dc:creator>Shirai, L. T.</dc:creator>
+  <dc:creator>Mota, L.</dc:creator>
+  <dc:creator>Willmott, K. R.</dc:creator>
+  <dc:creator>Freitas, A. V. L.</dc:creator>
+  <dc:creator>Porto, A.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Butterfly wing patterns serve diverse roles in visual communication, from aposematic signaling and mimicry to mate attraction and camouflage. In brush-footed butterflies (Nymphalidae), this diversity can be traced to the wing pattern &quot;ground plan&quot; that generates phenotypes deterministic in origin yet highly multidimensional in form. Quantifying such complexity at scale has long been a challenge, limiting our understanding of how visual signals interact, constrain one another, and evolve. Here, we used computer vision to extract high-dimensional traits from standardized museum specimens and assembled the largest comparative dataset of wing color patterns to date, spanning over one third of all known Nymphalid species. We first tested whether chemically defended species occupy a distinct region in morphospace and then derived a quantitative score for aposematism from the principal color patterns associated with defense. Using this score, we examined whether aposematic signals are expressed consistently across wing surfaces and sexes, and whether their origins are linked to shifts in evolutionary rate. We found that the dominant axis of morphospace is defined by chromatic and achromatic contrast, along which defended and undefended species cluster. Validation with an expert-labeled moth dataset confirmed that this axis separates aposematic from non-aposematic phenotypes across Lepidoptera. Consistent with theory, strongly aposematic species showed greater visual similarity between dorsal and ventral surfaces, between sexes, and among individuals. Rate analyses further indicated that aposematic patterns evolved repeatedly and were associated with non-linear shifts in evolutionary tempo. Together, these results identify aposematism as the dominant organizing axis of wing color pattern evolution in Nymphalidae.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>A recurrent sequencing artifact on Illumina sequencers with two-color fluorescent dye chemistry and its impact on somatic variant detection</title>
   <dc:creator>Fu, B. J.</dc:creator>
@@ -326,19 +341,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A common mechanism and multiple advantages of pigment loss underlie the convergent evolution of albinism in cave animals</title>
-  <dc:creator>Bilandzija, H.</dc:creator>
-  <dc:creator>Renner, K. J.</dc:creator>
-  <dc:creator>Cetkovic, H.</dc:creator>
-  <dc:creator>Jeffery, W. R.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The loss of pigmentation is a hallmark adaptation of cave-dwelling animals but the underlying mechanisms are poorly understood. This study investigates the cellular and biochemical basis of albinism, the loss of melanin pigment, which convergently evolved across a wide range of cave animals. Is albinism caused by the interruption of pigment synthesis or elimination of the pigment cell lineage? The results suggest that albinism evolved by a common mechanism, a block in the first step of the melanin biosynthesis pathway, the conversion of L-tyrosine to L-DOPA, in diverse albino cave animals ranging from annelids and mollusks to vertebrates. Pigment cells are conserved in all tested albino cave species and distributed in patterns resembling pigmentation in their close surface relatives. The cells capable of melanin synthesis when provided with L-DOPA substrate were detected at the sites of injuries in a cave annelid, cave mollusk, and cave teleost, suggesting roles in innate immunity during tissue repair, which may explain why pigment cells are conserved despite the loss of pigment production. Next, we focused on the longstanding issue of the evolutionary forces involved in the regression of pigmentation in cave animals and explored hypotheses of why losing pigmentation might be adaptive in cave environments. First, we tested the hypothesis that pigment regression may conserve energy, which is important for survival in the food-limited cave environment. Our results indicate that melanin synthesis has a marked energetic cost in the cavefish, Astyanax mexicanus. Lastly, we show that the disruption of melanin synthesis at its first biosynthetic step is correlated with increased dopamine levels in multiple depigmented cavefish populations, including populations that evolved albinism independently. This result supports a widespread tradeoff between the melanin and catecholamine synthesis pathways in A. mexicanus. We conclude that the interruption of the conversion of L-tyrosine to L-DOPA in the synthesis of melanin confers multiple advantages that could serve as targets of natural selection, supporting an adaptive hypothesis for the evolution of albinism in cave animals.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
