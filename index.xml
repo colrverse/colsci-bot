@@ -10,7 +10,30 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.2</generator>
-<lastBuildDate>Wed, 01 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Modeling MEK-inhibitor Associated Retinopathy in vitro using human induced-1 pluripotent stem cell-derived retinal pigment epithelial cells</title>
+  <dc:creator>Lozano, L. P.</dc:creator>
+  <dc:creator>Jennisch, M.</dc:creator>
+  <dc:creator>Jensen, R.</dc:creator>
+  <dc:creator>Ratcliff, J. A.</dc:creator>
+  <dc:creator>Wiley, L. A.</dc:creator>
+  <dc:creator>Harman, B.</dc:creator>
+  <dc:creator>Riker, M. J.</dc:creator>
+  <dc:creator>Wright, A. T.</dc:creator>
+  <dc:creator>Erickson, B. A.</dc:creator>
+  <dc:creator>Boldt, H. C.</dc:creator>
+  <dc:creator>Boyce, T. M.</dc:creator>
+  <dc:creator>Mullins, R.</dc:creator>
+  <dc:creator>Binkley, E. M.</dc:creator>
+  <dc:creator>Tucker, B. A.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Pharmacologic inhibitors of MEK are important anti-cancer drugs but can result in MEK-inhibitor Associated Retinopathy (MEKAR) in which vision is lost due to serous retinal detachments that form via an unknown mechanism. We hypothesized that the cause of this side effect is drug-induced dysfunction of retinal pigment epithelial (RPE) cells. To test this hypothesis, we used human induced pluripotent stem cell-derived RPE cells. We treated mature, hiPSC-derived RPE cells with selumetinib and measured impacts on RPE-specific function, structure, and gene expression. Selumetinib increases the ability of hiPSC-derived RPE to internalize bovine rod outer segments (1.9 vs 3.0, p=0.0024). It also decreases expression of aquaporin 1 during the first 10 days of treatment (2.7 vs 1.1, p=0.0015). It has no effect on the ability of hiPSC-derived RPE to maintain membrane integrity. Selumetinib alters gene expression of hiPSC-derived RPE, with significant changes in genes involved in transport of ions and small molecules regulating cell volume and lysosomal acidification. Selumetinib may lead to subretinal fluid accumulation by both increasing secretions into this space and decreasing outflow.</description>
+  <category>molecular biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Aposematic color patterns are the dominant axis of phenotypic diversification in Nymphalid butterflies</title>
   <dc:creator>Luerig, M. D.</dc:creator>
@@ -327,18 +350,6 @@
   <description>An independent evaluation of the spectroscopic properties, cellular performance, merits and pitfalls of the red fluorescent protein mScarlet3-H as compared to mScarlet3 is reported. mScarlet3-H was generated from mScarlet3 by a single M163H mutation. Purified mScarlet3-H is characterized by a molar coefficient of 79,040 M-1cm-1, a fluorescence quantum yield of 17.8%, molecular brightness of 14.1 and a heterogeneous multiexponential decay with an average fluorescence lifetime of 1 ns. Evaluation in living mammalian cells revealed a comparable maturation speed and efficiency of mScarlet3 and mScarlet3-H, but the overall cellular brightness of mScarlet3-H was 5-fold lower than that of mScarlet3. Photobleaching analysis in live cells revealed identical photobleaching kinetics of mScarlet3-H and mScarlet-H. The fluorescence intensity, fluorescence spectra and fluorescence lifetime of mScarlet3-H were found to be strongly pH-dependent between pH 4-8. The fluorescence lifetime increased from 1 ns to 3 ns in lowering the pH from 8 to 4 with a pK of ~6. The much lower lifetime of mScarlet3-H (~1 ns) as compared to mScarlet3 (~4 ns) allows dual fluorescence lifetime unmixing applications in single channel FLIM recordings in compartments with neutral to slightly alkaline pH. Furthermore, the strongly pH-dependent fluorescence lifetime of mScarlet3-H enables fluorescence lifetime-based pH sensing in a pH region between pH 5 to 7. Using this property, a pH of 6.5 was measured in the lumen of the Golgi system in living cells and motile endomembrane vesicles revealed pH values between 5.5 and 6. Also autophagy of the cytoplasm can be visualized by the pH-dependent fluorescence lifetime with mScarlet3-H accumulation in lysosomes. Potential useful applications and pitfalls regarding the special properties of mScarlet3-H are discussed.</description>
   <category>cell biology</category>
   <category>contradictory results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Volitional Attention to Color: Breaking Willed Attention out of the Spatial Domain</title>
-  <dc:creator>Nadra, J. G.</dc:creator>
-  <dc:creator>Sullivan, G.</dc:creator>
-  <dc:creator>Mangun, G. R.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Attention can be guided by either voluntary (top-down) or involuntary (bottom-up) influences. In real-world vision, voluntary attention can be directed by a wide range of influences such as reward, priming, meaning, experience, selection history, and volition. Laboratory studies of voluntary attention have commonly used attention-directing cues to induce or instruct human subjects to attend one class of stimuli while ignoring others. In recent years, free choice conditions of attention have been introduced, where self-generated volitional shifts of attention (willed attention) are possible (for a review, see Nadra &amp; Mangun, 2023). Prior willed attention studies have focused on mechanisms of covert spatial attention, investigating the neurophysiological correlates of willed attention related to both post-decision processing, and the pre-decision brain activity patterns that predict participants&#39; free choices about where to attend. Much less work, however, has been done on willed non-spatial attention. In this study, in a fashion similar to prior willed spatial attention studies, we investigated willed attention to stimulus color. In a trial-by-trial cueing design, subjects were either cued what color to attend or were allowed to freely choose what color to attend, in order to subsequently discriminate visual features of the cued or willfully chosen target. Behavioral measures showed that the subjects were selectively attending the cued or willed color. Using support vector machine decoding on EEG alpha (8-12 Hz) signals, we found significant post-decision differences in alpha-band power and broadband EEG voltage when participants chose to attend to orange versus purple. However, in contrast to the findings in prior work on willed spatial attention, no pre-decision EEG signals could be identified that predicted which color participants would choose to attend to.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
 </item>
