@@ -1,3 +1,79 @@
+- title: Modeling MEK-inhibitor Associated Retinopathy in vitro using human induced-1
+    pluripotent stem cell-derived retinal pigment epithelial cells
+  categories:
+  - molecular biology
+  - new results
+  license: CC NO
+  author:
+  - Lozano, L. P.
+  - Jennisch, M.
+  - Jensen, R.
+  - Ratcliff, J. A.
+  - Wiley, L. A.
+  - Harman, B.
+  - Riker, M. J.
+  - Wright, A. T.
+  - Erickson, B. A.
+  - Boldt, H. C.
+  - Boyce, T. M.
+  - Mullins, R.
+  - Binkley, E. M.
+  - Tucker, B. A.
+  path: https://doi.org/10.1101/2025.10.03.680301
+  description: Pharmacologic inhibitors of MEK are important anti-cancer drugs but
+    can result in MEK-inhibitor Associated Retinopathy (MEKAR) in which vision is
+    lost due to serous retinal detachments that form via an unknown mechanism. We
+    hypothesized that the cause of this side effect is drug-induced dysfunction of
+    retinal pigment epithelial (RPE) cells. To test this hypothesis, we used human
+    induced pluripotent stem cell-derived RPE cells. We treated mature, hiPSC-derived
+    RPE cells with selumetinib and measured impacts on RPE-specific function, structure,
+    and gene expression. Selumetinib increases the ability of hiPSC-derived RPE to
+    internalize bovine rod outer segments (1.9 vs 3.0, p=0.0024). It also decreases
+    expression of aquaporin 1 during the first 10 days of treatment (2.7 vs 1.1, p=0.0015).
+    It has no effect on the ability of hiPSC-derived RPE to maintain membrane integrity.
+    Selumetinib alters gene expression of hiPSC-derived RPE, with significant changes
+    in genes involved in transport of ions and small molecules regulating cell volume
+    and lysosomal acidification. Selumetinib may lead to subretinal fluid accumulation
+    by both increasing secretions into this space and decreasing outflow.
+  date: '2025-10-04'
+- title: Modeling MEK-inhibitor Associated Retinopathy in vitro using human induced-1
+    pluripotent stem cell-derived retinal pigment epithelial cells
+  categories:
+  - molecular biology
+  - new results
+  license: CC NO
+  author:
+  - Lozano, L. P.
+  - Jennisch, M.
+  - Jensen, R.
+  - Ratcliff, J. A.
+  - Wiley, L. A.
+  - Harman, B.
+  - Riker, M. J.
+  - Wright, A. T.
+  - Erickson, B. A.
+  - Boldt, H. C.
+  - Boyce, T. M.
+  - Mullins, R.
+  - Binkley, E. M.
+  - Tucker, B. A.
+  path: https://doi.org/10.1101/2025.10.03.680301
+  description: Pharmacologic inhibitors of MEK are important anti-cancer drugs but
+    can result in MEK-inhibitor Associated Retinopathy (MEKAR) in which vision is
+    lost due to serous retinal detachments that form via an unknown mechanism. We
+    hypothesized that the cause of this side effect is drug-induced dysfunction of
+    retinal pigment epithelial (RPE) cells. To test this hypothesis, we used human
+    induced pluripotent stem cell-derived RPE cells. We treated mature, hiPSC-derived
+    RPE cells with selumetinib and measured impacts on RPE-specific function, structure,
+    and gene expression. Selumetinib increases the ability of hiPSC-derived RPE to
+    internalize bovine rod outer segments (1.9 vs 3.0, p=0.0024). It also decreases
+    expression of aquaporin 1 during the first 10 days of treatment (2.7 vs 1.1, p=0.0015).
+    It has no effect on the ability of hiPSC-derived RPE to maintain membrane integrity.
+    Selumetinib alters gene expression of hiPSC-derived RPE, with significant changes
+    in genes involved in transport of ions and small molecules regulating cell volume
+    and lysosomal acidification. Selumetinib may lead to subretinal fluid accumulation
+    by both increasing secretions into this space and decreasing outflow.
+  date: '2025-10-04'
 - title: Aposematic color patterns are the dominant axis of phenotypic diversification
     in Nymphalid butterflies
   categories:
