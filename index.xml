@@ -10,7 +10,16 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.3</generator>
-<lastBuildDate>Sat, 04 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>The hallmark of colour in EEG signal</title>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Our perception of the world is inherently colourful, and colour provides well-documented benefits for vision: it helps us see things quicker and remember them better. We hypothesised that colour is not only central to perception but also a rich and decodable source of information in electroencephalography (EEG) signal recorded non-invasively from the scalp. Previous work has shown that brain activity carries colour information for uniform patches, but it remains unclear whether this extends to natural, complex images where colour is not explicitly cued. To investigate this, we analysed the THINGS EEG dataset, comprising 64-channel recordings from participants viewing 1,800 distinct objects (16,740 images) for 100 ms each, totalling over 82,000 trials. We established a perceptual colour ground truth through a psychophysical experiment in which participants viewed each image for 100 ms and selected perceived colours from a 13-option palette. An artificial neural network trained to predict these scene-level colour distributions directly from EEG signals showed that colour information was robustly decodable (average F-score of 0.5). We next modelled the interaction between colour and object perception in neuroimaging decoding. Images were segmented using the Segment Anything Model (SAM), each object was assigned a representative colour, and features were extracted from these colour-augmented images using CLIP vision encoders. We trained an EEG encoder, CUBE (ColoUr and oBjEct decoding), to align features in both object and colour spaces. Across EEG and MEG datasets in a 200-class recognition task, incorporating colour improved decoding accuracy by about 5%. Together, these findings demonstrate that EEG signal recorded during natural vision carries substantial colour information that interacts with object perception. Modelling this mutual interaction enhances neural decoding performance.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Modeling MEK-inhibitor Associated Retinopathy in vitro using human induced-1 pluripotent stem cell-derived retinal pigment epithelial cells</title>
   <dc:creator>Lozano, L. P.</dc:creator>
@@ -341,17 +350,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>mScarlet3-H with low brightness and fluorescence lifetime has potential for cellular lifetime-unmixing and lifetime-based pH-sensing applications</title>
-  <dc:creator>Gadella, T. W. J.</dc:creator>
-  <dc:creator>van Weeren, L.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>An independent evaluation of the spectroscopic properties, cellular performance, merits and pitfalls of the red fluorescent protein mScarlet3-H as compared to mScarlet3 is reported. mScarlet3-H was generated from mScarlet3 by a single M163H mutation. Purified mScarlet3-H is characterized by a molar coefficient of 79,040 M-1cm-1, a fluorescence quantum yield of 17.8%, molecular brightness of 14.1 and a heterogeneous multiexponential decay with an average fluorescence lifetime of 1 ns. Evaluation in living mammalian cells revealed a comparable maturation speed and efficiency of mScarlet3 and mScarlet3-H, but the overall cellular brightness of mScarlet3-H was 5-fold lower than that of mScarlet3. Photobleaching analysis in live cells revealed identical photobleaching kinetics of mScarlet3-H and mScarlet-H. The fluorescence intensity, fluorescence spectra and fluorescence lifetime of mScarlet3-H were found to be strongly pH-dependent between pH 4-8. The fluorescence lifetime increased from 1 ns to 3 ns in lowering the pH from 8 to 4 with a pK of ~6. The much lower lifetime of mScarlet3-H (~1 ns) as compared to mScarlet3 (~4 ns) allows dual fluorescence lifetime unmixing applications in single channel FLIM recordings in compartments with neutral to slightly alkaline pH. Furthermore, the strongly pH-dependent fluorescence lifetime of mScarlet3-H enables fluorescence lifetime-based pH sensing in a pH region between pH 5 to 7. Using this property, a pH of 6.5 was measured in the lumen of the Golgi system in living cells and motile endomembrane vesicles revealed pH values between 5.5 and 6. Also autophagy of the cytoplasm can be visualized by the pH-dependent fluorescence lifetime with mScarlet3-H accumulation in lysosomes. Potential useful applications and pitfalls regarding the special properties of mScarlet3-H are discussed.</description>
-  <category>cell biology</category>
-  <category>contradictory results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
