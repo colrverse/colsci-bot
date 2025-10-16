@@ -10,7 +10,20 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.5</generator>
-<lastBuildDate>Tue, 07 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 15 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Effects of color-enhancing filters on color salience in normal trichromats</title>
+  <dc:creator>Webster, M.</dc:creator>
+  <dc:creator>Knoblauch, K.</dc:creator>
+  <dc:creator>Simoncelli, C.</dc:creator>
+  <dc:creator>McPherson, D.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Notch filters can alter color contrasts by selectively filtering different spectral bands of the stimulus and have been developed to enhance reddish-greenish contrasts for color-deficient observers with anomalous trichromacy. We examined the effects of such filters on color salience for normal trichromats, using a visual search paradigm where the task was to locate a color target superimposed on a variegated chromatic background, similar to foraging for fruits among foliage. Background colors varied along a bluish-yellowish or purplish to yellow-green (short-wave cone isolating) axis, roughly spanning the range of dominant color variations in arid or lush environments. Target colors sampled a wide range of hue angles and contrasts. Testing was conducted on a computer monitor, with the filter effects simulated by calculating corresponding chromaticities with or without the filter for naturalistic (Munsell) reflectances. The filter evaluated (Enchroma SuperX glasses) was designed to increase color contrast along a magenta-green axis. Consistent with this, search times for targets on the blue-yellow background were significantly faster for the filter condition, because the filter increased the target-background color difference. Alternatively, overall differences in search times were not observed for the S-cone background. The differences on the two backgrounds could be qualitatively accounted for by the relative salience of the stimuli predicted by a perceptual color space (CIELAB). Our results demonstrate the efficacy of the filters for enhancing visual performance for normal trichromats and naturalistic tasks, and illustrate how these effects depend on the potential color characteristics of the environment.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The hallmark of colour in EEG signal</title>
   <link>https://colrverse.github.io/colsci-bot/</link>
@@ -330,23 +343,6 @@
   <link>https://colrverse.github.io/colsci-bot/</link>
   <description>The Zika virus (ZIKV), a pathogenic member of the orthoflavivirus family, is raising serious health concerns worldwide. Like Dengue (DENV) and Chikungunya (CHIKV) viruses, it is one of the arboviruses that poses an emerging threat to areas where its main vectors, Aedes mosquitoes, proliferate, well beyond tropical and subtropical regions. Although often asymptomatic or mild, ZIKV infection has been responsible for a worrying increase in serious congenital syndromes, including microcephaly. The ability of ZIKV to be transmitted sexually and its long persistence in body fluids suggests its incomplete clearance in particular tissues, linked to recurrent infection. Among its clinical presentations, ZIKV infection has been associated with ocular complications, including maculopathy, retinopathy, uveitis, and optic neuropathy, which can lead to lasting visual impairment. The blood-retinal barrier (BRB), primarily composed of retinal pigment epithelium (RPE) and endothelial cells, plays a crucial role in shielding the retina from pathogens. Its disruption has been linked to viral retinal infections. In vitro monitoring of infection on hTERT RPE-1 cells revealed an ability of ZIKV to persist for up to 30 days in nearly 10% of the cells. This prolonged infection was marked by low cytopathic effects but notable morphological changes throughout the cell layer, suggestive of an epithelial-mesenchymal transition (EMT). Long-lasting viral replication and production was associated with reduced expression of epithelial genes and increased expression of certain mesenchymal genes, suggesting that integrity of the RPE layer may be compromised. These results indicate that viral persistence and phenotypical transition observed in vitro in RPE cells could provide clues to understanding the late onset of ocular pathophysiological manifestations in Zika virus-related diseases.</description>
   <category>cell biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Comprehensive characterization of human color discrimination thresholds</title>
-  <dc:creator>Hong, F.</dc:creator>
-  <dc:creator>Bouhassira, R.</dc:creator>
-  <dc:creator>Chow, J.</dc:creator>
-  <dc:creator>Sanders, C.</dc:creator>
-  <dc:creator>Shvartsman, M.</dc:creator>
-  <dc:creator>Guan, P.</dc:creator>
-  <dc:creator>Williams, A. H.</dc:creator>
-  <dc:creator>Brainard, D. H.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Discrimination thresholds reveal the limits of human perception; scientists have studied them since the time of Fechner in the 1800s. Forced-choice psychophysical methods combined with the method of constant stimuli or parametric adaptive trial-placement procedures are well-suited for measuring one-dimensional psychometric functions. However, extending these methods to characterize psychometric fields in higher-dimensional stimulus spaces, such as three-dimensional color space, poses a significant challenge. Here, we introduce a novel Wishart Process Psychophysical Model (WPPM) that leverages the smooth variation of threshold across stimulus space. We demonstrate the use of the WPPM in conjunction with a non-parametric adaptive trial-placement procedure by characterizing the full psychophysical field for color discrimination in the isoluminant plane. Each participant (N = 8) completed between 6,000 and 6,466 three-alternative forced-choice (3AFC) oddity color discrimination trials. The WPPM was fit to these trials. Importantly, once fit, the WPPM allows readout of discrimination performance between any pair of stimuli, providing a comprehensive characterization of the psychometric field. In addition, the WPPM readouts were validated for each participant by comparison with 25 probe psychometric functions. These were measured with an additional 6,000 trials per participant that were held out from the WPPM fit. The dataset offers a foundational resource for developing perceptual color metrics and for benchmarking mechanistic models of color processing. This approach is broadly generalizable to other perceptual domains beyond color.</description>
-  <category>neuroscience</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
