@@ -9,8 +9,32 @@
 <link>https://colrverse.github.io/colsci-bot/</link>
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.9.5</generator>
-<lastBuildDate>Wed, 15 Oct 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.7</generator>
+<lastBuildDate>Thu, 16 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Perceiving surface colour requires attention</title>
+  <dc:creator>Goddard, E.</dc:creator>
+  <dc:creator>Paul Remician, K.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Colour constancy refers to our ability to distinguish changes in surface properties from changes in the properties of light illuminating the scene. The apparent ease with which we can tell that objects do not change colour, for example, when moving from sunlight to the shade, belies the complexity of solving this ill-constrained problem. Although there is a substantial body of work testing which image cues might be used to accomplish this, there is surprisingly little known of how the brain performs this computation. Here, we tested a fundamental aspect of this perceptual process: whether it requires attention. We measured visual search times for both surface colour (requiring separation of surface and illuminant properties) and &#39;raw&#39;, colorimetric colour (which does not). We found a clear difference between the two: visual search for colorimetric colour was fast and near-parallel, while search for surface colour was slow and consistent with the serial deployment of attention. That is, search times suggest that the perceptual separation of surface and illuminant properties in colour constancy may require an attention-based process analogous to perceiving conjunctions of simple features in &#39;feature binding&#39;. Colour discrimination thresholds suggested that while colorimetric colour detection is fast and parallel, once attention was directed to these stimuli and perceptual scission occurs, colorimetric colour information was discarded by the visual system. These results offer important new insights into the sequence of processes the brain uses to accomplish colour constancy.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Color, size, shape: The drivers of floral variation in Hesperis matronalis (Dames Rocket)</title>
+  <dc:creator>Johnson, S. E.</dc:creator>
+  <dc:creator>Rifkin, J. L.</dc:creator>
+  <dc:creator>Wright, S.</dc:creator>
+  <dc:creator>Baucom, R. S.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Evolutionary biologists have long been intrigued by the factors that sustain genetic and phenotypic variation within and among natural populations. Polymorphisms underlying components of floral display -- such as floral color, size, and shape -- are uniquely of interest since variation in these traits impact pollinator attraction, rates of visitation, and pollinator efficiency, which ultimately influence patterns of plant reproduction and therefore fitness. We leverage existing floral variation present within and among populations of Hesperis matronalis (Dames Rocket) to disentangle the relative influence of natural selection and genetic drift in shaping floral trait variation. We employ a multi-tiered approach: we determine if variation in floral traits (color, size, and petal shape) is influenced by geography or environmental variables such as temperature and precipitation, we evaluate whether selection underlies trait variation by comparing phenotypic divergence (PST) with neutral genetic structure (FST), and we perform a Lande-Arnold selection analysis to explore the relationship between fitness and floral trait variation within natural populations. We find that selection underlies the divergence of floral color, floral size, and petal width among H. matronalis populations, with PST &gt; FST for each trait. We find no indication, however, that variation in size in this species is influenced by the environment, but some evidence that variation in floral color and petal shape may be influenced by temperature. Finally, selection analyses of contemporary populations indicate divergent selection affecting combinations of color, petal shape, and plant size. These results suggest that the variation in floral shape in this species may be maintained due to environmental pressures, whereas floral color is influenced by pollinator visibility and the presence of different pollinator groups.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Effects of color-enhancing filters on color salience in normal trichromats</title>
   <dc:creator>Webster, M.</dc:creator>
@@ -314,38 +338,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>FLEXTAG: A Small and Self-renewable Protein Labeling System for Anti-fading Multi-color Super-resolution Imaging</title>
-  <dc:creator>Zhang, H.</dc:creator>
-  <dc:creator>Yao, Y.</dc:creator>
-  <dc:creator>Wang, X.</dc:creator>
-  <dc:creator>Tao, Y.</dc:creator>
-  <dc:creator>Yang, H.</dc:creator>
-  <dc:creator>Wang, Y.</dc:creator>
-  <dc:creator>Liu, M.</dc:creator>
-  <dc:creator>Feric, M.</dc:creator>
-  <dc:creator>Zhou, R.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Super-resolution fluorescence imaging enables visualization of subcellular structures and molecular interactions at the nanoscale, but its broader application has been hindered by long-standing limitations in current protein tagging systems, including rapid photobleaching, tag-induced artifacts, poor post-fixation labeling efficiency, and restricted multiplexing capability. Here, we present FLEXTAG (Fluorescent Labeling for Exchangeable, X-resilient Tagging in Advanced Generic Nanoscopy), a comprehensive protein labeling system comprising three orthogonal, ultrasmall (12-18 kDa), and self-renewable protein tags that collectively overcome these major limitations of existing tagging systems, enabling optimized multi-color super-resolution imaging. Through continuous exchange of organic fluorophores, FLEXTAG supports unprecedented durations of high-resolution imaging in both live and fixed cells with minimal photobleaching. It is compatible with major super-resolution modalities, such as SIM, STED, STORM, and PAINT, and is applicable to a wide range of subcellar targets. To further address fixation-induced labeling inefficiency and background fluorescence, we developed a novel protection-based fixation method and chemical blocking strategies that significantly preserve tag accessibility and enhance signal-to-noise ratio, improvements that are broadly applicable to other protein tagging systems. Altogether, FLEXTAG enables long-term tracking of dynamic behaviors and interactions of subcellular targets, as well as mapping of nanoscale protein organizations and cellular architecture, advancing both basic research and translational applications in cell biology.</description>
-  <category>bioengineering</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The Zika Virus Persistently Infects Retinal Pigment Epithelial Cells, Eliciting Limited Cytopathic Effects and Loss of Epithelial Characteristics Consistent with Epithelial-Mesenchymal Transition.</title>
-  <dc:creator>EL SAFADI, D.</dc:creator>
-  <dc:creator>MOKHTARI, A.</dc:creator>
-  <dc:creator>LEBEAU, G.</dc:creator>
-  <dc:creator>VIRANAICKEN, W.</dc:creator>
-  <dc:creator>KREJBICH-TROTOT, P.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The Zika virus (ZIKV), a pathogenic member of the orthoflavivirus family, is raising serious health concerns worldwide. Like Dengue (DENV) and Chikungunya (CHIKV) viruses, it is one of the arboviruses that poses an emerging threat to areas where its main vectors, Aedes mosquitoes, proliferate, well beyond tropical and subtropical regions. Although often asymptomatic or mild, ZIKV infection has been responsible for a worrying increase in serious congenital syndromes, including microcephaly. The ability of ZIKV to be transmitted sexually and its long persistence in body fluids suggests its incomplete clearance in particular tissues, linked to recurrent infection. Among its clinical presentations, ZIKV infection has been associated with ocular complications, including maculopathy, retinopathy, uveitis, and optic neuropathy, which can lead to lasting visual impairment. The blood-retinal barrier (BRB), primarily composed of retinal pigment epithelium (RPE) and endothelial cells, plays a crucial role in shielding the retina from pathogens. Its disruption has been linked to viral retinal infections. In vitro monitoring of infection on hTERT RPE-1 cells revealed an ability of ZIKV to persist for up to 30 days in nearly 10% of the cells. This prolonged infection was marked by low cytopathic effects but notable morphological changes throughout the cell layer, suggestive of an epithelial-mesenchymal transition (EMT). Long-lasting viral replication and production was associated with reduced expression of epithelial genes and increased expression of certain mesenchymal genes, suggesting that integrity of the RPE layer may be compromised. These results indicate that viral persistence and phenotypical transition observed in vitro in RPE cells could provide clues to understanding the late onset of ocular pathophysiological manifestations in Zika virus-related diseases.</description>
-  <category>cell biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
