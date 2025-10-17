@@ -1,3 +1,71 @@
+- title: Perceiving surface colour requires attention
+  categories:
+  - neuroscience
+  - new results
+  license: CC BY-NC-ND
+  author:
+  - Goddard, E.
+  - Paul Remician, K.
+  path: https://doi.org/10.1101/2025.10.14.682481
+  description: 'Colour constancy refers to our ability to distinguish changes in surface
+    properties from changes in the properties of light illuminating the scene. The
+    apparent ease with which we can tell that objects do not change colour, for example,
+    when moving from sunlight to the shade, belies the complexity of solving this
+    ill-constrained problem. Although there is a substantial body of work testing
+    which image cues might be used to accomplish this, there is surprisingly little
+    known of how the brain performs this computation. Here, we tested a fundamental
+    aspect of this perceptual process: whether it requires attention. We measured
+    visual search times for both surface colour (requiring separation of surface and
+    illuminant properties) and ''raw'', colorimetric colour (which does not). We found
+    a clear difference between the two: visual search for colorimetric colour was
+    fast and near-parallel, while search for surface colour was slow and consistent
+    with the serial deployment of attention. That is, search times suggest that the
+    perceptual separation of surface and illuminant properties in colour constancy
+    may require an attention-based process analogous to perceiving conjunctions of
+    simple features in ''feature binding''. Colour discrimination thresholds suggested
+    that while colorimetric colour detection is fast and parallel, once attention
+    was directed to these stimuli and perceptual scission occurs, colorimetric colour
+    information was discarded by the visual system. These results offer important
+    new insights into the sequence of processes the brain uses to accomplish colour
+    constancy.'
+  date: '2025-10-16'
+- title: 'Color, size, shape: The drivers of floral variation in Hesperis matronalis
+    (Dames Rocket)'
+  categories:
+  - evolutionary biology
+  - new results
+  license: CC NO
+  author:
+  - Johnson, S. E.
+  - Rifkin, J. L.
+  - Wright, S.
+  - Baucom, R. S.
+  path: https://doi.org/10.1101/2025.10.16.682931
+  description: 'Evolutionary biologists have long been intrigued by the factors that
+    sustain genetic and phenotypic variation within and among natural populations.
+    Polymorphisms underlying components of floral display -- such as floral color,
+    size, and shape -- are uniquely of interest since variation in these traits impact
+    pollinator attraction, rates of visitation, and pollinator efficiency, which ultimately
+    influence patterns of plant reproduction and therefore fitness. We leverage existing
+    floral variation present within and among populations of Hesperis matronalis (Dames
+    Rocket) to disentangle the relative influence of natural selection and genetic
+    drift in shaping floral trait variation. We employ a multi-tiered approach: we
+    determine if variation in floral traits (color, size, and petal shape) is influenced
+    by geography or environmental variables such as temperature and precipitation,
+    we evaluate whether selection underlies trait variation by comparing phenotypic
+    divergence (PST) with neutral genetic structure (FST), and we perform a Lande-Arnold
+    selection analysis to explore the relationship between fitness and floral trait
+    variation within natural populations. We find that selection underlies the divergence
+    of floral color, floral size, and petal width among H. matronalis populations,
+    with PST > FST for each trait. We find no indication, however, that variation
+    in size in this species is influenced by the environment, but some evidence that
+    variation in floral color and petal shape may be influenced by temperature. Finally,
+    selection analyses of contemporary populations indicate divergent selection affecting
+    combinations of color, petal shape, and plant size. These results suggest that
+    the variation in floral shape in this species may be maintained due to environmental
+    pressures, whereas floral color is influenced by pollinator visibility and the
+    presence of different pollinator groups.'
+  date: '2025-10-16'
 - title: Effects of color-enhancing filters on color salience in normal trichromats
   categories:
   - neuroscience
