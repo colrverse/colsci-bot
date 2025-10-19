@@ -10,7 +10,36 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.8</generator>
-<lastBuildDate>Thu, 16 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Genomic and genetic insights into speciation and pigment pattern diversification in Danio fishes</title>
+  <dc:creator>Lu, J.</dc:creator>
+  <dc:creator>Podobnik, M.</dc:creator>
+  <dc:creator>Huang, J.</dc:creator>
+  <dc:creator>McCluskey, B. M.</dc:creator>
+  <dc:creator>McCarthy, S. A.</dc:creator>
+  <dc:creator>Wood, J.</dc:creator>
+  <dc:creator>Collins, J.</dc:creator>
+  <dc:creator>Torrance, J.</dc:creator>
+  <dc:creator>Sims, Y.</dc:creator>
+  <dc:creator>Gao, D.</dc:creator>
+  <dc:creator>Huang, J.</dc:creator>
+  <dc:creator>Liu, J.</dc:creator>
+  <dc:creator>Fang, W.</dc:creator>
+  <dc:creator>Huang, P.</dc:creator>
+  <dc:creator>Ma, C.</dc:creator>
+  <dc:creator>Parichy, D. M.</dc:creator>
+  <dc:creator>Irion, U.</dc:creator>
+  <dc:creator>Liu, J.</dc:creator>
+  <dc:creator>Howe, K.</dc:creator>
+  <dc:creator>Postlethwait, J. H.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The Danioninae subfamily of teleost fishes boasts up to four hundred distinct species that have evolved to display a stunning diversity of morphological forms. Here we use newly assembled genome sequences of four laboratory and wild zebrafish strains as well as eleven species of the Danio and Danionella genera to explore their phylogenetic history and the genetic basis of pigment pattern diversification. Phylogenomic analyses uncover extensive introgression and incomplete lineage sorting that have obscured phylogenetic relationships within Danio and corroborate an ancient hybrid origin of zebrafish. Whereas D. rerio inherited ancestral horizontal stripes, relatives repeatedly evolved spots and vertical bars. Interspecific complementation tests reveal functional divergence of the adhesion molecule gene igsf11 and the gap junction gene gja5b between the striped zebrafish and Danio species with divergent patterns. Comparative genomic and transcriptomic analyses suggest that protein and regulatory evolution have accompanied pigment pattern diversification. Our analyses elucidate complex genetic changes underlying the phylogenetic history and morphological diversification in the Danio genus. Resolved phylogenetic relationships, available genome assemblies, transcriptomes, and genetic tractability establish Danio fish species as excellent models for biomedical research in vertebrates.</description>
+  <category>genomics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Perceiving surface colour requires attention</title>
   <dc:creator>Goddard, E.</dc:creator>
@@ -325,19 +354,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A comparative GWAS of eye colour in light and dark eye genetic backgrounds defined by HERC2 rs12913832 polymorphism</title>
-  <dc:creator>Abbatangelo, C.</dc:creator>
-  <dc:creator>Lona Durazo, F.</dc:creator>
-  <dc:creator>Edwards, M.</dc:creator>
-  <dc:creator>Parra, E. J.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>rs12913832, a polymorphism located in an enhancer within the HERC2 gene, which is known to regulate OCA2 transcription, is heavily relied upon as a predictor of light versus dark eyes. Individuals with the GG genotype are projected to have blue eyes, while individuals with the AA or AG genotypes are projected to have darker eye colours (primarily brown). However, eye colour is a polygenic trait, and previous studies have revealed that a significant proportion of individuals self-report an eye colour that is not concordant with their genotype at rs12913832. Herein, we address the question: What common markers are influencing eye colour in individuals whose self-reported phenotype does not correspond to the expected phenotype based on their rs12913832 genotype. Building upon our prior investigation of iris pigmentation genetics in individuals with an expected &quot;blue eye&quot; background (rs12913832:GG genotype) in a sample of the Canadian Partnership for Tomorrows Health (CanPath) cohort, this study extends the analysis to include individuals with an expected &quot;brown eye&quot; background (rs12913832:AA+AG). We identified variants in SLC45A2, TYRP1, TYR, SLC24A4 and TSPAN10, which may influence eye colour presentation in individuals with the rs12913832:GG genotype and variants in IRF4, TYRP1 and OCA2, which may influence eye colour presentation in individuals with the rs12913832:AA+AG genotype. These markers include well-known pigmentation-associated single nucleotide polymorphisms, such as rs16891982 (SLC45A2), rs1126809 (TYR), rs12203592 (IRF4), rs1800407 (OCA2) and rs6420484 (TSPAN10). Several of these loci were replicated using independent quantitative eye colour measures, including heterochromia and CIELAB colour dimensions. This research highlights the importance of gene-gene interactions and the polygenic nature of pigmentation traits, emphasizing modifying effects that can sometimes counteract the dominant influence of rs12913832, contributing to advancements in pigmentation genetics and forensic applications.</description>
-  <category>genetics</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
