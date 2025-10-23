@@ -1,3 +1,36 @@
+- title: Opposing seasonal dynamics in phylogenetic and flower color diversity of
+    co-flowering wildflower assemblages
+  categories:
+  - ecology
+  - new results
+  license: CC BY
+  author:
+  - Talbot, C. A.
+  - Weber, M. G.
+  path: https://doi.org/10.1101/2025.10.21.683724
+  description: Flower color is a key trait mediating plant-pollinator interactions,
+    yet the ecological rules governing its distribution across co-flowering assemblages
+    remain poorly understood. We examined spatiotemporal patterns of flower color
+    and phylogenetic diversity in Eastern North American wildflowers to test for non-random
+    community structure, seasonal shifts, and associations between flower color similarity
+    and phylogenetic relatedness. Using occurrence, phenology, and color data from
+    community science datasets, we reconstructed communities of co-flowering assemblages
+    and calculated standardized effect sizes of mean pairwise distances for both flower
+    color and phylogenetic relatedness. We analyzed seasonal trends using mixed models
+    and assessed whether closely related species co-flowered non-randomly with respect
+    to color similarity using bootstrap correlations. We found that, on average, co-flowering
+    assemblages were overdispersed for both flower color and phylogeny. However, flower
+    color dispersion significantly decreased over the growing season, while phylogenetic
+    dispersion significantly increased, reflecting a pattern in which co-flowering
+    assemblages shifted to more distantly related but similarly colored assemblages.
+    Finally, color and phylogenetic dispersion were negatively correlated across communities,
+    indicating that communities composed of more closely related species tended to
+    exhibit more dissimilar flowers. Together, our results suggest that wildflower
+    assemblages in Eastern North America show detectable, non-random structure across
+    space and time with respect to color and relatedness at the broad scale, and that
+    mechanisms underlying the structure of co-flowering groups may shift throughout
+    the growing season.
+  date: '2025-10-22'
 - title: Genomic and genetic insights into speciation and pigment pattern diversification
     in Danio fishes
   categories:
