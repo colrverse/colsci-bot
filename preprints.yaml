@@ -1,3 +1,190 @@
+- title: A 37-color spectral flow cytometry panel to characterize phenotype and cytokine
+    expression in human intestinal T cells
+  categories:
+  - immunology
+  - new results
+  license: CC NO
+  author:
+  - Lindelauf, C.
+  - Jiang, Q.
+  - Koning, F.
+  - van der Meulen-de Jong, A. E.
+  - van Unen, V.
+  - Pascutti, M. F.
+  path: https://doi.org/10.1101/2025.10.29.685441
+  description: We developed a 37-color spectral flow cytometry panel to characterize
+    T cell function, with a focus CD4+ T helper (Th) cells, in the human intestine.
+    The panel includes lineage-defining transcription factors, markers for memory
+    status, tissue residency and T cell activation, and 11 cytokines representing
+    multiple Th cell lineages. The panel is currently being used to investigate CD4+
+    Th cell function in intestinal and peripheral blood samples of inflammatory bowel
+    disease (IBD) patients. The panel could however be applied to investigate both
+    peripheral and tissue-resident T cell function in a range of immune-mediated diseases.
+  date: '2025-10-31'
+- title: Sensory receptor expansion and neural accommodation in butterfly color vision
+  categories:
+  - developmental biology
+  - new results
+  license: CC BY
+  author:
+  - Gao, K.
+  - Ainsworth, J.
+  - Donati, A.
+  - Zhao, Y.
+  - Ragsac, M. F.
+  - Genduso, C.
+  - Andre, Z.
+  - Tomlinson, A.
+  - Perry, M. W.
+  path: https://doi.org/10.1101/2025.10.30.685642
+  description: The evolution of more complex brains required existing neurons and
+    neural circuits to accommodate new inputs. The genetic and developmental mechanisms
+    that enable such integration are largely unknown. Butterflies evolved more complex
+    retinal mosaics through the addition of a second R7 color photoreceptor per ommatidium
+    (unit eye). In Drosophila, the unique R7 makes a stochastic choice to express
+    one of two opsin genes. In butterflies, the two R7s make two independent stochastic
+    cell fate choices in each ommatidium, producing three ommatidial types instead
+    of the two in flies. Here, we investigate the developmental basis of this change
+    and how the butterfly brain accommodates an expansion in sensory receptor input.
+    We first identified the developmental mechanisms that specify the second R7 cell.
+    We then modified Drosophila retinas to have butterfly-like transcription factor
+    expression, causing recruitment of an additional R7. The two R7s make independent
+    stochastic choices, like butterflies, leading to three stochastically distributed
+    ommatidial types instead of two. In Drosophila, each of the two subtypes of R7s
+    connects to one of two types of Dm8 neurons. Dm8 neurons of both types are born
+    in excess, with Dm8s that are not connected to their cognate R7s undergoing apoptosis.
+    In the presence of extra R7s in butterfly-like retinas, additional Dm8s are retained,
+    leading to two Dm8s per medulla column. We propose a model in which population-level
+    variation in the ratio of R7 subtypes produced in the retina maintains an excess
+    pool of two types of potentially interacting partners in the brain, thus providing
+    developmental flexibility which allows brains to accommodate additional inputs.
+    We demonstrate how excess neurons that are eliminated in normal development facilitated
+    the expansion of color vision in butterflies, and similar cooption events may
+    represent a general mechanism of neural evolution.
+  date: '2025-10-31'
+- title: Sensory receptor expansion and neural accommodation in butterfly color vision
+  categories:
+  - developmental biology
+  - new results
+  license: CC BY
+  author:
+  - Gao, K.
+  - Ainsworth, J.
+  - Donati, A.
+  - Zhao, Y.
+  - Ragsac, M. F.
+  - Genduso, C.
+  - Andre, Z.
+  - Tomlinson, A.
+  - Perry, M. W.
+  path: https://doi.org/10.1101/2025.10.30.685642
+  description: The evolution of more complex brains required existing neurons and
+    neural circuits to accommodate new inputs. The genetic and developmental mechanisms
+    that enable such integration are largely unknown. Butterflies evolved more complex
+    retinal mosaics through the addition of a second R7 color photoreceptor per ommatidium
+    (unit eye). In Drosophila, the unique R7 makes a stochastic choice to express
+    one of two opsin genes. In butterflies, the two R7s make two independent stochastic
+    cell fate choices in each ommatidium, producing three ommatidial types instead
+    of the two in flies. Here, we investigate the developmental basis of this change
+    and how the butterfly brain accommodates an expansion in sensory receptor input.
+    We first identified the developmental mechanisms that specify the second R7 cell.
+    We then modified Drosophila retinas to have butterfly-like transcription factor
+    expression, causing recruitment of an additional R7. The two R7s make independent
+    stochastic choices, like butterflies, leading to three stochastically distributed
+    ommatidial types instead of two. In Drosophila, each of the two subtypes of R7s
+    connects to one of two types of Dm8 neurons. Dm8 neurons of both types are born
+    in excess, with Dm8s that are not connected to their cognate R7s undergoing apoptosis.
+    In the presence of extra R7s in butterfly-like retinas, additional Dm8s are retained,
+    leading to two Dm8s per medulla column. We propose a model in which population-level
+    variation in the ratio of R7 subtypes produced in the retina maintains an excess
+    pool of two types of potentially interacting partners in the brain, thus providing
+    developmental flexibility which allows brains to accommodate additional inputs.
+    We demonstrate how excess neurons that are eliminated in normal development facilitated
+    the expansion of color vision in butterflies, and similar cooption events may
+    represent a general mechanism of neural evolution.
+  date: '2025-10-31'
+- title: Sensory receptor expansion and neural accommodation in butterfly color vision
+  categories:
+  - developmental biology
+  - new results
+  license: CC BY
+  author:
+  - Gao, K.
+  - Ainsworth, J.
+  - Donati, A.
+  - Zhao, Y.
+  - Ragsac, M. F.
+  - Genduso, C.
+  - Andre, Z.
+  - Tomlinson, A.
+  - Perry, M. W.
+  path: https://doi.org/10.1101/2025.10.30.685642
+  description: The evolution of more complex brains required existing neurons and
+    neural circuits to accommodate new inputs. The genetic and developmental mechanisms
+    that enable such integration are largely unknown. Butterflies evolved more complex
+    retinal mosaics through the addition of a second R7 color photoreceptor per ommatidium
+    (unit eye). In Drosophila, the unique R7 makes a stochastic choice to express
+    one of two opsin genes. In butterflies, the two R7s make two independent stochastic
+    cell fate choices in each ommatidium, producing three ommatidial types instead
+    of the two in flies. Here, we investigate the developmental basis of this change
+    and how the butterfly brain accommodates an expansion in sensory receptor input.
+    We first identified the developmental mechanisms that specify the second R7 cell.
+    We then modified Drosophila retinas to have butterfly-like transcription factor
+    expression, causing recruitment of an additional R7. The two R7s make independent
+    stochastic choices, like butterflies, leading to three stochastically distributed
+    ommatidial types instead of two. In Drosophila, each of the two subtypes of R7s
+    connects to one of two types of Dm8 neurons. Dm8 neurons of both types are born
+    in excess, with Dm8s that are not connected to their cognate R7s undergoing apoptosis.
+    In the presence of extra R7s in butterfly-like retinas, additional Dm8s are retained,
+    leading to two Dm8s per medulla column. We propose a model in which population-level
+    variation in the ratio of R7 subtypes produced in the retina maintains an excess
+    pool of two types of potentially interacting partners in the brain, thus providing
+    developmental flexibility which allows brains to accommodate additional inputs.
+    We demonstrate how excess neurons that are eliminated in normal development facilitated
+    the expansion of color vision in butterflies, and similar cooption events may
+    represent a general mechanism of neural evolution.
+  date: '2025-10-31'
+- title: Sensory receptor expansion and neural accommodation in butterfly color vision
+  categories:
+  - developmental biology
+  - new results
+  license: CC BY
+  author:
+  - Gao, K.
+  - Ainsworth, J.
+  - Donati, A.
+  - Zhao, Y.
+  - Ragsac, M. F.
+  - Genduso, C.
+  - Andre, Z.
+  - Tomlinson, A.
+  - Perry, M. W.
+  path: https://doi.org/10.1101/2025.10.30.685642
+  description: The evolution of more complex brains required existing neurons and
+    neural circuits to accommodate new inputs. The genetic and developmental mechanisms
+    that enable such integration are largely unknown. Butterflies evolved more complex
+    retinal mosaics through the addition of a second R7 color photoreceptor per ommatidium
+    (unit eye). In Drosophila, the unique R7 makes a stochastic choice to express
+    one of two opsin genes. In butterflies, the two R7s make two independent stochastic
+    cell fate choices in each ommatidium, producing three ommatidial types instead
+    of the two in flies. Here, we investigate the developmental basis of this change
+    and how the butterfly brain accommodates an expansion in sensory receptor input.
+    We first identified the developmental mechanisms that specify the second R7 cell.
+    We then modified Drosophila retinas to have butterfly-like transcription factor
+    expression, causing recruitment of an additional R7. The two R7s make independent
+    stochastic choices, like butterflies, leading to three stochastically distributed
+    ommatidial types instead of two. In Drosophila, each of the two subtypes of R7s
+    connects to one of two types of Dm8 neurons. Dm8 neurons of both types are born
+    in excess, with Dm8s that are not connected to their cognate R7s undergoing apoptosis.
+    In the presence of extra R7s in butterfly-like retinas, additional Dm8s are retained,
+    leading to two Dm8s per medulla column. We propose a model in which population-level
+    variation in the ratio of R7 subtypes produced in the retina maintains an excess
+    pool of two types of potentially interacting partners in the brain, thus providing
+    developmental flexibility which allows brains to accommodate additional inputs.
+    We demonstrate how excess neurons that are eliminated in normal development facilitated
+    the expansion of color vision in butterflies, and similar cooption events may
+    represent a general mechanism of neural evolution.
+  date: '2025-10-31'
 - title: Opposing seasonal dynamics in phylogenetic and flower color diversity of
     co-flowering wildflower assemblages
   categories:
