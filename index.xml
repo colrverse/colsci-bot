@@ -10,7 +10,40 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.9</generator>
-<lastBuildDate>Wed, 22 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>A 37-color spectral flow cytometry panel to characterize phenotype and cytokine expression in human intestinal T cells</title>
+  <dc:creator>Lindelauf, C.</dc:creator>
+  <dc:creator>Jiang, Q.</dc:creator>
+  <dc:creator>Koning, F.</dc:creator>
+  <dc:creator>van der Meulen-de Jong, A. E.</dc:creator>
+  <dc:creator>van Unen, V.</dc:creator>
+  <dc:creator>Pascutti, M. F.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>We developed a 37-color spectral flow cytometry panel to characterize T cell function, with a focus CD4+ T helper (Th) cells, in the human intestine. The panel includes lineage-defining transcription factors, markers for memory status, tissue residency and T cell activation, and 11 cytokines representing multiple Th cell lineages. The panel is currently being used to investigate CD4+ Th cell function in intestinal and peripheral blood samples of inflammatory bowel disease (IBD) patients. The panel could however be applied to investigate both peripheral and tissue-resident T cell function in a range of immune-mediated diseases.</description>
+  <category>immunology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Sensory receptor expansion and neural accommodation in butterfly color vision</title>
+  <dc:creator>Gao, K.</dc:creator>
+  <dc:creator>Ainsworth, J.</dc:creator>
+  <dc:creator>Donati, A.</dc:creator>
+  <dc:creator>Zhao, Y.</dc:creator>
+  <dc:creator>Ragsac, M. F.</dc:creator>
+  <dc:creator>Genduso, C.</dc:creator>
+  <dc:creator>Andre, Z.</dc:creator>
+  <dc:creator>Tomlinson, A.</dc:creator>
+  <dc:creator>Perry, M. W.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The evolution of more complex brains required existing neurons and neural circuits to accommodate new inputs. The genetic and developmental mechanisms that enable such integration are largely unknown. Butterflies evolved more complex retinal mosaics through the addition of a second R7 color photoreceptor per ommatidium (unit eye). In Drosophila, the unique R7 makes a stochastic choice to express one of two opsin genes. In butterflies, the two R7s make two independent stochastic cell fate choices in each ommatidium, producing three ommatidial types instead of the two in flies. Here, we investigate the developmental basis of this change and how the butterfly brain accommodates an expansion in sensory receptor input. We first identified the developmental mechanisms that specify the second R7 cell. We then modified Drosophila retinas to have butterfly-like transcription factor expression, causing recruitment of an additional R7. The two R7s make independent stochastic choices, like butterflies, leading to three stochastically distributed ommatidial types instead of two. In Drosophila, each of the two subtypes of R7s connects to one of two types of Dm8 neurons. Dm8 neurons of both types are born in excess, with Dm8s that are not connected to their cognate R7s undergoing apoptosis. In the presence of extra R7s in butterfly-like retinas, additional Dm8s are retained, leading to two Dm8s per medulla column. We propose a model in which population-level variation in the ratio of R7 subtypes produced in the retina maintains an excess pool of two types of potentially interacting partners in the brain, thus providing developmental flexibility which allows brains to accommodate additional inputs. We demonstrate how excess neurons that are eliminated in normal development facilitated the expansion of color vision in butterflies, and similar cooption events may represent a general mechanism of neural evolution.</description>
+  <category>developmental biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Opposing seasonal dynamics in phylogenetic and flower color diversity of co-flowering wildflower assemblages</title>
   <dc:creator>Talbot, C. A.</dc:creator>
@@ -315,37 +348,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Two mutations in the same MYC-bHLH transcription factor cause segregation of purple coloration of stolons and seed heads in Zoysia japonica x Zoysia matrella F2 and F1 populations</title>
-  <dc:creator>Pradhan, S.</dc:creator>
-  <dc:creator>Zhao, J.</dc:creator>
-  <dc:creator>Spiekerman, J. J.</dc:creator>
-  <dc:creator>Bennetzen, E.</dc:creator>
-  <dc:creator>Khanal, S.</dc:creator>
-  <dc:creator>Yu, X.</dc:creator>
-  <dc:creator>Milla-Lewis, S.</dc:creator>
-  <dc:creator>Conner, J.</dc:creator>
-  <dc:creator>Schwartz, B.</dc:creator>
-  <dc:creator>Devos, K. M.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Anthocyanins play diverse roles in plants, including attracting pollinators and protecting cells from oxidative damage. In zoysiagrass, a warm season turfgrass, their accumulation in seed heads and stolons can decrease the aesthetic appeal. In this study, a high-density genetic map with ~8000 single nucleotide polymorphism (SNP) markers organized into 20 linkage groups was generated in a Zoysia japonica acc. Meyer x Zoysia matrella acc. PI 231146 F2 population. Using this genetic map, a large-effect quantitative trait locus (QTL) for anthocyanin variation in stolons and seed heads was mapped to chromosome 12 (PP locus). Variant analysis of a candidate gene for PP, Zjn_sc00004.1.g07010.1.sm.mk, which encodes a MYC-bHLH transcription factor that regulates anthocyanin biosynthesis, revealed a SNP at an exon-intron boundary in Meyer that led to intron retention. Interestingly, an F1 population derived from the same parents segregated for seed head color but uniformly displayed purple stolons. Seed head color in the F1 population co-mapped with the PP locus which, combined with genotypic and yeast two-hybrid analyses, revealed that a SNP in PI 231146 leading to an Ala163Ser substitution in the MYB-interacting N-terminal domain of the same MYC-bHLH transcription factor was likely causal. The Ala163Ser substitution affected interaction of MYC-bHLH with MYB in a MYB-dependent manner. The identified mutations can be exploited to develop cultivars with green seed heads and stolons. The high-marker-density interspecific Z. japonica x Z. matrella F2 genetic map also provides a robust tool for identifying genomic regions and genes of agronomic interest that differentiate the two species.</description>
-  <category>genetics</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Colour and shape evolution reflect ecological specialisation in Pomacentridae</title>
-  <dc:creator>Jimenez, A. G.</dc:creator>
-  <dc:creator>Salamin, N.</dc:creator>
-  <dc:creator>Gaboriau, T.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>How ecological pressures shape phenotypic traits such as colouration and morphology is a fundamental question in evolutionary biology. Colouration often mediates functions such as communication, camouflage, and species recognition, while morphological traits influence locomotion, feeding, and habitat use. In reef fishes, both traits exhibit striking diversity, frequently shaped by ecological interactions. The damselfish family (Pomacentridae) exemplifies this variation, displaying a wide range of colouration, morphology, and ecological strategies, including dietary specialisation, mutualistic behaviours, and freshwater tolerance. In this study, we examined 342 Pomacentridae species using an integrative framework that combined colouration and morphometric analyses, ancestral state reconstructions of habitat, diet, and symbiosis, and Phylogenetic Comparative Methods (PCMs). Our goal was to assess how ecological factors have influenced the evolution of phenotypic traits and to identify patterns of convergence linked to ecological specialisation. We found repeated convergent evolution in both colouration and body shape, often associated with similar ecological pressures. Species with specialised diets exhibited consistent morphological adaptations, underscoring the role of trophic ecology in shaping body form. Additionally, we observed a strong association between habitat type and dominant colouration patterns, consistent with a camouflage function. These findings clarify the evolutionary processes driving phenotypic diversity in damselfishes and highlight the importance of ecological adaptation in shaping both morphology and colouration. Our work contributes to a broader understanding of how form and function evolve in response to ecological pressures in coral reef ecosystems.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
