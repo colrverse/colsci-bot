@@ -10,7 +10,19 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.10</generator>
-<lastBuildDate>Mon, 03 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Anthropogenic factors explain wing colour variation in Colias (Lepidoptera: Pieridae) across the Toronto urbanization gradient</title>
+  <dc:creator>Sabatino, A.</dc:creator>
+  <dc:creator>Jahner, J. P.</dc:creator>
+  <dc:creator>McFarlane, S. E.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Hybridization, or interbreeding between two previously diverged populations, is increasing due to human influences on the environment. Rates of hybridization might be increasing particularly quickly among urban species, especially those that are known to be sensitive to environmental disturbances. Butterflies are one such taxa, as some species are commonly found in urban areas, despite being sensitive indicators. For example, Colias philodice and C. eurytheme (Lepidoptera: Pieridae) hybridize when their ranges are in contact or overlap and are commonly found in large cities throughout North America. However, it is an open question how variation in urbanization might affect variation in hybridization. Using wild Colias across a gradient of urbanization in Toronto, Ontario, we tested how the variation in Colias colour, as an indicator of hybridization, relates to human disturbance and urbanization. We created an objective numeric classification for both C. eurytheme and C. philodice, against which we categorized Colias samples. We found that some of the urbanization metrics, including distance to road, Julian date, and number of pedestrians affect the variation in Colias colour, suggesting that urbanization affects Colias colouration, and potentially rates of hybridization, in Toronto. This means that human disturbance of the environment could be affecting Colias rates of hybridization.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Estimating resource acquisition and water-use traits in wine grapes using reflectance spectroscopy</title>
   <dc:creator>Mariani, R. O.</dc:creator>
@@ -328,23 +340,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Anti-vitronectin single-chain variable fragment targeting the hemopexin-like domain decreases age-related macular degeneration indicators in ex vivo models of the retinal pigment epithelium</title>
-  <dc:creator>Kim, J. W.</dc:creator>
-  <dc:creator>Meyer, S.</dc:creator>
-  <dc:creator>Lopez, B.</dc:creator>
-  <dc:creator>Faynus, M.</dc:creator>
-  <dc:creator>Johnson, L. V.</dc:creator>
-  <dc:creator>Hemmati, H.</dc:creator>
-  <dc:creator>Clegg, D. O.</dc:creator>
-  <dc:creator>Min, H.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Vitronectin is a prominent constituent of the extracelluar matrix (ECM) that plays a key role in inflammation by regulating cell adhesion, migration, and complement activation. Together with other inflammatory biomarkers, lipids, and hydroxyapatite, an ECM component, vitronectin, accumulates in abnormal deposits and drusen associated with age-related macular degeneration (AMD). Using an engineered polypeptide (VnHX) containing the hexmopexin-like domain (HX) of vitronectin, we found that the HX domain directly promotes hydroxyapatite (HAP) accumulation. Next, we screened humanized single-chain variable fragments (scFvs) against vitronectin that inhibit the interaction between VnHX and HAP, leveraging the binding of VnHX to HAP. We then tested these scFvs for their ability to block Vn-containg deposits secreted by stem cell-derived retinal pigment epithelium (RPE). In this in vitro drusen model, treatment with the anti-vitronectin antibodies decreased vitronectin accumulation. Furthermore, the antibody treatment led to decreased accumulation of C5b-9 and clusterin, indicating alterations in the complement pathway and cellular stress. These results support that vitronectin has a functional role drusen accumulation and possibly in AMD progression. Vitronectin would be a novel, promising therapeutic target for AMD.</description>
-  <category>cell biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
