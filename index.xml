@@ -10,7 +10,41 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.10</generator>
-<lastBuildDate>Fri, 07 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Insertion of an invading retrovirus regulates a novel color trait in swordtail fish</title>
+  <dc:creator>Haghani, N.</dc:creator>
+  <dc:creator>Dodge, T. O.</dc:creator>
+  <dc:creator>Baczenas, J. J.</dc:creator>
+  <dc:creator>Gunn, T.</dc:creator>
+  <dc:creator>He, Q.</dc:creator>
+  <dc:creator>Pangburn, W.</dc:creator>
+  <dc:creator>Sood, R.</dc:creator>
+  <dc:creator>Du, K.</dc:creator>
+  <dc:creator>Fascinetto-Zago, P.</dc:creator>
+  <dc:creator>Kaatmann, A.</dc:creator>
+  <dc:creator>Ou, Z.</dc:creator>
+  <dc:creator>Dougan, S.</dc:creator>
+  <dc:creator>Olmos-Santiago, N. S.</dc:creator>
+  <dc:creator>Preising, G. A.</dc:creator>
+  <dc:creator>Payne, C. Y.</dc:creator>
+  <dc:creator>Haase Cox, S. K.</dc:creator>
+  <dc:creator>Hunnicutt, K. E.</dc:creator>
+  <dc:creator>Madrzyk, M.</dc:creator>
+  <dc:creator>Moran, B. M.</dc:creator>
+  <dc:creator>Stigloher, C.</dc:creator>
+  <dc:creator>Powell, D. L.</dc:creator>
+  <dc:creator>Schartl, M.</dc:creator>
+  <dc:creator>Gifford, C.</dc:creator>
+  <dc:creator>Han, G. z.</dc:creator>
+  <dc:creator>Schumer, M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>For over a century, evolutionary biologists have been motivated to understand the mechanisms through which organisms adapt to their environments. Coloration and pigmentation are remarkably variable within and between species and can serve as an important window into the mechanisms of adaptation. Here, we map the genetic basis of a newly described iridescence trait in swordtail fish to a single locus. Individuals with this trait appear to sparkle as they move through the water. We find that the trait is driven by the recent endogenization of a retrovirus that inserted near the gene alkal2a. This insertion is associated with changes in the chromatin landscape, upregulation of alkal2a, and accumulation of iridescent cells that adhere to the scales. Rather than causing diseases, our results demonstrate that invading endogenous retroviruses can also regulate novel trait variation in the host. Moreover, we find that this coloration trait may act as an important signal in interactions between fish and their predators in the natural environment.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Anthropogenic factors explain wing colour variation in Colias (Lepidoptera: Pieridae) across the Toronto urbanization gradient</title>
   <dc:creator>Sabatino, A.</dc:creator>
@@ -314,32 +348,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Cell-cell communication as underlying principle governing color pattern formation in fishes</title>
-  <dc:creator>Klann, M.</dc:creator>
-  <dc:creator>Miura, S.</dc:creator>
-  <dc:creator>Lee, S.-H.</dc:creator>
-  <dc:creator>Vianello, S. D.</dc:creator>
-  <dc:creator>Ross, R.</dc:creator>
-  <dc:creator>Watanabe, M.</dc:creator>
-  <dc:creator>Gairin, E.</dc:creator>
-  <dc:creator>Liang, Y.</dc:creator>
-  <dc:creator>Hutto, H. W.</dc:creator>
-  <dc:creator>McCluskey, B. M.</dc:creator>
-  <dc:creator>Herrera, M.</dc:creator>
-  <dc:creator>Solnica-Krezel, L.</dc:creator>
-  <dc:creator>Besseau, L.</dc:creator>
-  <dc:creator>Pigolotti, S.</dc:creator>
-  <dc:creator>Parichy, D. M.</dc:creator>
-  <dc:creator>Kinoshita, M.</dc:creator>
-  <dc:creator>Laudet, V.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The diverse pigmentation patterns of animals are crucial for predation avoidance and behavioral display, yet mechanisms underlying this diversity remain poorly understood. In zebrafish, Turing models have been proposed to explain stripe patterns, but it is unclear if they apply to other fishes. In anemonefish (Amphiprion ocellaris), we identified gja5b, a gene orthologous to zebrafish leopard and encoding a connexin involved in pigment cell communication, as responsible for the Snowflake phenotype. Using CRISPR/Cas9 and transgenesis, we recapitulate the Snowflake phenotype and show expression of gja5b in iridophores. A matching allele was recovered in zebrafish, revealing complementary requirements in both species. Our findings highlight conserved roles of gap junction mediated communication in pigment patterning across divergent teleosts.</description>
-  <category>developmental biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
