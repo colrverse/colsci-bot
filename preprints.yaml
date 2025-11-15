@@ -1,3 +1,29 @@
+- title: Predictive Networks Generate Motion-Induced Color Illusions
+  categories:
+  - neuroscience
+  - new results
+  license: CC BY-NC
+  author:
+  - Ueda, K.
+  - Sinapayen, L.
+  - Watanabe, E.
+  path: https://doi.org/10.1101/2025.11.13.688160
+  description: Subjective color (SC) refers to chromatic perception induced by achromatic
+    stimuli, as classically demonstrated using Benham\'s top. Despite nearly two centuries
+    of investigation, the underlying neural mechanisms remain unclear. We developed
+    artificial neural network (ANN) models trained on natural videos using predictive
+    learning to investigate SC generation. These models successfully reproduced artificial
+    subjective color (ASC) despite the absence of explicit color information in the
+    training stimuli. Critically, ASC characteristics were systematically influenced
+    by the colors of moving objects in the training videos. Using progressively simplified
+    stimuli, ranging from natural scenes to 3D computer graphics to 2D animations,
+    we demonstrated that the colors of moving objects are the primary determinant
+    of ASC properties. We propose that predictive learning establishes color associations
+    with motion patterns, causing the arcs on Benham\'s top to be perceived as moving
+    objects with their corresponding colors. These findings suggest that cortical
+    predictive mechanisms may complement retinal processes in generating subjective
+    color phenomena.
+  date: '2025-11-14'
 - title: Insertion of an invading retrovirus regulates a novel color trait in swordtail
     fish
   categories:
