@@ -10,7 +10,19 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.11</generator>
-<lastBuildDate>Tue, 11 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Predictive Networks Generate Motion-Induced Color Illusions</title>
+  <dc:creator>Ueda, K.</dc:creator>
+  <dc:creator>Sinapayen, L.</dc:creator>
+  <dc:creator>Watanabe, E.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Subjective color (SC) refers to chromatic perception induced by achromatic stimuli, as classically demonstrated using Benham\&#39;s top. Despite nearly two centuries of investigation, the underlying neural mechanisms remain unclear. We developed artificial neural network (ANN) models trained on natural videos using predictive learning to investigate SC generation. These models successfully reproduced artificial subjective color (ASC) despite the absence of explicit color information in the training stimuli. Critically, ASC characteristics were systematically influenced by the colors of moving objects in the training videos. Using progressively simplified stimuli, ranging from natural scenes to 3D computer graphics to 2D animations, we demonstrated that the colors of moving objects are the primary determinant of ASC properties. We propose that predictive learning establishes color associations with motion patterns, causing the arcs on Benham\&#39;s top to be perceived as moving objects with their corresponding colors. These findings suggest that cortical predictive mechanisms may complement retinal processes in generating subjective color phenomena.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Insertion of an invading retrovirus regulates a novel color trait in swordtail fish</title>
   <dc:creator>Haghani, N.</dc:creator>
@@ -334,20 +346,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Sigma-2 Receptor Modulators Alter Low-density Lipoprotein Receptor-mediated Lipid Uptake in Retinal Pigment Epithelial Cells</title>
-  <dc:creator>Lizama, B. N.</dc:creator>
-  <dc:creator>Reaver, A.</dc:creator>
-  <dc:creator>Look, G.</dc:creator>
-  <dc:creator>Caggiano, A. O.</dc:creator>
-  <dc:creator>Hamby, M. E.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Lipid and photoreceptor outer segment (POS) trafficking and digestion are important homeostatic functions of retinal pigment epithelial (RPE) cells, the primary cell type that degenerates in late-stage dry AMD preceded by extracellular drusen deposits of lipids and proteins. The sigma-2 receptor (S2R, TMEM97) interacts with proteins involved in lipid trafficking, such as low-density lipoprotein receptor (LDLR), which is the primary receptor for LDL-cholesterol uptake in the retina. Preclinical studies demonstrate the necessity of S2R in protecting the retina and other nervous system tissues, and loss of either S2R or LDLR has been shown to exacerbate RPE cell death and visual dysfunction. Targeting the regulatory receptors of lipid and protein trafficking functions in RPE cells represents a tractable therapeutic strategy for dry AMD. We previously demonstrated that small molecule modulators of S2R can rescue RPE POS trafficking deficits induced by exogenous stressors. Given that disruption in lipid homeostasis is a key factor in dry AMD pathogenesis and S2R interacts with LDLR, we hypothesized that LDLR-mediated lipid trafficking in RPE could be altered using S2R-targeting small molecules. In this study, RPE cells treated with S2R modulators increased LDL uptake, assessed using fluorescently-labeled LDL, compared to vehicle-treatment. Lentiviral shRNAs to reduce TMEM97 or LDLR expression, or a neutralizing blocking antibody against LDLR, reduced S2R modulator-mediated LDL uptake, confirming the requirement of TMEM97 and LDLR for S2R modulator effects. Together, these data elaborate on a potential mechanism that may underlie the favorable reduction in geographic atrophy lesion size found in participants treated with the S2R modulator zervimensine in the Ph2 clinical trial MAGNIFY in patients with geographic atrophy (COG2201, NCT05893537).</description>
-  <category>cell biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
