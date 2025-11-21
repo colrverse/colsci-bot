@@ -10,7 +10,39 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.12</generator>
-<lastBuildDate>Fri, 14 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Peculiar Pigment Pattern and Population Profile of a Poisonous Pufferfish</title>
+  <dc:creator>Miyazawa, S.</dc:creator>
+  <dc:creator>Doi, H.</dc:creator>
+  <dc:creator>Takahashi, H.</dc:creator>
+  <dc:creator>Nishiyama, T.</dc:creator>
+  <dc:creator>Shigenobu, S.</dc:creator>
+  <dc:creator>Misawa, K.</dc:creator>
+  <dc:creator>Kikuchi, K.</dc:creator>
+  <dc:creator>Sakai, H.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Pufferfish are well-known for their toxicity, yet they also exhibit a remarkable diversity of pigment patterns. Mushifugu (Takifugu exascurus) is a pufferfish endemic to Japan&#39;s coastal waters and is characterized by conspicuous labyrinthine patterns. Despite being recorded along both the Sea of Japan and the Pacific coasts, it has a limited distribution and is infrequently observed. Aside from its unique body pattern, mushifugu shows little to no morphological differences from other Takifugu species, often leading to speculation that it may be an interspecific hybrid. In addition, previous theoretical and empirical studies have shown that complex camouflage-like labyrinthine patterns can emerge through the &#39;pattern blending&#39; caused by hybridization between spotted species, providing support for this possibility. Here, we investigate the phylogenetic origin of mushifugu and its distinctive pattern through population structure analysis and demographic inference in comparison with its closest spotted relative, komonfugu (T. flavipterus). Mitochondrial DNA (mtDNA) analysis revealed two regional haplogroups within mushifugu--one in the Sea of Japan (SJ) and the other in the Pacific Ocean (PO). In the haplotype network, the SJ haplogroup formed a distinct cluster, whereas the PO haplogroup appeared as its own cluster connected to the komonfugu haplogroup. By contrast, genome-wide SNP analyses indicated limited structure between the SJ and PO mushifugu populations, while clearly separating mushifugu from komonfugu. Coalescent-based demographic inference suggested that the two species diverged following a bottleneck event in the early Pleistocene. These results confirm that mushifugu is a distinct species rather than a recent interspecific hybrid. Nevertheless, evidence of introgression was detected in both mitochondrial and nuclear genomes, suggesting multiple episodes of past hybridization between mushifugu and komonfugu, highlighting the potentially complex evolutionary processes shaping Takifugu species and their pigment patterns.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>MicroRNA166-HD-ZIP III module impacts tuber shape, color and productivity in potato</title>
+  <dc:creator>Patil, N. S.</dc:creator>
+  <dc:creator>Vasav, A.</dc:creator>
+  <dc:creator>Kumari, J.</dc:creator>
+  <dc:creator>Arora, G.</dc:creator>
+  <dc:creator>Natarajan, B.</dc:creator>
+  <dc:creator>Banerjee, A. K.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>MicroRNA165/166 is a highly conserved and abundant microRNA family in plants that targets class III homeodomain leucine zipper (HD-ZIP III) transcription factors. Their essential roles in plant development, organ polarity, meristem maintenance, and vascular differentiation have been well established. However, their role in storage organ development, particularly in potato tuberization remains unknown. Here, we demonstrate the pleiotropic effects of miR166 on potato (Solanum tuberosum spp. Andigena) growth and development. Suppression of miR166 via target mimicry (MIM166) resulted in reduced plant height, altered vascular patterning, diminished leaf curvature, and impaired root development. Remarkably, MIM166 lines produced elongated, pigmented tubers with reduced yield under short-day conditions. Transcriptomic analyses of swollen head versus stalk of tuberizing stolons revealed altered expression of auxin-, cytokinin-, and gibberellin-related genes, consistent with hormone quantification data, suggesting the key role of phytohormones in governing tuber shape. Anthocyanin profiling indicated elevated accumulation of cyanidin 3-glucoside, pelargonidin 3-glucoside, and delphinidin 3-glucoside in MIM166 tuber peels, correlating with the upregulation of anthocyanin biosynthetic genes. Tuber productivity in these lines was reduced possibly due to the decreased expression of SWEET11b and distorted vascular structures in the MIM166 lines. Further, StREVOLUTA, a direct miR166 target, exhibited dynamic expression during stolon differentiation and could modulate the expression of auxin biosynthesis genes. Collectively, our results demonstrate that the miR166-HD-ZIP III module is functional in potato, plays conserved roles in regulating key developmental traits, and is active through early stolon-to-tuber transition stages, affecting tuber shape, color and productivity.</description>
+  <category>plant biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Predictive Networks Generate Motion-Induced Color Illusions</title>
   <dc:creator>Ueda, K.</dc:creator>
@@ -315,37 +347,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Combined multi-color immunofluorescence staining and spatial in situ mRNA expression analysis identifies potential fibrosis drivers in acute lymphoblastic leukemia</title>
-  <dc:creator>Braunig, S.</dc:creator>
-  <dc:creator>Dencker, C.</dc:creator>
-  <dc:creator>Vo, D. N.</dc:creator>
-  <dc:creator>Fan, R.</dc:creator>
-  <dc:creator>Sierras, A. L.</dc:creator>
-  <dc:creator>Enoksson, J.</dc:creator>
-  <dc:creator>Hultquist, A.</dc:creator>
-  <dc:creator>Li, H.</dc:creator>
-  <dc:creator>Scheding, S.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Acute lymphoblastic leukemia (ALL) is the most prevalent childhood cancer. Bone marrow (BM) fibrosis in ALL has been associated with adverse outcomes, however, little is known about the mechanisms that cause fibrosis in ALL. Therefore, we established a novel and advanced analysis method by combining multi-color immunofluorescence staining with in-situ RNA expression analysis (RNAscope) investigate the spatial expression of putative fibrotic drivers in ALL bone marrows. We analyzed standard BM biopsies from pediatric ALL patients. Sequential 5-color immunofluorescence (IF) staining with CD45, CD271, CD31, CD34 and DAPI was used to identify different BM cell types. Combined RNAscope and IF staining was established for spatial mRNA expression analysis of transforming growth factor beta 1 (TGFB1) and platelet-derived growth factor alpha 1 (PDGFA1), which are known to play major roles in primary myelofibrosis (PMF). PMF and normal BM samples served as controls. As expected, ALL bone marrows showed high cellularities and prominent populations of blast cells. CD271+ MSC density was increased in ALL and was associated with fibrosis in a similar manner as observed for PMF. TGFB1 and PDGFA1 expression was considerably increased in ALL megakaryocytes (MKs) compared to PMF patients and normal controls. Furthermore, MK TGFB1 and PDGFA1 expression intensities in fibrotic ALL correlated with fibrosis grade. TGFB1 and PDGFA1 were also expressed in leukemic blasts, however at lower intensities compared to ALL MKs. Taken together, advanced in-situ RNA and IF staining not only revealed increased expression of TGFB1 and PDGFA1 in fibrotic pediatric ALL, but also identified ALL blasts and MKs as their cellular origin at the single cell level. These novel data strongly suggest a role of these cytokines as potential fibrosis drivers in ALL. More broadly, our findings demonstrate that combined RNA and surface marker analysis is a powerful tool to provide new and valuable insights into bone marrow pathophysiology.</description>
-  <category>cell biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>RPEGENE-Net: A Multi-Resolution Deep Learning Framework for Predicting Gene Expression from Microscopy Images of Retinal Pigment Epithelium (RPE) Cells</title>
-  <dc:creator>Nowroozzadeh, M. H.</dc:creator>
-  <dc:creator>Taghinezhad, N.</dc:creator>
-  <dc:creator>Mahmoudi, T.</dc:creator>
-  <dc:creator>Sanie-Jahromi, F.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Abstract Purpose: To develop a deep learning framework, RPEGENE-Net, capable of predicting gene expression profiles of retinal pigment epithelium (RPE) cells using live-cell microscopy images. Methods: A dataset of live-cell images of RPE cells, treated with various drug regimens and captured at magnifications of 40x, 100x, 200x, and 400x, was used. Gene expression of six key genes involved in epithelial-mesenchymal transition or EMT (including -SMA, ZEB1, TGF-{beta}, CD90, {beta}-catenin, Snail) and treatment classes (Aflibercept, Bevacizumab, Dexamethasone, Aflibercept + Dexamethasone, and untreated control) were analyzed. After preprocessing the image data and gene expression values, we trained and evaluated twelve state-of-the-art deep learning architectures, including three variants of DenseNet, five variants of ResNet, EfficientNet_b5, Inception_v3, RegNet_y_400mf, and a vision transformer model (Swin_b). A two-stage pipeline was implemented, combining autoencoder-based pretraining to extract meaningful features with fine-tuning specifically optimized for gene expression regression and treatment type classification tasks. Features extracted from the second stage across four magnifications were concatenated to generate the final prediction, leveraging multi-scale morphological information for improved accuracy.</description>
-  <category>bioengineering</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
