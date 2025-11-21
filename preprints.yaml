@@ -1,3 +1,84 @@
+- title: Peculiar Pigment Pattern and Population Profile of a Poisonous Pufferfish
+  categories:
+  - evolutionary biology
+  - new results
+  license: CC BY
+  author:
+  - Miyazawa, S.
+  - Doi, H.
+  - Takahashi, H.
+  - Nishiyama, T.
+  - Shigenobu, S.
+  - Misawa, K.
+  - Kikuchi, K.
+  - Sakai, H.
+  path: https://doi.org/10.1101/2025.11.20.687103
+  description: Pufferfish are well-known for their toxicity, yet they also exhibit
+    a remarkable diversity of pigment patterns. Mushifugu (Takifugu exascurus) is
+    a pufferfish endemic to Japan's coastal waters and is characterized by conspicuous
+    labyrinthine patterns. Despite being recorded along both the Sea of Japan and
+    the Pacific coasts, it has a limited distribution and is infrequently observed.
+    Aside from its unique body pattern, mushifugu shows little to no morphological
+    differences from other Takifugu species, often leading to speculation that it
+    may be an interspecific hybrid. In addition, previous theoretical and empirical
+    studies have shown that complex camouflage-like labyrinthine patterns can emerge
+    through the 'pattern blending' caused by hybridization between spotted species,
+    providing support for this possibility. Here, we investigate the phylogenetic
+    origin of mushifugu and its distinctive pattern through population structure analysis
+    and demographic inference in comparison with its closest spotted relative, komonfugu
+    (T. flavipterus). Mitochondrial DNA (mtDNA) analysis revealed two regional haplogroups
+    within mushifugu--one in the Sea of Japan (SJ) and the other in the Pacific Ocean
+    (PO). In the haplotype network, the SJ haplogroup formed a distinct cluster, whereas
+    the PO haplogroup appeared as its own cluster connected to the komonfugu haplogroup.
+    By contrast, genome-wide SNP analyses indicated limited structure between the
+    SJ and PO mushifugu populations, while clearly separating mushifugu from komonfugu.
+    Coalescent-based demographic inference suggested that the two species diverged
+    following a bottleneck event in the early Pleistocene. These results confirm that
+    mushifugu is a distinct species rather than a recent interspecific hybrid. Nevertheless,
+    evidence of introgression was detected in both mitochondrial and nuclear genomes,
+    suggesting multiple episodes of past hybridization between mushifugu and komonfugu,
+    highlighting the potentially complex evolutionary processes shaping Takifugu species
+    and their pigment patterns.
+  date: '2025-11-20'
+- title: MicroRNA166-HD-ZIP III module impacts tuber shape, color and productivity
+    in potato
+  categories:
+  - plant biology
+  - new results
+  license: CC NO
+  author:
+  - Patil, N. S.
+  - Vasav, A.
+  - Kumari, J.
+  - Arora, G.
+  - Natarajan, B.
+  - Banerjee, A. K.
+  path: https://doi.org/10.1101/2025.11.20.685984
+  description: MicroRNA165/166 is a highly conserved and abundant microRNA family
+    in plants that targets class III homeodomain leucine zipper (HD-ZIP III) transcription
+    factors. Their essential roles in plant development, organ polarity, meristem
+    maintenance, and vascular differentiation have been well established. However,
+    their role in storage organ development, particularly in potato tuberization remains
+    unknown. Here, we demonstrate the pleiotropic effects of miR166 on potato (Solanum
+    tuberosum spp. Andigena) growth and development. Suppression of miR166 via target
+    mimicry (MIM166) resulted in reduced plant height, altered vascular patterning,
+    diminished leaf curvature, and impaired root development. Remarkably, MIM166 lines
+    produced elongated, pigmented tubers with reduced yield under short-day conditions.
+    Transcriptomic analyses of swollen head versus stalk of tuberizing stolons revealed
+    altered expression of auxin-, cytokinin-, and gibberellin-related genes, consistent
+    with hormone quantification data, suggesting the key role of phytohormones in
+    governing tuber shape. Anthocyanin profiling indicated elevated accumulation of
+    cyanidin 3-glucoside, pelargonidin 3-glucoside, and delphinidin 3-glucoside in
+    MIM166 tuber peels, correlating with the upregulation of anthocyanin biosynthetic
+    genes. Tuber productivity in these lines was reduced possibly due to the decreased
+    expression of SWEET11b and distorted vascular structures in the MIM166 lines.
+    Further, StREVOLUTA, a direct miR166 target, exhibited dynamic expression during
+    stolon differentiation and could modulate the expression of auxin biosynthesis
+    genes. Collectively, our results demonstrate that the miR166-HD-ZIP III module
+    is functional in potato, plays conserved roles in regulating key developmental
+    traits, and is active through early stolon-to-tuber transition stages, affecting
+    tuber shape, color and productivity.
+  date: '2025-11-20'
 - title: Predictive Networks Generate Motion-Induced Color Illusions
   categories:
   - neuroscience
