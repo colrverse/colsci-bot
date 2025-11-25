@@ -10,7 +10,22 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.12</generator>
-<lastBuildDate>Thu, 20 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Chemogenetic modulation of luciferase emission color for imaging and sensing</title>
+  <dc:creator>Manirakiza, H.</dc:creator>
+  <dc:creator>Shpinov, Y.</dc:creator>
+  <dc:creator>Gontier, A.</dc:creator>
+  <dc:creator>El Hajji, L.</dc:creator>
+  <dc:creator>Jullien, L.</dc:creator>
+  <dc:creator>Gautier, A.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Bioluminescent luciferases have emerged as powerful tools for bioimaging, enabling to image biological systems without external excitation light, reducing thus phototoxicity and eliminating background autofluorescence. Advanced imaging requires luciferases that deliver high photon output for enhanced sensitivity, tunable emission colors for multicolor imaging, and red-shifted emission for effective deep tissue imaging. Here, we introduce LumiFAST, a small tunable luciferase engineered by fusing the bright blue-light emitting NanoLuc with the tunable chemogenetic fluorescent reporter pFAST. pFAST binds and stabilizes the fluorescent state of a variety of synthetic fluorogenic chromophores (also called fluorogens). Its proximity with NanoLuc leads to efficient bioluminescence resonance energy transfer (BRET), enabling customizable red-shifted emission. Thanks to the small size of pFAST, LumiFAST maintains a compact structure, while its modular design allows emission color to be tuned from cyan to green, yellow, orange and red simply by changing the fluorogen. Systematic optimization of the fusion topology and linker length yielded an optimal variant with apparent BRET efficiencies reaching up to 90 %. The red-shifted emission of LumiFAST enables dual-color microscopy imaging when used alongside NanoLuc and allows imaging through thick scattering media. Beyond imaging, our insights into the structural factors governing efficient BRET allowed us to engineer biosensors based on NanoLuc and pFAST for the visualization of protease activity and protein-protein interactions in live cells.</description>
+  <category>cell biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Peculiar Pigment Pattern and Population Profile of a Poisonous Pufferfish</title>
   <dc:creator>Miyazawa, S.</dc:creator>
@@ -329,24 +344,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The ecology and adaptive function of clownfish color patterns</title>
-  <dc:creator>Froehlich, C. Y. M.</dc:creator>
-  <dc:creator>Caves, E.</dc:creator>
-  <dc:creator>Troscianko, J.</dc:creator>
-  <dc:creator>Gibson, M.</dc:creator>
-  <dc:creator>Chiodo, T.</dc:creator>
-  <dc:creator>De Jode, A.</dc:creator>
-  <dc:creator>Brown, K.</dc:creator>
-  <dc:creator>Luckas, N.</dc:creator>
-  <dc:creator>Titus, B. M.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Anti-predator coloration strategies vary widely from conspicuous to cryptic, and everything between. Coloration serves multiple functions, and determining the selective pressures that drive this diversity is a long-standing mystery. Clownfishes display enormous inter- and intra-specific variation in coloration without the influence of sexual selection, providing an excellent system in which to explore these drivers in closely related and sympatric species. Across clownfishes, three color-pattern phenotypes have evolved convergently with host anemone use, implying adaptive functions linked to the host&#39;s physical and chemical properties. Here we conducted a comprehensive study to infer the ultimate functions of clownfish color patterns. By integrating multiple levels of biological organization, including behavior, visual ecology, dietary niche, and microbiome, our data overwhelmingly indicate that specialist and generalist clownfish color patterns have different underlying ecologies and adaptive functions. Specialist clownfishes background match their anemones, remain near hosts, and have specialized diets and microbiomes. Generalists are highly contrasting with their anemones, remain far from hosts, and have variable diets and microbiomes. Taken together, specialist color patterns align with functional expectations of camouflage while generalists align with aposematic or disruptive coloration. Our study provides novel insights into how ecological conditions shape the evolution of multiple anti-predator coloration strategies.</description>
-  <category>ecology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
