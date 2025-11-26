@@ -10,7 +10,21 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.12</generator>
-<lastBuildDate>Mon, 24 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Distinct NIR Reflectance Spectra Associated with Foliar Symptoms of Beech Leaf Disease</title>
+  <dc:creator>Moore, E. G.</dc:creator>
+  <dc:creator>Dabydeen, L. C.</dc:creator>
+  <dc:creator>Salha, R.</dc:creator>
+  <dc:creator>Bichler, J.</dc:creator>
+  <dc:creator>Borsuk, A. M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Beech leaf disease (BLD) is an epidemic spreading among American beech (Fagus grandifolia) populations, with characteristic symptoms including dark green, yellow, or brown bands of thickened leaf tissue between secondary veins. Whereas near infrared (NIR) light is reflected by leaf tissue structure, here we used multispectral NIR imaging to distinguish symptomatic from asymptomatic leaf reflectance, as well as to distinguish between different expressions of symptoms (dark green, yellow, and brown bands) within symptomatic leaves. Key findings include significantly higher NIR reflectance in dark green bands of symptomatic tissue compared to asymptomatic tissue ({lambda} = 840, 860, 900, 940, and 980 nm; [~]26.2%, 25.9%, 35.0%, 35.3%, and 32.5% increase respectively). A partial least squares regression model predicted 97% of variation in symptomatic vs. asymptomatic NIR reflectance was attributed primarily to the increase in spongy mesophyll thickness and overall leaf thickness in symptomatic tissue. Water infiltration of the intercellular airspaces in symptomatic and asymptomatic leaves removed differences in NIR reflectance, supporting a mechanistic link between increased NIR reflectance and the foliar symptoms of BLD. Our results highlight the interaction of leaf internal architecture with NIR wavelengths, and informs the development of targeted remote sensing tools, with implications for detecting even early-stage symptoms of BLD.</description>
+  <category>plant biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Chemogenetic modulation of luciferase emission color for imaging and sensing</title>
   <dc:creator>Manirakiza, H.</dc:creator>
@@ -327,23 +341,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Discrimination of Annonaceae using herbarium leaf reflectance spectra under limited sample size conditions</title>
-  <dc:creator>Boughalmi, K.</dc:creator>
-  <dc:creator>Santacruz Endara, P. G.</dc:creator>
-  <dc:creator>Bennett, L. A.</dc:creator>
-  <dc:creator>Ecarnot, M.</dc:creator>
-  <dc:creator>Bazan, S.</dc:creator>
-  <dc:creator>Bastianelli, D.</dc:creator>
-  <dc:creator>Bonnal, L.</dc:creator>
-  <dc:creator>Couvreur, T. L. P.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Herbarium collections offer an unparalleled archive of plant biodiversity, but their use for species identification through spectral data remains constrained by uncertain effects of preservation histories. This study assesses whether a single herbarium specimen can reliably represent its species based on its leaf reflectance spectrum, despite variations in age, geographic origin, or conservation method. We scanned herbarium specimens of different ages and geographic distribution of 14 species of the pantropical Annonaceae. In addition, we used a second dataset of 9 species where some specimens were conserved in alcohol prior to drying and some not. We used five supervised classification models frequently used for high-dimensional data such as spectroscopy. All models achieved high accuracy (&gt;80%) when trained on multiple specimens per species. However, when using only one specimen per species, accuracy varied substantially depending on the taxon. Alcohol preservation prior to drying had little impact on classification success. Our findings demonstrate that herbarium specimens often retain a strong taxonomic signal in their spectra, however, inter-individual variability affects accuracy in some taxa. These findings confirm the usefulness of herbarium spectroscopy as a non-destructive tool for species identification and offer a promising avenue for digitizing historical biodiversity data into high-dimensional trait space.</description>
-  <category>plant biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
