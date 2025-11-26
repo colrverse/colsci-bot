@@ -1,3 +1,35 @@
+- title: Distinct NIR Reflectance Spectra Associated with Foliar Symptoms of Beech
+    Leaf Disease
+  categories:
+  - plant biology
+  - new results
+  license: CC BY-NC-ND
+  author:
+  - Moore, E. G.
+  - Dabydeen, L. C.
+  - Salha, R.
+  - Bichler, J.
+  - Borsuk, A. M.
+  path: https://doi.org/10.1101/2025.11.22.689946
+  description: Beech leaf disease (BLD) is an epidemic spreading among American beech
+    (Fagus grandifolia) populations, with characteristic symptoms including dark green,
+    yellow, or brown bands of thickened leaf tissue between secondary veins. Whereas
+    near infrared (NIR) light is reflected by leaf tissue structure, here we used
+    multispectral NIR imaging to distinguish symptomatic from asymptomatic leaf reflectance,
+    as well as to distinguish between different expressions of symptoms (dark green,
+    yellow, and brown bands) within symptomatic leaves. Key findings include significantly
+    higher NIR reflectance in dark green bands of symptomatic tissue compared to asymptomatic
+    tissue ({lambda} = 840, 860, 900, 940, and 980 nm; [~]26.2%, 25.9%, 35.0%, 35.3%,
+    and 32.5% increase respectively). A partial least squares regression model predicted
+    97% of variation in symptomatic vs. asymptomatic NIR reflectance was attributed
+    primarily to the increase in spongy mesophyll thickness and overall leaf thickness
+    in symptomatic tissue. Water infiltration of the intercellular airspaces in symptomatic
+    and asymptomatic leaves removed differences in NIR reflectance, supporting a mechanistic
+    link between increased NIR reflectance and the foliar symptoms of BLD. Our results
+    highlight the interaction of leaf internal architecture with NIR wavelengths,
+    and informs the development of targeted remote sensing tools, with implications
+    for detecting even early-stage symptoms of BLD.
+  date: '2025-11-25'
 - title: Chemogenetic modulation of luciferase emission color for imaging and sensing
   categories:
   - cell biology
