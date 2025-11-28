@@ -1,3 +1,38 @@
+- title: 'charisma: An R package to perform reproducible color characterization of
+    digital images for biological studies'
+  categories:
+  - evolutionary biology
+  - new results
+  license: CC BY-NC
+  author:
+  - Schwartz, S. T.
+  - Tsai, W. L. E.
+  - Karan, E. A.
+  - Juhn, M. S.
+  - Shultz, A. J.
+  - McCormack, J. E.
+  - Smith, T. B.
+  - Alfaro, M. E.
+  path: https://doi.org/10.1101/2025.11.25.690362
+  description: 1. Advances in digital imaging and software tools have provided increasingly
+    accessible datasets and methods for analyzing color evolution. Despite the variety
+    of computational packages available, most rely on color classification before
+    running analyses. Previous methods limit the ability to analyze large-scale image
+    databases, decreases the accuracy of downstream analyses, and is not always representative
+    of biologically relevant color classes. 2. Here, we present charisma, an R package
+    designed to characterize the distribution of distinct color classes in images
+    suitable for large-scale studies of biological organisms. Here, we demonstrate
+    the utility of our package through an analysis of color evolution in a sample
+    of diverse and charismatic birds, tanagers, in the subfamily Thraupinae. 3. We
+    show that charisma can quickly and accurately classify every pixel in an image
+    and validate these results using pre-identified, canonical color swatches. We
+    find that charisma color classifications are consistent with those made by color-pattern
+    experts in the field. Applying charisma to tanager color evolution, we find that
+    charisma outputs seamlessly integrate with downstream evolutionary analyses. 4.
+    Our results demonstrate that using charisma to manually curate and characterize
+    colors in images provides a standardized, reliable, and reproducible framework
+    for high-throughput color classification.
+  date: '2025-11-27'
 - title: Distinct NIR Reflectance Spectra Associated with Foliar Symptoms of Beech
     Leaf Disease
   categories:
