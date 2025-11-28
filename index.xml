@@ -10,7 +10,24 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.12</generator>
-<lastBuildDate>Tue, 25 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>charisma: An R package to perform reproducible color characterization of digital images for biological studies</title>
+  <dc:creator>Schwartz, S. T.</dc:creator>
+  <dc:creator>Tsai, W. L. E.</dc:creator>
+  <dc:creator>Karan, E. A.</dc:creator>
+  <dc:creator>Juhn, M. S.</dc:creator>
+  <dc:creator>Shultz, A. J.</dc:creator>
+  <dc:creator>McCormack, J. E.</dc:creator>
+  <dc:creator>Smith, T. B.</dc:creator>
+  <dc:creator>Alfaro, M. E.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>1. Advances in digital imaging and software tools have provided increasingly accessible datasets and methods for analyzing color evolution. Despite the variety of computational packages available, most rely on color classification before running analyses. Previous methods limit the ability to analyze large-scale image databases, decreases the accuracy of downstream analyses, and is not always representative of biologically relevant color classes. 2. Here, we present charisma, an R package designed to characterize the distribution of distinct color classes in images suitable for large-scale studies of biological organisms. Here, we demonstrate the utility of our package through an analysis of color evolution in a sample of diverse and charismatic birds, tanagers, in the subfamily Thraupinae. 3. We show that charisma can quickly and accurately classify every pixel in an image and validate these results using pre-identified, canonical color swatches. We find that charisma color classifications are consistent with those made by color-pattern experts in the field. Applying charisma to tanager color evolution, we find that charisma outputs seamlessly integrate with downstream evolutionary analyses. 4. Our results demonstrate that using charisma to manually curate and characterize colors in images provides a standardized, reliable, and reproducible framework for high-throughput color classification.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Distinct NIR Reflectance Spectra Associated with Foliar Symptoms of Beech Leaf Disease</title>
   <dc:creator>Moore, E. G.</dc:creator>
@@ -314,33 +331,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Structural basis for color tuning and passive ion conductance in red-shifted pump-fold channelrhodopsin ChR024</title>
-  <dc:creator>Takeno, Y.</dc:creator>
-  <dc:creator>Tajima, S.</dc:creator>
-  <dc:creator>Kim, S.</dc:creator>
-  <dc:creator>Tsujimura, M.</dc:creator>
-  <dc:creator>Ito, Y.</dc:creator>
-  <dc:creator>Sugiura, M.</dc:creator>
-  <dc:creator>Yamashita, Y.</dc:creator>
-  <dc:creator>Kishi, K. E.</dc:creator>
-  <dc:creator>Fukuda, M.</dc:creator>
-  <dc:creator>Nakamura, S.</dc:creator>
-  <dc:creator>Watanabe, M.</dc:creator>
-  <dc:creator>Ikeda, H.</dc:creator>
-  <dc:creator>Katayama, K.</dc:creator>
-  <dc:creator>Furutani, Y.</dc:creator>
-  <dc:creator>Kandori, H.</dc:creator>
-  <dc:creator>Ishikita, H.</dc:creator>
-  <dc:creator>Inoue, K.</dc:creator>
-  <dc:creator>Kato, H. E.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>ChR024 is a cation-conducting channelrhodopsin with a red-shifted absorption spectrum, recently discovered from a previously unidentified clade through machine-learning-guided gene mining. Due to its unique position in the phylogenetic tree and distinctive spectral properties, it serves as an important model for elucidating rhodopsin evolution and for engineering optogenetic tools with enhanced performance, but its structure and function remain poorly understood. Here, we present cryo-electron microscopy structures of ChR024 in detergent micelles and lipid nanodiscs at resolutions of 3.2 and 2.5 [A], respectively. The structures reveal an architecture strikingly similar to that of ion-pumping rhodopsins, even more so than other pump-like channelrhodopsins such as ChRmine. Structural, theoretical, and spectroscopic analyses uncover a unique color-tuning mechanism, in which charged residues close and distant from the retinal chromophore cooperatively modulate the pKa of the Schiff base counterion and thereby determine the absorption maximum wavelength. Finally, comparative structural analysis of channel- and pump-type rhodopsins, combined with electrophysiology, provides insights into the molecular boundary between these two functional classes and demonstrates the conversion of an outward proton pump into a light-gated channel. Together, these findings illuminate diverse mechanisms of color tuning and functional specification within the rhodopsin family, paving the way for the rational engineering of next-generation optogenetic tools.</description>
-  <category>biophysics</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
