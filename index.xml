@@ -10,7 +10,26 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.12</generator>
-<lastBuildDate>Thu, 27 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Spectral tuning and signaling of diverse and most red sensitive visual rhodopsins that drive high colour discrimination in Mantis Shrimp eyes</title>
+  <dc:creator>Brouillon, C.</dc:creator>
+  <dc:creator>Pushkarev, A.</dc:creator>
+  <dc:creator>Lienard, M. A.</dc:creator>
+  <dc:creator>Hwang, S.</dc:creator>
+  <dc:creator>Munhoven, A.</dc:creator>
+  <dc:creator>McDowell, R. J.</dc:creator>
+  <dc:creator>Lucas, R. J. J.</dc:creator>
+  <dc:creator>Porter, M.</dc:creator>
+  <dc:creator>Sun, H.</dc:creator>
+  <dc:creator>Hegemann, P.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Of all visual systems shaped over billions of years, stomatopod crustaceans or mantis shrimps possess arguably one of the most extraordinary eyes, with unmatched potential for broad colour detection (T. W. Cronin &amp; Marshall, 1989; J. Marshall &amp; Oberwinkler, 1999; J. Marshall et al., 2007). Yet how their unusual diversity of visual opsins (Porter et al., 2020) maps onto functional spectral sensitivities (Streets et al., 2022; T. W. Cronin et al., 2022) has remained unresolved. Here, we uncover the molecular rhodopsin-based physiological mechanisms of spectral tuning and show that seventeen opsins, mostly from the colour-sensing midband of the Neogonodactylus oerstedii eye, exhibit distinct spectral absorption ranges and couple to Gq- or Gi-proteins. Two mid-wavelength opsins (NOMs) preferentially absorb blue light, while twelve long-wavelength opsins (NOLs) absorb in the green range. In addition, three NOLs are red-sensitive beyond 600 nm, representing the most far-red-sensitive opsins functionally characterized in animals. Several opsins exhibit photoreversibility with inverse blue-red spectral shifts, revealing an unrecognised layer of photochemical flexibility in stomatopod photoreception. Combined with ommatidial carotenoid filters, our mechanistic model shows how individually tuned rhodopsins shape row-specific spectral sensitivity across the eye, promoting far-red sensitivity in tier 3P in relation to other spectral wavelengths. These specialised rhodopsin-filter combinations collectively enable robust colour vision along a broad light spectrum and across dim and bright conditions, offering new insights into the evolution of one of Natures most sophisticated visual systems.</description>
+  <category>biophysics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>charisma: An R package to perform reproducible color characterization of digital images for biological studies</title>
   <dc:creator>Schwartz, S. T.</dc:creator>
@@ -317,20 +336,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A recurrent sequencing artifact on Illumina sequencers with two-color fluorescent dye chemistry and its impact on somatic variant detection</title>
-  <dc:creator>Fu, B. J.</dc:creator>
-  <dc:creator>Viswanadham, V. V.</dc:creator>
-  <dc:creator>Maziec, D.</dc:creator>
-  <dc:creator>Jin, H.</dc:creator>
-  <dc:creator>Park, P. J.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The sequencing-by-synthesis technology by Illumina, Inc. enables efficient and scalable readouts of mutations from genomic data. To enhance sequencing speed and efficiency, Illumina has shifted from the four-color base calling chemistry of the HiSeq series to a two-color fluorescent dye chemistry in the NovaSeq series. Benchmarking sequencing artifacts due to biases in the newer chemistry is important to evaluate the quality of identified mutations. We re-analyzed a series of whole-genome sequencing experiments in which the same samples were sequenced on the NovaSeq 6000 (two-color) and HiSeq X10 (four-color) platforms by independent groups. In several samples, we observed a higher frequency of T-to-G and A-to-C substitutions (&quot;T&gt;G&quot;) at the read level for NovaSeq 6000 versus HiSeq X10. As the per-base error rate is still low, the artifactual substitutions have a negligible effect in identifying germline or high variant allele frequency (VAF) somatic mutations. However, such errors can confound the detection of low-VAF somatic variants in high-depth sequencing samples, particularly in studies of mosaic mutations in normal tissues, where variants have low read support and are called without a matched normal. The artifactual T&gt;G variant calls disproportionately occur at NT[TG] trinucleotides, and we leveraged this observation to bioinformatically reduce the T&gt;G excess in somatic mutation callsets. We identified a recurrent artifact specific to the Illumina two-color chemistry platform on the NovaSeq 6000 with the potential to contaminate low-VAF somatic mutation calls. Thus, an unexpected enrichment of T&gt;G mutations in mosaicism studies warrants caution.</description>
-  <category>genomics</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
