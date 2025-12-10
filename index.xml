@@ -10,7 +10,25 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.12</generator>
-<lastBuildDate>Tue, 02 Dec 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Graded BMP signals modulate yellow and red color in fishes impacting adult pigment pattern and behavior</title>
+  <dc:creator>Huang, D.</dc:creator>
+  <dc:creator>de Mello, P. L. H.</dc:creator>
+  <dc:creator>Liu, T.</dc:creator>
+  <dc:creator>Liu, Y.</dc:creator>
+  <dc:creator>Kapadia, E.</dc:creator>
+  <dc:creator>Liang, Y.</dc:creator>
+  <dc:creator>Lu, J.</dc:creator>
+  <dc:creator>Corbo, J. C.</dc:creator>
+  <dc:creator>Parichy, D. M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Among the most interesting adult traits are those with roles in animal communication. Yet developmental mechanisms by which genes drive cell behaviors in building the final forms of such traits are rarely known. In this context, pigmentation is useful because colors and patterns often provide signals in mate choice, predation avoidance and other behaviors and pigmentation is unusually accessible to observation and manipulation. Here we focus on some of the most prominent signaling colors--red, orange and yellow--and show how BMP signaling at the cellular level allows for a very different kind of signal at the organismal level. Using pearl danio, Danio albolineatus, we find that spatially and temporally graded BMP signals promote development of yellow/orange xanthophores over red erythrophores in the fin of this species and a distantly related minnow, Tanichthys albonubes, and that conserved mechanisms, involving BMP co-receptor Rgmb, regulate differentiation of other pigment cell types in corresponding locations of zebrafish, D. rerio. We further use mutants of D. albolineatus with more red or more yellow cells than wild-type to demonstrate female responsiveness to carotenoid-based color differences between males in shoaling preference assays, and we show the existence of polygenic standing variation for this pigmentary trait. Our findings illustrate a chain of function spanning hierarchical levels and provide a deeper understanding of pigmentary form and function and its evolution.</description>
+  <category>developmental biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Damselflies Overcome Color Saturation Barriers of Photonic Glasses via Structural Dispersion and Pigment Loading</title>
   <dc:creator>Lemcoff, T.</dc:creator>
@@ -324,15 +342,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The hallmark of colour in EEG signal</title>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Our perception of the world is inherently colourful, and colour provides well-documented benefits for vision: it helps us see things quicker and remember them better. We hypothesised that colour is not only central to perception but also a rich and decodable source of information in electroencephalography (EEG) signal recorded non-invasively from the scalp. Previous work has shown that brain activity carries colour information for uniform patches, but it remains unclear whether this extends to natural, complex images where colour is not explicitly cued. To investigate this, we analysed the THINGS EEG dataset, comprising 64-channel recordings from participants viewing 1,800 distinct objects (16,740 images) for 100 ms each, totalling over 82,000 trials. We established a perceptual colour ground truth through a psychophysical experiment in which participants viewed each image for 100 ms and selected perceived colours from a 13-option palette. An artificial neural network trained to predict these scene-level colour distributions directly from EEG signals showed that colour information was robustly decodable (average F-score of 0.5). We next modelled the interaction between colour and object perception in neuroimaging decoding. Images were segmented using the Segment Anything Model (SAM), each object was assigned a representative colour, and features were extracted from these colour-augmented images using CLIP vision encoders. We trained an EEG encoder, CUBE (ColoUr and oBjEct decoding), to align features in both object and colour spaces. Across EEG and MEG datasets in a 200-class recognition task, incorporating colour improved decoding accuracy by about 5%. Together, these findings demonstrate that EEG signal recorded during natural vision carries substantial colour information that interacts with object perception. Modelling this mutual interaction enhances neural decoding performance.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
