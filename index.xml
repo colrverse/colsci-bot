@@ -10,7 +10,18 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.12</generator>
-<lastBuildDate>Tue, 09 Dec 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Equiluminant Border Ownership Cells as a Missing Link in Color Form Perception</title>
+  <dc:creator>Mehrani, P.</dc:creator>
+  <dc:creator>Tsotsos, J. K.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>We propose the existence of a sub-population of border ownership neurons that signal figure side along equiluminant borders, those defined purely by color contrast. We postulate that these neurons, similar to primate equiluminant V1 [26] and V4 [5] cells, are strongly activated by equiluminant contrast on their preferred side, with diminished response for strictly luminance contrast. To test this hypothesis, we propose a hierarchical and mechanistic model that explains how equiluminant border ownership signals can be achieved in the ventral stream. Our simulation results suggest that model equiluminant neurons are highly color-selective while exhibiting similar orientation and border ownership selectivity as their luminance counterparts. Additionally, our model equiluminant cells indeed exhibited the above postulated pattern of responses. We suggest that these neurons are the missing links in the equiluminance channels in the ventral stream that transform equiluminant oriented edge signals in V1 to equiluminant object-centered shape representations in V4. Our findings point to the importance of re-examining the border ownership neuron population to further detail their role in equiluminant channels in the ventral stream.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Graded BMP signals modulate yellow and red color in fishes impacting adult pigment pattern and behavior</title>
   <dc:creator>Huang, D.</dc:creator>
@@ -329,19 +340,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Effects of color-enhancing filters on color salience in normal trichromats</title>
-  <dc:creator>Webster, M.</dc:creator>
-  <dc:creator>Knoblauch, K.</dc:creator>
-  <dc:creator>Simoncelli, C.</dc:creator>
-  <dc:creator>McPherson, D.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Notch filters can alter color contrasts by selectively filtering different spectral bands of the stimulus and have been developed to enhance reddish-greenish contrasts for color-deficient observers with anomalous trichromacy. We examined the effects of such filters on color salience for normal trichromats, using a visual search paradigm where the task was to locate a color target superimposed on a variegated chromatic background, similar to foraging for fruits among foliage. Background colors varied along a bluish-yellowish or purplish to yellow-green (short-wave cone isolating) axis, roughly spanning the range of dominant color variations in arid or lush environments. Target colors sampled a wide range of hue angles and contrasts. Testing was conducted on a computer monitor, with the filter effects simulated by calculating corresponding chromaticities with or without the filter for naturalistic (Munsell) reflectances. The filter evaluated (Enchroma SuperX glasses) was designed to increase color contrast along a magenta-green axis. Consistent with this, search times for targets on the blue-yellow background were significantly faster for the filter condition, because the filter increased the target-background color difference. Alternatively, overall differences in search times were not observed for the S-cone background. The differences on the two backgrounds could be qualitatively accounted for by the relative salience of the stimuli predicted by a perceptual color space (CIELAB). Our results demonstrate the efficacy of the filters for enhancing visual performance for normal trichromats and naturalistic tasks, and illustrate how these effects depend on the potential color characteristics of the environment.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
