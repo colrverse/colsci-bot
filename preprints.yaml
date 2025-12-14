@@ -1,3 +1,41 @@
+- title: 'Systematic comparison of color representations between humans and deep neural
+    networks: towards predicting human color perception in a vast color space'
+  categories:
+  - neuroscience
+  - new results
+  license: CC BY
+  author:
+  - Wickramanayaka, N. R.
+  - Oizumi, M.
+  path: https://doi.org/10.64898/2025.12.10.693611
+  description: 'The representational structure of human color perception, particularly
+    within vast color spaces, remains incompletely understood. While representational
+    structures for dozens of colors have been studied, exploring structures spanning
+    hundreds or thousands of colors has been infeasible due to the time costs of psychophysical
+    experiments. Given these constraints, deep neural networks (DNNs) have attracted
+    attention as a promising tool for providing proxies or predictions of human perception
+    beyond the scope of psychophysical experiments. However, it remains unclear which
+    DNN models possess internal representations that geometrically align with human
+    color perception. Furthermore, it is unclear which learning paradigm enables DNNs
+    to acquire a color representation that is geometrically aligned with that of humans.
+    Here, we systematically investigate which learning paradigm enables DNNs to produce
+    a color representation that is structurally congruent with that of humans, with
+    a focus on three types: self-supervised learning (SSL) that trains on images alone,
+    supervised learning (SL) that trains on images with category labels, and contrastive
+    language-image pre-training (CLIP) that trains on image-text pairs. We compared
+    internal representations of DNNs with the human similarity judgments of 93 colors
+    using a rigorous unsupervised method termed Gromov-Wasserstein Optimal Transport
+    (GWOT), which reveals whether the representational structures of humans and models
+    align at the fine-item level. Our results show that only the CLIP paradigm acquires
+    color representations that strongly align with human data at the fine-item level.
+    Furthermore, when we leveraged a key advantage of DNNs and investigated a substantial
+    representational structure of 4096 colors, the human-aligned CLIP models consistently
+    converged on a non-trivial distorted ring-like structure, which presents a plausible
+    prediction for the large-scale human color representation. Our work demonstrates
+    an approach for exploring unknown territories of human perception through the
+    use of computational models validated in a limited empirical space, and provides
+    predictions for future large-scale psychophysical experiments.'
+  date: '2025-12-13'
 - title: Equiluminant Border Ownership Cells as a Missing Link in Color Form Perception
   categories:
   - neuroscience
