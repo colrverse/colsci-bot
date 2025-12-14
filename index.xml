@@ -10,7 +10,18 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.13</generator>
-<lastBuildDate>Wed, 10 Dec 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Systematic comparison of color representations between humans and deep neural networks: towards predicting human color perception in a vast color space</title>
+  <dc:creator>Wickramanayaka, N. R.</dc:creator>
+  <dc:creator>Oizumi, M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The representational structure of human color perception, particularly within vast color spaces, remains incompletely understood. While representational structures for dozens of colors have been studied, exploring structures spanning hundreds or thousands of colors has been infeasible due to the time costs of psychophysical experiments. Given these constraints, deep neural networks (DNNs) have attracted attention as a promising tool for providing proxies or predictions of human perception beyond the scope of psychophysical experiments. However, it remains unclear which DNN models possess internal representations that geometrically align with human color perception. Furthermore, it is unclear which learning paradigm enables DNNs to acquire a color representation that is geometrically aligned with that of humans. Here, we systematically investigate which learning paradigm enables DNNs to produce a color representation that is structurally congruent with that of humans, with a focus on three types: self-supervised learning (SSL) that trains on images alone, supervised learning (SL) that trains on images with category labels, and contrastive language-image pre-training (CLIP) that trains on image-text pairs. We compared internal representations of DNNs with the human similarity judgments of 93 colors using a rigorous unsupervised method termed Gromov-Wasserstein Optimal Transport (GWOT), which reveals whether the representational structures of humans and models align at the fine-item level. Our results show that only the CLIP paradigm acquires color representations that strongly align with human data at the fine-item level. Furthermore, when we leveraged a key advantage of DNNs and investigated a substantial representational structure of 4096 colors, the human-aligned CLIP models consistently converged on a non-trivial distorted ring-like structure, which presents a plausible prediction for the large-scale human color representation. Our work demonstrates an approach for exploring unknown territories of human perception through the use of computational models validated in a limited empirical space, and provides predictions for future large-scale psychophysical experiments.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sat, 13 Dec 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Equiluminant Border Ownership Cells as a Missing Link in Color Form Perception</title>
   <dc:creator>Mehrani, P.</dc:creator>
@@ -324,19 +335,6 @@
   <link>https://colrverse.github.io/colsci-bot/</link>
   <description>Colour constancy refers to our ability to distinguish changes in surface properties from changes in the properties of light illuminating the scene. The apparent ease with which we can tell that objects do not change colour, for example, when moving from sunlight to the shade, belies the complexity of solving this ill-constrained problem. Although there is a substantial body of work testing which image cues might be used to accomplish this, there is surprisingly little known of how the brain performs this computation. Here, we tested a fundamental aspect of this perceptual process: whether it requires attention. We measured visual search times for both surface colour (requiring separation of surface and illuminant properties) and &#39;raw&#39;, colorimetric colour (which does not). We found a clear difference between the two: visual search for colorimetric colour was fast and near-parallel, while search for surface colour was slow and consistent with the serial deployment of attention. That is, search times suggest that the perceptual separation of surface and illuminant properties in colour constancy may require an attention-based process analogous to perceiving conjunctions of simple features in &#39;feature binding&#39;. Colour discrimination thresholds suggested that while colorimetric colour detection is fast and parallel, once attention was directed to these stimuli and perceptual scission occurs, colorimetric colour information was discarded by the visual system. These results offer important new insights into the sequence of processes the brain uses to accomplish colour constancy.</description>
   <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Color, size, shape: The drivers of floral variation in Hesperis matronalis (Dames Rocket)</title>
-  <dc:creator>Johnson, S. E.</dc:creator>
-  <dc:creator>Rifkin, J. L.</dc:creator>
-  <dc:creator>Wright, S.</dc:creator>
-  <dc:creator>Baucom, R. S.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Evolutionary biologists have long been intrigued by the factors that sustain genetic and phenotypic variation within and among natural populations. Polymorphisms underlying components of floral display -- such as floral color, size, and shape -- are uniquely of interest since variation in these traits impact pollinator attraction, rates of visitation, and pollinator efficiency, which ultimately influence patterns of plant reproduction and therefore fitness. We leverage existing floral variation present within and among populations of Hesperis matronalis (Dames Rocket) to disentangle the relative influence of natural selection and genetic drift in shaping floral trait variation. We employ a multi-tiered approach: we determine if variation in floral traits (color, size, and petal shape) is influenced by geography or environmental variables such as temperature and precipitation, we evaluate whether selection underlies trait variation by comparing phenotypic divergence (PST) with neutral genetic structure (FST), and we perform a Lande-Arnold selection analysis to explore the relationship between fitness and floral trait variation within natural populations. We find that selection underlies the divergence of floral color, floral size, and petal width among H. matronalis populations, with PST &gt; FST for each trait. We find no indication, however, that variation in size in this species is influenced by the environment, but some evidence that variation in floral color and petal shape may be influenced by temperature. Finally, selection analyses of contemporary populations indicate divergent selection affecting combinations of color, petal shape, and plant size. These results suggest that the variation in floral shape in this species may be maintained due to environmental pressures, whereas floral color is influenced by pollinator visibility and the presence of different pollinator groups.</description>
-  <category>evolutionary biology</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
