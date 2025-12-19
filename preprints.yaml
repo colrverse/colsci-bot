@@ -1,3 +1,50 @@
+- title: Temperature and Ultraviolet Radiation Drive Divergent Visible and Near-Infrared
+    Reflectance Patterns in Butterflies
+  categories:
+  - ecology
+  - new results
+  license: CC NO
+  author:
+  - Kou, C. Z. E.
+  - Kang, C.
+  - Brindle, M.
+  - Maclean, I.
+  - Bridle, J.
+  - Pigot, A. L.
+  - Wilson, R. J.
+  - Williamson, J.
+  path: https://doi.org/10.64898/2025.12.16.694481
+  description: 1. Climate change poses extreme risks to biodiversity, threatening
+    the ecosystems upon which humanity depends. Understanding the traits that mediate
+    how organisms respond to climatic gradients in space and time will enable better
+    predictions of the taxa and ecological communities most at risk from warming.
+    2. In insects, colouration influences thermoregulation, but warming responses
+    must be traded off against other selective pressures. We hypothesise that butterfly
+    wing reflectance in visible and near-infrared (NIR) spectra respond differently
+    to temperature and ultraviolet radiation over space and time. We combined existing
+    reflectance data of 97 butterfly species in both NIR and visible wavelengths,
+    with long-term abundance monitoring data of 120 butterfly communities sampled
+    across 1650 m altitude gradients from May to August in two time periods (2004/5
+    and 2017). 3. The visible and NIR reflectances of butterfly communities showed
+    a non-linear relationship with altitude, with the lowest reflectance (darkest
+    butterflies) at the coolest, highest sites. In contrast, community visible reflectance
+    decreased through the year as temperatures warmed over spring-summer, whereas
+    community NIR reflectance remained constant, revealing divergent responses of
+    reflectance types to seasonal changes. Temperature had opposing effects on visible
+    and NIR reflectance of butterfly communities, where increasing temperature reduced
+    community visible reflectance strongly while increasing community NIR reflectance
+    slightly. 4. Considering the effects on reflectance of shared evolutionary history
+    in a Bayesian hierarchical model for individual species, lighter-coloured (more
+    reflective) species were associated with warmer temperatures - flying later in
+    spring-summer or at lower altitudes. However, instead of decreasing in reflectance
+    through the year and across temperature gradients, species instead became lighter,
+    we expect as a result of a Simpson's paradox. 5. These results emphasise how visible
+    and NIR reflectance wavelength bands mediate butterflies' responses to environmental
+    gradients in distinct ways, despite being highly correlated across species. We
+    also show that incorporating phylogeny into trait-environment models is essential;
+    relying on traits alone would lead to incorrect inferences and predictions of
+    taxa most at risk from warming climates.
+  date: '2025-12-18'
 - title: 'Systematic comparison of color representations between humans and deep neural
     networks: towards predicting human color perception in a vast color space'
   categories:
