@@ -10,7 +10,24 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.14</generator>
-<lastBuildDate>Sat, 13 Dec 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Temperature and Ultraviolet Radiation Drive Divergent Visible and Near-Infrared Reflectance Patterns in Butterflies</title>
+  <dc:creator>Kou, C. Z. E.</dc:creator>
+  <dc:creator>Kang, C.</dc:creator>
+  <dc:creator>Brindle, M.</dc:creator>
+  <dc:creator>Maclean, I.</dc:creator>
+  <dc:creator>Bridle, J.</dc:creator>
+  <dc:creator>Pigot, A. L.</dc:creator>
+  <dc:creator>Wilson, R. J.</dc:creator>
+  <dc:creator>Williamson, J.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>1. Climate change poses extreme risks to biodiversity, threatening the ecosystems upon which humanity depends. Understanding the traits that mediate how organisms respond to climatic gradients in space and time will enable better predictions of the taxa and ecological communities most at risk from warming. 2. In insects, colouration influences thermoregulation, but warming responses must be traded off against other selective pressures. We hypothesise that butterfly wing reflectance in visible and near-infrared (NIR) spectra respond differently to temperature and ultraviolet radiation over space and time. We combined existing reflectance data of 97 butterfly species in both NIR and visible wavelengths, with long-term abundance monitoring data of 120 butterfly communities sampled across 1650 m altitude gradients from May to August in two time periods (2004/5 and 2017). 3. The visible and NIR reflectances of butterfly communities showed a non-linear relationship with altitude, with the lowest reflectance (darkest butterflies) at the coolest, highest sites. In contrast, community visible reflectance decreased through the year as temperatures warmed over spring-summer, whereas community NIR reflectance remained constant, revealing divergent responses of reflectance types to seasonal changes. Temperature had opposing effects on visible and NIR reflectance of butterfly communities, where increasing temperature reduced community visible reflectance strongly while increasing community NIR reflectance slightly. 4. Considering the effects on reflectance of shared evolutionary history in a Bayesian hierarchical model for individual species, lighter-coloured (more reflective) species were associated with warmer temperatures - flying later in spring-summer or at lower altitudes. However, instead of decreasing in reflectance through the year and across temperature gradients, species instead became lighter, we expect as a result of a Simpson&#39;s paradox. 5. These results emphasise how visible and NIR reflectance wavelength bands mediate butterflies&#39; responses to environmental gradients in distinct ways, despite being highly correlated across species. We also show that incorporating phylogeny into trait-environment models is essential; relying on traits alone would lead to incorrect inferences and predictions of taxa most at risk from warming climates.</description>
+  <category>ecology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Systematic comparison of color representations between humans and deep neural networks: towards predicting human color perception in a vast color space</title>
   <dc:creator>Wickramanayaka, N. R.</dc:creator>
@@ -327,17 +344,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Perceiving surface colour requires attention</title>
-  <dc:creator>Goddard, E.</dc:creator>
-  <dc:creator>Paul Remician, K.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Colour constancy refers to our ability to distinguish changes in surface properties from changes in the properties of light illuminating the scene. The apparent ease with which we can tell that objects do not change colour, for example, when moving from sunlight to the shade, belies the complexity of solving this ill-constrained problem. Although there is a substantial body of work testing which image cues might be used to accomplish this, there is surprisingly little known of how the brain performs this computation. Here, we tested a fundamental aspect of this perceptual process: whether it requires attention. We measured visual search times for both surface colour (requiring separation of surface and illuminant properties) and &#39;raw&#39;, colorimetric colour (which does not). We found a clear difference between the two: visual search for colorimetric colour was fast and near-parallel, while search for surface colour was slow and consistent with the serial deployment of attention. That is, search times suggest that the perceptual separation of surface and illuminant properties in colour constancy may require an attention-based process analogous to perceiving conjunctions of simple features in &#39;feature binding&#39;. Colour discrimination thresholds suggested that while colorimetric colour detection is fast and parallel, once attention was directed to these stimuli and perceptual scission occurs, colorimetric colour information was discarded by the visual system. These results offer important new insights into the sequence of processes the brain uses to accomplish colour constancy.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
