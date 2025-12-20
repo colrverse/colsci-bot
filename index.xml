@@ -10,7 +10,22 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.14</generator>
-<lastBuildDate>Thu, 18 Dec 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Museum genomics links MC1R alleles to adaptive winter coat color polymorphism in the long-tailed weasel</title>
+  <dc:creator>Pimenta, J.</dc:creator>
+  <dc:creator>Miranda, I.</dc:creator>
+  <dc:creator>Farelo, L.</dc:creator>
+  <dc:creator>Alvarenga, M.</dc:creator>
+  <dc:creator>Mills, L. S.</dc:creator>
+  <dc:creator>Melo-Ferreira, J.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Understanding the architecture of biological adaptations is a major endeavor of evolutionary biology. Using Natural History collections, we study the genetic basis and evolution of white/brown winter coat color variation in the long-tailed weasel (Neogale frenata), a crucial phenological adaptation for camouflage in habitats with seasonal snow. We produced whole-genome sequencing data for museum specimens, along two winter color morph transition areas in North America, at the West and East coasts. Genome-wide association scans identified a single genomic region linked to color variation polymorphism with approximately 300kb and 200kb in the West and East regions, respectively, which included the pigmentation gene MC1R. We identified three MC1R alleles, two of which with deletions of nine or eight amino acids, alternatively associated with the winter brown morphs in the West and East, respectively. These deletions affect the second transmembrane domain, and in one case also the first extracellular loop, which in silico analyses predicted to impact the protein&#39;s function. Our findings show alternative intraspecific evolutionary solutions for environmental adaptation in long-tailed weasels, building on the evidence that major genes of the melanin production pathway are hotspots for recurrent and independent evolution of winter camouflage adaptation.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Temperature and Ultraviolet Radiation Drive Divergent Visible and Near-Infrared Reflectance Patterns in Butterflies</title>
   <dc:creator>Kou, C. Z. E.</dc:creator>
@@ -315,35 +330,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Genomic and genetic insights into speciation and pigment pattern diversification in Danio fishes</title>
-  <dc:creator>Lu, J.</dc:creator>
-  <dc:creator>Podobnik, M.</dc:creator>
-  <dc:creator>Huang, J.</dc:creator>
-  <dc:creator>McCluskey, B. M.</dc:creator>
-  <dc:creator>McCarthy, S. A.</dc:creator>
-  <dc:creator>Wood, J.</dc:creator>
-  <dc:creator>Collins, J.</dc:creator>
-  <dc:creator>Torrance, J.</dc:creator>
-  <dc:creator>Sims, Y.</dc:creator>
-  <dc:creator>Gao, D.</dc:creator>
-  <dc:creator>Huang, J.</dc:creator>
-  <dc:creator>Liu, J.</dc:creator>
-  <dc:creator>Fang, W.</dc:creator>
-  <dc:creator>Huang, P.</dc:creator>
-  <dc:creator>Ma, C.</dc:creator>
-  <dc:creator>Parichy, D. M.</dc:creator>
-  <dc:creator>Irion, U.</dc:creator>
-  <dc:creator>Liu, J.</dc:creator>
-  <dc:creator>Howe, K.</dc:creator>
-  <dc:creator>Postlethwait, J. H.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The Danioninae subfamily of teleost fishes boasts up to four hundred distinct species that have evolved to display a stunning diversity of morphological forms. Here we use newly assembled genome sequences of four laboratory and wild zebrafish strains as well as eleven species of the Danio and Danionella genera to explore their phylogenetic history and the genetic basis of pigment pattern diversification. Phylogenomic analyses uncover extensive introgression and incomplete lineage sorting that have obscured phylogenetic relationships within Danio and corroborate an ancient hybrid origin of zebrafish. Whereas D. rerio inherited ancestral horizontal stripes, relatives repeatedly evolved spots and vertical bars. Interspecific complementation tests reveal functional divergence of the adhesion molecule gene igsf11 and the gap junction gene gja5b between the striped zebrafish and Danio species with divergent patterns. Comparative genomic and transcriptomic analyses suggest that protein and regulatory evolution have accompanied pigment pattern diversification. Our analyses elucidate complex genetic changes underlying the phylogenetic history and morphological diversification in the Danio genus. Resolved phylogenetic relationships, available genome assemblies, transcriptomes, and genetic tractability establish Danio fish species as excellent models for biomedical research in vertebrates.</description>
-  <category>genomics</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
