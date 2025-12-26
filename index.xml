@@ -9,8 +9,21 @@
 <link>https://colrverse.github.io/colsci-bot/</link>
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.9.15</generator>
-<lastBuildDate>Fri, 19 Dec 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.16</generator>
+<lastBuildDate>Thu, 25 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Two-colour Imaging Fluorescence Correlation Spectroscopy (ImFCS) probes the influence of the juxta-membrane actin-cortex</title>
+  <dc:creator>Talluri, S.</dc:creator>
+  <dc:creator>Krishna, P. S.</dc:creator>
+  <dc:creator>Wohland, T.</dc:creator>
+  <dc:creator>Mayor, S.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Here we extend Imaging Fluorescence Correlation Spectroscopy (ImFCS), together with bright, photostable fluorophores, to quantify how the juxta-membranous actin cortex influences plasma membrane dynamics. This problem is technically challenging because the membrane is only a few nanometres thick, whereas the axial resolution of live-cell fluorescence imaging is on the order of 100 nm. We address this by engineering a membrane-anchored actin reporter that combines a weakly interacting actin-binding domain with bright, photostable fluorophores optimized for two-colour ImFCS. This design enables the generation of simultaneous, co-registered diffusion maps where the mobility of the reporter serves as a dynamic sensor for the local density of the cortical actin network. The actin-binding reporter displays diffusion coefficients spanning more than two orders of magnitude, in stark contrast to an otherwise similar reporter that cannot bind actin, which diffuses much faster and within a much narrower range. Thus, the mobility of the reporter becomes a sensitive spatial readout of actin-mediated constraints. By comparing, on a pixel-by-pixel basis, the diffusion of the actin-binding reporter with that of the non-binding mutant, we construct an actin-occupancy map that quantifies the fraction of the membrane functionally influenced by cortical actin. Using this approach, we find that the juxta-membrane actin cortex modulates transport over more than 80% of the cell surface. Our two-channel ImFCS strategy establishes diffusion-based comparison as a general methodology to map the functional footprint of the cortical cytoskeleton on live cell membranes.</description>
+  <category>biophysics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Museum genomics links MC1R alleles to adaptive winter coat color polymorphism in the long-tailed weasel</title>
   <dc:creator>Pimenta, J.</dc:creator>
@@ -319,17 +332,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Opposing seasonal dynamics in phylogenetic and flower color diversity of co-flowering wildflower assemblages</title>
-  <dc:creator>Talbot, C. A.</dc:creator>
-  <dc:creator>Weber, M. G.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Flower color is a key trait mediating plant-pollinator interactions, yet the ecological rules governing its distribution across co-flowering assemblages remain poorly understood. We examined spatiotemporal patterns of flower color and phylogenetic diversity in Eastern North American wildflowers to test for non-random community structure, seasonal shifts, and associations between flower color similarity and phylogenetic relatedness. Using occurrence, phenology, and color data from community science datasets, we reconstructed communities of co-flowering assemblages and calculated standardized effect sizes of mean pairwise distances for both flower color and phylogenetic relatedness. We analyzed seasonal trends using mixed models and assessed whether closely related species co-flowered non-randomly with respect to color similarity using bootstrap correlations. We found that, on average, co-flowering assemblages were overdispersed for both flower color and phylogeny. However, flower color dispersion significantly decreased over the growing season, while phylogenetic dispersion significantly increased, reflecting a pattern in which co-flowering assemblages shifted to more distantly related but similarly colored assemblages. Finally, color and phylogenetic dispersion were negatively correlated across communities, indicating that communities composed of more closely related species tended to exhibit more dissimilar flowers. Together, our results suggest that wildflower assemblages in Eastern North America show detectable, non-random structure across space and time with respect to color and relatedness at the broad scale, and that mechanisms underlying the structure of co-flowering groups may shift throughout the growing season.</description>
-  <category>ecology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
