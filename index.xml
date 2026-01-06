@@ -10,7 +10,27 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.16</generator>
-<lastBuildDate>Sat, 27 Dec 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Lysosome-Related Organelles Orchestrate Guanine Crystal Formation in Pigment Cells</title>
+  <dc:creator>Gorelick-Ashkenazi, A.</dc:creator>
+  <dc:creator>Barzilay, Y.</dc:creator>
+  <dc:creator>Lerer-Goldshtein, T.</dc:creator>
+  <dc:creator>Olender, T.</dc:creator>
+  <dc:creator>Eyal, Z.</dc:creator>
+  <dc:creator>Glaser, M.</dc:creator>
+  <dc:creator>Broder, Y.</dc:creator>
+  <dc:creator>Mishol, N.</dc:creator>
+  <dc:creator>Deis, R.</dc:creator>
+  <dc:creator>Kedmi, M.</dc:creator>
+  <dc:creator>Gur, D.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Iridosomes, the guanine crystal-forming organelles of pigment-producing iridophores, are among the most versatile, visually striking yet mechanistically uncharacterized organelles in vertebrate biology. Lysosome-related organelles (LROs) support cell type-specific functions by adapting endolysosomal pathways for specialized roles. Here, we show that iridosomes represent a previously unrecognized subtype of LROs. Using transcriptomic profiling of zebrafish iridophores, CRISPR-Cas9-mediated gene disruption, and cryogenic transmission electron microscopy, we define the molecular program underlying iridosome biogenesis. Iridosomes have evolved unique adaptations for crystal growth while retaining core features of other LROs. Key regulators, including RAB32a, AP3M2, and HPS5, are essential for crystal formation, with gene knockouts causing reduced crystal number, altered morphology, and distinct maturation defects. We further identify hallmark LRO features in iridosomes, including intraluminal vesicles and pH-regulated developmental transitions. Cross-species transcriptomic analysis confirms that iridosomes share an LRO signature across vertebrates, including teleost fish and reptiles, suggesting ancient evolutionary origins. These findings establish iridosomes as crystalline LROs and as a model for investigating how cells construct structurally specialized organelles through coordinated trafficking, acid-base regulation, and crystallization, with implications for LRO evolution and human disease.</description>
+  <category>developmental biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Environmental Variation Promotes Convergent Evolution and Rapid Diversification of Wing Shape and Color in Skipper Butterflies</title>
   <dc:creator>Matos-Maravi, P.</dc:creator>
@@ -319,21 +339,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A 37-color spectral flow cytometry panel to characterize phenotype and cytokine expression in human intestinal T cells</title>
-  <dc:creator>Lindelauf, C.</dc:creator>
-  <dc:creator>Jiang, Q.</dc:creator>
-  <dc:creator>Koning, F.</dc:creator>
-  <dc:creator>van der Meulen-de Jong, A. E.</dc:creator>
-  <dc:creator>van Unen, V.</dc:creator>
-  <dc:creator>Pascutti, M. F.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>We developed a 37-color spectral flow cytometry panel to characterize T cell function, with a focus CD4+ T helper (Th) cells, in the human intestine. The panel includes lineage-defining transcription factors, markers for memory status, tissue residency and T cell activation, and 11 cytokines representing multiple Th cell lineages. The panel is currently being used to investigate CD4+ Th cell function in intestinal and peripheral blood samples of inflammatory bowel disease (IBD) patients. The panel could however be applied to investigate both peripheral and tissue-resident T cell function in a range of immune-mediated diseases.</description>
-  <category>immunology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
