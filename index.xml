@@ -10,7 +10,27 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.16</generator>
-<lastBuildDate>Mon, 05 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>The cuticle lamellae responsible for structural coloration in red algae display common features with the metazoan extracellular matrix</title>
+  <dc:creator>Philippe, G.</dc:creator>
+  <dc:creator>Godfroy, O.</dc:creator>
+  <dc:creator>Beisson, F.</dc:creator>
+  <dc:creator>Gautier, A.</dc:creator>
+  <dc:creator>Jouanneau, D.</dc:creator>
+  <dc:creator>Le Panse, S.</dc:creator>
+  <dc:creator>Com, E.</dc:creator>
+  <dc:creator>Delage, L.</dc:creator>
+  <dc:creator>Czjzek, M.</dc:creator>
+  <dc:creator>Ficko-Blean, E.</dc:creator>
+  <dc:creator>Collen, J.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Structural coloration is a physical phenomenon observed in many living organisms, including seaweeds, via the formation of highly organized nanostructures. Although a widespread system is characterized by the deposition of multilayer thin-film in the extracellular matrix (ECM), enabling light interference, to date such lamellae have only been described in the cuticle of red algae belonging to the Gigartinaceae family within macroalgae. Here, we determine the composition of the multilayered cuticle components in the model species Chondrus crispus (Rhodophyta), using genomic, transcriptomic, proteomic, metabolomic and analytical profiling of carbohydrates. The complex structural assembly revealed common features with the ECM of animals. The carbohydrate fraction consists of a complex mixture of ECM carrageenans and glycosaminoglycan-like structures. A major von Willerbrand factor A domain (VWA) protein plays a critical role for the adhesion of macromolecules, including protein-protein interactions and to sulfated polysaccharides. We propose the name of Lamellae Cohesive Protein (LCP) regarding the alternate distribution of chemically distinct constituents within the cuticle. For the first time, we identified major proteins of the algal cuticle, providing a framework for addressing the evolutionary origins of the algal cuticle biosynthesis and raise important questions regarding its role, particularly across the life cycle marked by major structural ECM modifications.</description>
+  <category>biochemistry</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Lysosome-Related Organelles Orchestrate Guanine Crystal Formation in Pigment Cells</title>
   <dc:creator>Gorelick-Ashkenazi, A.</dc:creator>
@@ -325,20 +345,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Estimating resource acquisition and water-use traits in wine grapes using reflectance spectroscopy</title>
-  <dc:creator>Mariani, R. O.</dc:creator>
-  <dc:creator>Isaac, M. E.</dc:creator>
-  <dc:creator>Cathline, K.</dc:creator>
-  <dc:creator>Robertson, G.</dc:creator>
-  <dc:creator>Martin, A. R.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>In agroecosystems, the variable expression of crop functional traits is expected to play a role in key processes, including plant nutrient cycling and water acquisition, that confer ecosystem resistance and/ or resilience to environmental change. The ability to estimate crop trait data is therefore critical to predict crop responses to environmental change, enabling more informed diagnosis of crop performance and on-farm management strategies. Yet, many traditional methods for quantifying plant traits are time-consuming and resource-intensive, limiting sample sizes and study durations. In response, high-throughput phenotyping--specifically reflectance spectroscopy-- has emerged as a key element of plant trait research, capable of estimating plant traits more rapidly. However, little is known about whether or not reflectance spectroscopy can detect within-species variation in resource acquisition and plant-water traits. Using wine grapes (V. vinifera subsp. vinifera) as a focal crop, this study aimed to assess the ability of reflectance spectroscopy and the subsequent partial least squares regression modelling approach to quantify intraspecific variation in 12 functional traits across 12 different cultivars. Results showed significant differences in traits, especially in the photosynthetic and hydraulic traits, among closely related cultivars, falling along a resource-conservative to resource-acquisitive axis of variation. We also found that reflectance differentiated this fine-scale trait variation, specifically in leaf chemical and morphological traits, contributing to higher accuracy, and indicating that this HTP approach is viable for detailed trait estimation in diverse agroecosystems.</description>
-  <category>plant biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
