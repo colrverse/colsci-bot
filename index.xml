@@ -10,7 +10,19 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.16</generator>
-<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Differential effectiveness of bee and beetle pollinators creates flower colour polymorphism</title>
+  <dc:creator>Heinze, J.</dc:creator>
+  <dc:creator>van der Kooi, C. J.</dc:creator>
+  <dc:creator>Spaethe, J.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Floral diversity is the hallmark of Angiosperms and is often shaped by pollinator-mediated selection, which drives floral divergence as plants evolve traits that attract specific pollinator groups. Mediterranean red, bowl-shaped flowers are specialized on pollination by glaphyrid beetles in areas with beetles and bees but evolved different colours and specialize on bees as pollinators when beetles are absent. What explains this geographic variation in specialization and concomitant flower colour differences? We assessed pollination effectiveness of honeybees and glaphyrids for the colour-polymorphic Anemone pavonina in its natural habitat. We recorded the duration and number of flower visits and quantified single-visit seed set. Per-visit effectiveness (relative seed set) was threefold higher for Pygopleurus (36.3%) than for honeybees (9.5%). Flower visitation lasted substantially longer for beetles (56.3 sec. on average) than for honeybees (2.3 sec.). For beetles, pollinator importance (single-visit seed set x visitation frequency) was highest at low elevations but declined with increasing elevation, whereas for bees pollinator importance remained low yet constant across the elevational gradient. The high pollinator effectiveness of beetles indicates that floral specialization for this pollinator group is advantageous, even to the point that excluding low-quality bee pollinators - by producing inconspicuous flower colours - is beneficial. Non-red flowers may only be beneficial at higher elevations, where bee pollinator importance exceeds that of beetles.</description>
+  <category>animal behavior and cognition</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The cuticle lamellae responsible for structural coloration in red algae display common features with the metazoan extracellular matrix</title>
   <dc:creator>Philippe, G.</dc:creator>
@@ -333,18 +345,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Anthropogenic factors explain wing colour variation in Colias (Lepidoptera: Pieridae) across the Toronto urbanization gradient</title>
-  <dc:creator>Sabatino, A.</dc:creator>
-  <dc:creator>Jahner, J. P.</dc:creator>
-  <dc:creator>McFarlane, S. E.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Hybridization, or interbreeding between two previously diverged populations, is increasing due to human influences on the environment. Rates of hybridization might be increasing particularly quickly among urban species, especially those that are known to be sensitive to environmental disturbances. Butterflies are one such taxa, as some species are commonly found in urban areas, despite being sensitive indicators. For example, Colias philodice and C. eurytheme (Lepidoptera: Pieridae) hybridize when their ranges are in contact or overlap and are commonly found in large cities throughout North America. However, it is an open question how variation in urbanization might affect variation in hybridization. Using wild Colias across a gradient of urbanization in Toronto, Ontario, we tested how the variation in Colias colour, as an indicator of hybridization, relates to human disturbance and urbanization. We created an objective numeric classification for both C. eurytheme and C. philodice, against which we categorized Colias samples. We found that some of the urbanization metrics, including distance to road, Julian date, and number of pedestrians affect the variation in Colias colour, suggesting that urbanization affects Colias colouration, and potentially rates of hybridization, in Toronto. This means that human disturbance of the environment could be affecting Colias rates of hybridization.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
