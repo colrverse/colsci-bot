@@ -10,7 +10,27 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.16</generator>
-<lastBuildDate>Tue, 13 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Behavior evolves as a correlated response to selection on cuticle color in Drosophila melanogaster and D. simulans</title>
+  <dc:creator>Ruckman, S. N.</dc:creator>
+  <dc:creator>Duffy, A. G.</dc:creator>
+  <dc:creator>Mendez, P. M.</dc:creator>
+  <dc:creator>McCaffery, K. D.</dc:creator>
+  <dc:creator>Miller, S.</dc:creator>
+  <dc:creator>Crews, A.</dc:creator>
+  <dc:creator>Tan, N.</dc:creator>
+  <dc:creator>Campbell, L. A.</dc:creator>
+  <dc:creator>March, A.</dc:creator>
+  <dc:creator>Brown, E. B.</dc:creator>
+  <dc:creator>Houle, D.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Understanding whether traits evolve independently or as integrated units is central to predicting adaptive evolution. Correlated trait evolution can reflect genetic covariation, such that selection on one trait can constrain or redirect evolutionary responses in others. Here, we used artificial selection on cuticle color in Drosophila melanogaster and D. simulans to investigate whether color and behavior evolve in tandem. We selected for light and dark thoracic colors across 16 generations in two populations per species and measured correlated responses in a suite of behavioral traits, including aggression, basal activity, total activity, sleep, and geotaxis. Dark selected individuals generally showed higher aggression and basal activity than light selected or control flies across both species and sexes, pointing to a modest but repeatable correlated response that must be interpreted in light of low and variable aggression in our assay. In contrast, patterns for geotaxis, sleep, and total activity evolved unpredictably, often varying across species and populations, and showed no clear or uniform association with color. Taken together, our results suggest that some behaviors may share a predictable relationship with color, whereas others behave largely independently under the conditions we examined. The persistence of correlated responses in aggression and basal activity in response to selection on color is consistent with a conserved genetic basis, such as pleiotropy or tight linkage, although our data do not, by themselves, distinguish among these mechanisms. Future work that identifies the loci underlying variation in both color and behavior and tests their effects experimentally will be important for clarifying how multivariate genetic covariance shapes the direction and pace of adaptive evolution.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Differential effectiveness of bee and beetle pollinators creates flower colour polymorphism</title>
   <dc:creator>Heinze, J.</dc:creator>
@@ -311,40 +331,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Insertion of an invading retrovirus regulates a novel color trait in swordtail fish</title>
-  <dc:creator>Haghani, N.</dc:creator>
-  <dc:creator>Dodge, T. O.</dc:creator>
-  <dc:creator>Baczenas, J. J.</dc:creator>
-  <dc:creator>Gunn, T.</dc:creator>
-  <dc:creator>He, Q.</dc:creator>
-  <dc:creator>Pangburn, W.</dc:creator>
-  <dc:creator>Sood, R.</dc:creator>
-  <dc:creator>Du, K.</dc:creator>
-  <dc:creator>Fascinetto-Zago, P.</dc:creator>
-  <dc:creator>Kaatmann, A.</dc:creator>
-  <dc:creator>Ou, Z.</dc:creator>
-  <dc:creator>Dougan, S.</dc:creator>
-  <dc:creator>Olmos-Santiago, N. S.</dc:creator>
-  <dc:creator>Preising, G. A.</dc:creator>
-  <dc:creator>Payne, C. Y.</dc:creator>
-  <dc:creator>Haase Cox, S. K.</dc:creator>
-  <dc:creator>Hunnicutt, K. E.</dc:creator>
-  <dc:creator>Madrzyk, M.</dc:creator>
-  <dc:creator>Moran, B. M.</dc:creator>
-  <dc:creator>Stigloher, C.</dc:creator>
-  <dc:creator>Powell, D. L.</dc:creator>
-  <dc:creator>Schartl, M.</dc:creator>
-  <dc:creator>Gifford, C.</dc:creator>
-  <dc:creator>Han, G. z.</dc:creator>
-  <dc:creator>Schumer, M.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>For over a century, evolutionary biologists have been motivated to understand the mechanisms through which organisms adapt to their environments. Coloration and pigmentation are remarkably variable within and between species and can serve as an important window into the mechanisms of adaptation. Here, we map the genetic basis of a newly described iridescence trait in swordtail fish to a single locus. Individuals with this trait appear to sparkle as they move through the water. We find that the trait is driven by the recent endogenization of a retrovirus that inserted near the gene alkal2a. This insertion is associated with changes in the chromatin landscape, upregulation of alkal2a, and accumulation of iridescent cells that adhere to the scales. Rather than causing diseases, our results demonstrate that invading endogenous retroviruses can also regulate novel trait variation in the host. Moreover, we find that this coloration trait may act as an important signal in interactions between fish and their predators in the natural environment.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
