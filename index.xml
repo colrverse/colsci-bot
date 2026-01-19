@@ -10,7 +10,22 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.16</generator>
-<lastBuildDate>Wed, 14 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>An Adenine-Based Molecular Rotor as a Universal Fluorescent Nucleobase with High Brightness</title>
+  <dc:creator>Pushkarevskaya, A. A.</dc:creator>
+  <dc:creator>Kamzeeva, P. N.</dc:creator>
+  <dc:creator>Belyaev, E. S.</dc:creator>
+  <dc:creator>Brylev, V. A.</dc:creator>
+  <dc:creator>Lomzov, A. A.</dc:creator>
+  <dc:creator>Aralov, A. V.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Chemically modified nucleic acids have become a powerful platform for basic research and applied technologies. Universal nucleobases are used in PCR,sequencing, and the design of nanodevices and aptamers. Fluorescent universal nucleobases have an even wider range of applications, including the development of nucleic acid-based sensors, switches, and relay logic gates. However, few such nucleobases have been proposed to date, and most of them have suboptimal optical properties. Here, we propose an adenine-based molecular rotor, 7,8-dihydro-8-oxo-6-(3-methylbenzo[d]thiazol-2(3H)-ylidene)adenine (oxo-AdeBZT), as a new, remarkably bright and potent fluorescent universal nucleobase. Its brightness in both oligodeoxyribonucleotides (ODNs) and DNA duplexes (4200 - 10000 M-1 * cm-1) originates from a high molar extinction coefficient (averaged 37000 M-1 * cm-1), provided by the appended 3-methylbenzo[d]thiazolyl moiety, and a relatively high quantum yield (0.11 - 0.27). Melting temperature variations observed upon the incorporation of oxo-AdeBZT opposite native nucleobases in a duplex context did not exceed 10%. The basis of these universal hybridizing properties was unveiled using computational methods. According to molecular dynamics simulations, oxo-AdeBZT pushes the opposite nucleobase out of the DNA double helix and forms multiple hydrophobic contacts with the flanking base pairs. At the same time, the rotational mobility of the bonds between the oxo-AdeBZT-constituting heterobicycles decreases, and oxo-AdeBZT adopts a planar conformation in both ODNs and their duplexes, resulting in the light-up effect. These properties make oxo-AdeBZT a promising molecular tool for analytical, biophysical and biochemical studies.</description>
+  <category>biophysics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Behavior evolves as a correlated response to selection on cuticle color in Drosophila melanogaster and D. simulans</title>
   <dc:creator>Ruckman, S. N.</dc:creator>
@@ -319,18 +334,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Predictive Networks Generate Motion-Induced Color Illusions</title>
-  <dc:creator>Ueda, K.</dc:creator>
-  <dc:creator>Sinapayen, L.</dc:creator>
-  <dc:creator>Watanabe, E.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Subjective color (SC) refers to chromatic perception induced by achromatic stimuli, as classically demonstrated using Benham\&#39;s top. Despite nearly two centuries of investigation, the underlying neural mechanisms remain unclear. We developed artificial neural network (ANN) models trained on natural videos using predictive learning to investigate SC generation. These models successfully reproduced artificial subjective color (ASC) despite the absence of explicit color information in the training stimuli. Critically, ASC characteristics were systematically influenced by the colors of moving objects in the training videos. Using progressively simplified stimuli, ranging from natural scenes to 3D computer graphics to 2D animations, we demonstrated that the colors of moving objects are the primary determinant of ASC properties. We propose that predictive learning establishes color associations with motion patterns, causing the arcs on Benham\&#39;s top to be perceived as moving objects with their corresponding colors. These findings suggest that cortical predictive mechanisms may complement retinal processes in generating subjective color phenomena.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
