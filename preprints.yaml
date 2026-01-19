@@ -1,3 +1,39 @@
+- title: An Adenine-Based Molecular Rotor as a Universal Fluorescent Nucleobase with
+    High Brightness
+  categories:
+  - biophysics
+  - new results
+  license: CC BY-NC
+  author:
+  - Pushkarevskaya, A. A.
+  - Kamzeeva, P. N.
+  - Belyaev, E. S.
+  - Brylev, V. A.
+  - Lomzov, A. A.
+  - Aralov, A. V.
+  path: https://doi.org/10.64898/2026.01.18.700143
+  description: Chemically modified nucleic acids have become a powerful platform for
+    basic research and applied technologies. Universal nucleobases are used in PCR,sequencing,
+    and the design of nanodevices and aptamers. Fluorescent universal nucleobases
+    have an even wider range of applications, including the development of nucleic
+    acid-based sensors, switches, and relay logic gates. However, few such nucleobases
+    have been proposed to date, and most of them have suboptimal optical properties.
+    Here, we propose an adenine-based molecular rotor, 7,8-dihydro-8-oxo-6-(3-methylbenzo[d]thiazol-2(3H)-ylidene)adenine
+    (oxo-AdeBZT), as a new, remarkably bright and potent fluorescent universal nucleobase.
+    Its brightness in both oligodeoxyribonucleotides (ODNs) and DNA duplexes (4200
+    - 10000 M-1 * cm-1) originates from a high molar extinction coefficient (averaged
+    37000 M-1 * cm-1), provided by the appended 3-methylbenzo[d]thiazolyl moiety,
+    and a relatively high quantum yield (0.11 - 0.27). Melting temperature variations
+    observed upon the incorporation of oxo-AdeBZT opposite native nucleobases in a
+    duplex context did not exceed 10%. The basis of these universal hybridizing properties
+    was unveiled using computational methods. According to molecular dynamics simulations,
+    oxo-AdeBZT pushes the opposite nucleobase out of the DNA double helix and forms
+    multiple hydrophobic contacts with the flanking base pairs. At the same time,
+    the rotational mobility of the bonds between the oxo-AdeBZT-constituting heterobicycles
+    decreases, and oxo-AdeBZT adopts a planar conformation in both ODNs and their
+    duplexes, resulting in the light-up effect. These properties make oxo-AdeBZT a
+    promising molecular tool for analytical, biophysical and biochemical studies.
+  date: '2026-01-18'
 - title: Behavior evolves as a correlated response to selection on cuticle color in
     Drosophila melanogaster and D. simulans
   categories:
