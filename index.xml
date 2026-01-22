@@ -10,7 +10,30 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.17</generator>
-<lastBuildDate>Sun, 18 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Colour preference and constancy in the giant Asian honey bee Apis dorsata</title>
+  <dc:creator>Sudeep, R.</dc:creator>
+  <dc:creator>Bhaskar, S.</dc:creator>
+  <dc:creator>Somanathan, H.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Tropical pollinators forage in environments where floral resources vary in space and time, requiring flexible strategies to optimise foraging efficiency. One such strategy, floral constancy - the temporary restriction to a single flower type - strongly influences foraging success and plant-pollinator interactions. We aimed to: (1) quantify spontaneous colour preferences and constancy in the Asian giant honeybee Apis dorsata, (2) test whether reward concentration modulates these preferences, (3) evaluate how quickly learned associations override spontaneous biases, (4) determine whether bees can use multiple colour associations simultaneously, and (5) assess whether local floral spectral patterns correlate with bee preferences. Bees trained to a neutral UV-grey stimulus showed a strong spontaneous preference and high constancy to blue, revealing a robust short-wavelength bias. Crucially, the strength of this spontaneous bias depended on reward concentration; Low-reward conditions elicited strong blue constancy, whereas high-reward conditions weakened it, demonstrating that reward expectation shapes spontaneous colour choices. This bias was flexible. When bees learned that yellow was rewarding, they switched their preferences. Bees sequentially trained to both colours visited blue and yellow, showing no overall bias, or effect of the last-trained colour, indicating that recent experiences disrupt colour-specific constancy and generate largely random foraging choices. Bees were capable of learning and retaining two colours simultaneously, effectively suppressing the influence of spontaneous preferences. Finally, analysis of the community floral spectral distribution revealed a strong dominance of short-wavelength flowers, suggesting that long-term selection by the local floral environment may underlie the spontaneous blue preference observed in A. dorsata.</description>
+  <category>animal behavior and cognition</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>EEG-Based Decoding of Color and Visual Category Representations Is Reliable Within and Across Sessions</title>
+  <dc:creator>Frenkel, C.</dc:creator>
+  <dc:creator>Deouell, L. Y.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The human visual system represents stimuli in a rich and detailed manner. Traditional methods of studying visual representations in humans, such as event-related potentials (ERP), revealed numerous distinctions between the brain activity elicited by different categories of stimuli. However, these methods miss the information embedded in the spatial distributions of brain activity, or patterns, and are not always sensitive to study visual representations of different stimuli at the single participant or single trial level. Time-resolved multivariate pattern classification analysis (MVPA), or Decoding, efficiently extracts the visual representations of stimuli from the EEG topography without a-priori assumptions about the location of the effect in time and space at the single participant level. The rich information this method provides has increased its popularity dramatically in recent years. Yet, different participants show variable quality of decoding performance, and it is unclear if the accuracy of decoding is maintained within participants across multiple sessions, tasks, attentional conditions and visual features. In the current study, participants performed three visual tasks, over two sessions (1-7 days apart). We examined the correlation of decoding accuracy: within the cross-validation set, between sessions, between features (color and category) and to different measurements of the ERP signal and behavioral performance. We also examined how models generalized to different tasks and different attention conditions. We found that decoding accuracies varied substantially across participants, and that decoding accuracy was reliable within participant, over sessions, attention condition and task. This suggests the decodability behaves like an individual trait. Moreover, the spatial patterns underlying the decoding (classification weights) generalized across different tasks, attentional conditions and sessions. This suggests minimal representational drift at the resolution allowed by the EEG. We conclude that EEG decoding is a reliable method, and that visual representations are stable.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>An Adenine-Based Molecular Rotor as a Universal Fluorescent Nucleobase with High Brightness</title>
   <dc:creator>Pushkarevskaya, A. A.</dc:creator>
@@ -302,38 +325,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Peculiar Pigment Pattern and Population Profile of a Poisonous Pufferfish</title>
-  <dc:creator>Miyazawa, S.</dc:creator>
-  <dc:creator>Doi, H.</dc:creator>
-  <dc:creator>Takahashi, H.</dc:creator>
-  <dc:creator>Nishiyama, T.</dc:creator>
-  <dc:creator>Shigenobu, S.</dc:creator>
-  <dc:creator>Misawa, K.</dc:creator>
-  <dc:creator>Kikuchi, K.</dc:creator>
-  <dc:creator>Sakai, H.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Pufferfish are well-known for their toxicity, yet they also exhibit a remarkable diversity of pigment patterns. Mushifugu (Takifugu exascurus) is a pufferfish endemic to Japan&#39;s coastal waters and is characterized by conspicuous labyrinthine patterns. Despite being recorded along both the Sea of Japan and the Pacific coasts, it has a limited distribution and is infrequently observed. Aside from its unique body pattern, mushifugu shows little to no morphological differences from other Takifugu species, often leading to speculation that it may be an interspecific hybrid. In addition, previous theoretical and empirical studies have shown that complex camouflage-like labyrinthine patterns can emerge through the &#39;pattern blending&#39; caused by hybridization between spotted species, providing support for this possibility. Here, we investigate the phylogenetic origin of mushifugu and its distinctive pattern through population structure analysis and demographic inference in comparison with its closest spotted relative, komonfugu (T. flavipterus). Mitochondrial DNA (mtDNA) analysis revealed two regional haplogroups within mushifugu--one in the Sea of Japan (SJ) and the other in the Pacific Ocean (PO). In the haplotype network, the SJ haplogroup formed a distinct cluster, whereas the PO haplogroup appeared as its own cluster connected to the komonfugu haplogroup. By contrast, genome-wide SNP analyses indicated limited structure between the SJ and PO mushifugu populations, while clearly separating mushifugu from komonfugu. Coalescent-based demographic inference suggested that the two species diverged following a bottleneck event in the early Pleistocene. These results confirm that mushifugu is a distinct species rather than a recent interspecific hybrid. Nevertheless, evidence of introgression was detected in both mitochondrial and nuclear genomes, suggesting multiple episodes of past hybridization between mushifugu and komonfugu, highlighting the potentially complex evolutionary processes shaping Takifugu species and their pigment patterns.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>MicroRNA166-HD-ZIP III module impacts tuber shape, color and productivity in potato</title>
-  <dc:creator>Patil, N. S.</dc:creator>
-  <dc:creator>Vasav, A.</dc:creator>
-  <dc:creator>Kumari, J.</dc:creator>
-  <dc:creator>Arora, G.</dc:creator>
-  <dc:creator>Natarajan, B.</dc:creator>
-  <dc:creator>Banerjee, A. K.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>MicroRNA165/166 is a highly conserved and abundant microRNA family in plants that targets class III homeodomain leucine zipper (HD-ZIP III) transcription factors. Their essential roles in plant development, organ polarity, meristem maintenance, and vascular differentiation have been well established. However, their role in storage organ development, particularly in potato tuberization remains unknown. Here, we demonstrate the pleiotropic effects of miR166 on potato (Solanum tuberosum spp. Andigena) growth and development. Suppression of miR166 via target mimicry (MIM166) resulted in reduced plant height, altered vascular patterning, diminished leaf curvature, and impaired root development. Remarkably, MIM166 lines produced elongated, pigmented tubers with reduced yield under short-day conditions. Transcriptomic analyses of swollen head versus stalk of tuberizing stolons revealed altered expression of auxin-, cytokinin-, and gibberellin-related genes, consistent with hormone quantification data, suggesting the key role of phytohormones in governing tuber shape. Anthocyanin profiling indicated elevated accumulation of cyanidin 3-glucoside, pelargonidin 3-glucoside, and delphinidin 3-glucoside in MIM166 tuber peels, correlating with the upregulation of anthocyanin biosynthetic genes. Tuber productivity in these lines was reduced possibly due to the decreased expression of SWEET11b and distorted vascular structures in the MIM166 lines. Further, StREVOLUTA, a direct miR166 target, exhibited dynamic expression during stolon differentiation and could modulate the expression of auxin biosynthesis genes. Collectively, our results demonstrate that the miR166-HD-ZIP III module is functional in potato, plays conserved roles in regulating key developmental traits, and is active through early stolon-to-tuber transition stages, affecting tuber shape, color and productivity.</description>
-  <category>plant biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
