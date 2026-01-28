@@ -10,7 +10,48 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.17</generator>
-<lastBuildDate>Sun, 25 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Modulation of Avian Iridescence via Malanogenesis</title>
+  <dc:creator>Barbosa, S.</dc:creator>
+  <dc:creator>Bittner, C.</dc:creator>
+  <dc:creator>Arbore, R.</dc:creator>
+  <dc:creator>Araujo, P.</dc:creator>
+  <dc:creator>Pereira, P.</dc:creator>
+  <dc:creator>Andrade, P.</dc:creator>
+  <dc:creator>Fekete, C.</dc:creator>
+  <dc:creator>Afonso, R.</dc:creator>
+  <dc:creator>Afonso, S.</dc:creator>
+  <dc:creator>Amorim, M.</dc:creator>
+  <dc:creator>Marques, C.</dc:creator>
+  <dc:creator>Nicolai, M.</dc:creator>
+  <dc:creator>Carita, J.</dc:creator>
+  <dc:creator>Brejcha, J.</dc:creator>
+  <dc:creator>Lopes, R.</dc:creator>
+  <dc:creator>Alves, J.</dc:creator>
+  <dc:creator>Cruz, F.</dc:creator>
+  <dc:creator>Gomez-Garrido, J.</dc:creator>
+  <dc:creator>Zamarreno, C.</dc:creator>
+  <dc:creator>Gut, M.</dc:creator>
+  <dc:creator>Alyoto, T.</dc:creator>
+  <dc:creator>Ali, M.</dc:creator>
+  <dc:creator>Hilpert, A.</dc:creator>
+  <dc:creator>Hech, A.</dc:creator>
+  <dc:creator>Spiecker, E.</dc:creator>
+  <dc:creator>Zubiri, B. A.</dc:creator>
+  <dc:creator>Ito, S.</dc:creator>
+  <dc:creator>Wakamatsu, K.</dc:creator>
+  <dc:creator>Andersson, L.</dc:creator>
+  <dc:creator>Corbo, J.</dc:creator>
+  <dc:creator>Vogel, N.</dc:creator>
+  <dc:creator>Carneiro, M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The iridescent colors of birds originate in nanoscale feather structures that interact with light. Although the physical principles governing avian iridescence are well-established, the molecular mechanisms assembling these nanostructures into photonic materials remain unknown. Here, we investigate the genetic and developmental basis of iridescence by analyzing mutations from peafowl domestication and color variation in wild birds. We show that melanogenesis governs diverse geometric aspects of feather photonic nanostructures, enabling gains, shifts, and losses in iridescence. Mutations altering melanin composition collapse multilayered photonic systems and yield non-iridescent tissues, while alterations to melanosome abundance, elongation, or deposition timing generate multilayer architectures of variable periodicity and striking color differences. Notably, transitions from non-iridescent to iridescent plumage can arise from single-nucleotide mutations in melanogenic genes, revealing that minimal genetic change can prompt feathers to organize photonic structures. These results demonstrate that the nanoscale order underlying iridescence is developmentally plastic, emerging from physicochemical self-assembly responsive to the biochemical environment rather than from genetically encoded spatial cues. Single-cell transcriptomes from wild species further uncovered extensive melanocyte-centered regulatory rewiring associated with iridescence. Our findings identify melanogenesis as a key pathway for evolving structural coloration and illustrate how genetic programs harness self-organizing processes to generate biological diversity.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>A 14-Color Blue-Violet Laser Restricted Full Spectrum Flow Cytometry Panel for Comprehensive Immunophenotyping of Pulmonary Inflammation in Mouse Bronchoalveolar Lavage Fluid</title>
   <dc:creator>Mara, A. B.</dc:creator>
@@ -307,23 +348,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>charisma: An R package to perform reproducible color characterization of digital images for biological studies</title>
-  <dc:creator>Schwartz, S. T.</dc:creator>
-  <dc:creator>Tsai, W. L. E.</dc:creator>
-  <dc:creator>Karan, E. A.</dc:creator>
-  <dc:creator>Juhn, M. S.</dc:creator>
-  <dc:creator>Shultz, A. J.</dc:creator>
-  <dc:creator>McCormack, J. E.</dc:creator>
-  <dc:creator>Smith, T. B.</dc:creator>
-  <dc:creator>Alfaro, M. E.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>1. Advances in digital imaging and software tools have provided increasingly accessible datasets and methods for analyzing color evolution. Despite the variety of computational packages available, most rely on color classification before running analyses. Previous methods limit the ability to analyze large-scale image databases, decreases the accuracy of downstream analyses, and is not always representative of biologically relevant color classes. 2. Here, we present charisma, an R package designed to characterize the distribution of distinct color classes in images suitable for large-scale studies of biological organisms. Here, we demonstrate the utility of our package through an analysis of color evolution in a sample of diverse and charismatic birds, tanagers, in the subfamily Thraupinae. 3. We show that charisma can quickly and accurately classify every pixel in an image and validate these results using pre-identified, canonical color swatches. We find that charisma color classifications are consistent with those made by color-pattern experts in the field. Applying charisma to tanager color evolution, we find that charisma outputs seamlessly integrate with downstream evolutionary analyses. 4. Our results demonstrate that using charisma to manually curate and characterize colors in images provides a standardized, reliable, and reproducible framework for high-throughput color classification.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
