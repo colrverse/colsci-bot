@@ -1,3 +1,112 @@
+- title: Quantitative muscle color as a proxy for structural and functional characteristics
+    during muscle remodeling in Gryllus lineaticeps
+  categories:
+  - physiology
+  - new results
+  license: CC BY-NC-ND
+  author:
+  - Laturney, M.
+  - Martins, L.
+  - Diaz, T.
+  - Lo, E.
+  - Uen, N.
+  - Williams, C. M.
+  path: https://doi.org/10.64898/2026.01.29.702701
+  description: Understanding the cellular and physiological mechanisms underlying
+    muscle remodeling requires model systems that allow rapid, reliable, and quantitative
+    assessment of muscle state. The cricket Gryllus lineaticeps naturally undergoes
+    non-pathological striated muscle breakdown (histolysis), making it a promising
+    system for studying this process. However, current assessments of muscle state
+    are largely qualitative, subjective, and poorly standardized across experiments.
+    Here, we developed and validated a continuous, quantitative muscle color metric
+    to objectively capture histolysis progression and functional changes in muscle.
+    We show that this metric robustly tracks variation in muscle color across remodeling
+    stages, including the challenging fully transparent stage, and strongly predicts
+    protein content, mitochondrial abundance, and iron content in a muscle- and trait-specific
+    manner. The reproducibility of these relationships across independent datasets
+    demonstrates the generality and robustness of this approach. By providing a rapid,
+    objective, and biologically informative proxy of muscle state, this framework
+    not only advances the utility of G. lineaticeps as a model for muscle remodeling
+    but also offers a strategy for exploring the cellular dynamics underlying age-related
+    muscle diseases and disorders, addressing an increasing public health concern
+    in aging populations.
+  date: '2026-01-30'
+- title: 'From Sensory Details to Verbal Codes: Visual Memory Reinstatement of Location
+    and Color Features'
+  categories:
+  - neuroscience
+  - new results
+  license: CC BY-NC
+  author:
+  - Wang, X.
+  - Becker, M.
+  - Rahman, R. A.
+  - Davis, S. W.
+  - Cabeza, R.
+  path: https://doi.org/10.64898/2026.01.27.701888
+  description: 'Successful episodic memory depends on the reinstatement of encoding
+    content and processes during retrieval. However, it remains unclear how such reinstatement
+    (1) differs for various perceptual features, (2) supports subjective versus objective
+    memory retrieval, and (3) relies on linguistic information. To investigate these
+    three issues, we designed an fMRI study in which participants encoded and recalled
+    the colors and spatial locations of object pictures, and provided subjective vividness
+    and objective precision measures. We used encoding-retrieval similarity (ERS)
+    to identify feature-level reinstatement for location or color features, and trial-specific
+    reinstatement for individual location trials or individual color trials. The study
+    yielded three main findings. First, feature-level reinstatement in frontoparietal
+    and visual regions supported both location and color memory, whereas trial-specific
+    reinstatement in early visual cortex contributed to location memory and feature-level
+    reinstatement in lateral/anterior temporal cortices, to color memory. Second,
+    trial-specific reinstatement in early visual cortex supported both location vividness
+    and precision, while feature-level reinstatement in inferior frontal gyrus contributed
+    to color vividness, and trial-specific reinstatement in posterior inferior temporal
+    gyrus (including the color area), to color precision. Finally, color name richness
+    (the number of names associated with a particular color) enhanced color memory
+    precision and modulated trial-specific color reinstatement in right anterior inferior
+    temporal gyrus. Together, these findings suggest that perceptual and linguistic
+    reinstatement play complementary roles in visual episodic memory: perceptual replay
+    provides fine-grained sensory details, whereas linguistic replay can scaffold
+    and refine these representations, especially for features that are easier to verbalize
+    such as colors.'
+  date: '2026-01-30'
+- title: 'From Sensory Details to Verbal Codes: Visual Memory Reinstatement of Location
+    and Color Features'
+  categories:
+  - neuroscience
+  - new results
+  license: CC BY-NC
+  author:
+  - Wang, X.
+  - Becker, M.
+  - Rahman, R. A.
+  - Davis, S. W.
+  - Cabeza, R.
+  path: https://doi.org/10.64898/2026.01.27.701888
+  description: 'Successful episodic memory depends on the reinstatement of encoding
+    content and processes during retrieval. However, it remains unclear how such reinstatement
+    (1) differs for various perceptual features, (2) supports subjective versus objective
+    memory retrieval, and (3) relies on linguistic information. To investigate these
+    three issues, we designed an fMRI study in which participants encoded and recalled
+    the colors and spatial locations of object pictures, and provided subjective vividness
+    and objective precision measures. We used encoding-retrieval similarity (ERS)
+    to identify feature-level reinstatement for location or color features, and trial-specific
+    reinstatement for individual location trials or individual color trials. The study
+    yielded three main findings. First, feature-level reinstatement in frontoparietal
+    and visual regions supported both location and color memory, whereas trial-specific
+    reinstatement in early visual cortex contributed to location memory and feature-level
+    reinstatement in lateral/anterior temporal cortices, to color memory. Second,
+    trial-specific reinstatement in early visual cortex supported both location vividness
+    and precision, while feature-level reinstatement in inferior frontal gyrus contributed
+    to color vividness, and trial-specific reinstatement in posterior inferior temporal
+    gyrus (including the color area), to color precision. Finally, color name richness
+    (the number of names associated with a particular color) enhanced color memory
+    precision and modulated trial-specific color reinstatement in right anterior inferior
+    temporal gyrus. Together, these findings suggest that perceptual and linguistic
+    reinstatement play complementary roles in visual episodic memory: perceptual replay
+    provides fine-grained sensory details, whereas linguistic replay can scaffold
+    and refine these representations, especially for features that are easier to verbalize
+    such as colors.'
+  date: '2026-01-30'
 - title: Modulation of Avian Iridescence via Malanogenesis
   categories:
   - evolutionary biology
