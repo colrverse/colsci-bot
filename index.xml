@@ -10,7 +10,48 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.18</generator>
-<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Syntaxin-3 regulates Tight Junction Assembly in Human Retinal Pigment Epithelium</title>
+  <dc:creator>Ramesh, A.</dc:creator>
+  <dc:creator>Sivagurunathan, S.</dc:creator>
+  <dc:creator>Baburajan, N. V.</dc:creator>
+  <dc:creator>Chidambaram, S.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The retinal pigment epithelium (RPE) consists of polarized epithelial cells, serving as a support system for photoreceptor maintenance, where the polarity is contributed by the distribution of syntaxins (STX) within the cell. STX3, a known regulator of apical trafficking in epithelial cells, was previously understood to be absent in human RPE cells, with its functions thought to be compensated by STX1A. However, our results on SNARE mRNA expression profile in RPE detected the presence of 2 splice variants of STX3. Further investigation in donor retina, primary hRPE, and ARPE-19 cells revealed detectable levels of STX3 mRNA and protein. STX3 knockdown in ARPE19 resulted in a significant reduction of tight junction (TJ) proteins, compromising TJ assembly, highlighting the critical role of STX3 in maintaining RPE integrity. In addition, immunoprecipitation followed by LC-MS/MS analysis revealed that STX3 and STX1A have a distinct novel protein interactome in RPE. This study identified unique and shared interactants for STX3 and STX1A, suggesting a broader role for RPE beyond its traditional photoreceptor support function. This further emphasises the biological significance of STX1A and STX3 in maintaining retinal homeostasis, which could facilitate the development of novel therapeutic strategies for retinal disorders.</description>
+  <category>cell biology</category>
+  <category>contradictory results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A cryptic hybrid zone reveals the genomic basis of flower colour variation in a plant with a large and complex genome</title>
+  <dc:creator>Salvado, P.</dc:creator>
+  <dc:creator>Gibert, A.</dc:creator>
+  <dc:creator>Chaib, S.</dc:creator>
+  <dc:creator>Raviglione, D.</dc:creator>
+  <dc:creator>Bertrand, C.</dc:creator>
+  <dc:creator>El Baidouri, M.</dc:creator>
+  <dc:creator>Mariault, L.</dc:creator>
+  <dc:creator>Llauro, C.</dc:creator>
+  <dc:creator>Cravero, C.</dc:creator>
+  <dc:creator>Dufau, I.</dc:creator>
+  <dc:creator>Marande, W.</dc:creator>
+  <dc:creator>Carpentier, M.-C.</dc:creator>
+  <dc:creator>Martin, M.</dc:creator>
+  <dc:creator>Quelennec, C.</dc:creator>
+  <dc:creator>Gaultier, P.</dc:creator>
+  <dc:creator>Lewin, J.-M.</dc:creator>
+  <dc:creator>Aymerich, P.</dc:creator>
+  <dc:creator>Hinoux, V.</dc:creator>
+  <dc:creator>Bertrand, J. A. M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Flower colour is known to be an automatic magic trait, undergoing divergent selection pressures exerted by distinct pollinators and involved in reproductive isolation. However, variation at this trait may also results from other eco-evolutionary factors whose interpretation requires throughout context-specific analyses. Here, we investigated the eco-evolutionary causes of pink- and yellow-flowered morphs in Pedicularis comosa where their parapatric ranges form a contact zone: in the East of the Pyrenees Mountains. First, we generated a near-chromosome-scale reference genome assembly for this species. We then used a Genotyping By Sequencing approach to infer patterns of genetic diversity and differentiation between populations and morphs at a total of 158 individuals from 11 localities. We found that neutral genetic structure is primarily consistent with geography rather than with colour. However, admixture analyses and clines suggest the existence of a cryptic hybrid zone between morphs. Outlier detection methods and examination of locus-by-locus cline features, then allowed to pinpoint candidate loci to explain colour variation. To gain insight into the functional aspects of these loci, we finally analysed floral transcriptomes and quantified pigments using Liquid Chromatography coupled with Mass Spectrometry (LC-MS) and confirmed the involvement of key genes in the anthocyanin metabolic pathway (e.g. DFR, FLS) and associated pigments (e.g. cyanidin and delphinidin). Our results show that implementing a highly integrative multi-omic approach can allow unraveling the genetic basis and the eco-evolutionary significance of adaptive traits with even very limited previous knowledge, on species with large and complex genomes.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Quantitative muscle color as a proxy for structural and functional characteristics during muscle remodeling in Gryllus lineaticeps</title>
   <dc:creator>Laturney, M.</dc:creator>
@@ -305,44 +346,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Graded BMP signals modulate yellow and red color in fishes impacting adult pigment pattern and behavior</title>
-  <dc:creator>Huang, D.</dc:creator>
-  <dc:creator>de Mello, P. L. H.</dc:creator>
-  <dc:creator>Liu, T.</dc:creator>
-  <dc:creator>Liu, Y.</dc:creator>
-  <dc:creator>Kapadia, E.</dc:creator>
-  <dc:creator>Liang, Y.</dc:creator>
-  <dc:creator>Lu, J.</dc:creator>
-  <dc:creator>Corbo, J. C.</dc:creator>
-  <dc:creator>Parichy, D. M.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Among the most interesting adult traits are those with roles in animal communication. Yet developmental mechanisms by which genes drive cell behaviors in building the final forms of such traits are rarely known. In this context, pigmentation is useful because colors and patterns often provide signals in mate choice, predation avoidance and other behaviors and pigmentation is unusually accessible to observation and manipulation. Here we focus on some of the most prominent signaling colors--red, orange and yellow--and show how BMP signaling at the cellular level allows for a very different kind of signal at the organismal level. Using pearl danio, Danio albolineatus, we find that spatially and temporally graded BMP signals promote development of yellow/orange xanthophores over red erythrophores in the fin of this species and a distantly related minnow, Tanichthys albonubes, and that conserved mechanisms, involving BMP co-receptor Rgmb, regulate differentiation of other pigment cell types in corresponding locations of zebrafish, D. rerio. We further use mutants of D. albolineatus with more red or more yellow cells than wild-type to demonstrate female responsiveness to carotenoid-based color differences between males in shoaling preference assays, and we show the existence of polygenic standing variation for this pigmentary trait. Our findings illustrate a chain of function spanning hierarchical levels and provide a deeper understanding of pigmentary form and function and its evolution.</description>
-  <category>developmental biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Damselflies Overcome Color Saturation Barriers of Photonic Glasses via Structural Dispersion and Pigment Loading</title>
-  <dc:creator>Lemcoff, T.</dc:creator>
-  <dc:creator>Alus, L.</dc:creator>
-  <dc:creator>Batushansky, A.</dc:creator>
-  <dc:creator>Fishman, Y.</dc:creator>
-  <dc:creator>Theodor, N.</dc:creator>
-  <dc:creator>Shavit, K.</dc:creator>
-  <dc:creator>Hyitner, L.</dc:creator>
-  <dc:creator>Kelber, A.</dc:creator>
-  <dc:creator>Haataja, J.</dc:creator>
-  <dc:creator>Oron, D.</dc:creator>
-  <dc:creator>Palmer, B. A.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Biology&#39;s strategies for manipulating light offer rich inspiration for the design of sustainable replacements to conventional pigments in paints, coatings, and displays. For these applications, where angle-independent color is required, photonic glasses, composed of random arrangements of dielectric spheres, offer a promising solution. However, their intrinsic disorder, particularly from particle polydispersity, fundamentally limits their color saturation and practical utility. In contrast, insects like damselflies and dragonflies exhibit surprisingly vivid, non-iridescent structural colors, despite relying on disordered photonic structures. Here, we show how damselflies combine compositional and structural dispersion to overcome color saturation limits of photonic glasses. Firstly, doping transparent particles with yellow pigments dramatically enhances blue-green structural resonances by the coupled effects of narrowband absorption and refractive index (material) dispersion. Secondly, the refractive index of the nanospheres varies with their size and crystallinity. This gives rise to a &#39;structural dispersion&#39; which maintains consistent optical path lengths in polydisperse assemblies, preserving high color purity. Finally, we show how damselflies tune their structural colors during maturation by precisely modulating the size of the nanospheres. Remarkably, the tuning of particle size, refractive index and pigment loading, arises naturally during the development of the pigment cells - where the pteridine nanospheres undergo a process of densification, crystallization and metabolic maturation.</description>
-  <category>animal behavior and cognition</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
