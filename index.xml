@@ -9,8 +9,47 @@
 <link>https://colrverse.github.io/colsci-bot/</link>
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.9.18</generator>
-<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.19</generator>
+<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Predation and the Evolution of Island Bird Plumage Colouration: Experimental Insights from Island and Mainland Environments</title>
+  <dc:creator>Leitao, A. V.</dc:creator>
+  <dc:creator>Alonso Moya, C. D.</dc:creator>
+  <dc:creator>Lopes, R. J.</dc:creator>
+  <dc:creator>Ponti, R.</dc:creator>
+  <dc:creator>Covas, R.</dc:creator>
+  <dc:creator>Doutrelant, C.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Islands serve as natural laboratories for exploring evolutionary processes, often fostering unique species through their isolation and distinct ecological conditions. These environments present opportunities to study how a range of selective pressures shape biodiversity. Bird plumage colouration is one trait that has shown to consistently change in island populations, and predation has been hypothesized to influence these differences. While animals often face a trade-off between signalling to conspecifics and avoiding detection by predators, the role of predation in shaping conspicuousness remains underexplored experimentally. In this study, we asked how predation pressure differs between insular and mainland habitats, and whether predation risk covaries with conspicuousness of male and female birds across environments. In a field experiment, we investigated predation rates using 3D-printed models painted to represent both sexes of 12 bird species from three archipelagos (Madeira, Azores, and Canary Islands) and their closest mainland relatives. These models were deployed in the species&#39; natural environments to measure hit rates (a proxy for predation risk), accounting for factors that influence prey detectability, such as colour of the models, background contrast, and vegetation. We found that models on the islands experienced less hits compared to those on the mainland, while sexual dichromatic models were more likely to be dislodged on the mainland. In addition, for mainland sites, increased chromatic contrast correlated with a higher probability of dislodgment, suggesting that more conspicuous models were more likely to be hit. These results highlight that while predation constrains conspicuousness, other ecological and evolutionary factors likely drive the reduced plumage colouration observed in island birds. Our research offers experimental insights into how predation interacts with conspicuous traits in shaping plumage colouration in birds.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Peroxisome dysfunction alters metabolism of photoreceptor outer segments in human retinal pigment epithelium</title>
+  <dc:creator>Mouzaaber, C.</dc:creator>
+  <dc:creator>Feldman, C. B.</dc:creator>
+  <dc:creator>Huguenin, S. M.</dc:creator>
+  <dc:creator>Han, J. Y. S.</dc:creator>
+  <dc:creator>Trombly, E.</dc:creator>
+  <dc:creator>Zhang, Q.</dc:creator>
+  <dc:creator>Rieger, A.</dc:creator>
+  <dc:creator>Hojjat, H.</dc:creator>
+  <dc:creator>Huynh, B. C.</dc:creator>
+  <dc:creator>Misaghi, E.</dc:creator>
+  <dc:creator>Radziwon, A.</dc:creator>
+  <dc:creator>Fufa, T. D.</dc:creator>
+  <dc:creator>Hufnagel, R. B.</dc:creator>
+  <dc:creator>Miller, J. M. L.</dc:creator>
+  <dc:creator>Benson, M. D.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Purpose: Peroxisomes are ubiquitous organelles that compartmentalize metabolic reactions including lipid catabolism and cellular detoxification. Biallelic loss-of-function variants in genes responsible for peroxisome assembly and function cause peroxisome biogenesis disorders (PBDs). Approximately three-quarters of PBDs are due to pathogenic variants in PEX1 or PEX6 and result in multisystem disease, including retinal degeneration and blindness. Despite retinal pigment epithelial (RPE) dysfunction and retinal degeneration occurring frequently in PBDs, precisely how impaired peroxisome activity disrupts retinal function remains to be fully explored. To address this, we differentiated PEX1 knockout (PEX1-/-), PEX6 knockout (PEX6-/-), and wildtype human induced pluripotent stem cells (iPSCs) into RPE to study the consequences of peroxisome dysfunction in this disease-relevant cell type. Methods: CRISPR/Cas9-mediated genome editing was used to generate PEX1-/- and PEX6-/- in human iPSCs. The knockouts and isogenic wildtype iPSCs were differentiated into RPE (iRPE) and characterized by morphology, pigmentation, transepithelial electrical resistance (TEER), and expression of proteins associated with differentiated RPE using immunofluorescence microscopy and flow cytometry. Immunoblot analysis of whole iRPE lysates was used to evaluate the proteolytic processing of peroxisome enzymes, a measure of the integrity of peroxisome matrix protein import. Immunofluorescence detection of peroxisome membrane proteins was used to determine the abundance of peroxisomes across iRPE lines. Targeted lipidomics by gas and liquid chromatography with mass spectrometry were used to quantitatively compare the profiles of wildtype, PEX1-/-, and PEX6-/- iRPE. Accumulation of intracellular neutral lipid, and more specifically lipid droplets, in iRPE was measured using flow cytometry and perilipin-2 immunoblotting, respectively. Phagocytosis of photoreceptor outer segments (POS) by iRPE was evaluated using rhodopsin immunoblotting. Results: PEX1-/-, PEX6-/-, and wildtype iRPE all had comparable hexagonal morphology and integrity of tight junctions, developed pigment, and similarly expressed proteins characteristic of RPE. Immunoblot analysis demonstrated aberrant processing of ACOX1, MFP2, and ACAA1 in PEX1-/- and PEX6-/- iRPE, suggesting impaired peroxisome matrix protein import. Targeted lipid profiling, including total fatty acid (FA) lipid profile analysis, revealed that in comparison to wildtype, PEX1-/- and PEX6-/- iRPE had significantly reduced docosahexaenoic acid (C22:6{omega}3) (p&lt;0.001) and phosphoethanolamine plasmalogens (p&lt;0.0001 for C18:0(plasm)-Total-PE), while very long-chain fatty acids (VLCFA) (p&lt;0.001 for C26:0 and p&lt;0.01 for C26:1{omega}9) and branched-chain FAs (p&lt;0.01 for both pristanic acid and phytanic acid) were significantly elevated. Following a POS challenge, wildtype iRPE had significantly elevated eicosapentaenoic acid (C20:5{omega}3) (p=9.3E-5) and arachidonic acid (C20:4{omega}6) (p=0.013), both retroconversion products from the two most abundant polyunsaturated FAs in POS: C22:6{omega}3 and docosapentaenoic acid (C22:5{omega}6). PEX1-/-and PEX6-/- iRPE accumulated twice the amount of C22:5{omega}6 (p&lt;0.05) relative to wildtype iRPE following a POS challenge, without a significant increase in C20:5{omega}3 or C20:4{omega}6, suggesting impaired {omega}3 and {omega}6 retroconversion pathways. Finally, PEX1-/-and PEX6-/- iRPE demonstrated delayed degradation of internalized POS based on rhodopsin immunoblotting, increased intracellular lipid droplets, and reduced TEER following a POS challenge. Conclusions: Our work has established the first human iRPE models to study the effects of peroxisome dysfunction in the RPE. Impaired peroxisome activity resulted in significant lipid profile changes and defective phagocytosis in iRPE. Dysregulated POS metabolism in the RPE is a potential mechanism driving retinal degeneration in patients with PBDs. Fully understanding the role of peroxisomes in the RPE will facilitate the development of novel therapies for degenerative retinal disorders.</description>
+  <category>cell biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Syntaxin-3 regulates Tight Junction Assembly in Human Retinal Pigment Epithelium</title>
   <dc:creator>Ramesh, A.</dc:creator>
@@ -324,28 +363,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Systematic comparison of color representations between humans and deep neural networks: towards predicting human color perception in a vast color space</title>
-  <dc:creator>Wickramanayaka, N. R.</dc:creator>
-  <dc:creator>Oizumi, M.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The representational structure of human color perception, particularly within vast color spaces, remains incompletely understood. While representational structures for dozens of colors have been studied, exploring structures spanning hundreds or thousands of colors has been infeasible due to the time costs of psychophysical experiments. Given these constraints, deep neural networks (DNNs) have attracted attention as a promising tool for providing proxies or predictions of human perception beyond the scope of psychophysical experiments. However, it remains unclear which DNN models possess internal representations that geometrically align with human color perception. Furthermore, it is unclear which learning paradigm enables DNNs to acquire a color representation that is geometrically aligned with that of humans. Here, we systematically investigate which learning paradigm enables DNNs to produce a color representation that is structurally congruent with that of humans, with a focus on three types: self-supervised learning (SSL) that trains on images alone, supervised learning (SL) that trains on images with category labels, and contrastive language-image pre-training (CLIP) that trains on image-text pairs. We compared internal representations of DNNs with the human similarity judgments of 93 colors using a rigorous unsupervised method termed Gromov-Wasserstein Optimal Transport (GWOT), which reveals whether the representational structures of humans and models align at the fine-item level. Our results show that only the CLIP paradigm acquires color representations that strongly align with human data at the fine-item level. Furthermore, when we leveraged a key advantage of DNNs and investigated a substantial representational structure of 4096 colors, the human-aligned CLIP models consistently converged on a non-trivial distorted ring-like structure, which presents a plausible prediction for the large-scale human color representation. Our work demonstrates an approach for exploring unknown territories of human perception through the use of computational models validated in a limited empirical space, and provides predictions for future large-scale psychophysical experiments.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sat, 13 Dec 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Equiluminant Border Ownership Cells as a Missing Link in Color Form Perception</title>
-  <dc:creator>Mehrani, P.</dc:creator>
-  <dc:creator>Tsotsos, J. K.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>We propose the existence of a sub-population of border ownership neurons that signal figure side along equiluminant borders, those defined purely by color contrast. We postulate that these neurons, similar to primate equiluminant V1 [26] and V4 [5] cells, are strongly activated by equiluminant contrast on their preferred side, with diminished response for strictly luminance contrast. To test this hypothesis, we propose a hierarchical and mechanistic model that explains how equiluminant border ownership signals can be achieved in the ventral stream. Our simulation results suggest that model equiluminant neurons are highly color-selective while exhibiting similar orientation and border ownership selectivity as their luminance counterparts. Additionally, our model equiluminant cells indeed exhibited the above postulated pattern of responses. We suggest that these neurons are the missing links in the equiluminance channels in the ventral stream that transform equiluminant oriented edge signals in V1 to equiluminant object-centered shape representations in V4. Our findings point to the importance of re-examining the border ownership neuron population to further detail their role in equiluminant channels in the ventral stream.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
