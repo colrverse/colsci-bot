@@ -10,7 +10,19 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.19</generator>
-<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Repeated evolution of convergent iridescence in closely-related species of Morpho butterflies living in sympatry</title>
+  <dc:creator>Ledamoisel, J.</dc:creator>
+  <dc:creator>Debat, V.</dc:creator>
+  <dc:creator>Llaurens, V.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>The evolution of visual traits in closely-related species living in sympatry is highly influenced by their ecological interactions: while sexual selection tends to promote the divergence of visual cues involved in mate choice, natural selection via predation may promote the convergence of dissuasive signals between prey species, especially in unpalatable or evasive prey. Here, we investigate the impact of sympatry on the evolution of the blue structural colouration in the wings of two closely-related Morpho butterfly species across several localities throughout Central and South America. Dorsal iridescence might affect mate choice and species recognition, which should promote its local divergence among species. However, the bright flashes and dynamic colour patterns produced by iridescence during flight might also increase survival by confusing predators and favouring escape. Such an effect might in turn lead to convergence in wing iridescence between evasive species occurring in sympatry, a phenomenon dubbed evasive mimicry. To test the effect of these putative antagonistic selective forces on visual cues evolution, we quantified the variation of the structural blue colour displayed at 13 different combinations of illumination/observation angles, on the wings of two closely-related Morpho species. We contrasted 10 sympatric and 11 allopatric locations and specifically compared the phenotypic distances between individuals from different species. Phenotypic distances between heterospecific pairs of individuals were significantly smaller in sympatry, consistent with the hypothesis of a local convergence of iridescence due to evasive mimicry. Interestingly, sexual dimorphism was found between males and females, suggesting that the trade-off between natural and sexual selection on the evolution of iridescence might differ between sexes. Our results suggest that local predation pressures may promote repeated evolutionary convergence of structural colouration between evasive prey species living in sympatry.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Predation and the Evolution of Island Bird Plumage Colouration: Experimental Insights from Island and Mainland Environments</title>
   <dc:creator>Leitao, A. V.</dc:creator>
@@ -346,23 +358,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Temperature and Ultraviolet Radiation Drive Divergent Visible and Near-Infrared Reflectance Patterns in Butterflies</title>
-  <dc:creator>Kou, C. Z. E.</dc:creator>
-  <dc:creator>Kang, C.</dc:creator>
-  <dc:creator>Brindle, M.</dc:creator>
-  <dc:creator>Maclean, I.</dc:creator>
-  <dc:creator>Bridle, J.</dc:creator>
-  <dc:creator>Pigot, A. L.</dc:creator>
-  <dc:creator>Wilson, R. J.</dc:creator>
-  <dc:creator>Williamson, J.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>1. Climate change poses extreme risks to biodiversity, threatening the ecosystems upon which humanity depends. Understanding the traits that mediate how organisms respond to climatic gradients in space and time will enable better predictions of the taxa and ecological communities most at risk from warming. 2. In insects, colouration influences thermoregulation, but warming responses must be traded off against other selective pressures. We hypothesise that butterfly wing reflectance in visible and near-infrared (NIR) spectra respond differently to temperature and ultraviolet radiation over space and time. We combined existing reflectance data of 97 butterfly species in both NIR and visible wavelengths, with long-term abundance monitoring data of 120 butterfly communities sampled across 1650 m altitude gradients from May to August in two time periods (2004/5 and 2017). 3. The visible and NIR reflectances of butterfly communities showed a non-linear relationship with altitude, with the lowest reflectance (darkest butterflies) at the coolest, highest sites. In contrast, community visible reflectance decreased through the year as temperatures warmed over spring-summer, whereas community NIR reflectance remained constant, revealing divergent responses of reflectance types to seasonal changes. Temperature had opposing effects on visible and NIR reflectance of butterfly communities, where increasing temperature reduced community visible reflectance strongly while increasing community NIR reflectance slightly. 4. Considering the effects on reflectance of shared evolutionary history in a Bayesian hierarchical model for individual species, lighter-coloured (more reflective) species were associated with warmer temperatures - flying later in spring-summer or at lower altitudes. However, instead of decreasing in reflectance through the year and across temperature gradients, species instead became lighter, we expect as a result of a Simpson&#39;s paradox. 5. These results emphasise how visible and NIR reflectance wavelength bands mediate butterflies&#39; responses to environmental gradients in distinct ways, despite being highly correlated across species. We also show that incorporating phylogeny into trait-environment models is essential; relying on traits alone would lead to incorrect inferences and predictions of taxa most at risk from warming climates.</description>
-  <category>ecology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
