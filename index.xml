@@ -10,7 +10,21 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.20</generator>
-<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Tracking Transgenes with Color: RUBY as a Visual Marker in CRISPR-Edited Mutant Plants in Two Triticum Species</title>
+  <dc:creator>Kumar, R.</dc:creator>
+  <dc:creator>Palayur, A.</dc:creator>
+  <dc:creator>Lunde, C.</dc:creator>
+  <dc:creator>Krasileva, K.</dc:creator>
+  <dc:creator>Milner, M. J.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>CRISPR-Cas9 is a powerful tool for precise genome editing in plants, but the presence of foreign DNA, such as T-DNA, raises regulatory concerns and complicates mutant screening and field studies of edited material. Detecting plants with good transgene expression and later removing the T-DNA from edited plants is both time-consuming and costly. To address this, we developed a system that uses the non-destructive RUBY reporter, linked to the CRISPR-Cas9 cassette, and expressed under the ZmUbi1 promoter. To assess the applicability of the system, it was tested on two Triticum species, targeting three genes in either tetraploid or hexaploid wheat. Strong correlations were observed in both T0 and T1 plants between betalain content and Cas9 expression, allowing for the quick identification of plants likely to be edited. Furthermore, the RUBY reporter could be used to select against the transgenic CRISPR-Cas9 cassette in subsequent generations at both the seed and seedling stages, thereby reducing the number of plants that need to be screened to identify edited lines without a T-DNA. This approach, using a nondestructive reporter, enabled rapid distinction between transgene expression in primary transgenics and served as a negative selection in the T1 generation, streamlining selection towards edited and T-DNA-free progeny.</description>
+  <category>plant biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Repeated evolution of convergent iridescence in closely-related species of Morpho butterflies living in sympatry</title>
   <dc:creator>Ledamoisel, J.</dc:creator>
@@ -343,21 +357,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Museum genomics links MC1R alleles to adaptive winter coat color polymorphism in the long-tailed weasel</title>
-  <dc:creator>Pimenta, J.</dc:creator>
-  <dc:creator>Miranda, I.</dc:creator>
-  <dc:creator>Farelo, L.</dc:creator>
-  <dc:creator>Alvarenga, M.</dc:creator>
-  <dc:creator>Mills, L. S.</dc:creator>
-  <dc:creator>Melo-Ferreira, J.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Understanding the architecture of biological adaptations is a major endeavor of evolutionary biology. Using Natural History collections, we study the genetic basis and evolution of white/brown winter coat color variation in the long-tailed weasel (Neogale frenata), a crucial phenological adaptation for camouflage in habitats with seasonal snow. We produced whole-genome sequencing data for museum specimens, along two winter color morph transition areas in North America, at the West and East coasts. Genome-wide association scans identified a single genomic region linked to color variation polymorphism with approximately 300kb and 200kb in the West and East regions, respectively, which included the pigmentation gene MC1R. We identified three MC1R alleles, two of which with deletions of nine or eight amino acids, alternatively associated with the winter brown morphs in the West and East, respectively. These deletions affect the second transmembrane domain, and in one case also the first extracellular loop, which in silico analyses predicted to impact the protein&#39;s function. Our findings show alternative intraspecific evolutionary solutions for environmental adaptation in long-tailed weasels, building on the evidence that major genes of the melanin production pathway are hotspots for recurrent and independent evolution of winter camouflage adaptation.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
