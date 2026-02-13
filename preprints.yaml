@@ -1,3 +1,65 @@
+- title: 'Tracking Transgenes with Color: RUBY as a Visual Marker in CRISPR-Edited
+    Mutant Plants in Two Triticum Species'
+  categories:
+  - plant biology
+  - new results
+  license: CC0
+  author:
+  - Kumar, R.
+  - Palayur, A.
+  - Lunde, C.
+  - Krasileva, K.
+  - Milner, M. J.
+  path: https://doi.org/10.64898/2026.02.10.705172
+  description: CRISPR-Cas9 is a powerful tool for precise genome editing in plants,
+    but the presence of foreign DNA, such as T-DNA, raises regulatory concerns and
+    complicates mutant screening and field studies of edited material. Detecting plants
+    with good transgene expression and later removing the T-DNA from edited plants
+    is both time-consuming and costly. To address this, we developed a system that
+    uses the non-destructive RUBY reporter, linked to the CRISPR-Cas9 cassette, and
+    expressed under the ZmUbi1 promoter. To assess the applicability of the system,
+    it was tested on two Triticum species, targeting three genes in either tetraploid
+    or hexaploid wheat. Strong correlations were observed in both T0 and T1 plants
+    between betalain content and Cas9 expression, allowing for the quick identification
+    of plants likely to be edited. Furthermore, the RUBY reporter could be used to
+    select against the transgenic CRISPR-Cas9 cassette in subsequent generations at
+    both the seed and seedling stages, thereby reducing the number of plants that
+    need to be screened to identify edited lines without a T-DNA. This approach, using
+    a nondestructive reporter, enabled rapid distinction between transgene expression
+    in primary transgenics and served as a negative selection in the T1 generation,
+    streamlining selection towards edited and T-DNA-free progeny.
+  date: '2026-02-12'
+- title: 'Tracking Transgenes with Color: RUBY as a Visual Marker in CRISPR-Edited
+    Mutant Plants in Two Triticum Species'
+  categories:
+  - plant biology
+  - new results
+  license: CC0
+  author:
+  - Kumar, R.
+  - Palayur, A.
+  - Lunde, C.
+  - Krasileva, K.
+  - Milner, M. J.
+  path: https://doi.org/10.64898/2026.02.10.705172
+  description: CRISPR-Cas9 is a powerful tool for precise genome editing in plants,
+    but the presence of foreign DNA, such as T-DNA, raises regulatory concerns and
+    complicates mutant screening and field studies of edited material. Detecting plants
+    with good transgene expression and later removing the T-DNA from edited plants
+    is both time-consuming and costly. To address this, we developed a system that
+    uses the non-destructive RUBY reporter, linked to the CRISPR-Cas9 cassette, and
+    expressed under the ZmUbi1 promoter. To assess the applicability of the system,
+    it was tested on two Triticum species, targeting three genes in either tetraploid
+    or hexaploid wheat. Strong correlations were observed in both T0 and T1 plants
+    between betalain content and Cas9 expression, allowing for the quick identification
+    of plants likely to be edited. Furthermore, the RUBY reporter could be used to
+    select against the transgenic CRISPR-Cas9 cassette in subsequent generations at
+    both the seed and seedling stages, thereby reducing the number of plants that
+    need to be screened to identify edited lines without a T-DNA. This approach, using
+    a nondestructive reporter, enabled rapid distinction between transgene expression
+    in primary transgenics and served as a negative selection in the T1 generation,
+    streamlining selection towards edited and T-DNA-free progeny.
+  date: '2026-02-12'
 - title: Repeated evolution of convergent iridescence in closely-related species of
     Morpho butterflies living in sympatry
   categories:
