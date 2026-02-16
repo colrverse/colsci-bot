@@ -1,3 +1,39 @@
+- title: 'Robust individual alignment of color qualia structures: toward a structure-based
+    taxonomy of divergent color experiences'
+  categories:
+  - neuroscience
+  - new results
+  license: CC BY
+  author:
+  - Togashi, Y.
+  - Yotsumoto, Y.
+  - Hiramatsu, C.
+  - Tsuchiya, N.
+  - Oizumi, M.
+  path: https://doi.org/10.64898/2026.02.13.705699
+  description: 'Whether qualitative aspects of consciousness, or qualia in short,
+    are equivalent across individuals is a foundational scientific question. Testing
+    this is challenging because one cannot assume a shared mapping between stimuli
+    and private experience (my "red" may be your "green"). Previously, we proposed
+    a structural characterization of qualia and the quantitative assessment of structural
+    correspondences through an unsupervised alignment method, which does not presuppose
+    such correspondence. Using this approach, our previous work focused on identifying
+    optimal mappings between relational structures of color qualia at the group level.
+    Given known perceptual diversities, however, it remained unknown whether any two
+    individuals'' structures could be empirically aligned. Here, we resolve this by
+    collecting 4,371 pairwise similarity ratings for 93 colors from 11 individuals,
+    enabling direct individual-to-individual alignment. We reveal two fundamental,
+    coexisting features. First, we identified two clusters of individuals showing
+    robust within-cluster alignment, corresponding to color-neurotypicals and atypicals.
+    Second, we uncovered a continuous spectrum of diversity: some participants who
+    showed normal color discrimination ability in terms of the Total Error Score (TES)
+    on Farnsworth-Munsell 100 hue test nevertheless failed to align with either cluster,
+    revealing idiosyncratic structures that defy simple categorization. Together,
+    these findings suggest a novel structure-based taxonomy of divergent color qualia
+    that complements conventional performance-based classification. Our method is
+    generalizable to other sensory modalities, and opens a path to the scientific
+    investigation of both shared and idiosyncratic qualitative aspects of consciousness.'
+  date: '2026-02-15'
 - title: Urbanization drives parallel shifts in morphology and colouration of Pieris
     rapae across three cities
   categories:
