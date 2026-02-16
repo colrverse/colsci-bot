@@ -10,7 +10,21 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.20</generator>
-<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Robust individual alignment of color qualia structures: toward a structure-based taxonomy of divergent color experiences</title>
+  <dc:creator>Togashi, Y.</dc:creator>
+  <dc:creator>Yotsumoto, Y.</dc:creator>
+  <dc:creator>Hiramatsu, C.</dc:creator>
+  <dc:creator>Tsuchiya, N.</dc:creator>
+  <dc:creator>Oizumi, M.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Whether qualitative aspects of consciousness, or qualia in short, are equivalent across individuals is a foundational scientific question. Testing this is challenging because one cannot assume a shared mapping between stimuli and private experience (my &quot;red&quot; may be your &quot;green&quot;). Previously, we proposed a structural characterization of qualia and the quantitative assessment of structural correspondences through an unsupervised alignment method, which does not presuppose such correspondence. Using this approach, our previous work focused on identifying optimal mappings between relational structures of color qualia at the group level. Given known perceptual diversities, however, it remained unknown whether any two individuals&#39; structures could be empirically aligned. Here, we resolve this by collecting 4,371 pairwise similarity ratings for 93 colors from 11 individuals, enabling direct individual-to-individual alignment. We reveal two fundamental, coexisting features. First, we identified two clusters of individuals showing robust within-cluster alignment, corresponding to color-neurotypicals and atypicals. Second, we uncovered a continuous spectrum of diversity: some participants who showed normal color discrimination ability in terms of the Total Error Score (TES) on Farnsworth-Munsell 100 hue test nevertheless failed to align with either cluster, revealing idiosyncratic structures that defy simple categorization. Together, these findings suggest a novel structure-based taxonomy of divergent color qualia that complements conventional performance-based classification. Our method is generalizable to other sensory modalities, and opens a path to the scientific investigation of both shared and idiosyncratic qualitative aspects of consciousness.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Urbanization drives parallel shifts in morphology and colouration of Pieris rapae across three cities</title>
   <dc:creator>McManus, C. A.</dc:creator>
@@ -336,26 +350,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Environmental Variation Promotes Convergent Evolution and Rapid Diversification of Wing Shape and Color in Skipper Butterflies</title>
-  <dc:creator>Matos-Maravi, P.</dc:creator>
-  <dc:creator>Linke, D.</dc:creator>
-  <dc:creator>Ribeiro, P.</dc:creator>
-  <dc:creator>Lamas, G.</dc:creator>
-  <dc:creator>Freitas, A. V.</dc:creator>
-  <dc:creator>Nunez, R.</dc:creator>
-  <dc:creator>Kawahara, A. Y.</dc:creator>
-  <dc:creator>Toussaint, E. F.</dc:creator>
-  <dc:creator>Bacon, C. D.</dc:creator>
-  <dc:creator>Wahlberg, N.</dc:creator>
-  <dc:creator>Antonelli, A.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Predation is a key driver of speciation and phenotypic diversification, yet how antipredator traits evolve and persist over evolutionary time remains poorly understood. We generated target sequence capture and whole-genome sequencing data for the skipper butterfly subfamily Eudaminae (Hesperiidae) to test whether antipredator defenses, in interaction with environmental variation, promote diversification. We focus on two antipredation wing traits: hindwing tails, which deflect predator attacks, and blue-green coloration, which may enhance motion dazzle and be used as warning coloration. Applying phylogenomics, morphometrics, and comparative methods, we model trait evolution in relation to diel activity and geographic distribution and find that hindwing tails repeatedly evolved at least seven times and blue-green coloration at least fifteen times. Both traits are associated with elevated speciation rates, but evolutionary transitions toward tailless wings and non-iridescent coloration occurred more frequently than trait gains, indicating high evolutionary lability of these antipredator defenses. Trait loss, particularly pronounced in tropical diurnal species, may reflect trade-offs in flight performance, shifts in predation guilds, or the evolution of alternative defensive traits. Our findings highlight rampant convergent evolution of wing traits that are under strong predator-mediated selection. By identifying how antipredator defenses and environmental contexts influence phenotypic and species diversification, this study provides new insights into the ecological and evolutionary processes underlying insect diversity.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sat, 27 Dec 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
