@@ -1,3 +1,32 @@
+- title: Construction of distinct k-mer color sets via set fingerprinting
+  categories:
+  - bioinformatics
+  - new results
+  license: CC BY
+  author:
+  - Alanko, J. N.
+  - Puglisi, S. J.
+  path: https://doi.org/10.64898/2026.02.16.706153
+  description: The colored de Bruijn graph model is the currently dominant paradigm
+    for indexing large microbial reference genome datasets. In this model, each reference
+    genome is assigned a unique color, typically an integer id, and each k-mer is
+    associated with a color set, which is the set of colors of the reference genomes
+    that contain that k-mer. This data structure supports a variety of pseudoalignment
+    algorithms, which aim to determine the set of genomes most compatible with a query
+    sequence. In most applications, many distinct k-mers are associated with the same
+    color set. In current indexing algorithms, color sets are typically deduplicated
+    and compressed only at the end of index construction. As a result, the peak memory
+    usage can greatly exceed the size of the final data structure, making index construction
+    a bottleneck in analysis pipelines. In this work, we present a Monte Carlo algorithm
+    that constructs the set of distinct color sets for the k-mers directly in any
+    individually compressed form. The method performs on-the-fly deduplication via
+    incremental fingerprinting. We provide a strong bound on the error probability
+    of the algorithm, even if the input is chosen adversarially, assuming that a source
+    of random bits is available at run time. We show that given an SBWT index of 65,536
+    S. enterica genomes, we can enumerate and compress the distinct color sets of
+    the genomes to 40 GiB on disk in 7 hours and 17 minutes, using only 14 GiB of
+    RAM and no temporary disk space, with an error probability of at most 2^(-82).
+  date: '2026-02-18'
 - title: 'Robust individual alignment of color qualia structures: toward a structure-based
     taxonomy of divergent color experiences'
   categories:
