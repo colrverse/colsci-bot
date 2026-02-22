@@ -18,6 +18,7 @@ to_quarto_listing <- function(papers_df) {
       date = format(as.Date(date, origin = "1970-01-01"))
     ) |>
     dplyr::bind_rows(old_papers_df) |>
+    dplyr::filter(!duplicated(path)) |>
     as.list() |>
     purrr::list_transpose() |>
     yaml::write_yaml("preprints.yaml")
