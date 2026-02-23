@@ -1,7 +1,13 @@
 palette
 dual-color
+two-colour
 three-color
 3-color
 live-cell
 glia
 autophagy
+epithelium
+epithelial
+muscle
+cytometry
+EEG
