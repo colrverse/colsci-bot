@@ -9,8 +9,21 @@
 <link>https://colrverse.github.io/colsci-bot/</link>
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.9.23</generator>
-<lastBuildDate>Wed, 18 Feb 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.32</generator>
+<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>An empirical three-dimensional metric field for color space</title>
+  <dc:creator>Koenderink, J.</dc:creator>
+  <dc:creator>van Doorn, A.</dc:creator>
+  <dc:creator>Braun, D. I.</dc:creator>
+  <dc:creator>Gegenfurtner, K. R.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>A complete empirical characterization of color discrimination in three dimensions has long remained out of reach. Classical studies, beginning with MacAdam&#39;s ellipses, provided local measurements in restricted chromatic planes, but a spatially dense and internally consistent mapping of discrimination structure across full color space has not yet been achieved. Here we present such a systematic three-dimensional measurement of color discrimination in RGB space. Eight observers measured discrimination regions at 35 reference colors distributed on a body-centered cubic lattice within the RGB cube. At each location, color differences were probed along seven orientations, yielding 14 directional extents. These measurements defined centrally symmetric convex regions that were fitted with minimum-volume ellipsoids, providing a compact description of local discrimination structure. Ellipsoids were represented as symmetric positive-definite matrices and analyzed using a Frobenius geometry, enabling normalization across observers and smooth interpolation to arbitrary locations. The resulting metric field is spatially smooth, highly structured, and remarkably consistent across observers up to an individual global scale factor. Grain size increases along the achromatic axis and exhibits systematic chromatic asymmetries. Comparison with CIEDE2000 reveals substantial agreement in overall scale variation but systematic differences in local anisotropy. Together, these data provide a coherent three-dimensional empirical mapping of color discrimination across RGB space and establish an empirical framework for perceptual color metrics.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Construction of distinct k-mer color sets via set fingerprinting</title>
   <dc:creator>Alanko, J. N.</dc:creator>
@@ -321,26 +334,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The cuticle lamellae responsible for structural coloration in red algae display common features with the metazoan extracellular matrix</title>
-  <dc:creator>Philippe, G.</dc:creator>
-  <dc:creator>Godfroy, O.</dc:creator>
-  <dc:creator>Beisson, F.</dc:creator>
-  <dc:creator>Gautier, A.</dc:creator>
-  <dc:creator>Jouanneau, D.</dc:creator>
-  <dc:creator>Le Panse, S.</dc:creator>
-  <dc:creator>Com, E.</dc:creator>
-  <dc:creator>Delage, L.</dc:creator>
-  <dc:creator>Czjzek, M.</dc:creator>
-  <dc:creator>Ficko-Blean, E.</dc:creator>
-  <dc:creator>Collen, J.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Structural coloration is a physical phenomenon observed in many living organisms, including seaweeds, via the formation of highly organized nanostructures. Although a widespread system is characterized by the deposition of multilayer thin-film in the extracellular matrix (ECM), enabling light interference, to date such lamellae have only been described in the cuticle of red algae belonging to the Gigartinaceae family within macroalgae. Here, we determine the composition of the multilayered cuticle components in the model species Chondrus crispus (Rhodophyta), using genomic, transcriptomic, proteomic, metabolomic and analytical profiling of carbohydrates. The complex structural assembly revealed common features with the ECM of animals. The carbohydrate fraction consists of a complex mixture of ECM carrageenans and glycosaminoglycan-like structures. A major von Willerbrand factor A domain (VWA) protein plays a critical role for the adhesion of macromolecules, including protein-protein interactions and to sulfated polysaccharides. We propose the name of Lamellae Cohesive Protein (LCP) regarding the alternate distribution of chemically distinct constituents within the cuticle. For the first time, we identified major proteins of the algal cuticle, providing a framework for addressing the evolutionary origins of the algal cuticle biosynthesis and raise important questions regarding its role, particularly across the life cycle marked by major structural ECM modifications.</description>
-  <category>biochemistry</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
