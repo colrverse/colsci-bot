@@ -1,3 +1,36 @@
+- title: An empirical three-dimensional metric field for color space
+  categories:
+  - neuroscience
+  - new results
+  license: CC BY
+  author:
+  - Koenderink, J.
+  - van Doorn, A.
+  - Braun, D. I.
+  - Gegenfurtner, K. R.
+  path: https://doi.org/10.64898/2026.03.09.710376
+  description: A complete empirical characterization of color discrimination in three
+    dimensions has long remained out of reach. Classical studies, beginning with MacAdam's
+    ellipses, provided local measurements in restricted chromatic planes, but a spatially
+    dense and internally consistent mapping of discrimination structure across full
+    color space has not yet been achieved. Here we present such a systematic three-dimensional
+    measurement of color discrimination in RGB space. Eight observers measured discrimination
+    regions at 35 reference colors distributed on a body-centered cubic lattice within
+    the RGB cube. At each location, color differences were probed along seven orientations,
+    yielding 14 directional extents. These measurements defined centrally symmetric
+    convex regions that were fitted with minimum-volume ellipsoids, providing a compact
+    description of local discrimination structure. Ellipsoids were represented as
+    symmetric positive-definite matrices and analyzed using a Frobenius geometry,
+    enabling normalization across observers and smooth interpolation to arbitrary
+    locations. The resulting metric field is spatially smooth, highly structured,
+    and remarkably consistent across observers up to an individual global scale factor.
+    Grain size increases along the achromatic axis and exhibits systematic chromatic
+    asymmetries. Comparison with CIEDE2000 reveals substantial agreement in overall
+    scale variation but systematic differences in local anisotropy. Together, these
+    data provide a coherent three-dimensional empirical mapping of color discrimination
+    across RGB space and establish an empirical framework for perceptual color metrics.
+  date: '2026-03-11'
+  xml: https:/www.biorxiv.org/content/early/2026/03/11/2026.03.09.710376.source.xml
 - title: Construction of distinct k-mer color sets via set fingerprinting
   categories:
   - bioinformatics
@@ -27,6 +60,7 @@
     the genomes to 40 GiB on disk in 7 hours and 17 minutes, using only 14 GiB of
     RAM and no temporary disk space, with an error probability of at most 2^(-82).
   date: '2026-02-18'
+  xml: .na.character
 - title: 'Robust individual alignment of color qualia structures: toward a structure-based
     taxonomy of divergent color experiences'
   categories:
@@ -63,6 +97,7 @@
     generalizable to other sensory modalities, and opens a path to the scientific
     investigation of both shared and idiosyncratic qualitative aspects of consciousness.'
   date: '2026-02-15'
+  xml: .na.character
 - title: Urbanization drives parallel shifts in morphology and colouration of Pieris
     rapae across three cities
   categories:
@@ -92,6 +127,7 @@
     that plastic responses to urban stressors previously documented in experimental
     work manifest as consistent phenotypic shifts in natural populations.
   date: '2026-02-14'
+  xml: .na.character
 - title: 'Tracking Transgenes with Color: RUBY as a Visual Marker in CRISPR-Edited
     Mutant Plants in Two Triticum Species'
   categories:
@@ -123,6 +159,7 @@
     in primary transgenics and served as a negative selection in the T1 generation,
     streamlining selection towards edited and T-DNA-free progeny.
   date: '2026-02-12'
+  xml: .na.character
 - title: Repeated evolution of convergent iridescence in closely-related species of
     Morpho butterflies living in sympatry
   categories:
@@ -160,6 +197,7 @@
     Our results suggest that local predation pressures may promote repeated evolutionary
     convergence of structural colouration between evasive prey species living in sympatry.'
   date: '2026-02-09'
+  xml: .na.character
 - title: 'Predation and the Evolution of Island Bird Plumage Colouration: Experimental
     Insights from Island and Mainland Environments'
   categories:
@@ -200,6 +238,7 @@
     experimental insights into how predation interacts with conspicuous traits in
     shaping plumage colouration in birds.
   date: '2026-02-03'
+  xml: .na.character
 - title: Peroxisome dysfunction alters metabolism of photoreceptor outer segments
     in human retinal pigment epithelium
   categories:
@@ -275,6 +314,7 @@
     understanding the role of peroxisomes in the RPE will facilitate the development
     of novel therapies for degenerative retinal disorders.'
   date: '2026-02-03'
+  xml: .na.character
 - title: Syntaxin-3 regulates Tight Junction Assembly in Human Retinal Pigment Epithelium
   categories:
   - cell biology
@@ -304,6 +344,7 @@
     in maintaining retinal homeostasis, which could facilitate the development of
     novel therapeutic strategies for retinal disorders.
   date: '2026-02-02'
+  xml: .na.character
 - title: A cryptic hybrid zone reveals the genomic basis of flower colour variation
     in a plant with a large and complex genome
   categories:
@@ -354,6 +395,7 @@
     of adaptive traits with even very limited previous knowledge, on species with
     large and complex genomes.'
   date: '2026-02-02'
+  xml: .na.character
 - title: Quantitative muscle color as a proxy for structural and functional characteristics
     during muscle remodeling in Gryllus lineaticeps
   categories:
@@ -387,6 +429,7 @@
     muscle diseases and disorders, addressing an increasing public health concern
     in aging populations.
   date: '2026-01-30'
+  xml: .na.character
 - title: 'From Sensory Details to Verbal Codes: Visual Memory Reinstatement of Location
     and Color Features'
   categories:
@@ -425,6 +468,7 @@
     and refine these representations, especially for features that are easier to verbalize
     such as colors.'
   date: '2026-01-30'
+  xml: .na.character
 - title: Modulation of Avian Iridescence via Malanogenesis
   categories:
   - evolutionary biology
@@ -485,6 +529,7 @@
     as a key pathway for evolving structural coloration and illustrate how genetic
     programs harness self-organizing processes to generate biological diversity.
   date: '2026-01-27'
+  xml: .na.character
 - title: A 14-Color Blue-Violet Laser Restricted Full Spectrum Flow Cytometry Panel
     for Comprehensive Immunophenotyping of Pulmonary Inflammation in Mouse Bronchoalveolar
     Lavage Fluid
@@ -529,6 +574,7 @@
     the panel can be easily adopted by the community, enabling comparative meta-analyses
     of host responses across murine respiratory infection models.
   date: '2026-01-25'
+  xml: .na.character
 - title: Rare shell colours in bivalves reveal multiple evolutionary pathways to blue
     and green colouration
   categories:
@@ -558,6 +604,7 @@
     Within bivalves, to date structural colour has been reported only in one genus,
     underscoring its evolutionary significance.
   date: '2026-01-23'
+  xml: .na.character
 - title: Colour preference and constancy in the giant Asian honey bee Apis dorsata
   categories:
   - animal behavior and cognition
@@ -593,6 +640,7 @@
     the local floral environment may underlie the spontaneous blue preference observed
     in A. dorsata.'
   date: '2026-01-21'
+  xml: .na.character
 - title: EEG-Based Decoding of Color and Visual Category Representations Is Reliable
     Within and Across Sessions
   categories:
@@ -631,6 +679,7 @@
     EEG. We conclude that EEG decoding is a reliable method, and that visual representations
     are stable.'
   date: '2026-01-21'
+  xml: .na.character
 - title: An Adenine-Based Molecular Rotor as a Universal Fluorescent Nucleobase with
     High Brightness
   categories:
@@ -667,6 +716,7 @@
     duplexes, resulting in the light-up effect. These properties make oxo-AdeBZT a
     promising molecular tool for analytical, biophysical and biochemical studies.
   date: '2026-01-18'
+  xml: .na.character
 - title: Behavior evolves as a correlated response to selection on cuticle color in
     Drosophila melanogaster and D. simulans
   categories:
@@ -710,6 +760,7 @@
     experimentally will be important for clarifying how multivariate genetic covariance
     shapes the direction and pace of adaptive evolution.
   date: '2026-01-14'
+  xml: .na.character
 - title: Differential effectiveness of bee and beetle pollinators creates flower colour
     polymorphism
   categories:
@@ -742,6 +793,7 @@
     flowers may only be beneficial at higher elevations, where bee pollinator importance
     exceeds that of beetles.
   date: '2026-01-13'
+  xml: .na.character
 - title: The cuticle lamellae responsible for structural coloration in red algae display
     common features with the metazoan extracellular matrix
   categories:
@@ -781,6 +833,7 @@
     questions regarding its role, particularly across the life cycle marked by major
     structural ECM modifications.
   date: '2026-01-12'
+  xml: .na.character
 - title: Lysosome-Related Organelles Orchestrate Guanine Crystal Formation in Pigment
     Cells
   categories:
@@ -820,6 +873,7 @@
     coordinated trafficking, acid-base regulation, and crystallization, with implications
     for LRO evolution and human disease.
   date: '2026-01-05'
+  xml: .na.character
 - title: Environmental Variation Promotes Convergent Evolution and Rapid Diversification
     of Wing Shape and Color in Skipper Butterflies
   categories:
@@ -861,6 +915,7 @@
     study provides new insights into the ecological and evolutionary processes underlying
     insect diversity.'
   date: '2025-12-27'
+  xml: .na.character
 - title: Two-colour Imaging Fluorescence Correlation Spectroscopy (ImFCS) probes the
     influence of the juxta-membrane actin-cortex
   categories:
@@ -895,6 +950,7 @@
     as a general methodology to map the functional footprint of the cortical cytoskeleton
     on live cell membranes.
   date: '2025-12-25'
+  xml: .na.character
 - title: Museum genomics links MC1R alleles to adaptive winter coat color polymorphism
     in the long-tailed weasel
   categories:
@@ -927,6 +983,7 @@
     on the evidence that major genes of the melanin production pathway are hotspots
     for recurrent and independent evolution of winter camouflage adaptation.
   date: '2025-12-19'
+  xml: .na.character
 - title: Temperature and Ultraviolet Radiation Drive Divergent Visible and Near-Infrared
     Reflectance Patterns in Butterflies
   categories:
@@ -974,6 +1031,7 @@
     relying on traits alone would lead to incorrect inferences and predictions of
     taxa most at risk from warming climates.
   date: '2025-12-18'
+  xml: .na.character
 - title: 'Systematic comparison of color representations between humans and deep neural
     networks: towards predicting human color perception in a vast color space'
   categories:
@@ -1012,6 +1070,7 @@
     use of computational models validated in a limited empirical space, and provides
     predictions for future large-scale psychophysical experiments.'
   date: '2025-12-13'
+  xml: .na.character
 - title: Equiluminant Border Ownership Cells as a Missing Link in Color Form Perception
   categories:
   - neuroscience
@@ -1038,6 +1097,7 @@
     border ownership neuron population to further detail their role in equiluminant
     channels in the ventral stream.
   date: '2025-12-10'
+  xml: .na.character
 - title: Graded BMP signals modulate yellow and red color in fishes impacting adult
     pigment pattern and behavior
   categories:
@@ -1075,6 +1135,7 @@
     illustrate a chain of function spanning hierarchical levels and provide a deeper
     understanding of pigmentary form and function and its evolution.
   date: '2025-12-09'
+  xml: .na.character
 - title: Damselflies Overcome Color Saturation Barriers of Photonic Glasses via Structural
     Dispersion and Pigment Loading
   categories:
@@ -1115,6 +1176,7 @@
     during the development of the pigment cells - where the pteridine nanospheres
     undergo a process of densification, crystallization and metabolic maturation.
   date: '2025-12-02'
+  xml: .na.character
 - title: Egg colour mimicry in the common cuckoo results from coevolutionary alternation,
     not coevolutionary arms races
   categories:
@@ -1150,6 +1212,7 @@
     host-switching. These findings open new avenues for research in a system that
     has long served as a model for studying coevolutionary processes.
   date: '2025-12-02'
+  xml: .na.character
 - title: Spectral tuning and signaling of diverse and most red sensitive visual rhodopsins
     that drive high colour discrimination in Mantis Shrimp eyes
   categories:
@@ -1190,6 +1253,7 @@
     along a broad light spectrum and across dim and bright conditions, offering new
     insights into the evolution of one of Natures most sophisticated visual systems.
   date: '2025-11-28'
+  xml: .na.character
 - title: 'charisma: An R package to perform reproducible color characterization of
     digital images for biological studies'
   categories:
@@ -1225,6 +1289,7 @@
     colors in images provides a standardized, reliable, and reproducible framework
     for high-throughput color classification.
   date: '2025-11-27'
+  xml: .na.character
 - title: Distinct NIR Reflectance Spectra Associated with Foliar Symptoms of Beech
     Leaf Disease
   categories:
@@ -1257,6 +1322,7 @@
     and informs the development of targeted remote sensing tools, with implications
     for detecting even early-stage symptoms of BLD.
   date: '2025-11-25'
+  xml: .na.character
 - title: Chemogenetic modulation of luciferase emission color for imaging and sensing
   categories:
   - cell biology
@@ -1291,6 +1357,7 @@
     allowed us to engineer biosensors based on NanoLuc and pFAST for the visualization
     of protease activity and protein-protein interactions in live cells.
   date: '2025-11-24'
+  xml: .na.character
 - title: Peculiar Pigment Pattern and Population Profile of a Poisonous Pufferfish
   categories:
   - evolutionary biology
@@ -1333,6 +1400,7 @@
     highlighting the potentially complex evolutionary processes shaping Takifugu species
     and their pigment patterns.
   date: '2025-11-20'
+  xml: .na.character
 - title: MicroRNA166-HD-ZIP III module impacts tuber shape, color and productivity
     in potato
   categories:
@@ -1372,6 +1440,7 @@
     traits, and is active through early stolon-to-tuber transition stages, affecting
     tuber shape, color and productivity.
   date: '2025-11-20'
+  xml: .na.character
 - title: Predictive Networks Generate Motion-Induced Color Illusions
   categories:
   - neuroscience
@@ -1398,6 +1467,7 @@
     predictive mechanisms may complement retinal processes in generating subjective
     color phenomena.
   date: '2025-11-14'
+  xml: .na.character
 - title: Insertion of an invading retrovirus regulates a novel color trait in swordtail
     fish
   categories:
@@ -1446,6 +1516,7 @@
     act as an important signal in interactions between fish and their predators in
     the natural environment.
   date: '2025-11-11'
+  xml: .na.character
 - title: 'Anthropogenic factors explain wing colour variation in Colias (Lepidoptera:
     Pieridae) across the Toronto urbanization gradient'
   categories:
@@ -1476,6 +1547,7 @@
     in Toronto. This means that human disturbance of the environment could be affecting
     Colias rates of hybridization.'
   date: '2025-11-07'
+  xml: .na.character
 - title: Estimating resource acquisition and water-use traits in wine grapes using
     reflectance spectroscopy
   categories:
@@ -1512,6 +1584,7 @@
     indicating that this HTP approach is viable for detailed trait estimation in diverse
     agroecosystems.
   date: '2025-11-03'
+  xml: .na.character
 - title: A 37-color spectral flow cytometry panel to characterize phenotype and cytokine
     expression in human intestinal T cells
   categories:
@@ -1535,6 +1608,7 @@
     disease (IBD) patients. The panel could however be applied to investigate both
     peripheral and tissue-resident T cell function in a range of immune-mediated diseases.
   date: '2025-10-31'
+  xml: .na.character
 - title: Sensory receptor expansion and neural accommodation in butterfly color vision
   categories:
   - developmental biology
@@ -1576,6 +1650,7 @@
     the expansion of color vision in butterflies, and similar cooption events may
     represent a general mechanism of neural evolution.
   date: '2025-10-31'
+  xml: .na.character
 - title: Opposing seasonal dynamics in phylogenetic and flower color diversity of
     co-flowering wildflower assemblages
   categories:
@@ -1609,6 +1684,7 @@
     mechanisms underlying the structure of co-flowering groups may shift throughout
     the growing season.
   date: '2025-10-22'
+  xml: .na.character
 - title: Genomic and genetic insights into speciation and pigment pattern diversification
     in Danio fishes
   categories:
@@ -1656,6 +1732,7 @@
     and genetic tractability establish Danio fish species as excellent models for
     biomedical research in vertebrates.
   date: '2025-10-18'
+  xml: .na.character
 - title: Perceiving surface colour requires attention
   categories:
   - neuroscience
@@ -1687,6 +1764,7 @@
     new insights into the sequence of processes the brain uses to accomplish colour
     constancy.'
   date: '2025-10-16'
+  xml: .na.character
 - title: 'Color, size, shape: The drivers of floral variation in Hesperis matronalis
     (Dames Rocket)'
   categories:
@@ -1724,6 +1802,7 @@
     pressures, whereas floral color is influenced by pollinator visibility and the
     presence of different pollinator groups.'
   date: '2025-10-16'
+  xml: .na.character
 - title: Effects of color-enhancing filters on color salience in normal trichromats
   categories:
   - neuroscience
@@ -1758,6 +1837,7 @@
     and naturalistic tasks, and illustrate how these effects depend on the potential
     color characteristics of the environment.
   date: '2025-10-15'
+  xml: .na.character
 - title: The hallmark of colour in EEG signal
   categories:
   - neuroscience
@@ -1790,6 +1870,7 @@
     colour information that interacts with object perception. Modelling this mutual
     interaction enhances neural decoding performance.'
   date: '2025-10-07'
+  xml: .na.character
 - title: Modeling MEK-inhibitor Associated Retinopathy in vitro using human induced-1
     pluripotent stem cell-derived retinal pigment epithelial cells
   categories:
@@ -1828,6 +1909,7 @@
     and lysosomal acidification. Selumetinib may lead to subretinal fluid accumulation
     by both increasing secretions into this space and decreasing outflow.
   date: '2025-10-04'
+  xml: .na.character
 - title: Aposematic color patterns are the dominant axis of phenotypic diversification
     in Nymphalid butterflies
   categories:
@@ -1866,6 +1948,7 @@
     these results identify aposematism as the dominant organizing axis of wing color
     pattern evolution in Nymphalidae.
   date: '2025-10-01'
+  xml: .na.character
 - title: A recurrent sequencing artifact on Illumina sequencers with two-color fluorescent
     dye chemistry and its impact on somatic variant detection
   categories:
@@ -1901,6 +1984,7 @@
     somatic mutation calls. Thus, an unexpected enrichment of T>G mutations in mosaicism
     studies warrants caution.
   date: '2025-09-29'
+  xml: .na.character
 - title: Structural basis for color tuning and passive ion conductance in red-shifted
     pump-fold channelrhodopsin ChR024
   categories:
@@ -1947,6 +2031,7 @@
     specification within the rhodopsin family, paving the way for the rational engineering
     of next-generation optogenetic tools.
   date: '2025-09-17'
+  xml: .na.character
 - title: Discrimination of Annonaceae using herbarium leaf reflectance spectra under
     limited sample size conditions
   categories:
@@ -1982,6 +2067,7 @@
     species identification and offer a promising avenue for digitizing historical
     biodiversity data into high-dimensional trait space.
   date: '2025-09-05'
+  xml: .na.character
 - title: The ecology and adaptive function of clownfish color patterns
   categories:
   - ecology
@@ -2019,6 +2105,7 @@
     ecological conditions shape the evolution of multiple anti-predator coloration
     strategies.
   date: '2025-09-01'
+  xml: .na.character
 - title: Combined multi-color immunofluorescence staining and spatial in situ mRNA
     expression analysis identifies potential fibrosis drivers in acute lymphoblastic
     leukemia
@@ -2063,6 +2150,7 @@
     that combined RNA and surface marker analysis is a powerful tool to provide new
     and valuable insights into bone marrow pathophysiology.
   date: '2025-08-31'
+  xml: .na.character
 - title: 'RPEGENE-Net: A Multi-Resolution Deep Learning Framework for Predicting Gene
     Expression from Microscopy Images of Retinal Pigment Epithelium (RPE) Cells'
   categories:
@@ -2093,6 +2181,7 @@
     across four magnifications were concatenated to generate the final prediction,
     leveraging multi-scale morphological information for improved accuracy.'
   date: '2025-08-31'
+  xml: .na.character
 - title: Sigma-2 Receptor Modulators Alter Low-density Lipoprotein Receptor-mediated
     Lipid Uptake in Retinal Pigment Epithelial Cells
   categories:
@@ -2131,6 +2220,7 @@
     in the Ph2 clinical trial MAGNIFY in patients with geographic atrophy (COG2201,
     NCT05893537).
   date: '2025-08-27'
+  xml: .na.character
 - title: Cell-cell communication as underlying principle governing color pattern formation
     in fishes
   categories:
@@ -2168,6 +2258,7 @@
     highlight conserved roles of gap junction mediated communication in pigment patterning
     across divergent teleosts.
   date: '2025-08-25'
+  xml: .na.character
 - title: Anti-vitronectin single-chain variable fragment targeting the hemopexin-like
     domain decreases age-related macular degeneration indicators in ex vivo models
     of the retinal pigment epithelium
@@ -2203,6 +2294,7 @@
     and possibly in AMD progression. Vitronectin would be a novel, promising therapeutic
     target for AMD.
   date: '2025-08-22'
+  xml: .na.character
 - title: Sex-specific doublesex regulation targeting the color-patterning gene h underlies
     the evolution of wing sexual dimorphism in the harlequin ladybug Harmonia axyridis
   categories:
@@ -2242,6 +2334,7 @@
     fundamental molecular framework for understanding how a secondary sexual trait
     evolves within H. axyridis.
   date: '2025-08-07'
+  xml: .na.character
 - title: Two mutations in the same MYC-bHLH transcription factor cause segregation
     of purple coloration of stolons and seed heads in Zoysia japonica x Zoysia matrella
     F2 and F1 populations
@@ -2283,6 +2376,7 @@
     matrella F2 genetic map also provides a robust tool for identifying genomic regions
     and genes of agronomic interest that differentiate the two species.
   date: '2025-08-05'
+  xml: .na.character
 - title: Colour and shape evolution reflect ecological specialisation in Pomacentridae
   categories:
   - evolutionary biology
@@ -2317,6 +2411,7 @@
     understanding of how form and function evolve in response to ecological pressures
     in coral reef ecosystems.
   date: '2025-08-05'
+  xml: .na.character
 - title: Retinal pigment epithelium-derived PD-L1 reprograms microglial cells and
     protects against retinal degeneration in mouse models of experimental AMD and
     genetic retinitis pigmentosa
@@ -2361,6 +2456,7 @@
     a promising proof of concept for PD-L1 as a potential therapeutic target for the
     broad treatment of retinal degenerative diseases.
   date: '2025-07-31'
+  xml: .na.character
 - title: A comparative GWAS of eye colour in light and dark eye genetic backgrounds
     defined by HERC2 rs12913832 polymorphism
   categories:
@@ -2399,6 +2495,7 @@
     effects that can sometimes counteract the dominant influence of rs12913832, contributing
     to advancements in pigmentation genetics and forensic applications.'
   date: '2025-07-24'
+  xml: .na.character
 - title: 'FLEXTAG: A Small and Self-renewable Protein Labeling System for Anti-fading
     Multi-color Super-resolution Imaging'
   categories:
@@ -2438,6 +2535,7 @@
     of nanoscale protein organizations and cellular architecture, advancing both basic
     research and translational applications in cell biology.
   date: '2025-07-23'
+  xml: .na.character
 - title: The Zika Virus Persistently Infects Retinal Pigment Epithelial Cells, Eliciting
     Limited Cytopathic Effects and Loss of Epithelial Characteristics Consistent with
     Epithelial-Mesenchymal Transition.
@@ -2477,6 +2575,7 @@
     to understanding the late onset of ocular pathophysiological manifestations in
     Zika virus-related diseases.
   date: '2025-07-21'
+  xml: .na.character
 - title: Comprehensive characterization of human color discrimination thresholds
   categories:
   - neuroscience
@@ -2513,6 +2612,7 @@
     perceptual color metrics and for benchmarking mechanistic models of color processing.
     This approach is broadly generalizable to other perceptual domains beyond color.
   date: '2025-07-21'
+  xml: .na.character
 - title: mScarlet3-H with low brightness and fluorescence lifetime has potential for
     cellular lifetime-unmixing and lifetime-based pH-sensing applications
   categories:
@@ -2547,6 +2647,7 @@
     mScarlet3-H accumulation in lysosomes. Potential useful applications and pitfalls
     regarding the special properties of mScarlet3-H are discussed.
   date: '2025-07-16'
+  xml: .na.character
 - title: 'Volitional Attention to Color: Breaking Willed Attention out of the Spatial
     Domain'
   categories:
@@ -2583,6 +2684,7 @@
     no pre-decision EEG signals could be identified that predicted which color participants
     would choose to attend to.
   date: '2025-07-16'
+  xml: .na.character
 - title: A common mechanism and multiple advantages of pigment loss underlie the convergent
     evolution of albinism in cave animals
   categories:
@@ -2624,6 +2726,7 @@
     selection, supporting an adaptive hypothesis for the evolution of albinism in
     cave animals.
   date: '2025-07-14'
+  xml: .na.character
 - title: Dialogues in colour and behaviour - Integration of complex signalling traits
     and physiology
   categories:
@@ -2661,6 +2764,7 @@
     of information transfer, particularly during competitions which have high fitness
     consequences.
   date: '2024-08-19'
+  xml: .na.character
 - title: Facial and body colouration are linked to social rank in the African cichlid,
     Astatotilapia burtoni
   categories:
@@ -2691,6 +2795,7 @@
     and underline the importance of trait covariance in sexual selection and male
     competition.
   date: '2024-08-22'
+  xml: .na.character
 - title: 'Damsels in a hidden colour: development of ultraviolet sensitivity and colour
     patterns in damselfishes (Pomacentridae)'
   categories:
@@ -2725,6 +2830,7 @@
     stages of damselfish, while highlighting the importance of considering ontogeny
     when studying the coevolution of visual systems and colour signals.
   date: '2024-08-23'
+  xml: .na.character
 - title: Functional characterisation of neuropeptides that act as ligands for both
     calcitonin-type and pigment-dispersing factor-type receptors in a deuterostome
   categories:
@@ -2763,6 +2869,7 @@
     of feeding and growth in this species may provide a basis for practical applications
     in aquaculture.
   date: '2024-08-30'
+  xml: .na.character
 - title: Interaction between facial expression and color in modulating EPR P3
   categories:
   - neuroscience
@@ -2797,6 +2904,7 @@
     individually. Our results support the idea that red color increases the human
     response to anger from an EEG perspective.
   date: '2024-09-17'
+  xml: .na.character
 - title: Circadian modulation of mosquito host-seeking persistence by Pigment-Dispersing
     Factor impacts daily biting patterns
   categories:
@@ -2822,6 +2930,7 @@
     temporal features of host-seeking behavior that promote biting success at specific
     times of day and may underlie blood feeding patterns observed in the field.
   date: '2024-09-19'
+  xml: .na.character
 - title: Density-Dependent Colour Scanning Electron Microscopy (DDC-SEM). Applications
     in the study of calcified tissues and visual impact.
   categories:
@@ -2847,6 +2956,7 @@
     calcification. This method has become popular not only for its scientific improvement
     of conventional SEM greyscale images, but also for its aesthetical merits.
   date: '2024-09-19'
+  xml: .na.character
 - title: 'More than fruity scents: floral biology, scent and spectral reflectance
     of twelve Annonaceae species'
   categories:
@@ -2887,6 +2997,7 @@
     food body reward in Meiogyne, but as a nectary gland for Pseuduvaria. This study
     provides insights into how Annonaceae flowers attract different guilds of pollinators.
   date: '2024-09-20'
+  xml: .na.character
 - title: Pollinator visitation pattern and differential reproductive compatibilities
     maintain bract colour polymorphism in a nocturnal ginger from Western Ghats, India
   categories:
@@ -2917,6 +3028,7 @@
     in nocturnal C. caulina is explained by floral traits associated with bract colour,
     which are under pollinator-mediated selection.
   date: '2024-09-24'
+  xml: .na.character
 - title: Ocean carbon export can be predicted from ocean color-based phytoplankton
     communities
   categories:
@@ -2956,6 +3068,7 @@
     taxa to carbon fluxes demonstrated here may help generate more accurate global
     estimates of export.'
   date: '2024-09-24'
+  xml: .na.character
 - title: The role of pigments in light color variation of the firefly Photinus pyralis
   categories:
   - evolutionary biology
@@ -2981,6 +3094,7 @@
     alternative mechanisms that could influence pigments in P. pyralis light organs
     that could also play a role in modifying signal color.
   date: '2024-09-25'
+  xml: .na.character
 - title: A massive community-science flower color dataset reveals convergent evolution
     of delayed flowering phenology in North American red-flowering plants
   categories:
@@ -3018,6 +3132,7 @@
     pipeline for leveraging the enormous amount of community science data by extracting
     valuable information about patterns of trait variation.
   date: '2024-09-27'
+  xml: .na.character
 - title: 'Novel color vision assessment tool: AIM Color Detection and Discrimination'
   categories:
   - neuroscience
@@ -3048,6 +3163,7 @@
     and rapid tool with high test-retest repeatability that has the potential to be
     suitable for both clinical and research applications.
   date: '2024-09-27'
+  xml: .na.character
 - title: Growth-coupled microbial biosynthesis of the animal pigment xanthommatin
   categories:
   - synthetic biology
@@ -3085,6 +3201,7 @@
     approach for establishing and optimizing the microbial production of value-added
     molecules.
   date: '2024-10-06'
+  xml: .na.character
 - title: Manipulation of the brown glume and internode 1 gene leads to alterations
     in lignified tissue coloration, lignification, and pathogen resistance in wheat
   categories:
@@ -3132,6 +3249,7 @@
     advance our understanding of CAD proteins in lignin biosynthesis and plant defense
     against pathogen infection in wheat.
   date: '2024-10-15'
+  xml: .na.character
 - title: 'Enhancing pigment production by a chromogenic bacterium (Exiguobacterium
     aurantiacum) using tomato waste extract: A Statistical approach'
   categories:
@@ -3170,6 +3288,7 @@
     extract as substrate. Hence, the current findings strongly encourage for further
     study at a large-scale level for industrial production.
   date: '2024-10-17'
+  xml: .na.character
 - title: 'Facial Coloration as a Social Signal in a Neotropical Cichlid: Testing the
     Facial Expression Hypothesis'
   categories:
@@ -3207,6 +3326,7 @@
     as valuable animal models for exploring the universality of facial expressions
     and their underlying cognitive mechanisms in vertebrates.
   date: '2024-10-18'
+  xml: .na.character
 - title: Morph-specific selection pressures drive phenotypic divergence in a color
     polymorphic bird
   categories:
@@ -3238,6 +3358,7 @@
     morphs, and demonstrates its relevance for the evolutionary potential of populations
     to respond to environmental change.'
   date: '2024-10-20'
+  xml: .na.character
 - title: Disentangling the effect of heritability and plasticity on Populus fremontii
     leaf reflectance across a temperature gradient
   categories:
@@ -3276,6 +3397,7 @@
     opportunities to understand phenological responses to extreme temperatures at
     large scales.
   date: '2024-10-24'
+  xml: .na.character
 - title: Iridescent structural coloration in a crested Cretaceous enantiornithine
     bird from Jehol Biota
   categories:
@@ -3306,6 +3428,7 @@
     role in adjusting the angle of light incidence to control the display of this
     iridescent structural coloration.
   date: '2024-10-25'
+  xml: .na.character
 - title: Development of glowing plastic bricks from waste plastic and florescent pyoverdine
     pigment of Pseudomonas aeruginosa
   categories:
@@ -3331,6 +3454,7 @@
     This luminescence aims to mitigate nocturnal visibility issues, which contribute
     to accidents involving both human and speechless fauna.
   date: '2024-11-06'
+  xml: .na.character
 - title: 'From aerial drone to QTL: Leveraging next-generation phenotyping to reveal
     the genetics of color and height in field-grown Lactuca sativa'
   categories:
@@ -3365,6 +3489,7 @@
     grown under field conditions and identify several new QTLs for plant-height and
     color.
   date: '2024-11-08'
+  xml: .na.character
 - title: Long-term balancing selection maintains cryptic color polymorphism in frogs
   categories:
   - evolutionary biology
@@ -3392,6 +3517,7 @@
     ecology and evolution of anurans, and provides a framework for future research
     on the genetic architecture and selective forces underlying cryptic traits.
   date: '2024-11-18'
+  xml: .na.character
 - title: A deletion at the X-linked ARHGAP36 gene locus is associated with the orange
     coloration of tortoiseshell and calico cats
   categories:
@@ -3430,6 +3556,7 @@
     cats with orange coat coloration, suggesting a single origin of this coat color
     phenotype.
   date: '2024-11-21'
+  xml: .na.character
 - title: Molecular and genetic characterization of sex-linked orange coat color in
     the domestic cat
   categories:
@@ -3465,6 +3592,7 @@
     to inhibit PKA, and reveal a molecular explanation for a charismatic color pattern
     with a rich genetic history.
   date: '2024-11-22'
+  xml: .na.character
 - title: Characterization of widely conserved novel pigment production in Bacillus
     subtilis species
   categories:
@@ -3506,6 +3634,7 @@
     BGC, which we hope will serve to improve the current BGC discovery pipelines in
     Bacilli.
   date: '2024-11-28'
+  xml: .na.character
 - title: 'Multiple pathways to red carotenoid coloration: House finches(Haemorhous
     mexicanus) do not use CYP2J19 to produce red plumage'
   categories:
@@ -3542,6 +3671,7 @@
     primary red plumage pigment use an alternative enzymatic pathway to produce their
     characteristic red ketocarotenoid-based coloration.
   date: '2024-11-30'
+  xml: .na.character
 - title: 'Pigmentation and retinal pigment epithelium thickness: a study of the phenotypic
     and genotypic relationships between ocular and extraocular pigmented tissues.'
   categories:
@@ -3579,6 +3709,7 @@
     pigmentation plays a role in RPE thickness, and highlights both shared and divergent
     features of RPE and other pigmentation-related traits.
   date: '2024-12-07'
+  xml: .na.character
 - title: The effect of illumination cues on color constancy in simultaneous identification
     of illumination and reflectance changes
   categories:
@@ -3616,6 +3747,7 @@
     cues still improve color constancy through better disambiguation of illumination
     and reflectance changes.'
   date: '2024-12-10'
+  xml: .na.character
 - title: 'Two-fold Red Excess (TREx): A simple and novel digital color index that
     enables non-invasive real-time health assessment of green-leaved as well as anthocyanin-rich
     crops'
@@ -3658,6 +3790,7 @@
     TREx that can be used as a reliable alternative to handheld Chl meters for rapid
     high-throughput monitoring of green-leaved as well as red-leaved crop varieties.'
   date: '2024-12-12'
+  xml: .na.character
 - title: Relationship between concentration of cytokinin for efficient shoot regeneration
     and seed coat color in leaf lettuce
   categories:
@@ -3685,6 +3818,7 @@
     a strong correlation between the BAP concentration for efficient shoot regeneration
     and the seed coat color in leaf lettuce.
   date: '2024-12-12'
+  xml: .na.character
 - title: Cryo-EM of PMEL Amyloids Reveals Pathogenic Mechanism of Pigment Dispersion
     Syndrome
   categories:
@@ -3716,6 +3850,7 @@
     new perspectives on their structural diversity and dysregulation in pigmentation
     disorders.
   date: '2024-12-12'
+  xml: .na.character
 - title: Truncated and "double-headed" derivatives of TO1-B dye for Mango-based imaging
     systems with increased brightness and selectivity and large Stocks shift
   categories:
@@ -3756,6 +3891,7 @@
     over other noncanonical nucleic acids structures, making it a promising alternative
     to known TO-based dyes for high-contrast RNA imaging.
   date: '2024-12-12'
+  xml: .na.character
 - title: Genetic basis of an adaptive polymorphism controlling butterfly silver iridescence
   categories:
   - evolutionary biology
@@ -3795,6 +3931,7 @@
     predictable than often presumed, even for traits that appear divergent across
     large evolutionary distances.'
   date: '2024-12-17'
+  xml: .na.character
 - title: Temporal evolution of color representations measured with MEG reveals a 'coarse
     to fine' dynamic
   categories:
@@ -3827,6 +3964,7 @@
     dynamics were replicated across datasets from both tasks, suggesting they reflect
     a robust reorganization of cortical hue responses over time.
   date: '2024-12-20'
+  xml: .na.character
 - title: RGB color indices as proxy for symbiont cell density and chlorophyll content
     during coral bleaching
   categories:
@@ -3875,6 +4013,7 @@
     monitoring, by providing guidelines for a systematic use of RGB data to interpret
     coral health.
   date: '2024-12-22'
+  xml: .na.character
 - title: Genomics of experimental adaptive radiation in the cryptic coloration of
     feather lice
   categories:
@@ -3910,6 +4049,7 @@
     to the same novel environment resulted in similar phenotypes driven by different
     genotypes.
   date: '2024-12-22'
+  xml: .na.character
 - title: Chicken shank color determined by Inhibition of dermal melanin (ID) is mediated
     by a structural variation regulating CDKN2A expression
   categories:
@@ -3945,6 +4085,7 @@
     of the ID mutation in the auto-sexing of chicks which is intensively needed in
     layer and broiler industries.
   date: '2024-12-24'
+  xml: .na.character
 - title: Transcontinental patterns in floral pigment frequencies among animal-pollinated
     species
   categories:
@@ -3982,6 +4123,7 @@
     type, such as insect versus hummingbird, in California. Despite these local differences,
     our findings reveal a consistent regional distribution of floral pigments.'
   date: '2024-12-26'
+  xml: .na.character
 - title: Ether Rhodamines with Enhanced Hydrophilicity, Fluorogenicity, and Brightness
     for Super-Resolution Imaging
   categories:
@@ -4026,6 +4168,7 @@
     microscopy (SMLM). This work introduces an innovative strategy for fluorophore
     design, offering significant advancements for super-resolution imaging applications.
   date: '2025-01-02'
+  xml: .na.character
 - title: Identification of ER:melanosome membrane contact sites in the retinal pigment
     epithelium.
   categories:
@@ -4055,6 +4198,7 @@
     models, suggesting that the ER may influence melanosome biogenesis, maturation
     and interaction with mitochondria.
   date: '2025-01-08'
+  xml: .na.character
 - title: Biomimetic hydrogel platform reveals active force transduction from retinal
     pigment epithelium to photoreceptors
   categories:
@@ -4090,6 +4234,7 @@
     In addition, our retina-mimicking structure offers a tool for further biophysical
     modeling of the RPE-retina interface.
   date: '2025-01-13'
+  xml: .na.character
 - title: 30-Color Longitudinal Full-Spectrum Immunophenotyping and Sorting of Human
     Circulating Immune Cell Subsets Implicated in Systemic Autoimmune Rheumatic Diseases
   categories:
@@ -4122,6 +4267,7 @@
     simultaneously collecting high parameter immunophenotypic information using a
     limited sample quantity.
   date: '2025-01-13'
+  xml: .na.character
 - title: Interleukin-34 and debris clearance by mononuclear phagocytes drive retinal
     pigment epithelium regeneration in zebrafish
   categories:
@@ -4148,6 +4294,7 @@
     to regenerate RPE and photoreceptor tissues. Together, our results establish specific
     pro-regenerative functions of MNPs after RPE damage.
   date: '2025-01-14'
+  xml: .na.character
 - title: Real-time Color Flow Mapping of Ultrasound Microrobots
   categories:
   - bioengineering
@@ -4174,6 +4321,7 @@
     capture of microrobots measuring 60-80 micrometers in diameter reveals the potential
     of real-time ultrasonic imaging at the microscale.
   date: '2025-01-14'
+  xml: .na.character
 - title: Deletion of the moe A gene in Flavobacterium IR1 drives structural color
     shift from green to blue and alters polysaccharide metabolism
   categories:
@@ -4211,6 +4359,7 @@
     which is unprecedented when compared to multicellular organisms where structural
     color is the result of several genes and can not yet be addressed genetically.
   date: '2025-01-15'
+  xml: .na.character
 - title: Predator-Induced Tail Coloration Toward Diverse Dragonfly Nymphs in Tadpoles
     of the Japanese Tree Frog (Dryophytes japonicus)
   categories:
@@ -4244,6 +4393,7 @@
     foraging patterns and visual capabilities, thereby allowing tadpoles to minimize
     physiological costs and unintended risks associated with the induced traits.
   date: '2025-01-17'
+  xml: .na.character
 - title: Competition for light color between marine Synechococcus strains with fixed
     and variable pigmentation
   categories:
@@ -4280,6 +4430,7 @@
     the CA4-capable strain was at a disadvantage at low light, it was able to outcompete
     specialists in high blue light.'
   date: '2025-01-20'
+  xml: .na.character
 - title: 'Decoding ladybird''s colours: structural mechanisms of colour production
     and pigment modulation.'
   categories:
@@ -4310,6 +4461,7 @@
     in the Coccinellidae can only be elucidated by considering the interplay of pigments
     and the optical properties of the elytron cuticle.'
   date: '2025-01-21'
+  xml: .na.character
 - title: Cis-regulatory Mutations Drive Tissue-specific Subfunctionalization of sRNA
     loci Regulating Soybean Seed Color During Domestication
   categories:
@@ -4340,6 +4492,7 @@
     traits and demonstrate the power of long-read sequencing for resolving complex
     genomic regions, advancing both evolutionary biology and crop improvement.
   date: '2025-01-24'
+  xml: .na.character
 - title: Crossmodal pitch-luminance association in tortoises
   categories:
   - animal behavior and cognition
@@ -4375,6 +4528,7 @@
     of phylogenetically distant species, we shift the question on whether pitch-luminance
     associations reflect homology or convergent evolution.
   date: '2025-01-25'
+  xml: .na.character
 - title: Maturation-dependent complement production and C3 processing in human retinal
     pigment epithelium cells
   categories:
@@ -4413,6 +4567,7 @@
     for future studies on C3 functionality in the RPE and its potential pathological
     effects.
   date: '2025-02-05'
+  xml: .na.character
 - title: Internet images reveal bumblebee-mimicking hoverflies have evolved to follow
     flower colour preferences of their models
   categories:
@@ -4445,6 +4600,7 @@
     selection for mimetic accuracy, suggesting that habitat-choice mimicry may be
     selected as a way of enhancing morphological mimicry.
   date: '2025-02-07'
+  xml: .na.character
 - title: Is blue the most attractive color for bees? Exploring the attractiveness
     of colors in vane traps
   categories:
@@ -4476,6 +4632,7 @@
     insights to improve trap designs and enhance our understanding of the interactions
     between bees and their environments.
   date: '2025-02-12'
+  xml: .na.character
 - title: Single-Cell RNA Sequencing Reveals Hemocyte Heterogeneity, Differentiation
     Trajectories, and Viral Tropism in Shrimp (Macrobrachium rosenbergii) Infected
     with Decapod Iridescent Virus 1
@@ -4515,6 +4672,7 @@
     antiviral immunity and lay the foundation for disease-resistant breeding and immunostimulatory
     strategies in aquaculture.
   date: '2025-02-14'
+  xml: .na.character
 - title: Ecology and sexual conflict drive the macroevolutionary dynamics of female-limited
     colour polymorphisms
   categories:
@@ -4549,6 +4707,7 @@
     previous intraspecific studies and indicate contrasting long-term effects of sexual
     conflict at micro- and macroevolutionary scales.
   date: '2025-02-17'
+  xml: .na.character
 - title: Local variations in L/M ratio influence the detection and color naming of
     small spots
   categories:
@@ -4579,6 +4738,7 @@
     information about local cone topography, and our color naming findings suggest
     that chromatic sensitivity may improve when the L/M ratio approaches unity.
   date: '2025-02-24'
+  xml: .na.character
 - title: Open-source Photobleacher for Fluorescent Imaging of Large Pigment-Rich Tissues
   categories:
   - neuroscience
@@ -4610,6 +4770,7 @@
     large-volume cleared tissue samples to enable serial three-dimensional imaging
     of postmortem human brain using multiplexed antibody or oligonucleotide probes.
   date: '2025-02-25'
+  xml: .na.character
 - title: Color-neutral and reversible tissue transparency enables longitudinal deep-tissue
     imaging in live mice
   categories:
@@ -4670,6 +4831,7 @@
     visualization of cellular structures and dynamic activity with high spatiotemporal
     resolution and chronic tracking capabilities.
   date: '2025-02-27'
+  xml: .na.character
 - title: Brightness demixing for simultaneous multi-target imaging in 3D single-molecule
     localization microscopy
   categories:
@@ -4699,6 +4861,7 @@
     yet powerful approach for expanding multi-target imaging capabilities in super-resolution
     microscopy
   date: '2025-03-03'
+  xml: .na.character
 - title: Light color and nutrients interact to determine freshwater algal community
     diversity and composition
   categories:
@@ -4736,6 +4899,7 @@
     environmental conditions favorable to cyanobacteria, including taxa that can form
     harmful algal blooms.
   date: '2025-03-04'
+  xml: .na.character
 - title: Accurate spatiotemporal retinal responses require a color intensity balance
     fine-tuned to natural conditions
   categories:
@@ -4772,6 +4936,7 @@
     conclusion, a finely tuned color intensity balance is essential for accurately
     measuring both fast temporal responses and detailed spatial receptive fields.
   date: '2025-03-13'
+  xml: .na.character
 - title: High-Density Multi-Distance fNIRS Enhances Detection of Brain Activity during
     a Word-Color Stroop Task
   categories:
@@ -4810,6 +4975,7 @@
     space, particularly during lower cognitive load tasks, making them more suitable
     for neuroimaging applications.'
   date: '2025-03-14'
+  xml: .na.character
 - title: Genetic analysis of pigment production in the fungus Exophiala dermatitidis
   categories:
   - genetics
@@ -4839,6 +5005,7 @@
     study to generate and characterize conditional albino mutants in E. dermatitidis
     with the ability to recover melanin production.
   date: '2025-03-20'
+  xml: .na.character
 - title: Revisiting Color Efficient Coding through Material Perception
   categories:
   - neuroscience
@@ -4867,6 +5034,7 @@
     can be estimated from summary statistics of image sub-spaces, this study suggests
     an efficient decomposition of input color images.
   date: '2025-03-25'
+  xml: .na.character
 - title: Single-cell multiome and enhancer connectome of human retinal pigment epithelium
     and choroid nominate pathogenic variants in age-related macular degeneration
   categories:
@@ -4899,6 +5067,7 @@
     new pathogenic variants and mechanisms in AMD and offers a rich and accessible
     resource for studying diseases of the RPE and choroid.
   date: '2025-03-25'
+  xml: .na.character
 - title: A modular multi-color fluorescence microscope for simultaneous tracking of
     cellular activity and behavior
   categories:
@@ -4926,6 +5095,7 @@
     affordability of the hardware and ease of use of the accompanying software make
     this a suitable tool for education in addition to its use in research.
   date: '2025-04-01'
+  xml: .na.character
 - title: Theoretical physical color gamuts define luminosity and naturalness perceptual
     limits in natural scenes
   categories:
@@ -4950,6 +5120,7 @@
     of self-luminosity, but also by an implicit sense of naturalness. These insights
     pave the way for exploring AR realism through the lens of physical gamut theory.'
   date: '2025-04-05'
+  xml: .na.character
 - title: Plant silicon defence disrupts cryptic colouration in an insect herbivore
     by restricting carotenoid sequestration into the haemolymph
   categories:
@@ -4987,6 +5158,7 @@
     carotenoid sequestration from host plant tissues. This disruption could increase
     insect visibility to predators, potentially elevating their risk of predation.'
   date: '2025-04-08'
+  xml: .na.character
 - title: 'Sexual signal reliability in male zebra finches: Food intake explains the
     impact of immune activation on carotenoid-based coloration'
   categories:
@@ -5021,6 +5193,7 @@
     coloration predominantly reflects the recent physiological condition of individuals
     and resource allocation trade-offs rather than directly signaling individual quality.
   date: '2025-04-14'
+  xml: .na.character
 - title: Face-, color-, and word-specific patches in the human orbitofrontal cortex
   categories:
   - neuroscience
@@ -5045,6 +5218,7 @@
     suggest that the OFC contains a topographic organization similar to, but at a
     higher hierarchical level than, the VOTC object categorization system.
   date: '2025-04-23'
+  xml: .na.character
 - title: 'Illuminating the Unconscious: Physical and Perceived Brightness in Cognitive
     Processing'
   categories:
@@ -5072,6 +5246,7 @@
     Together, these findings suggest that contextual brightness illusions are not
     simply lost below awareness, they can be discriminated in unconscious vision.
   date: '2025-04-24'
+  xml: .na.character
 - title: Random and non-random variation in flower color along an urban-rural gradient
     in the introduced mustard Hesperis matronalis
   categories:
@@ -5096,6 +5271,7 @@
 
     ConclusionsRandom variation in flower color diversity may be influenced by stochastic processes and colonization history, while systematic variation in color morph frequencies may reflect past fitness differences among morphs that have been recently erased by seed predation.
   date: '2025-04-29'
+  xml: .na.character
 - title: Microneedle delivery of stem cell derived retinal pigment epithelial cells
   categories:
   - cell biology
@@ -5128,6 +5304,7 @@
     applications more broadly within ophthalmic microsurgery and minimally invasive
     delivery strategies.
   date: '2025-04-29'
+  xml: .na.character
 - title: Lrrns define a visual circuit underlying brightness and contrast perception
   categories:
   - neuroscience
@@ -5161,6 +5338,7 @@
     role in luminance processing. These studies define a fundamental visual processing
     pathway and establish Lrrn CAMs as essential molecular drivers of its assembly.
   date: '2025-05-10'
+  xml: .na.character
 - title: A Spectral Image Scanning Microscope for Multi-Color High-Resolution Imaging
   categories:
   - biophysics
@@ -5201,6 +5379,7 @@
     a valuable tool for biological imaging, enabling the simultaneous acquisition
     of high-resolution spatial information and multi-color spectral data.
   date: '2025-05-18'
+  xml: .na.character
 - title: High-throughput iNaturalist image analysis reveals flower color divergence
     in Monarda fistulosa
   categories:
@@ -5226,6 +5405,7 @@
     a scalable framework for phenotyping community science images and enables analysis
     of geographic color variation in other widespread species.
   date: '2025-05-26'
+  xml: .na.character
 - title: 'Movi Color: fast and accurate long-read classification with the move structure'
   categories:
   - bioinformatics
@@ -5262,6 +5442,7 @@
     both Kraken 2 and Metabuli,its speed-accuracy trade-off makes it well-suited for
     real-time or high-throughput scenarios.
   date: '2025-05-27'
+  xml: .na.character
 - title: 'A Standardized Method for Insect Color Analyses using Open Source Software:
     AInsectID Version 1.1 Color Merge'
   categories:
@@ -5296,6 +5477,7 @@
     environments. Finally, to validate the robustness of our standardization method,
     we evaluated the certainty of our results at different levels of confidence.
   date: '2025-06-01'
+  xml: .na.character
 - title: The role of secondary pollinators in the evolution of complex colour signals
     in a bimodal pollination system
   categories:
@@ -5327,6 +5509,7 @@
     by showing that secondary pollinators can contribute to selection on complex colour
     signals in angiosperm flowers.
   date: '2025-06-03'
+  xml: .na.character
 - title: Pupil size correlates with near-threshold detection performance irrespective
     of stimulus colour, eccentricity, or retinal adaptation-state
   categories:
@@ -5356,6 +5539,7 @@
     robust, indicating that pupil size affects vision in a behaviourally relevant
     manner, regardless of the exact conditions.
   date: '2025-06-06'
+  xml: .na.character
 - title: Redesigning petal shape, size, and color in soybean reveals unexpected phenotypes
     for floral organ development
   categories:
@@ -5395,6 +5579,7 @@
     development in soybean and provide foundational tools and resources for future
     efforts to engineer reproductive traits for hybrid seed production.
   date: '2025-06-06'
+  xml: .na.character
 - title: Quantifying Misuse of Color in Biological Research
   categories:
   - scientific communication and education
@@ -5423,6 +5608,7 @@
     the urgent need to increase awareness and education about color-based data reporting
     guidelines.
   date: '2025-06-15'
+  xml: .na.character
 - title: 'Take it or leaf it: bees learn leaf shape as a cue when flower color is
     easily learned'
   categories:
@@ -5460,6 +5646,7 @@
     overshadowing and implications of our results for pollinator-mediated selection
     on non-floral plant traits.'
   date: '2025-06-15'
+  xml: .na.character
 - title: Sustained Lysosomal Delivery of Enhanced Cy3-Labeled Acid Nanoparticles Restores
     Lysosomal pH in Retinal Pigment Epithelial Cells and Astrocytes
   categories:
@@ -5497,6 +5684,7 @@
     supporting future in vivo applications to restore lysosomal pH in aging and degenerating
     tissues.
   date: '2025-06-17'
+  xml: .na.character
 - title: ttc39bl, one of the two duplicated paralogs of the tetratricopeptide repeat
     domain 39B gene, is essential for carotenoid coloration in medaka (Oryzias latipes)
     and is the gene responsible for the r locus.
@@ -5524,6 +5712,7 @@
     has an 821 bases insertion in exon 3 and is broken. This insertion is also present
     on both the X and Y chromosomes of commercially available white medaka.
   date: '2025-06-17'
+  xml: .na.character
 - title: Mechanism of PMC (2,2,5,7,8-pentamethyl-6-chromanol), a sterically hindered
     phenol antioxidant, in rescuing oxidized low-density lipoprotein-induced cytotoxicity
     in human retinal pigment epithelial cells
@@ -5563,6 +5752,7 @@
     PMC mitigates oxidative stress induced by ox-LDL and provides a potential therapeutic
     strategy to suppress RPE degeneration/damage during AMD progression.
   date: '2025-06-22'
+  xml: .na.character
 - title: Hawkmoths learn best without negative reinforcement in a differential colour
     association task
   categories:
@@ -5598,6 +5788,7 @@
     and discuss the importance of interpreting learning outcomes based on an animal's
     sensory ecology and foraging dynamics.
   date: '2025-06-24'
+  xml: .na.character
 - title: Bird species with color polymorphism have greater ecological success
   categories:
   - ecology
@@ -5624,6 +5815,7 @@
     polymorphism contributes to avian species success at the global scale, especially
     reflected in lower extinction likelihood and better population trends.
   date: '2025-06-25'
+  xml: .na.character
 - title: Association of iridescence and tails with flight proxies suggests that predation
     drives convergence in skipper butterflies
   categories:
@@ -5658,6 +5850,7 @@
     convergent morphologies across Eudamina have likely arisen not by neutral evolution
     but by ecological selection influenced by biomechanical constraints.
   date: '2025-06-27'
+  xml: .na.character
 - title: Monitoring Forest Foliar Moisture Using Sentinel-2 Reflectance and Radiative
     Transfer Model Inversion
   categories:
@@ -5692,6 +5885,7 @@
     that FMC can be monitored at spatial resolutions that allow intra- or inter-landscape
     patterns to be resolved surpassing previous capabilities.
   date: '2025-06-27'
+  xml: .na.character
 - title: Purification and pigment analysis of diadinoxanthin-binding PSI-LHCI supercomplexes
     from Euglena gracilis strain Z
   categories:
@@ -5721,6 +5915,7 @@
     the evolutionary diversification of PSI-LHCI supercomplexes and offer insights
     into the unique pigment-binding features of the Euglena light-harvesting system.
   date: '2025-07-01'
+  xml: .na.character
 - title: 'Generalizability of machine learning models for plant traits using hyperspectral
     reflectance data: The case of maize'
   categories:
@@ -5753,3 +5948,4 @@
     assessment of performance of ML models for diverse crop traits considering the
     particularities of the experimental design.'
   date: '2025-07-06'
+  xml: .na.character
