@@ -9,8 +9,28 @@
 <link>https://colrverse.github.io/colsci-bot/</link>
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.9.32</generator>
-<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.35</generator>
+<lastBuildDate>Fri, 13 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Mechanistic insights into the color transformation of a non-FRET substrate for RNase activity detection</title>
+  <dc:creator>Kim, S.</dc:creator>
+  <dc:creator>Hong, S.</dc:creator>
+  <dc:creator>Walker, J. N.</dc:creator>
+  <dc:creator>He, Y.</dc:creator>
+  <dc:creator>Nguyen, A.-T.</dc:creator>
+  <dc:creator>Chen, W.-R.</dc:creator>
+  <dc:creator>Seifi, S.</dc:creator>
+  <dc:creator>Chen, Y.-I.</dc:creator>
+  <dc:creator>Kuo, Y.-A.</dc:creator>
+  <dc:creator>Brodbelt, J. S.</dc:creator>
+  <dc:creator>Yeh, H.-C.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>DNA-templated silver nanoclusters (DNA/AgNCs) have created a new class of non-FRET DNase substrates, termed Subak, that exhibits a color change upon DNase digestion. Although Subak substrates offer advantages such as ratiometric readouts and low manufacturing costs over traditional FRET substrates, the mechanism governing AgNC color switching remains unclear. Here, using a site-specific cleavage strategy, we identify color-switching hotspots and demonstrate that AgNC transformation can be controlled by the cleavage positions within the nucleic acid host. Our data support a cleavage-driven reorganization of the AgNC coordination environment, converting a non-emissive precursor into a red-emitting cluster, rather than direct enzyme-cluster interactions. Leveraging this insight, we engineer rSubak, an RNA-incorporated Subak that displays 95 nm red shift (530 to 625 nm) upon RNase cleavage. In amplification-free CRISPR/Cas13 assays for SARS-CoV-2, influenza A (A/H5N1), and measles viruses (MV) detection, rSubak achieved a limit of detection of 0.3 pM, superior to that of the commercial RNaseAlert (~250 pM). Collectively, our results establish Subak as a generalizable, non-FRET platform for sensitive ratiometric reporting the activities of diverse nucleases.</description>
+  <category>bioengineering</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>An empirical three-dimensional metric field for color space</title>
   <dc:creator>Koenderink, J.</dc:creator>
@@ -322,18 +342,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Differential effectiveness of bee and beetle pollinators creates flower colour polymorphism</title>
-  <dc:creator>Heinze, J.</dc:creator>
-  <dc:creator>van der Kooi, C. J.</dc:creator>
-  <dc:creator>Spaethe, J.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Floral diversity is the hallmark of Angiosperms and is often shaped by pollinator-mediated selection, which drives floral divergence as plants evolve traits that attract specific pollinator groups. Mediterranean red, bowl-shaped flowers are specialized on pollination by glaphyrid beetles in areas with beetles and bees but evolved different colours and specialize on bees as pollinators when beetles are absent. What explains this geographic variation in specialization and concomitant flower colour differences? We assessed pollination effectiveness of honeybees and glaphyrids for the colour-polymorphic Anemone pavonina in its natural habitat. We recorded the duration and number of flower visits and quantified single-visit seed set. Per-visit effectiveness (relative seed set) was threefold higher for Pygopleurus (36.3%) than for honeybees (9.5%). Flower visitation lasted substantially longer for beetles (56.3 sec. on average) than for honeybees (2.3 sec.). For beetles, pollinator importance (single-visit seed set x visitation frequency) was highest at low elevations but declined with increasing elevation, whereas for bees pollinator importance remained low yet constant across the elevational gradient. The high pollinator effectiveness of beetles indicates that floral specialization for this pollinator group is advantageous, even to the point that excluding low-quality bee pollinators - by producing inconspicuous flower colours - is beneficial. Non-red flowers may only be beneficial at higher elevations, where bee pollinator importance exceeds that of beetles.</description>
-  <category>animal behavior and cognition</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
