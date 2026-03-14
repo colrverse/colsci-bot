@@ -1,3 +1,40 @@
+- title: Mechanistic insights into the color transformation of a non-FRET substrate
+    for RNase activity detection
+  categories:
+  - bioengineering
+  - new results
+  license: CC BY-NC
+  author:
+  - Kim, S.
+  - Hong, S.
+  - Walker, J. N.
+  - He, Y.
+  - Nguyen, A.-T.
+  - Chen, W.-R.
+  - Seifi, S.
+  - Chen, Y.-I.
+  - Kuo, Y.-A.
+  - Brodbelt, J. S.
+  - Yeh, H.-C.
+  path: https://doi.org/10.64898/2026.03.11.710959
+  description: DNA-templated silver nanoclusters (DNA/AgNCs) have created a new class
+    of non-FRET DNase substrates, termed Subak, that exhibits a color change upon
+    DNase digestion. Although Subak substrates offer advantages such as ratiometric
+    readouts and low manufacturing costs over traditional FRET substrates, the mechanism
+    governing AgNC color switching remains unclear. Here, using a site-specific cleavage
+    strategy, we identify color-switching hotspots and demonstrate that AgNC transformation
+    can be controlled by the cleavage positions within the nucleic acid host. Our
+    data support a cleavage-driven reorganization of the AgNC coordination environment,
+    converting a non-emissive precursor into a red-emitting cluster, rather than direct
+    enzyme-cluster interactions. Leveraging this insight, we engineer rSubak, an RNA-incorporated
+    Subak that displays 95 nm red shift (530 to 625 nm) upon RNase cleavage. In amplification-free
+    CRISPR/Cas13 assays for SARS-CoV-2, influenza A (A/H5N1), and measles viruses
+    (MV) detection, rSubak achieved a limit of detection of 0.3 pM, superior to that
+    of the commercial RNaseAlert (~250 pM). Collectively, our results establish Subak
+    as a generalizable, non-FRET platform for sensitive ratiometric reporting the
+    activities of diverse nucleases.
+  date: '2026-03-13'
+  xml: https:/www.biorxiv.org/content/early/2026/03/13/2026.03.11.710959.source.xml
 - title: An empirical three-dimensional metric field for color space
   categories:
   - neuroscience
