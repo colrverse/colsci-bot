@@ -10,7 +10,24 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.35</generator>
-<lastBuildDate>Fri, 13 Mar 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>ATPLyzer An advanced ratiometric multi-colour biosensor for long-term monitoring of ATP dynamics</title>
+  <dc:creator>Papadopoulos, A.</dc:creator>
+  <dc:creator>Kaiser, C. F.</dc:creator>
+  <dc:creator>Schlumpberger, P.</dc:creator>
+  <dc:creator>Esser, J.</dc:creator>
+  <dc:creator>Reiners, J.</dc:creator>
+  <dc:creator>Gertzen, C. G. W.</dc:creator>
+  <dc:creator>Grossmann, G.</dc:creator>
+  <dc:creator>Smits, S.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Adenosine triphosphate (ATP) is a central molecule in cellular metabolism, serving as the primary energy currency that links catabolic and anabolic pathways. Monitoring intracellular ATP in vivo is essential for understanding the dynamics of metabolic states, as well as intracellular functions and intercellular interactions in health and disease. We report the design and application of ATPLyzer, a series of genetically encoded, ratiometric biosensors for the monitoring of ATP levels in living cells. The matryoshka design consists of an ATP-binding cassette linked to a circularly permutated GFP coupled with an internal large stokes shift reference fluorophore, allowing for single-wavelength excitation and ratiometric output. This design overcomes limitations of conventional biosensors, reliance on dual excitation wavelengths, and susceptibility to photobleaching. Multi-colour ATPLyzer variants with different dissociation constants were characterized in vitro, exhibiting high specificity for ATP over ADP. Monitoring ATP in Escherichia coli confirmed in vivo utility and revealed growth-phase and carbon-supply-dependent ATP dynamics. The ATPLyzer biosensor offers a robust and tuneable tool for minimally invasive, time-resolved monitoring of intracellular ATP dynamics.</description>
+  <category>bioengineering</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Mechanistic insights into the color transformation of a non-FRET substrate for RNase activity detection</title>
   <dc:creator>Kim, S.</dc:creator>
@@ -322,26 +339,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Behavior evolves as a correlated response to selection on cuticle color in Drosophila melanogaster and D. simulans</title>
-  <dc:creator>Ruckman, S. N.</dc:creator>
-  <dc:creator>Duffy, A. G.</dc:creator>
-  <dc:creator>Mendez, P. M.</dc:creator>
-  <dc:creator>McCaffery, K. D.</dc:creator>
-  <dc:creator>Miller, S.</dc:creator>
-  <dc:creator>Crews, A.</dc:creator>
-  <dc:creator>Tan, N.</dc:creator>
-  <dc:creator>Campbell, L. A.</dc:creator>
-  <dc:creator>March, A.</dc:creator>
-  <dc:creator>Brown, E. B.</dc:creator>
-  <dc:creator>Houle, D.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Understanding whether traits evolve independently or as integrated units is central to predicting adaptive evolution. Correlated trait evolution can reflect genetic covariation, such that selection on one trait can constrain or redirect evolutionary responses in others. Here, we used artificial selection on cuticle color in Drosophila melanogaster and D. simulans to investigate whether color and behavior evolve in tandem. We selected for light and dark thoracic colors across 16 generations in two populations per species and measured correlated responses in a suite of behavioral traits, including aggression, basal activity, total activity, sleep, and geotaxis. Dark selected individuals generally showed higher aggression and basal activity than light selected or control flies across both species and sexes, pointing to a modest but repeatable correlated response that must be interpreted in light of low and variable aggression in our assay. In contrast, patterns for geotaxis, sleep, and total activity evolved unpredictably, often varying across species and populations, and showed no clear or uniform association with color. Taken together, our results suggest that some behaviors may share a predictable relationship with color, whereas others behave largely independently under the conditions we examined. The persistence of correlated responses in aggression and basal activity in response to selection on color is consistent with a conserved genetic basis, such as pleiotropy or tight linkage, although our data do not, by themselves, distinguish among these mechanisms. Future work that identifies the loci underlying variation in both color and behavior and tests their effects experimentally will be important for clarifying how multivariate genetic covariance shapes the direction and pace of adaptive evolution.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
