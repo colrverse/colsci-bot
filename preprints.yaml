@@ -1,3 +1,37 @@
+- title: ATPLyzer An advanced ratiometric multi-colour biosensor for long-term monitoring
+    of ATP dynamics
+  categories:
+  - bioengineering
+  - new results
+  license: CC BY-NC
+  author:
+  - Papadopoulos, A.
+  - Kaiser, C. F.
+  - Schlumpberger, P.
+  - Esser, J.
+  - Reiners, J.
+  - Gertzen, C. G. W.
+  - Grossmann, G.
+  - Smits, S.
+  path: https://doi.org/10.64898/2026.03.14.711787
+  description: Adenosine triphosphate (ATP) is a central molecule in cellular metabolism,
+    serving as the primary energy currency that links catabolic and anabolic pathways.
+    Monitoring intracellular ATP in vivo is essential for understanding the dynamics
+    of metabolic states, as well as intracellular functions and intercellular interactions
+    in health and disease. We report the design and application of ATPLyzer, a series
+    of genetically encoded, ratiometric biosensors for the monitoring of ATP levels
+    in living cells. The matryoshka design consists of an ATP-binding cassette linked
+    to a circularly permutated GFP coupled with an internal large stokes shift reference
+    fluorophore, allowing for single-wavelength excitation and ratiometric output.
+    This design overcomes limitations of conventional biosensors, reliance on dual
+    excitation wavelengths, and susceptibility to photobleaching. Multi-colour ATPLyzer
+    variants with different dissociation constants were characterized in vitro, exhibiting
+    high specificity for ATP over ADP. Monitoring ATP in Escherichia coli confirmed
+    in vivo utility and revealed growth-phase and carbon-supply-dependent ATP dynamics.
+    The ATPLyzer biosensor offers a robust and tuneable tool for minimally invasive,
+    time-resolved monitoring of intracellular ATP dynamics.
+  date: '2026-03-17'
+  xml: https:/www.biorxiv.org/content/early/2026/03/17/2026.03.14.711787.source.xml
 - title: Mechanistic insights into the color transformation of a non-FRET substrate
     for RNase activity detection
   categories:
