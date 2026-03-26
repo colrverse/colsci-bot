@@ -1,3 +1,38 @@
+- title: 'Replaying the Tape: Comparative Genomics of Color Pattern in Heliconius'
+  categories:
+  - evolutionary biology
+  - new results
+  license: CC BY-ND
+  author:
+  - Lawrence, C. G.
+  - Rubenstein, D.
+  - McMillan, O.
+  - Arias, C.
+  path: https://doi.org/10.64898/2026.03.23.713665
+  description: Understanding the repeatability of evolution requires disentangling
+    the roles of constraint, contingency, and convergence in shaping phenotypic diversity.
+    Mullerian mimicry in Heliconius butterflies offers a powerful natural experiment,
+    with co-occurring species independently evolving similar wing color patterns under
+    shared selective regimes. Here, we integrate high-throughput image-based phenotyping,
+    genome-wide association studies (GWAS), and comparative pan-genomics to investigate
+    the genetic architecture underlying convergent wing pattern evolution across parallel
+    hybrid zones in Heliconius erato and H. melpomene. Using automated computer vision
+    pipelines, we extracted and quantified color pattern variation from over 650 butterfly
+    specimens. Principal component analysis (PCA) of recolorized, landmark-aligned
+    wing images captured biologically meaningful axes of variation, which were used
+    as phenotypes in GWAS. We identified strong associations at known patterning loci,
+    including ivory:mir193 (previously coretex), optix, WntA, and vvl, as well as
+    novel regions, including a chromosome 2 inversion in H. erato and a gustatory
+    receptor gene (Gr21a) in H. melpomene. Comparative analyses using a Heliconius
+    pan-genome revealed that while significant associations mapped to homologous regulatory
+    regions across species, the specific variants were lineage-specific, consistent
+    with parallel evolution via distinct cis-regulatory changes. These findings demonstrate
+    that repeated adaptive outcomes can arise through different genetic paths within
+    conserved regulatory architectures. More broadly, our study highlights the power
+    of integrating machine learning, high-resolution phenotyping, and comparative
+    genomics to dissect the molecular basis of convergent evolution in natural populations.
+  date: '2026-03-25'
+  xml: https:/www.biorxiv.org/content/early/2026/03/25/2026.03.23.713665.source.xml
 - title: 'Beyond Gloger''s rule: multiple biogeographic drivers of dark and red colouration
     in ants'
   categories:
