@@ -10,7 +10,20 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.0</generator>
-<lastBuildDate>Wed, 18 Mar 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Replaying the Tape: Comparative Genomics of Color Pattern in Heliconius</title>
+  <dc:creator>Lawrence, C. G.</dc:creator>
+  <dc:creator>Rubenstein, D.</dc:creator>
+  <dc:creator>McMillan, O.</dc:creator>
+  <dc:creator>Arias, C.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Understanding the repeatability of evolution requires disentangling the roles of constraint, contingency, and convergence in shaping phenotypic diversity. Mullerian mimicry in Heliconius butterflies offers a powerful natural experiment, with co-occurring species independently evolving similar wing color patterns under shared selective regimes. Here, we integrate high-throughput image-based phenotyping, genome-wide association studies (GWAS), and comparative pan-genomics to investigate the genetic architecture underlying convergent wing pattern evolution across parallel hybrid zones in Heliconius erato and H. melpomene. Using automated computer vision pipelines, we extracted and quantified color pattern variation from over 650 butterfly specimens. Principal component analysis (PCA) of recolorized, landmark-aligned wing images captured biologically meaningful axes of variation, which were used as phenotypes in GWAS. We identified strong associations at known patterning loci, including ivory:mir193 (previously coretex), optix, WntA, and vvl, as well as novel regions, including a chromosome 2 inversion in H. erato and a gustatory receptor gene (Gr21a) in H. melpomene. Comparative analyses using a Heliconius pan-genome revealed that while significant associations mapped to homologous regulatory regions across species, the specific variants were lineage-specific, consistent with parallel evolution via distinct cis-regulatory changes. These findings demonstrate that repeated adaptive outcomes can arise through different genetic paths within conserved regulatory architectures. More broadly, our study highlights the power of integrating machine learning, high-resolution phenotyping, and comparative genomics to dissect the molecular basis of convergent evolution in natural populations.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Beyond Gloger&#39;s rule: multiple biogeographic drivers of dark and red colouration in ants</title>
   <dc:creator>Klaftenberger, T.</dc:creator>
@@ -324,17 +337,6 @@
   <link>https://colrverse.github.io/colsci-bot/</link>
   <description>Tropical pollinators forage in environments where floral resources vary in space and time, requiring flexible strategies to optimise foraging efficiency. One such strategy, floral constancy - the temporary restriction to a single flower type - strongly influences foraging success and plant-pollinator interactions. We aimed to: (1) quantify spontaneous colour preferences and constancy in the Asian giant honeybee Apis dorsata, (2) test whether reward concentration modulates these preferences, (3) evaluate how quickly learned associations override spontaneous biases, (4) determine whether bees can use multiple colour associations simultaneously, and (5) assess whether local floral spectral patterns correlate with bee preferences. Bees trained to a neutral UV-grey stimulus showed a strong spontaneous preference and high constancy to blue, revealing a robust short-wavelength bias. Crucially, the strength of this spontaneous bias depended on reward concentration; Low-reward conditions elicited strong blue constancy, whereas high-reward conditions weakened it, demonstrating that reward expectation shapes spontaneous colour choices. This bias was flexible. When bees learned that yellow was rewarding, they switched their preferences. Bees sequentially trained to both colours visited blue and yellow, showing no overall bias, or effect of the last-trained colour, indicating that recent experiences disrupt colour-specific constancy and generate largely random foraging choices. Bees were capable of learning and retaining two colours simultaneously, effectively suppressing the influence of spontaneous preferences. Finally, analysis of the community floral spectral distribution revealed a strong dominance of short-wavelength flowers, suggesting that long-term selection by the local floral environment may underlie the spontaneous blue preference observed in A. dorsata.</description>
   <category>animal behavior and cognition</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>EEG-Based Decoding of Color and Visual Category Representations Is Reliable Within and Across Sessions</title>
-  <dc:creator>Frenkel, C.</dc:creator>
-  <dc:creator>Deouell, L. Y.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The human visual system represents stimuli in a rich and detailed manner. Traditional methods of studying visual representations in humans, such as event-related potentials (ERP), revealed numerous distinctions between the brain activity elicited by different categories of stimuli. However, these methods miss the information embedded in the spatial distributions of brain activity, or patterns, and are not always sensitive to study visual representations of different stimuli at the single participant or single trial level. Time-resolved multivariate pattern classification analysis (MVPA), or Decoding, efficiently extracts the visual representations of stimuli from the EEG topography without a-priori assumptions about the location of the effect in time and space at the single participant level. The rich information this method provides has increased its popularity dramatically in recent years. Yet, different participants show variable quality of decoding performance, and it is unclear if the accuracy of decoding is maintained within participants across multiple sessions, tasks, attentional conditions and visual features. In the current study, participants performed three visual tasks, over two sessions (1-7 days apart). We examined the correlation of decoding accuracy: within the cross-validation set, between sessions, between features (color and category) and to different measurements of the ERP signal and behavioral performance. We also examined how models generalized to different tasks and different attention conditions. We found that decoding accuracies varied substantially across participants, and that decoding accuracy was reliable within participant, over sessions, attention condition and task. This suggests the decodability behaves like an individual trait. Moreover, the spatial patterns underlying the decoding (classification weights) generalized across different tasks, attentional conditions and sessions. This suggests minimal representational drift at the resolution allowed by the EEG. We conclude that EEG decoding is a reliable method, and that visual representations are stable.</description>
-  <category>neuroscience</category>
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
