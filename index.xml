@@ -9,8 +9,22 @@
 <link>https://colrverse.github.io/colsci-bot/</link>
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.10.0</generator>
-<lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.10.1</generator>
+<lastBuildDate>Tue, 31 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Beyond abstract selection coefficients: Protandry impacts the buildup of heterozygote advantage over the lifespan in a color polymorphic moth</title>
+  <dc:creator>Selenius, E.</dc:creator>
+  <dc:creator>Keaney, T.</dc:creator>
+  <dc:creator>Winters, S.</dc:creator>
+  <dc:creator>Mappes, J.</dc:creator>
+  <dc:creator>Kokko, H.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Population genetic models excel at identifying the conditions for polymorphisms based on balancing selection but typically disregard the ecological processes that yield particular values of selection coefficients. We model a system that combines antagonistic pleiotropy, dominance reversal and heterozygote advantage: the wood tiger moth Arctia plantaginis, where alternative haplotypes at a major-effect locus determine male hindwing coloration. Yellow offers better protection against predators, while white is often associated with better mating success. The effects of mortality and reproductive success overlap in time because protandrous males can mate as long as they are alive, but they need to avoid predation for several days before the bulk of females emerge. We show that protandry aids polymorphism maintenance whenever the second-fittest genotype (after the heterozygote) is the poorly surviving but mating advantaged homozygote, while increased protandry harms polymorphism when the second-best fitness is that of the survival advantaged morph. Ecologically plausible protandry times predict that dominance reversal does not have to be strong for polymorphism to be maintained. Our study highlights the importance of timing traits in maintaining polymorphisms in Lepidoptera and showcases the benefits of deriving fitness explicitly in place of abstract selection coefficients that lack temporal components within the life cycle.</description>
+  <category>evolutionary biology</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Replaying the Tape: Comparative Genomics of Color Pattern in Heliconius</title>
   <dc:creator>Lawrence, C. G.</dc:creator>
@@ -328,18 +342,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Colour preference and constancy in the giant Asian honey bee Apis dorsata</title>
-  <dc:creator>Sudeep, R.</dc:creator>
-  <dc:creator>Bhaskar, S.</dc:creator>
-  <dc:creator>Somanathan, H.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Tropical pollinators forage in environments where floral resources vary in space and time, requiring flexible strategies to optimise foraging efficiency. One such strategy, floral constancy - the temporary restriction to a single flower type - strongly influences foraging success and plant-pollinator interactions. We aimed to: (1) quantify spontaneous colour preferences and constancy in the Asian giant honeybee Apis dorsata, (2) test whether reward concentration modulates these preferences, (3) evaluate how quickly learned associations override spontaneous biases, (4) determine whether bees can use multiple colour associations simultaneously, and (5) assess whether local floral spectral patterns correlate with bee preferences. Bees trained to a neutral UV-grey stimulus showed a strong spontaneous preference and high constancy to blue, revealing a robust short-wavelength bias. Crucially, the strength of this spontaneous bias depended on reward concentration; Low-reward conditions elicited strong blue constancy, whereas high-reward conditions weakened it, demonstrating that reward expectation shapes spontaneous colour choices. This bias was flexible. When bees learned that yellow was rewarding, they switched their preferences. Bees sequentially trained to both colours visited blue and yellow, showing no overall bias, or effect of the last-trained colour, indicating that recent experiences disrupt colour-specific constancy and generate largely random foraging choices. Bees were capable of learning and retaining two colours simultaneously, effectively suppressing the influence of spontaneous preferences. Finally, analysis of the community floral spectral distribution revealed a strong dominance of short-wavelength flowers, suggesting that long-term selection by the local floral environment may underlie the spontaneous blue preference observed in A. dorsata.</description>
-  <category>animal behavior and cognition</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
