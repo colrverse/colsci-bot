@@ -1,3 +1,36 @@
+- title: 'Beyond abstract selection coefficients: Protandry impacts the buildup of
+    heterozygote advantage over the lifespan in a color polymorphic moth'
+  categories:
+  - evolutionary biology
+  - new results
+  license: CC BY-NC
+  author:
+  - Selenius, E.
+  - Keaney, T.
+  - Winters, S.
+  - Mappes, J.
+  - Kokko, H.
+  path: https://doi.org/10.64898/2026.03.29.715091
+  description: 'Population genetic models excel at identifying the conditions for
+    polymorphisms based on balancing selection but typically disregard the ecological
+    processes that yield particular values of selection coefficients. We model a system
+    that combines antagonistic pleiotropy, dominance reversal and heterozygote advantage:
+    the wood tiger moth Arctia plantaginis, where alternative haplotypes at a major-effect
+    locus determine male hindwing coloration. Yellow offers better protection against
+    predators, while white is often associated with better mating success. The effects
+    of mortality and reproductive success overlap in time because protandrous males
+    can mate as long as they are alive, but they need to avoid predation for several
+    days before the bulk of females emerge. We show that protandry aids polymorphism
+    maintenance whenever the second-fittest genotype (after the heterozygote) is the
+    poorly surviving but mating advantaged homozygote, while increased protandry harms
+    polymorphism when the second-best fitness is that of the survival advantaged morph.
+    Ecologically plausible protandry times predict that dominance reversal does not
+    have to be strong for polymorphism to be maintained. Our study highlights the
+    importance of timing traits in maintaining polymorphisms in Lepidoptera and showcases
+    the benefits of deriving fitness explicitly in place of abstract selection coefficients
+    that lack temporal components within the life cycle.'
+  date: '2026-03-31'
+  xml: https:/www.biorxiv.org/content/early/2026/03/31/2026.03.29.715091.source.xml
 - title: 'Replaying the Tape: Comparative Genomics of Color Pattern in Heliconius'
   categories:
   - evolutionary biology
