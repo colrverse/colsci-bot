@@ -1,3 +1,27 @@
+- title: 'COLOR VISION UNDER BLUR: IMPLICATIONS FOR PERCEPTION AND EVOLUTION'
+  categories:
+  - neuroscience
+  - new results
+  license: CC BY-NC
+  author:
+  - Altinordu, N.
+  - Boynton, G. M.
+  - Fine, I.
+  path: https://doi.org/10.64898/2026.03.31.715493
+  description: Color is a prominent feature of visual experience, yet humans can recognize
+    objects easily and accurately from grayscale images. We examined whether color
+    becomes more useful when spatial information is degraded due to blurring. Participants
+    viewed naturalistic scenes in color or grayscale, and reported whether a named
+    target object was present across a range of blur levels that simulated optical
+    defocus from 0 to 8 diopters. With unblurred images, performance did not differ
+    between color and grayscale conditions, but as blur increased, recognition accuracy
+    declined. Color provided a modest but reliable advantage at higher levels of blur,
+    suggesting that color becomes increasingly useful when optical quality is degraded.
+    We hypothesize that the evolutionary shift towards trichromacy may have been partially
+    driven by the need to compensate for optical degradation due to aging and/or accumulated
+    light exposure.
+  date: '2026-04-07'
+  xml: https:/www.biorxiv.org/content/early/2026/04/07/2026.03.31.715493.source.xml
 - title: 'Beyond abstract selection coefficients: Protandry impacts the buildup of
     heterozygote advantage over the lifespan in a color polymorphic moth'
   categories:
