@@ -10,7 +10,19 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.1</generator>
-<lastBuildDate>Tue, 31 Mar 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>COLOR VISION UNDER BLUR: IMPLICATIONS FOR PERCEPTION AND EVOLUTION</title>
+  <dc:creator>Altinordu, N.</dc:creator>
+  <dc:creator>Boynton, G. M.</dc:creator>
+  <dc:creator>Fine, I.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Color is a prominent feature of visual experience, yet humans can recognize objects easily and accurately from grayscale images. We examined whether color becomes more useful when spatial information is degraded due to blurring. Participants viewed naturalistic scenes in color or grayscale, and reported whether a named target object was present across a range of blur levels that simulated optical defocus from 0 to 8 diopters. With unblurred images, performance did not differ between color and grayscale conditions, but as blur increased, recognition accuracy declined. Color provided a modest but reliable advantage at higher levels of blur, suggesting that color becomes increasingly useful when optical quality is degraded. We hypothesize that the evolutionary shift towards trichromacy may have been partially driven by the need to compensate for optical degradation due to aging and/or accumulated light exposure.</description>
+  <category>neuroscience</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Beyond abstract selection coefficients: Protandry impacts the buildup of heterozygote advantage over the lifespan in a color polymorphic moth</title>
   <dc:creator>Selenius, E.</dc:creator>
@@ -330,18 +342,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Rare shell colours in bivalves reveal multiple evolutionary pathways to blue and green colouration</title>
-  <dc:creator>Ingram, A. L.</dc:creator>
-  <dc:creator>Razzell Hollis, J.</dc:creator>
-  <dc:creator>Williams, S. T.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Green and blue are rare colours in bivalve shells. Where such colours occur, it is unclear whether they result from shared pigments across taxa, as similar appearances may arise from different compounds and are not necessarily homologous. Identifying their biochemical basis is therefore crucial to understanding the evolution and possible metabolic costs of these unusual traits. We used Raman spectroscopy to analyse resin-embedded cross-sections of valves from 15 bivalve species with green or blue shells. Species represented diversity in shell colour in terms of both phylogeny and morphological traits, including colour location (organic periostracum, organic layers in the calcareous shell or inorganic calcareous matrix). Green colour consistently occurred in organic layers rather than calcareous shell, while blue colour occurs in both calcareous shell and organic layers. Blue colour appears to be due to carotenoid-based pigments, similar to other pigments observed in bivalve shells. Green colour, however, is due either to novel pigments, not previously identified in mollusc shells, which are only weakly Raman active or nanostructures that produce structural colour in the absence of green pigments. Within bivalves, to date structural colour has been reported only in one genus, underscoring its evolutionary significance.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
