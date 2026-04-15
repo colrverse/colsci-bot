@@ -10,7 +10,22 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.3</generator>
-<lastBuildDate>Tue, 07 Apr 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Apr 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Are you represented? Subjective vs objective skin color determination for healthcare and research purposes.</title>
+  <dc:creator>Setchfield, K. J.</dc:creator>
+  <dc:creator>Kuppur Narayana Swamy, S. K.</dc:creator>
+  <dc:creator>Setchfield, E. J.</dc:creator>
+  <dc:creator>Morgan, S. P.</dc:creator>
+  <dc:creator>Somekh, M. G.</dc:creator>
+  <dc:creator>Wright, A. J.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Despite questionable accuracy, subjective methods to categorize skin color are heavily relied upon in research and medicine. Objective skin color determination is expensive requiring specialized instrumentation and interpretation. We compare three subjective approaches, i) Fitzpatrick Skin Type Scale (FST), ii) Pantone SkinTone Guide (PST) and, iii) Monk Skin Tone Scale (MST), with objectively measured skin color from a spectrophotometer in 87 volunteers to understand the limitations of each method. In agreement with others, we show that the popular FST questionnaire correlates poorly with the objective approach. However, PST color swatches provide good correlation with spectrophotometer measurements. PST consists of 110+ swatches that are inexpensive and easy to use, however, similar to other reports, the volunteers found the number of swatches overwhelming and/or excessive. We found that the recently introduced MST is not representative of reality with only 3 of the 10 color groups representing our volunteers and published populations of volunteers. In future, we propose using 9 color swatches to split the spectrum of human skin color into 10 groupings (Nottingham Skin Categories - NSC) that are representative of the global population. This new approach would be easy to implement and inexpensive in research, healthcare and cosmetics settings, and maps directly to objective, quantitative, measures taken with a spectrophotometer. For the testing and development of new optical devices, NSC would provide increased comparability between studies and ensure studies are representative of local/global populations. In the clinic NSC would be useful for dermatology, photodynamic therapy and dosage assessment for topical medicine, for example.</description>
+  <category>scientific communication and education</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>COLOR VISION UNDER BLUR: IMPLICATIONS FOR PERCEPTION AND EVOLUTION</title>
   <dc:creator>Altinordu, N.</dc:creator>
@@ -326,22 +341,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A 14-Color Blue-Violet Laser Restricted Full Spectrum Flow Cytometry Panel for Comprehensive Immunophenotyping of Pulmonary Inflammation in Mouse Bronchoalveolar Lavage Fluid</title>
-  <dc:creator>Mara, A. B.</dc:creator>
-  <dc:creator>Miller, J. M.</dc:creator>
-  <dc:creator>Ozyck, R. G.</dc:creator>
-  <dc:creator>Hunte, M. L.</dc:creator>
-  <dc:creator>Tulman, E. R.</dc:creator>
-  <dc:creator>Szczepanek, S. M.</dc:creator>
-  <dc:creator>Geary, S. J.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Here we describe a 16-parameter, 14-color surface staining panel optimized for murine bronchoalveolar lavage cells that enables reproducible identification of major innate and adaptive immune populations relevant to pulmonary infections or other inflammatory conditions of the airways. The panel enables confident identification of neutrophils, eosinophils, B cells, T cells and subtypes, NK cells, and distinguishes between tissue resident and monocyte-derived macrophages populations. The panel was carefully designed for BAL samples that vary in cell number, are rich in debris, and often autofluorescent. Antibody concentrations are optimized to provide reproducible results regardless of sample-variable cell numbers allowing for the preparation of a single antibody cocktail master mix and rapid sample staining time, thereby cutting down on sample preparation and optimizing cell viability of analyzed samples. The panel facilitates robust cross-sectional and longitudinal comparison of airway inflammation across different airway inflammatory conditions, infections by different respiratory pathogens, impact of vaccination or therapeutics on the inflammatory landscape, and more. It facilitates hypothesis generation by revealing recruitment kinetics and remodeling of myeloid compartments, supports downstream sorting for transcriptomic or functional assays, and provides a standardized baseline for labs to adopt or extend for activation or intracellular cytokine analyses. We have successfully utilized this panel to identify differential host responses to different respiratory Mycoplasma pathogens as well as to longitudinally track the progression of inflammatory response to Mycoplasma pneumoniae over a 21-day time course study. This panel provides an economic immunophenotyping option by utilizing only 14 markers and a two laser (Blue and Violet) full spectrum cytometer to provide comprehensive immunophenotyping power of both myeloid and lymphoid cells. Furthered by lacking the requirement for advanced unmixing for sample analysis, the panel can be easily adopted by the community, enabling comparative meta-analyses of host responses across murine respiratory infection models.</description>
-  <category>immunology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
