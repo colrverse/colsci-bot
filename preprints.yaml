@@ -1,3 +1,41 @@
+- title: Are you represented? Subjective vs objective skin color determination for
+    healthcare and research purposes.
+  categories:
+  - scientific communication and education
+  - new results
+  license: CC BY-NC-ND
+  author:
+  - Setchfield, K. J.
+  - Kuppur Narayana Swamy, S. K.
+  - Setchfield, E. J.
+  - Morgan, S. P.
+  - Somekh, M. G.
+  - Wright, A. J.
+  path: https://doi.org/10.64898/2026.04.13.718177
+  description: Despite questionable accuracy, subjective methods to categorize skin
+    color are heavily relied upon in research and medicine. Objective skin color determination
+    is expensive requiring specialized instrumentation and interpretation. We compare
+    three subjective approaches, i) Fitzpatrick Skin Type Scale (FST), ii) Pantone
+    SkinTone Guide (PST) and, iii) Monk Skin Tone Scale (MST), with objectively measured
+    skin color from a spectrophotometer in 87 volunteers to understand the limitations
+    of each method. In agreement with others, we show that the popular FST questionnaire
+    correlates poorly with the objective approach. However, PST color swatches provide
+    good correlation with spectrophotometer measurements. PST consists of 110+ swatches
+    that are inexpensive and easy to use, however, similar to other reports, the volunteers
+    found the number of swatches overwhelming and/or excessive. We found that the
+    recently introduced MST is not representative of reality with only 3 of the 10
+    color groups representing our volunteers and published populations of volunteers.
+    In future, we propose using 9 color swatches to split the spectrum of human skin
+    color into 10 groupings (Nottingham Skin Categories - NSC) that are representative
+    of the global population. This new approach would be easy to implement and inexpensive
+    in research, healthcare and cosmetics settings, and maps directly to objective,
+    quantitative, measures taken with a spectrophotometer. For the testing and development
+    of new optical devices, NSC would provide increased comparability between studies
+    and ensure studies are representative of local/global populations. In the clinic
+    NSC would be useful for dermatology, photodynamic therapy and dosage assessment
+    for topical medicine, for example.
+  date: '2026-04-14'
+  xml: https:/www.biorxiv.org/content/early/2026/04/14/2026.04.13.718177.source.xml
 - title: 'COLOR VISION UNDER BLUR: IMPLICATIONS FOR PERCEPTION AND EVOLUTION'
   categories:
   - neuroscience
