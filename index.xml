@@ -10,7 +10,33 @@
 <atom:link href="https://colrverse.github.io/colsci-bot/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.3</generator>
-<lastBuildDate>Tue, 14 Apr 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Apr 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Effects of artificial light colour, intensity, structure and contrast on moth flight behaviour</title>
+  <dc:creator>Briolat, E. S.</dc:creator>
+  <dc:creator>Galloway, J. A. M.</dc:creator>
+  <dc:creator>van Berkel, M.</dc:creator>
+  <dc:creator>Bennie, J.</dc:creator>
+  <dc:creator>Gaston, K. J.</dc:creator>
+  <dc:creator>Troscianko, J.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>Nocturnal moths are severely affected by light pollution, most notoriously through fatal attraction to artificial lights, yet flight-to-light is not their only response. To investigate how artificial lights impact flight behaviour, we exposed over 1200 wild-caught moths of 62 species to LED lights with different characteristics, under varying background lighting conditions, and tracked over 500 flight paths in three dimensions. Flight-to-light behaviour and flight tortuosity both increased with light intensity, irrespective of spectrum, though tortuosity was affected by lower levels of white than amber light, suggesting white LEDs could impact moth trajectories from greater distances. Flight tortuosity was also higher upon exposure to a single light versus three producing equivalent illuminance. Conversely, higher background light levels led to reductions in both flight-to-light and tortuosity, but moths were also less likely to take flight in these conditions, suggesting that both point sources and diffuse background lighting disrupt moth movement. Finally, moths caught using light traps were less likely to fly and, if they did, more likely to fly towards light sources than those caught with butterfly nets. These findings suggest mitigation policies for light pollution should prioritize reducing light intensity, and point to new directions for future research.</description>
+  <category>animal behavior and cognition</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Simulating Multi-Colour Single-Molecule Localisation Microscopy Using an RGB Camera</title>
+  <dc:creator>Danial, J.</dc:creator>
+  <dc:creator>Kelly, A.</dc:creator>
+  <link>https://colrverse.github.io/colsci-bot/</link>
+  <description>High-order multiplexing in single-molecule localisation microscopy (SMLM) is limited by trade-offs between spectral discrimination, imaging speed, and experimental complexity. Here, we show that RGB cameras provide a simple and scalable solution for multi-colour SMLM by exploiting their intrinsic spectral sensitivity for statistical fluorophore discrimination. Using a realistic simulation framework incorporating experimentally derived photon budgets, optical response functions, and camera noise, we achieve simultaneous classification of up to six fluorophores with a mean precision of ~98%, including perfect discrimination of spectrally overlapping dye pairs, while maintaining an average localisation precision of ~3.2 nm. Performance remains robust to variations in classification thresholds but degrades with increasing fluorophore number and reduced photon budgets due to spectral overlap and photon noise. These results establish RGB detection as a cost-effective and experimentally straightforward alternative to conventional spectral imaging approaches, enabling accessible, high-throughput multiplexed super-resolution imaging.</description>
+  <category>biophysics</category>
+  <category>new results</category>
+  <guid>https://colrverse.github.io/colsci-bot/</guid>
+  <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Are you represented? Subjective vs objective skin color determination for healthcare and research purposes.</title>
   <dc:creator>Setchfield, K. J.</dc:creator>
@@ -286,61 +312,6 @@
   <category>new results</category>
   <guid>https://colrverse.github.io/colsci-bot/</guid>
   <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>From Sensory Details to Verbal Codes: Visual Memory Reinstatement of Location and Color Features</title>
-  <dc:creator>Wang, X.</dc:creator>
-  <dc:creator>Becker, M.</dc:creator>
-  <dc:creator>Rahman, R. A.</dc:creator>
-  <dc:creator>Davis, S. W.</dc:creator>
-  <dc:creator>Cabeza, R.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>Successful episodic memory depends on the reinstatement of encoding content and processes during retrieval. However, it remains unclear how such reinstatement (1) differs for various perceptual features, (2) supports subjective versus objective memory retrieval, and (3) relies on linguistic information. To investigate these three issues, we designed an fMRI study in which participants encoded and recalled the colors and spatial locations of object pictures, and provided subjective vividness and objective precision measures. We used encoding-retrieval similarity (ERS) to identify feature-level reinstatement for location or color features, and trial-specific reinstatement for individual location trials or individual color trials. The study yielded three main findings. First, feature-level reinstatement in frontoparietal and visual regions supported both location and color memory, whereas trial-specific reinstatement in early visual cortex contributed to location memory and feature-level reinstatement in lateral/anterior temporal cortices, to color memory. Second, trial-specific reinstatement in early visual cortex supported both location vividness and precision, while feature-level reinstatement in inferior frontal gyrus contributed to color vividness, and trial-specific reinstatement in posterior inferior temporal gyrus (including the color area), to color precision. Finally, color name richness (the number of names associated with a particular color) enhanced color memory precision and modulated trial-specific color reinstatement in right anterior inferior temporal gyrus. Together, these findings suggest that perceptual and linguistic reinstatement play complementary roles in visual episodic memory: perceptual replay provides fine-grained sensory details, whereas linguistic replay can scaffold and refine these representations, especially for features that are easier to verbalize such as colors.</description>
-  <category>neuroscience</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Modulation of Avian Iridescence via Malanogenesis</title>
-  <dc:creator>Barbosa, S.</dc:creator>
-  <dc:creator>Bittner, C.</dc:creator>
-  <dc:creator>Arbore, R.</dc:creator>
-  <dc:creator>Araujo, P.</dc:creator>
-  <dc:creator>Pereira, P.</dc:creator>
-  <dc:creator>Andrade, P.</dc:creator>
-  <dc:creator>Fekete, C.</dc:creator>
-  <dc:creator>Afonso, R.</dc:creator>
-  <dc:creator>Afonso, S.</dc:creator>
-  <dc:creator>Amorim, M.</dc:creator>
-  <dc:creator>Marques, C.</dc:creator>
-  <dc:creator>Nicolai, M.</dc:creator>
-  <dc:creator>Carita, J.</dc:creator>
-  <dc:creator>Brejcha, J.</dc:creator>
-  <dc:creator>Lopes, R.</dc:creator>
-  <dc:creator>Alves, J.</dc:creator>
-  <dc:creator>Cruz, F.</dc:creator>
-  <dc:creator>Gomez-Garrido, J.</dc:creator>
-  <dc:creator>Zamarreno, C.</dc:creator>
-  <dc:creator>Gut, M.</dc:creator>
-  <dc:creator>Alyoto, T.</dc:creator>
-  <dc:creator>Ali, M.</dc:creator>
-  <dc:creator>Hilpert, A.</dc:creator>
-  <dc:creator>Hech, A.</dc:creator>
-  <dc:creator>Spiecker, E.</dc:creator>
-  <dc:creator>Zubiri, B. A.</dc:creator>
-  <dc:creator>Ito, S.</dc:creator>
-  <dc:creator>Wakamatsu, K.</dc:creator>
-  <dc:creator>Andersson, L.</dc:creator>
-  <dc:creator>Corbo, J.</dc:creator>
-  <dc:creator>Vogel, N.</dc:creator>
-  <dc:creator>Carneiro, M.</dc:creator>
-  <link>https://colrverse.github.io/colsci-bot/</link>
-  <description>The iridescent colors of birds originate in nanoscale feather structures that interact with light. Although the physical principles governing avian iridescence are well-established, the molecular mechanisms assembling these nanostructures into photonic materials remain unknown. Here, we investigate the genetic and developmental basis of iridescence by analyzing mutations from peafowl domestication and color variation in wild birds. We show that melanogenesis governs diverse geometric aspects of feather photonic nanostructures, enabling gains, shifts, and losses in iridescence. Mutations altering melanin composition collapse multilayered photonic systems and yield non-iridescent tissues, while alterations to melanosome abundance, elongation, or deposition timing generate multilayer architectures of variable periodicity and striking color differences. Notably, transitions from non-iridescent to iridescent plumage can arise from single-nucleotide mutations in melanogenic genes, revealing that minimal genetic change can prompt feathers to organize photonic structures. These results demonstrate that the nanoscale order underlying iridescence is developmentally plastic, emerging from physicochemical self-assembly responsive to the biochemical environment rather than from genetically encoded spatial cues. Single-cell transcriptomes from wild species further uncovered extensive melanocyte-centered regulatory rewiring associated with iridescence. Our findings identify melanogenesis as a key pathway for evolving structural coloration and illustrate how genetic programs harness self-organizing processes to generate biological diversity.</description>
-  <category>evolutionary biology</category>
-  <category>new results</category>
-  <guid>https://colrverse.github.io/colsci-bot/</guid>
-  <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
