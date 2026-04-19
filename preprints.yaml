@@ -1,3 +1,63 @@
+- title: Effects of artificial light colour, intensity, structure and contrast on
+    moth flight behaviour
+  categories:
+  - animal behavior and cognition
+  - new results
+  license: CC BY
+  author:
+  - Briolat, E. S.
+  - Galloway, J. A. M.
+  - van Berkel, M.
+  - Bennie, J.
+  - Gaston, K. J.
+  - Troscianko, J.
+  path: https://doi.org/10.64898/2026.04.15.718644
+  description: Nocturnal moths are severely affected by light pollution, most notoriously
+    through fatal attraction to artificial lights, yet flight-to-light is not their
+    only response. To investigate how artificial lights impact flight behaviour, we
+    exposed over 1200 wild-caught moths of 62 species to LED lights with different
+    characteristics, under varying background lighting conditions, and tracked over
+    500 flight paths in three dimensions. Flight-to-light behaviour and flight tortuosity
+    both increased with light intensity, irrespective of spectrum, though tortuosity
+    was affected by lower levels of white than amber light, suggesting white LEDs
+    could impact moth trajectories from greater distances. Flight tortuosity was also
+    higher upon exposure to a single light versus three producing equivalent illuminance.
+    Conversely, higher background light levels led to reductions in both flight-to-light
+    and tortuosity, but moths were also less likely to take flight in these conditions,
+    suggesting that both point sources and diffuse background lighting disrupt moth
+    movement. Finally, moths caught using light traps were less likely to fly and,
+    if they did, more likely to fly towards light sources than those caught with butterfly
+    nets. These findings suggest mitigation policies for light pollution should prioritize
+    reducing light intensity, and point to new directions for future research.
+  date: '2026-04-18'
+  xml: https:/www.biorxiv.org/content/early/2026/04/18/2026.04.15.718644.source.xml
+- title: Simulating Multi-Colour Single-Molecule Localisation Microscopy Using an
+    RGB Camera
+  categories:
+  - biophysics
+  - new results
+  license: CC BY
+  author:
+  - Danial, J.
+  - Kelly, A.
+  path: https://doi.org/10.64898/2026.04.15.718692
+  description: High-order multiplexing in single-molecule localisation microscopy
+    (SMLM) is limited by trade-offs between spectral discrimination, imaging speed,
+    and experimental complexity. Here, we show that RGB cameras provide a simple and
+    scalable solution for multi-colour SMLM by exploiting their intrinsic spectral
+    sensitivity for statistical fluorophore discrimination. Using a realistic simulation
+    framework incorporating experimentally derived photon budgets, optical response
+    functions, and camera noise, we achieve simultaneous classification of up to six
+    fluorophores with a mean precision of ~98%, including perfect discrimination of
+    spectrally overlapping dye pairs, while maintaining an average localisation precision
+    of ~3.2 nm. Performance remains robust to variations in classification thresholds
+    but degrades with increasing fluorophore number and reduced photon budgets due
+    to spectral overlap and photon noise. These results establish RGB detection as
+    a cost-effective and experimentally straightforward alternative to conventional
+    spectral imaging approaches, enabling accessible, high-throughput multiplexed
+    super-resolution imaging.
+  date: '2026-04-18'
+  xml: https:/www.biorxiv.org/content/early/2026/04/18/2026.04.15.718692.source.xml
 - title: Are you represented? Subjective vs objective skin color determination for
     healthcare and research purposes.
   categories:
